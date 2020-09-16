@@ -1,0 +1,21 @@
+preposition,occurrences,meaning1,meaning2,meaning3,meaning4,meaning5,meaning6,meaning7,meaning8,meaning9,meaning10,meaning11,meaning12,meaning13
+in,21981,Spatial,Temporal,Modal,Konditional,Bezugspunkt,Indikator,Stellungnahme,Substitution,Zustand,Regierter Gebrauch,Systematische Mehrfachannotation
+von,9704,Spatial,Bezugspunkt,Temporal,Modal,Teil-von/Mereologisch,Komparativ,Zuordnung,Agens,Vorgang
+mit,7205,Temporal,Modal,Konditional,Abhängigkeit,Agens,Beteiligung,Bezugspunkt,Indikator,Korrespondenz,Realisation,Restriktiv (inklusiv/exklusiv),Stellungnahme,Vorgang
+zu,6537,Spatial,Ziel,Vorgang,Zuordnung,Bezugspunkt,Temporal,Modal,Maßangabe
+auf,6406,Spatial,Temporal,Modal,Konditional,Distributiv,Markieren einer Grenze,Thema,Ziel,Zuordnung,Regierter Gebrauch
+an,6258,Spatial,Temporal,Modal,Bezugspunkt,Teil-von/Mereologisch,Ziel,Zuordnung,Regierter Gebrauch
+für,5972,Temporal,Konditional,Adversativ/Pro & Contra,Bestimmung,Distributiv,Komparativ,Restriktiv (inklusiv/exklusiv),Substitution,Thema,Ziel,Zuständigkeit,Regierter Gebrauch
+als,3908,Temporal,Komparativ,Quantitätsdifferenz,Zuständigkeit,Konditional
+aus,3809,Spatial,Bezugspunkt,Temporal,Quelle,Zuordnung,Zustand
+nach,3302,Spatial,Temporal,Konditional,Entsprechung/Übereinstimmung,Quelle,Rangfolge,Stellungnahme,Regierter Gebrauch,Systematische Mehrfachannotation
+bei,3155,Spatial,Temporal,Modal,Konditional,Abhängigkeit,Bezugspunkt,Indikator,Markieren einer Grenze,Ziel,Zuordnung,Regierter Gebrauch,Systematische Mehrfachannotation
+vor,2518,Spatial,Temporal,Konditional,Adversativ/Pro & Contra,Bezugspunkt,Rangfolge,Regierter Gebrauch
+über,2323,Spatial,Temporal,Modal,Konditional,Bezugspunkt,Machtverhältnis,Maßangabe,Rangfolge,Thema,Über-/Unterschreitung,Zuordnung,Regierter Gebrauch,Systematische Mehrfachannotation
+wie,1686,Modal,Komparativ
+um,1657,Spatial,Temporal,Konditional,Bezugspunkt,Quantitätsdifferenz,Thema,Regierter Gebrauch
+gegen,1532,Spatial,Temporal,Adversativ/Pro & Contra,Komparativ,Korrespondenz,Substitution,Ziel,Regierter Gebrauch
+durch,1454,Spatial,Modal,Konditional,Agens,Substitution,Regierter Gebrauch,Systematische Mehrfachannotation
+unter,1214,Spatial,Temporal,Modal,Konditional,Beteiligung,Machtverhältnis,Über-/Unterschreitung,Zuordnung,Zustand,Regierter Gebrauch
+bis,945,Temporal,Bezugspunkt,Restriktiv (inklusiv/exklusiv),Markieren einer Grenze
+seit,906,Temporal,Bezugspunkt,Restriktiv (inklusiv/exklusiv),Markieren einer Grenze
