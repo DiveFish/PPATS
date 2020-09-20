@@ -558,6 +558,10 @@
         ]
     },
     "Ziel": {
+        "in": [
+            "Er ging in den Leuchtturm.",
+            "Der Mann steckte das Bonbon in seinen Mund."
+        ],
         "zu": [
             "Er ging zum Leuchtturm.",
             "Er führte seine Hand zu ihrer Stirn, um die Temperatur zu fühlen."
@@ -581,6 +585,10 @@
         "gegen": [
             "Gegen Ende des Films fing sie an sich zu langweilig.",
             "Gegen 14 Uhr sollte der Spuk vorbei sein."
+        ],
+        "nach": [
+            "Er fuhr nach Mexiko.",
+            "Das Auto ist auf dem Weg nach Berlin."
         ]
     },
     "Maßangabe": {
