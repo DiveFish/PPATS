@@ -1,13 +1,3 @@
-"""
-Use this script in the following way:
-
->> python3 reverse_prep2meaning.py input_file.csv output_file.csv
-
-The arguments "input_file.csv" and "output_file.csv" must be changed according
-to the file names you have.
-"""
-
-
 import argparse
 import csv
 
@@ -61,8 +51,15 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("in_file", type=str)
-    parser.add_argument("out_file", type=str)
+    parser.add_argument(
+        "in_file",
+        type=str,
+        help="The input file must be in CSV format. "
+        "The file prep2meaning.csv serves as example.",
+    )
+    parser.add_argument(
+        "out_file", type=str, help="The output file must be in CSV format."
+    )
 
     args = parser.parse_args()
 

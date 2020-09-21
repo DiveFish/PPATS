@@ -1,14 +1,3 @@
-"""
-Use this script in the following way:
-
->> python3 prepare_example_file.py meaning2prep.csv output_file.json
-
-The arguments "meaning2prep.csv" and "output_file.json" can be changed according
-to the file names you have.
-
-The input file must be in meaning2prep CSV format.
-"""
-
 import argparse
 import csv
 import json
@@ -31,8 +20,8 @@ def create_example_template(in_file, out_file):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("in_file", type=str)
-    parser.add_argument("out_file", type=str)
+    parser.add_argument("in_file", type=str, help="The input file must be in CSV format.")
+    parser.add_argument("out_file", type=str, help="The output file name must have the extension '.json'.")
 
     args = parser.parse_args()
 
