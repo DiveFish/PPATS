@@ -1,0 +1,740 @@
+{
+    "Spatial": {
+        "in": [
+            "Hans ist in der Kantine .",
+            "Da ist ein Riss in der Leiter ."
+        ],
+        "von": [
+            "Von Norden weht ein starker Wind .",
+            "Von Stuttgart fuhr der Zug ein ."
+        ],
+        "zu": [
+            "Der Vogel flog zum Turm .",
+            "Sie gingen zur Feier ."
+        ],
+        "auf": [
+            "Er steht auf der Wiese .",
+            "Es lag auf der Baustelle vergraben ."
+        ],
+        "an": [
+            "Der Schriftzug steht an der Wand .",
+            "Das Logo klebt an dem Rechner ."
+        ],
+        "aus": [
+            "Der Maulwurf kroch aus der Erde .",
+            "Das Wasser sprudelte aus dem Felsen ."
+        ],
+        "nach": [
+            "Nach der Kapelle kommen die Felsen .",
+            "Nur wenige Meter nach der Ausfahrt steht ein Schild ."
+        ],
+        "bei": [
+            "Sie liegt ganz nah bei ihm .",
+            "Die Lämmer stehen dicht bei der Mutter ."
+        ],
+        "vor": [
+            "Er steht vor dem Haus .",
+            "Er stellt das Fahrrad vor die Garage ."
+        ],
+        "über": [
+            "Die Tapete klebt über dem Putz .",
+            "Das Flugzeug schwebt über den Wolken ."
+        ],
+        "um": [
+            "Er läuft um den Block .",
+            "Die Stühle stehen um den Baum ."
+        ],
+        "gegen": [
+            "Der Ball prallt gegen die Wand .",
+            "Die Leiter lehnt gegen die Wand ."
+        ],
+        "durch": [
+            "Sie geht durch den Wald nach Hause .",
+            "Der Weg führt zur Hütte ."
+        ],
+        "unter": [
+            "Der Tresor ist unter dem Bild .",
+            "Der Tisch verschwindet unter der Decke ."
+        ]
+    },
+    "Temporal": {
+        "in": [
+            "In 45 Minuten kommt der Bus .",
+            "Im folgenden Monat wird die erste Rate fällig ."
+        ],
+        "von": [
+            "Er spielte von der 60. Minute an .",
+            "Von 13 bis 16 Uhr war das Frühstücksbuffet eröffnet ."
+        ],
+        "mit": [
+            "Mit dem heutigen Tag scheidet der Präsident aus dem Amt aus .",
+            "Mit Beginn der Sommerzeit muss die Uhr umgestellt werden ."
+        ],
+        "zu": [
+            "Er bestellte das Essen zu 19 Uhr .",
+            "Zu besagter Zeit wurde das Sofa geliefert ."
+        ],
+        "auf": [
+            "Auf dem Kongress sprachen mehrere ausländische Kollegen .",
+            "Auf der Wanderung sahen sie verschiedene Wildtiere ."
+        ],
+        "an": [
+            "An besagtem Tag passierte es .",
+            "Er ging an einem Regentag spazieren ."
+        ],
+        "für": [
+            "Das Treffen ist für Dienstag angesetzt .",
+            "Sie haben sich für Montag verabredet ."
+        ],
+        "als": [
+            "Als er noch 20 war, ging alles einfacher .",
+            "Er kam, als es bereits zu spät war ."
+        ],
+        "aus": [
+            "Dies ist ein Werk aus dem Jahre 1750 .",
+            "Er kommt aus einer anderen Zeit ."
+        ],
+        "nach": [
+            "Nach einer Stunde war die Chance vertan .",
+            "Er kam nach kurzer Überlegung zu einem Entschluss ."
+        ],
+        "bei": [
+            "Bei Nacht wirst du dort nichts sehen .",
+            "Bei Einbruch der Dunkelheit musst du fertig sein ."
+        ],
+        "vor": [
+            "Er stand unmittelbar vor seiner Beförderung .",
+            "Vor 13 Jahren wurde dieses Haus errichtet. ."
+        ],
+        "über": [
+            "Über Mittag ist es am heißesten .",
+            "Über die Ferien kannst du dich erholen ."
+        ],
+        "um": [
+            "Komm bitte um 11 Uhr .",
+            "Um 16 Uhr herum sollten alle da sein ."
+        ],
+        "gegen": [
+            "Gegen Ende des Monats ändert sich das Wetter .",
+            "Gegen 13 Uhr macht der Laden zu ."
+        ],
+        "unter": [
+            "Unter der Woche hat sie keine Zeit .",
+            "Unter Karl dem Großen erreichte Frankreich seine größte Blüte ."
+        ],
+        "bis": [
+            "Bis zum Auftakt der Veranstaltung hatte es geregnet .",
+            "Er hatte die Position bis zum Sommer inne ."
+        ],
+        "seit": [
+            "Seit Ostern blühen die Krokusse .",
+            "Sie sind seit 20 Jahren verheiratet ."
+        ]
+    },
+    "Modal": {
+        "in": [
+            "Sie sind in einem Flugzeug nach Italien geflogen .",
+            "In einem Auto machten Sie sich auf den Weg Richtung Meer ."
+        ],
+        "von": [
+            "Die Toilette reinigt sich von selbst .",
+            "Der Pullover ist von Hand gestrickt ."
+        ],
+        "mit": [
+            "Sie schrieb den Artikel mit der Schreibmaschine .",
+            "Das Haus erbaute er mit den eigenen Händen ."
+        ],
+        "zu": [
+            "Er erledigte alles zu seiner Zufriedenheit .",
+            "Das Grundstück wurde zu einem Wucherpreis verkauft ."
+        ],
+        "auf": [
+            "Auf dem Motorrad ist man schneller als im Auto .",
+            "Er tippte den Text auf seinem Computer ."
+        ],
+        "an": [
+            "Sie konnte sich nur mühsam an Krücken fortbewegen .",
+            "Sie müssen ihr Ticket an einem der Automaten lösen ."
+        ],
+        "bei": [
+            "Auch bei Schneesturm muss er die Post verteilen .",
+            "Bei eigenem Aufschlag ist er am stärksten ."
+        ],
+        "über": [
+            "Über bestimmte Wellenfrequenzen wird die Information übertragen .",
+            "Das Wasser wird über eine spezielle Pumpvorrichtung in den See eingespeist ."
+        ],
+        "wie": [
+            "Ich weiß nicht, wie es dazu kam .",
+            "Es ist unklar, wie er das fertig gebracht hat ."
+        ],
+        "durch": [
+            "Die Antilope wurde durch den Hieb des Raubtiers zu Fall gebracht .",
+            "Durch seine imposante Statur war es ihm möglich, den Tisch allein zu transportieren ."
+        ],
+        "unter": [
+            "Sie können mich unter meiner privaten Telefonnummer erreichen .",
+            "Unter Tränen erzählte das Kind, was geschehen war ."
+        ]
+    },
+    "Konditional": {
+        "in": [
+            "In seiner Uniform sah er ganz anders aus .",
+            "In diesen Schuhen konnte man nicht laufen ."
+        ],
+        "mit": [
+            "Er lag mit einer Blinddarmentzündung im Bett .",
+            "Der Athlet war mit dem Bruch des Sprunggelenks ausgeschieden ."
+        ],
+        "auf": [
+            "Sie tranken auf das Wohl des Königs .",
+            "Das Produkt wird nicht mehr auf Vorrat produziert ."
+        ],
+        "für": [
+            "Sie hatte die Wanderschuhe für den Urlaub gekauft .",
+            "Er lebt für seine Arbeit ."
+        ],
+        "als": [
+            "Ich werde kommen, insofern als ich dazu imstande bin .",
+            "Insofern als du an eine Rückkehr glaubst, hast du dich gründliche geirrt ."
+        ],
+        "nach": [
+            "Der Fisch schnappte nach dem Köder .",
+            "Der Kranke rief nach einem Arzt ."
+        ],
+        "bei": [
+            "Bei deinen Augen brauchst du keine Brille .",
+            "Bei dieser Fülle an Bäumen sehe ich keine Sonne ."
+        ],
+        "vor": [
+            "Der Mann zitterte vor Furcht .",
+            "Sie strotzte nur so vor Selbstbewusstsein ."
+        ],
+        "über": [
+            "Die Verärgerung über die ungleiche Behandlung war ihm anzusehen .",
+            "Der Unmut über die Niederlage machte sich im Interview bemerkbar ."
+        ],
+        "um": [
+            "Er bat um Hilfe .",
+            "Das Amt bittet um schriftliche Anmeldung ."
+        ],
+        "durch": [
+            "Es gab Verwüstungen durch einen Tornado .",
+            "Das Feuer wurde durch eine Kerze entfacht ."
+        ],
+        "unter": [
+            "Unter der Last war der Esel zusammengebrochen .",
+            "Er litt unter einer Depression ."
+        ]
+    },
+    "Bezugspunkt": {
+        "in": [
+            "In der Krankenversicherung wurde ein leichter Rückgang verbucht .",
+            "Beide Themenbereiche werden noch heute in Komposition vermittelt ."
+        ],
+        "von": [
+            "Von der Plattform aus war alles zu sehen .",
+            "Von Anfang an betrachtet, musste man ihm Recht geben ."
+        ],
+        "mit": [
+            "Schwerer tat man sich dagegen mit der Zielsetzung der Vollständigkeit .",
+            "Mit diesem Schlagwort wusste niemand etwas anzufangen ."
+        ],
+        "zu": [
+            "Sie setzte sich zu ebener Erde .",
+            "Die Leute saßen zu Tisch ."
+        ],
+        "an": [
+            "Sie hatte kein Interesse an ihm .",
+            "Die Kritik prallte an ihm ab ."
+        ],
+        "aus": [
+            "Aus der Sternwarte gesehen, hatte der Mond eine andere Erscheinung .",
+            "Aus der Ferne erschien er größer als von Nahem ."
+        ],
+        "bei": [
+            "Bei Erledigung aller Formalitäten können Sie noch heute ins Auto steigen .",
+            "Bei klarer Definition der Bedinungen könnte eine Einigung Zustande kommen ."
+        ],
+        "vor": [
+            "Der Politiker stand vor einem gewaltigen Pensum .",
+            "Nun befand er sich vor einer komplett neuen Ausgangslage ."
+        ],
+        "über": [
+            "Über die Auslieferung wurde er erst sehr spät informiert .",
+            "Es gab lange keine Einigung über die Koalition ."
+        ],
+        "um": [
+            "Es steht nicht allzu gut um ihn .",
+            "Das ist ein Roman um Freund und die Psychoanalyse ."
+        ],
+        "bis": [
+            "Bis 1945 wütete der Krieg .",
+            "Bis in die Wüste reichte die Stadt ."
+        ],
+        "seit": [
+            "Seit Beginn der Aufzeichnung hatte niemand gesprochen .",
+            "Er war laut geworden, seit die ersten Beleidigungen auf ihn eingeprasselt waren ."
+        ]
+    },
+    "Indikator": {
+        "in": [
+            "In der starken Zunahme der Population ließ sich der Wohlstand erkennen .",
+            "Man sah im Funkeln seiner Augen, dass seine Motivation zurückgekehrt war ."
+        ],
+        "mit": [
+            "Mit einer Quote von 20% blieb der Landkreis einer der am schlimmsten betroffenen .",
+            "Es wurde mit der extremen Zunahme deutlich, dass dieses Problem nicht über Nacht gelöst werden würde ."
+        ],
+        "bei": [
+            "Der starke impressionistische Einfluss zeigte sich vor allem bei der Wahl der Farben .",
+            "Die Qualität zeigte sich vor allem bei der Ausarbeitung des Armbands ."
+        ]
+    },
+    "Stellungnahme": {
+        "in": [
+            "In Wirklichkeit war er krank .",
+            "In Wahrheit änderte der Vorschlag nichts ."
+        ],
+        "mit": [
+            "Mit größter Sicherheit ist der Betrieb aufgehalten worden .",
+            "Mit hoher Wahrscheinlichkeit wird es anders kommen ."
+        ],
+        "nach": [
+            "Meiner Meinung nach stimmt das nicht .",
+            "Nach menschlichem Ermessen sollte das nicht getan werden ."
+        ]
+    },
+    "Substitution": {
+        "in": [
+            "Der Betrag wurde in Pfund eingetauscht .",
+            "Sie verstand es, soziales Kapital in Geld umzuwandeln ."
+        ],
+        "für": [
+            "Für sein Auto bekam er nur wenig Geld .",
+            "Sie springt für die kranke Kollegin ein ."
+        ],
+        "gegen": [
+            "Gegen eine kleine Spende dürfen Sie das Karussel benutzen .",
+            "Wir tauschen den Kleinwagen gegen einen Kleinbus ein ."
+        ],
+        "durch": [
+            "Die Bahn wurde durch einen Schienenersatzverkehr ersetzt .",
+            "Durch gemeinnützige Arbeit entging er einer Haftstrafe ."
+        ]
+    },
+    "Zustand": {
+        "in": [
+            "Er unterzeichnete den Vertrag in Stellvertretung .",
+            "Der Mann saß wegen mehrere Delikte in Strafuntersuchung ."
+        ],
+        "aus": [
+            "Die Bank besteht aus Holz .",
+            "Er duckte sich aus Angst ."
+        ],
+        "unter": [
+            "Unter solch prekären Umständen ist es nicht möglich, eine Aussage zu treffen .",
+            "Belgien befand sich während des zweiten Weltkriegs unter deutscher Besatzung ."
+        ]
+    },
+    "Regierter Gebrauch": {
+        "in": [
+            "In mancherlei Hinsicht sollte man das Programm verändern .",
+            "Er verliebte sich in das Spiel der Glocken ."
+        ],
+        "auf": [
+            "Achten Sie auf die schnellen Bewegungen des Tiers .",
+            "Zum wiederholten Male spielte er auf seine Unfähigkeit an ."
+        ],
+        "an": [
+            "Der Kanzler trat sein Amt an den Nachfolger ab .",
+            "Er belustigte sich an sich selbst ."
+        ],
+        "für": [
+            "Die Frau arbeitet für die Bank .",
+            "So viel Geld möchte ich nicht für den Urlaub ausgeben ."
+        ],
+        "nach": [
+            "Es dürstet uns nach Anerkannung .",
+            "Viele suchen nach dem Sinn des Lebens ."
+        ],
+        "bei": [
+            "Er rief bei seinem Vater an .",
+            "Bei den Vereinsmitgliedern war der Spieler äußerst beliebt ."
+        ],
+        "vor": [
+            "Wir beschützen uns gegenseitig vor dem Erfrieren .",
+            "Er blamierte sich vor seiner Lehrerin ."
+        ],
+        "über": [
+            "Das Kind ärgerte sich über seine Freundin .",
+            "Er freute sich riesig über die Geburtstagstorte ."
+        ],
+        "um": [
+            "Manche ängstigen sich um ihre Position .",
+            "Er flehte um Vergebung ."
+        ],
+        "gegen": [
+            "Er war gegen jegliche Form von Kälte abgehärtet .",
+            "Man sollte sich gegen derartiges Verhalten aussprechen ."
+        ],
+        "durch": [
+            "Durch nichts waren sie zu begeistern .",
+            "Er wurde durch die Aussage des Zeugen stark belastet ."
+        ],
+        "unter": [
+            "Der Tisch ächzte unter dem Gewicht des Weinfasses .",
+            "Dann fiel das wichtigste Thema einfach unter den Tisch ."
+        ]
+    },
+    "Systematische Mehrfachannotation": {
+        "in": [
+            "Sie sind in einem Privatflugzeug nach Sizilien geflogen .",
+            "In einem restaurierten Flugzeug flog sie einmal um die Welt ."
+        ],
+        "nach": [
+            "Es gab eine Feuer nach Blitzeinschlag in Hameln .",
+            "Nach dem Misstrauensvotum des Parlaments musste die Regierung abtreten ."
+        ],
+        "bei": [
+            "Bei diesem Vergleich treten die Unterschiede hervor .",
+            "Er ist am Montag bei einem Verkehrsunfall verletzt worden ."
+        ],
+        "über": [
+            "Während der Untersuchung stolperte er über einen Mordfall .",
+            "Über einen solch großen Wortschatz verfügt sonst niemand ."
+        ],
+        "durch": [
+            "Der Satz wird auch durch Wiederholung nicht wahrer .",
+            "Durch systematische Auswertung können wir jeden Fehler finden ."
+        ]
+    },
+    "Teil-von/Mereologisch": {
+        "von": [
+            "Einer von euch muss es gewesen sein .",
+            "Mir gefällt keins von den Bildern ."
+        ],
+        "an": [
+            "Wir alle haben zehn Finger an den Händen .",
+            "Wie gewöhnlich befinden sich vier Beine am Tisch ."
+        ]
+    },
+    "Komparativ": {
+        "von": [
+            "Er war ein Baum von einem Mann .",
+            "Dies ist ein Wunderwerk von Brücke ."
+        ],
+        "für": [
+            "Für den Preis ist der Stoff zu schlecht .",
+            "Es war eigentlich zu kalt für die Jahreszeit ."
+        ],
+        "als": [
+            "Der Elefant ist größer als die Maus .",
+            "Allen wussten, dass das Sofa teurer gewesen war als die Kommode ."
+        ],
+        "wie": [
+            "Sie wirkte wie versteinert .",
+            "Er landete geschmeidig wie eine Raubkatze ."
+        ],
+        "gegen": [
+            "Gegen einen modernen Taschenrechner war sein Kopf nichts .",
+            "Gegen ihre Schwester wirkt sie klein ."
+        ]
+    },
+    "Zuordnung": {
+        "von": [
+            "Das ist der König von Schweden .",
+            "Sie ist Mutter von vier Söhnen ."
+        ],
+        "zu": [
+            "Zu dem Essen gab es einen trockenen Wein .",
+            "Das Brot passt nicht zu der Suppe ."
+        ],
+        "auf": [
+            "Auf deutscher Seite waren die Verhandlungen gut gelaufen .",
+            "Rund 90 Prozent entfallen auf den staatlichen Sektor ."
+        ],
+        "an": [
+            "Seine Geschicklichkeit grenzte zeitweise an Zauberei .",
+            "Er hat großen Anteil am Mannschaftserfolg ."
+        ],
+        "aus": [
+            "Gebürtig ist sie aus Hamburg .",
+            "Das Werk stammt aus dem Jahr 1900 ."
+        ],
+        "bei": [
+            "Bei der Krankenversicherungen gibt es drastische Sparmaßnahmen .",
+            "Die Höchstsätze der Umsatzsteuer erschienen ihm horrend ."
+        ],
+        "über": [
+            "Über dem ganzen Drama schwebte der Geist des Königs .",
+            "Das Motto 'Gesundheit' steht über der ganzen Woche ."
+        ],
+        "unter": [
+            "Unter der Dachorganisation befinden sich vielzählige Vereine .",
+            "Die Woche steht unter einem bestimmten Motto ."
+        ]
+    },
+    "Agens": {
+        "von": [
+            "Sie hatte einen Teufel von einem Vorgesetzten .",
+            "Es war ein wahres Wunderwerk von Brücke ."
+        ],
+        "mit": [
+            "Die Musikszene ist diesmal mit einem exzellenten Trompeter gut repäsentiert .",
+            "Mit einem Bodyguard wie diesem konnte man von personifizierter Sicherheit sprechen ."
+        ],
+        "durch": [
+            "Die Probleme wurden durch den starken Gegner gnadenlos aufgedeckt .",
+            "Sie wurde vor Gericht durch den eigenen Bruder belastet ."
+        ]
+    },
+    "Vorgang": {
+        "von": [
+            "Er warf allen Ballast von sich .",
+            "Sie wischte sich den Schweiß von der Stirn ."
+        ],
+        "mit": [
+            "Die Ferien begannen mit dem heißesten Tag des Jahres .",
+            "Mit diesem Aufmarsch eröffnet die Gala ."
+        ],
+        "zu": [
+            "Er schlug das Eiweiß zu Schaum .",
+            "Das Obst wurde zu Schnaps verarbeitet ."
+        ]
+    },
+    "Abhängigkeit": {
+        "mit": [
+            "Mit wachsender Zahl wird die Spezies unberechenbarer .",
+            "Mit Abnahme der Kandidatenanzahl sank auch die Anstrengungsbereitschaft ."
+        ],
+        "bei": [
+            "Bei besserem Ertrag wird die Planung einfacher sein .",
+            "Bei Erhöhung der Zinsen werden weniger Kredite aufgenommen ."
+        ]
+    },
+    "Beteiligung": {
+        "mit": [
+            "Der Zug entgleiste nach einer Kollision mit einer Kuh .",
+            "Das Abkommen bestand mit der bayerischen Landesbank ."
+        ],
+        "unter": [
+            "Es gab Streit unter den Erben .",
+            "Sie teilten die Beute unter sich auf ."
+        ]
+    },
+    "Korrespondenz": {
+        "mit": [
+            "Alle schwimmen mit dem Strom .",
+            "Erstaunlicherweise ging kaum jemand mit dem Trend ."
+        ],
+        "gegen": [
+            "Sie strebten sich gegen den Trend .",
+            "Sie stemmte sich gegen den stärker werdenden Abwärtsstrudel und widerstand ihm ."
+        ]
+    },
+    "Realisation": {
+        "mit": [
+            "Mit dem geplanten Treppenhaus lässt sich der vorgeschriebene Fluchtweg verwirklichen .",
+            "Mit der Insolvenz der umsatzstärksten Firma erreichte die Wirtschaftskrise ihren Höhepunkt ."
+        ]
+    },
+    "Restriktiv (inklusiv/exklusiv)": {
+        "mit": [
+            "Mit mir waren es 8 Gäste .",
+            "Die Miete beträgt 600 mit Nebenkosten ."
+        ],
+        "für": [
+            "Saures Gras ist für Kühe nicht genießbar .",
+            "Seine Krankheit war für den Arzt neu ."
+        ],
+        "bis": [
+            "Bis zur Grenze kamen sie, jedoch nicht weiter .",
+            "Bis zum zehnten Teilnehmer wurden alle mitgenommen ."
+        ],
+        "seit": [
+            "Erst seit dem letzten Jahr war die Gesetzeslage eindeutig .",
+            "Seit der letzten Lichtung hatten sie keinen Sonnenstrahl mehr gesehen ."
+        ]
+    },
+    "Ziel": {
+        "in": [
+            "Er ging in den Leuchtturm .",
+            "Der Mann steckte das Bonbon in seinen Mund ."
+        ],
+        "zu": [
+            "Er ging zum Leuchtturm .",
+            "Er führte seine Hand zu ihrer Stirn, um die Temperatur zu fühlen ."
+        ],
+        "auf": [
+            "Es gab einen Überfall auf die Kasere .",
+            "Der Anschlag auf den Präsidenten wurde von keinem der Geheimdienste vorhergesehen ."
+        ],
+        "an": [
+            "Es ist ein Geschenk an den Manager .",
+            "Der Antrag geht an die Generalversammlung ."
+        ],
+        "für": [
+            "Es war kein guter Tag für den jungen Anwalt .",
+            "Der Erfolgsdruck für die Arbeitsgruppe war mit Händen zu greifen ."
+        ],
+        "bei": [
+            "Bei der Besatzung löste das Unwetter Unbehagen aus .",
+            "Die Aussage hinterließ einen schlechten Eindruck bei dem Geschäftspartner ."
+        ],
+        "gegen": [
+            "Gegen Ende des Films fing sie an sich zu langweilig .",
+            "Gegen 14 Uhr sollte der Spuk vorbei sein ."
+        ],
+        "nach": [
+            "Er fuhr nach Mexiko .",
+            "Das Auto ist auf dem Weg nach Berlin ."
+        ]
+    },
+    "Maßangabe": {
+        "zu": [
+            "Sie versuchten es zu zweit .",
+            "Der Kuchen war bereits zu einem Drittel vertilgt ."
+        ],
+        "über": [
+            "Ihm wurde ein Scheck über 2 Millionen ausgestellt .",
+            "Sie unterzeichnete ein Abkommen über den gleichen Betrag wie beim letzten Mal ."
+        ]
+    },
+    "Distributiv": {
+        "auf": [
+            "Auf ein Kilo Mehl muss man einen halben Liter Milch rechnen .",
+            "Auf einen Arzt kommen 30.000 Bürger ."
+        ],
+        "für": [
+            "Ich habe zwei Konzertkarten für 30€ genommen .",
+            "Für zwanzig Säcke Weizen tauschte er sein liebstes Kamel ein ."
+        ]
+    },
+    "Markieren einer Grenze": {
+        "auf": [
+            "Der Euro befindet sich momentan auf Tiefststand .",
+            "Der Preis soll auf 40€ gehoben werden ."
+        ],
+        "bei": [
+            "Die Temperatur war bei 30 Grad angelangt .",
+            "Bei 100 km/h verlor er die Kontrolle ."
+        ],
+        "bis": [
+            "Bis zum 40. Lebensjahr musste er keine Vorsorgeuntersuchung machen .",
+            "Bis zur Landesgrenze haben sie nichts zu befürchten ."
+        ],
+        "seit": [
+            "Seit der Flucht war die Gruppe nicht mehr dieselbe .",
+            "Die Suppe schmeckte nur noch halb so gut, seit klar war, was sich darin befand ."
+        ]
+    },
+    "Thema": {
+        "auf": [
+            "Wir singen ein Loblied auf den Sänger .",
+            "Das ist eine Parodie auf amerikanische Sitcoms ."
+        ],
+        "für": [
+            "Er zeigte ein großes Interesse für spanische Philologie .",
+            "Insbesondere interessierte er sich für Pinguine ."
+        ],
+        "über": [
+            "Das ist ein Essay über Schiller .",
+            "Die Diskussion über die Müllentsorgung am Hafen fand ein unschönes Ende ."
+        ],
+        "um": [
+            "Es geht vorrangig um Veruntreuung von Geldern .",
+            "Die Debatte um biologischen Dünger war äußerst kontrovers geführt worden. ."
+        ]
+    },
+    "Adversativ/Pro & Contra": {
+        "für": [
+            "Er hat für und nicht gegen den Kandidaten gestimmt .",
+            "Alles spricht für seine Theorie ."
+        ],
+        "vor": [
+            "Der rechtliche Schutz vor Enteignung wurde aufgehoben .",
+            "Um die Tiere vor Ansteckung mit Tollwut zu schützen, wurde ein Impfstoff entwickelt ."
+        ],
+        "gegen": [
+            "Er hat gegen das Gesetz verstoßen .",
+            "Niemals wird das Tier gegen seine Artgenossen kämpfen ."
+        ]
+    },
+    "Bestimmung": {
+        "für": [
+            "Es wurde eine Beratungsstelle für Mütter eingerichtet .",
+            "Dieser Bereich ist für körperlich eingeschränkte Menschen vorgesehen ."
+        ]
+    },
+    "Zuständigkeit": {
+        "für": [
+            "Das Zentrum für Gesundheitsbelange ist geschlossen .",
+            "Das ist ein Verein für wohltätige Zwecke ."
+        ],
+        "als": [
+            "Er arbeitet als leitender Arzt .",
+            "Sie fühlte sich als Heldin ."
+        ]
+    },
+    "Quantitätsdifferenz": {
+        "als": [
+            "Es gibt hier mehr Affen als Tiger .",
+            "Der Kirchturm ist nicht höher als der Berg ."
+        ],
+        "um": [
+            "Das Museum wurde um eine weitere Galerie ergänzt .",
+            "Aufgrund der Corona-Krise wurde das Konzert um ein Jahr verschoben ."
+        ]
+    },
+    "Quelle": {
+        "aus": [
+            "Der Zauberer zauberte einen Hasen aus dem Hut .",
+            "Der Junge kommt aus schwierigen Verhältnissen ."
+        ],
+        "nach": [
+            "Nach einem Bericht der Tageszeitung wurde gestern die örtliche Bank ausgeraubt .",
+            "Nach dem Gutachter war der Schaden allenfalls zu ersetzen ."
+        ]
+    },
+    "Entsprechung/Übereinstimmung": {
+        "nach": [
+            "Nach Paragraph 1 war das falsch .",
+            "Der Abend verlief wie im Film ."
+        ]
+    },
+    "Rangfolge": {
+        "nach": [
+            "Nach Goethe ist Schiller der wohl bekannteste deutsche Dichter .",
+            "Nach Berlin ist Hamburg die zweitgrößte Stadt Deutschlands ."
+        ],
+        "vor": [
+            "Im Ranking belegt die Kaffeemaschine Platz 3 vor der Spülmaschine .",
+            "Die italienische Mannschaft qualifizierte sich deutlich vor den zweitplatzierten Deutschen ."
+        ],
+        "über": [
+            "Sie stellte ihre Interessen über die der anderen .",
+            "In der betriebsinternen Hierarchie steht nur die Geschäftsführerin über ihr ."
+        ]
+    },
+    "Machtverhältnis": {
+        "über": [
+            "Er hat die Beherrschung über sein Fahrzeug verloren .",
+            "Er hielt seine schützende Hand über die Schule ."
+        ],
+        "unter": [
+            "Der Kranke stand unter ärztlicher Aufsicht .",
+            "Unter dem neuen Direktor wurde das Betriebsklima besser ."
+        ]
+    },
+    "Über-/Unterschreitung": {
+        "über": [
+            "Das Ergebnis lag über dem erwarteten Durchschnitt .",
+            "Die Ausgaben lagen über dem geplanten Budget ."
+        ],
+        "unter": [
+            "Der Preis ist unter dem Durchschnitt .",
+            "Die Temperatur befindet sich unter dem Gefrierpunkt ."
+        ]
+    }
+}
