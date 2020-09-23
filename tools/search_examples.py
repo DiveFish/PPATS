@@ -1,23 +1,3 @@
-"""
-
-The input file must be in the same JSON format as meaning_examples.json.
-
-Use this script in the following way:
-
-Look for example with specific meaning and preposition:
->> python3 search_examples.py -m Spatial -p in
-
-Look for all examples for one specific meaning:
->> python3 search_examples.py -m Spatial
-
-Look for all examples for one specific preposition:
->> python3 search_examples.py -p in
-
-Change the filename (if necessary):
->> python3 search_examples.py Spatial -p in -f other_file.json
-
-"""
-
 import argparse
 import json
 
@@ -25,12 +5,12 @@ import json
 def get_example(meaning, preposition, meaning_file="material/meaning_examples.json"):
     with open(meaning_file) as ex_file:
         example_dict = json.load(ex_file)
+        print("meaning\tpreposition\texample")
 
         if example_dict.get(meaning):
             if example_dict[meaning].get(preposition):
-                print(meaning + " / " + preposition + "\n")
                 for example in example_dict[meaning][preposition]:
-                    print(example)
+                    print(meaning + "\t" + preposition + "\t" + example)
             else:
                 print("The preposition does not have this meaning or does not exist.")
         else:
@@ -41,13 +21,12 @@ def get_examples_meaning(meaning, meaning_file="material/meaning_examples.json")
     with open(meaning_file) as ex_file:
         example_dict = json.load(ex_file)
 
+    print("meaning\tpreposition\texample")
+
     if example_dict.get(meaning):
-        print("Meaning: " + meaning + "\n")
         for prep, example_list in example_dict[meaning].items():
-            print("[" + prep + "]")
             for example in example_list:
-                print(example)
-            print()
+                print(meaning + "\t" + prep + "\t" + example)
     else:
         print("This meaning does not exist.")
 
@@ -58,15 +37,13 @@ def get_examples_preposition(
     with open(meaning_file) as ex_file:
         example_dict = json.load(ex_file)
 
-    print("Preposition: " + preposition + "\n")
+    print("meaning\tpreposition\texample")
 
     prep_exists = False
     for meaning, prep_dict in example_dict.items():
         if prep_dict.get(preposition):
-            print("[" + meaning + "]")
             for example in prep_dict[preposition]:
-                print(example)
-            print()
+                print(meaning + "\t" + preposition + "\t" + example)
             prep_exists = True
 
     if not prep_exists:
