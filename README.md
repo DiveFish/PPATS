@@ -30,3 +30,6 @@ For data collection the following resources have been used.
 ### Idioms
 
 - https://www.pinterest.com/goranamucic/deutsche-idiome/
+- https://www.schreiben.net/artikel/70-redewendungen-bedeutung-herkunft-1635/
+- https://de.wikiquote.org/wiki/Deutsche_Sprichw%C3%B6rter
+- https://de.wikipedia.org/wiki/Liste_deutscher_Redewendungen
