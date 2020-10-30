@@ -1,6 +1,5 @@
 {
     "subject_verb_pp": [
-        "Alles ist in Butter .",
         "Wir kommen in Teufels Küche .",
         "Der Mann beißt ins Gras .",
         "Sie lebt auf großem Fuß .",
@@ -19,7 +18,6 @@
         "Ihr drückt auf die Tube .",
         "Die beiden stecken unter einer Decke .",
         "Ich bin etwas neben der Kappe .",
-        "Liebe geht durch den Magen .",
         "Wir kamen mit einem blauen Auge davon .",
         "Das trifft den Nagel auf den Kopf .",
         "Da schlackern mir die Ohren .",
@@ -37,8 +35,6 @@
         "Der Student wickelt den Chef um den Finger .",
         "Du spielst mit dem Feuer .",
         "Die ist noch grün hinter den Ohren .",
-        "Alle Wege führen nach Rom .",
-        "Alles Gute kommt von oben .",
         "Sie ist auf Achse .",
         "Der Verlierer beißt in den sauren Apfel .",
         "Sie kämpfen mit harten Bandagen .",
@@ -91,7 +87,6 @@
         "Man soll den Tag nicht vor dem Abend loben .",
         "Die hat dich in der Tasche .",
         "Das Wasser läuft Simba im Mund zusammen .",
-        "Die Augen gehen ihm über .",
         "Der Prüfer schaute ihm auf die Finger .",
         "Ich habe einen Frosch im Hals .",
         "Sie hat mehrere Eisen im Feuer .",
@@ -123,26 +118,21 @@
         "Ich mache mich jetzt auf die Socken .",
         "Du nimmst kein Blatt vor den Mund .",
         "Er bringt seine Garage auf Vordermann .",
-        "Die Spreu trennt sich vom Weizen .",
         "Es brennt mir auf den Nägeln .",
         "Du hast Dreck am Stecken .",
         "Er erwischt sie auf dem falschen Fuß ."
     ],
-    "subject-verb-pp-object": [
-        "Er macht aus einer Mücke einen Elefanten .",
+    "subject-verb-pp-pp": [
+        "Er fiel mit der Tür ins Haus .",
+        "Seine Mutter ging hart ins Gericht mit ihm.",
+        "Er fiel mit der Tür ins Haus .",
         "Einige gehen zum Lachen in den Keller ."
     ],
     "other": [
         "Sie steht wie ein Ochse vor dem Berg .",
-        "Er fiel mit der Tür ins Haus .",
         "Sie sind durch die Bank weg freundlich .",
-        "Hand aufs Herz !",
         "Er ist nah am Wasser gebaut .",
         "Du bist mit allen Wassern gewaschen .",
-        "Der Apfel fällt nicht weit vom Stamm .",
-        "Da liegt der Hase im Pfeffer .",
-        "Auf einem Bein kann man nicht stehen .",
-        "Seine Mutter ging hart ins Gericht mit ihm.",
-        "In der Kürze liegt die Würze ."
+        "Er macht aus einer Mücke einen Elefanten ."     
     ]
 }
