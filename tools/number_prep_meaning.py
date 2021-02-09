@@ -3,7 +3,7 @@ import os
 import sys
 
 
-def num_prep_meaning(dir_name, out_file):
+def num_prep_meaning(dir_name, table_file, prep2mean_topf, mean2prep_topf):
     preps = {}
     meanings = set()
 
@@ -26,7 +26,9 @@ def num_prep_meaning(dir_name, out_file):
 
     meaning_map = {meaning: num for meaning, num in zip(meanings, range(len(meanings)))}
 
-    with open(out_file, "w") as outf:
+    top_num_prep2meaning(preps, prep2mean_topf, mean2prep_topf, )
+
+    with open(table_file, "w") as outf:
         writer = csv.writer(outf, delimiter="\t")
         writer.writerow(["prep"] + list(meaning_map.keys()))
 
@@ -38,8 +40,41 @@ def num_prep_meaning(dir_name, out_file):
             writer.writerow(line_out)
 
 
+def top_num_prep2meaning(preps, prep2mean_topf, mean2prep_topf):
+    with open(prep2mean_topf, "w") as p2mtopf, open(mean2prep_topf, "w") as m2ptopf:
+        p2m_writer = csv.writer(p2mtopf)
+        m2p_writer = csv.writer(m2ptopf)
+
+        meaning_dict = {}
+
+        for prep, meanings in preps.items():
+            # Set up top meanings per preposition.
+            current_line = [prep]
+            top_sorted = sorted(meanings.items(), key=lambda x: x[1], reverse=True)
+            for meaning, num in top_sorted[:5]:
+                current_line.extend([meaning, num])
+
+            for meaning, num in top_sorted:
+                # Set up top prepositions per meanings.
+                if meaning_dict.get(meaning):
+                    meaning_dict[meaning].append((prep, num))
+                else:
+                    meaning_dict[meaning] = [(prep, num)]
+
+            p2m_writer.writerow(current_line)
+
+        for meaning, prep_num_list in meaning_dict.items():
+            current_line = [meaning]
+            top_sorted = sorted(prep_num_list, key=lambda x: x[1], reverse=True)
+            for prep, num in top_sorted:
+                current_line.extend([prep, num])
+            m2p_writer.writerow(current_line)
+
+
 if __name__ == "__main__":
     dir_name = sys.argv[1]
     out_file = sys.argv[2]
+    prep2mean_topf = sys.argv[3]
+    mean2prep_topf = sys.argv[4]
 
-    num_prep_meaning(dir_name, out_file)
+    num_prep_meaning(dir_name, out_file, prep2mean_topf, mean2prep_topf)
