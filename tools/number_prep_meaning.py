@@ -47,12 +47,14 @@ def top_num_prep2meaning(preps, prep2mean_topf, mean2prep_topf):
 
         meaning_dict = {}
 
+        preps = dict(sorted(preps.items(), key=lambda x: x[0]))
+
         for prep, meanings in preps.items():
             # Set up top meanings per preposition.
             current_line = [prep]
             top_sorted = sorted(meanings.items(), key=lambda x: x[1], reverse=True)
             for meaning, num in top_sorted[:5]:
-                current_line.extend([meaning, num])
+                current_line.append((meaning, num))
 
             for meaning, num in top_sorted:
                 # Set up top prepositions per meanings.
@@ -63,11 +65,14 @@ def top_num_prep2meaning(preps, prep2mean_topf, mean2prep_topf):
 
             p2m_writer.writerow(current_line)
 
+        # Sort alphabetically
+        meaning_dict = dict(sorted(meaning_dict.items(), key=lambda x: x[0]))
+
         for meaning, prep_num_list in meaning_dict.items():
             current_line = [meaning]
             top_sorted = sorted(prep_num_list, key=lambda x: x[1], reverse=True)
             for prep, num in top_sorted:
-                current_line.extend([prep, num])
+                current_line.append((prep, num))
             m2p_writer.writerow(current_line)
 
 
