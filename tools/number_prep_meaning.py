@@ -53,6 +53,8 @@ def top_num_prep2meaning(preps, prep2mean_topf, mean2prep_topf):
             # Set up top meanings per preposition.
             current_line = [prep]
             top_sorted = sorted(meanings.items(), key=lambda x: x[1], reverse=True)
+            total_freq = sum(freq for prep, freq in top_sorted)
+            current_line.append(total_freq)
             for meaning, num in top_sorted[:5]:
                 current_line.append((meaning, num))
 
@@ -71,6 +73,8 @@ def top_num_prep2meaning(preps, prep2mean_topf, mean2prep_topf):
         for meaning, prep_num_list in meaning_dict.items():
             current_line = [meaning]
             top_sorted = sorted(prep_num_list, key=lambda x: x[1], reverse=True)
+            total_freq = sum(freq for prep, freq in top_sorted)
+            current_line.append(total_freq)
             for prep, num in top_sorted:
                 current_line.append((prep, num))
             m2p_writer.writerow(current_line)
