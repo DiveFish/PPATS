@@ -1,7 +1,7 @@
 # Filtered LAS for PPs
 
 ## General remarks
-For prepositions, preposition-noun and preposition-order combinations, a minimum frequency of 10 was required to be listed in the statistics. If more than 20 items reached this threshold, only the 20 items with the lowest LAS were included.
+For prepositions, preposition-noun and preposition-order combinations, a minimum frequency of 10 was required to be listed in the statistics. If more than 20 items reached this threshold, only the 20 items with the lowest LAS were included. Attachment scores represent results from the `dpar` baseline parser compared to the gold standard.
 
 ## Content
 * `prep-nmod`: LAS for all prepositions where the PP is in an nmod relation to the (nominal) head
