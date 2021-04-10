@@ -1,64 +1,64 @@
 features    head_distance   prep_position   prep_obj_position   head_pos    relation    sentence
-base-1-head	3	3	5	2	obl	Die Preise steigen um 10 Prozent.
-base-1-head	3	2	4	1	obl	Sie gehen auf die Straße.
-base-1-head	3	3	5	2	obl	Die Wahlbeteiligung liegt bei 80 Prozent.
-base-1-head	2	3	4	2	obl	Die Konferenz kommt zum Schluss.
-base-1-head	3	3	4	2	obl	Sie kommt auf eine Idee.
-base-1-head	2	2	3	1	obl	Er bleibt zu Haus.
-base-1-head	3	2	4	1	obl	Wir antworten auf eine Frage.
-base-1-head	3	3	5	2	obl	Die Vorstellung beginnt um 8 Uhr.
-base-1-head	3	2	4	1	obl	Ihr steht vor der Tür.
-base-1-head	3	2	4	1	obl	Es kommt zu einer Auseinandersetzung.
-base-1-head	2	2	3	1	obl	Sie leben in Berlin.
-base-1-head	3	3	5	2	obl	Die Situation erinnert an einen Konflikt.
-base-1-head	3	2	4	1	obl	Er arbeitet seit einem Jahr.
-base-1-head	2	2	3	1	obl	Es liegt am Boden.
-base-1-head	3	2	4	1	obl	Wir schauen aus dem Fenster.
-base-2-heads
-base-2-heads
-base-2-heads
-base-2-heads
-base-2-heads
-base-2-heads
-base-2-heads
-base-2-heads
-base-2-heads
-base-2-heads
-base-2-heads
-base-2-heads
-base-2-heads
-base-2-heads
-base-2-heads
-base-3-heads
-base-3-heads
-base-3-heads
-base-3-heads
-base-3-heads
-base-3-heads
-base-3-heads
-base-3-heads
-base-3-heads
-base-3-heads
-base-3-heads
-base-3-heads
-base-3-heads
-base-3-heads
-base-3-heads
-base-4-heads
-base-4-heads
-base-4-heads
-base-4-heads
-base-4-heads
-base-4-heads
-base-4-heads
-base-4-heads
-base-4-heads
-base-4-heads
-base-4-heads
-base-4-heads
-base-4-heads
-base-4-heads
-base-4-heads
+base-1-head-candidate	3	3	5	2	obl	Die Preise steigen um 10 Prozent.
+base-1-head-candidate	3	2	4	1	obl	Sie gehen auf die Straße.
+base-1-head-candidate	3	3	5	2	obl	Die Wahlbeteiligung liegt bei 80 Prozent.
+base-1-head-candidate	2	3	4	2	obl	Die Konferenz kommt zum Schluss.
+base-1-head-candidate	3	3	4	2	obl	Sie kommt auf eine Idee.
+base-1-head-candidate	2	2	3	1	obl	Er bleibt zu Haus.
+base-1-head-candidate	3	2	4	1	obl	Wir antworten auf eine Frage.
+base-1-head-candidate	3	3	5	2	obl	Die Vorstellung beginnt um 8 Uhr.
+base-1-head-candidate	3	2	4	1	obl	Ihr steht vor der Tür.
+base-1-head-candidate	3	2	4	1	obl	Es kommt zu einer Auseinandersetzung.
+base-1-head-candidate	2	2	3	1	obl	Sie leben in Berlin.
+base-1-head-candidate	3	3	5	2	obl	Die Situation erinnert an einen Konflikt.
+base-1-head-candidate	3	2	4	1	obl	Er arbeitet seit einem Jahr.
+base-1-head-candidate	2	2	3	1	obl	Es liegt am Boden.
+base-1-head-candidate	3	2	4	1	obl	Wir schauen aus dem Fenster.
+base-2-head-candidates
+base-2-head-candidates
+base-2-head-candidates
+base-2-head-candidates
+base-2-head-candidates
+base-2-head-candidates
+base-2-head-candidates
+base-2-head-candidates
+base-2-head-candidates
+base-2-head-candidates
+base-2-head-candidates
+base-2-head-candidates
+base-2-head-candidates
+base-2-head-candidates
+base-2-head-candidates
+base-3-head-candidates
+base-3-head-candidates
+base-3-head-candidates
+base-3-head-candidates
+base-3-head-candidates
+base-3-head-candidates
+base-3-head-candidates
+base-3-head-candidates
+base-3-head-candidates
+base-3-head-candidates
+base-3-head-candidates
+base-3-head-candidates
+base-3-head-candidates
+base-3-head-candidates
+base-3-head-candidates
+base-4-head-candidates
+base-4-head-candidates
+base-4-head-candidates
+base-4-head-candidates
+base-4-head-candidates
+base-4-head-candidates
+base-4-head-candidates
+base-4-head-candidates
+base-4-head-candidates
+base-4-head-candidates
+base-4-head-candidates
+base-4-head-candidates
+base-4-head-candidates
+base-4-head-candidates
+base-4-head-candidates
 base-prep-noun
 base-prep-noun
 base-prep-noun
