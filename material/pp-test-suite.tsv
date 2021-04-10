@@ -14,21 +14,21 @@ base-1-head-candidate	3	3	5	2	obl	Die Situation erinnert an einen Konflikt.
 base-1-head-candidate	3	2	4	1	obl	Er arbeitet seit einem Jahr.
 base-1-head-candidate	2	2	3	1	obl	Es liegt am Boden.
 base-1-head-candidate	3	2	4	1	obl	Wir schauen aus dem Fenster.
-base-2-head-candidates
-base-2-head-candidates
-base-2-head-candidates
-base-2-head-candidates
-base-2-head-candidates
-base-2-head-candidates
-base-2-head-candidates
-base-2-head-candidates
-base-2-head-candidates
-base-2-head-candidates
-base-2-head-candidates
-base-2-head-candidates
-base-2-head-candidates
-base-2-head-candidates
-base-2-head-candidates
+base-2-head-candidates	4	3	5	1	obl	Ich beschäftige mich mit einem Thema.
+base-2-head-candidates	4	3	5	1	obl	Du beteiligst dich an einer Aktion.
+base-2-head-candidates	4	3	5	1	obl	Sie stellt sich in den Weg.
+base-2-head-candidates	4	3	5	1	obl	Er beteiligt sich an der Wahl.
+base-2-head-candidates	4	3	5	1	obl	Es beläuft sich auf 50 Prozent.
+base-2-head-candidates	3	3	4	1	obl	Wir befinden uns im Raum.
+base-2-head-candidates	4	3	5	1	obl	Ihr setzt euch an den Tisch.
+base-2-head-candidates	4	3	5	1	obl	Es beläuft sich auf eine Million.
+base-2-head-candidates	4	3	5	1	obl	Sie beschäftigen sich mit der Frage.
+base-2-head-candidates	4	3	5	1	obl	Ich mache mich auf die Suche.
+base-2-head-candidates	3	3	4	1	obl	Du kümmerst dich um sie.
+base-2-head-candidates	4	3	5	1	obl	Sein Todestag jährt sich zum 5. Mal.
+base-2-head-candidates	4	3	5	1	obl	Sie stellt sich auf seine Seite.
+base-2-head-candidates	4	3	5	1	obl	Er befindet sich in gutem Zustand.
+base-2-head-candidates	4	3	5	1	obl	Wir erinnern uns an die Zeit.
 base-3-head-candidates
 base-3-head-candidates
 base-3-head-candidates
