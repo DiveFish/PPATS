@@ -1,136 +1,137 @@
 features    head_distance   prep_position   prep_obj_position   head_pos    relation    sentence
-base-1-head-candidate	3	3	5	2	obl	Die Preise steigen um 10 Prozent.
-base-1-head-candidate	3	2	4	1	obl	Sie gehen auf die Straße.
-base-1-head-candidate	3	3	5	2	obl	Die Wahlbeteiligung liegt bei 80 Prozent.
-base-1-head-candidate	2	3	4	2	obl	Die Konferenz kommt zum Schluss.
-base-1-head-candidate	3	3	4	2	obl	Sie kommt auf eine Idee.
-base-1-head-candidate	2	2	3	1	obl	Er bleibt zu Haus.
-base-1-head-candidate	3	2	4	1	obl	Wir antworten auf eine Frage.
-base-1-head-candidate	3	3	5	2	obl	Die Vorstellung beginnt um 8 Uhr.
-base-1-head-candidate	3	2	4	1	obl	Ihr steht vor der Tür.
-base-1-head-candidate	3	2	4	1	obl	Es kommt zu einer Auseinandersetzung.
-base-1-head-candidate	2	2	3	1	obl	Sie leben in Berlin.
-base-1-head-candidate	3	3	5	2	obl	Die Situation erinnert an einen Konflikt.
-base-1-head-candidate	3	2	4	1	obl	Er arbeitet seit einem Jahr.
-base-1-head-candidate	2	2	3	1	obl	Es liegt am Boden.
-base-1-head-candidate	3	2	4	1	obl	Wir schauen aus dem Fenster.
-base-2-head-candidates	4	3	5	1	obl	Ich beschäftige mich mit einem Thema.
-base-2-head-candidates	4	3	5	1	obl	Du beteiligst dich an einer Aktion.
-base-2-head-candidates	4	3	5	1	obl	Sie stellt sich in den Weg.
-base-2-head-candidates	4	3	5	1	obl	Er beteiligt sich an der Wahl.
-base-2-head-candidates	4	3	5	1	obl	Es beläuft sich auf 50 Prozent.
-base-2-head-candidates	3	3	4	1	obl	Wir befinden uns im Raum.
-base-2-head-candidates	4	3	5	1	obl	Ihr setzt euch an den Tisch.
-base-2-head-candidates	4	3	5	1	obl	Es beläuft sich auf eine Million.
-base-2-head-candidates	4	3	5	1	obl	Sie beschäftigen sich mit der Frage.
-base-2-head-candidates	4	3	5	1	obl	Ich mache mich auf die Suche.
-base-2-head-candidates	3	3	4	1	obl	Du kümmerst dich um sie.
-base-2-head-candidates	4	3	5	1	obl	Sein Todestag jährt sich zum 5. Mal.
-base-2-head-candidates	4	3	5	1	obl	Sie stellt sich auf seine Seite.
-base-2-head-candidates	4	3	5	1	obl	Er befindet sich in gutem Zustand.
-base-2-head-candidates	4	3	5	1	obl	Wir erinnern uns an die Zeit.
-base-3-head-candidates
-base-3-head-candidates
-base-3-head-candidates
-base-3-head-candidates
-base-3-head-candidates
-base-3-head-candidates
-base-3-head-candidates
-base-3-head-candidates
-base-3-head-candidates
-base-3-head-candidates
-base-3-head-candidates
-base-3-head-candidates
-base-3-head-candidates
-base-3-head-candidates
-base-3-head-candidates
-base-4-head-candidates
-base-4-head-candidates
-base-4-head-candidates
-base-4-head-candidates
-base-4-head-candidates
-base-4-head-candidates
-base-4-head-candidates
-base-4-head-candidates
-base-4-head-candidates
-base-4-head-candidates
-base-4-head-candidates
-base-4-head-candidates
-base-4-head-candidates
-base-4-head-candidates
-base-4-head-candidates
-base-prep-noun
-base-prep-noun
-base-prep-noun
-base-prep-noun
-base-prep-noun
-base-prep-noun
-base-prep-noun
-base-prep-noun
-base-prep-noun
-base-prep-noun
-base-prep-noun
-base-prep-noun
-base-prep-noun
-base-prep-noun
-base-prep-noun
-base-prep-det-noun
-base-prep-det-noun
-base-prep-det-noun
-base-prep-det-noun
-base-prep-det-noun
-base-prep-det-noun
-base-prep-det-noun
-base-prep-det-noun
-base-prep-det-noun
-base-prep-det-noun
-base-prep-det-noun
-base-prep-det-noun
-base-prep-det-noun
-base-prep-det-noun
-base-prep-det-noun
-base-prep-det-adj-noun
-base-prep-det-adj-noun
-base-prep-det-adj-noun
-base-prep-det-adj-noun
-base-prep-det-adj-noun
-base-prep-det-adj-noun
-base-prep-det-adj-noun
-base-prep-det-adj-noun
-base-prep-det-adj-noun
-base-prep-det-adj-noun
-base-prep-det-adj-noun
-base-prep-det-adj-noun
-base-prep-det-adj-noun
-base-prep-det-adj-noun
-base-prep-det-adj-noun
-base-pp-poss-np
-base-pp-poss-np
-base-pp-poss-np
-base-pp-poss-np
-base-pp-poss-np
-base-pp-poss-np
-base-pp-poss-np
-base-pp-poss-np
-base-pp-poss-np
-base-pp-poss-np
-base-pp-poss-np
-base-pp-poss-np
-base-pp-poss-np
-base-pp-poss-np
-base-pp-poss-np
-base-pp-pp
-base-pp-pp
-base-pp-pp
-base-pp-pp
-base-pp-pp
-base-pp-pp
-base-pp-pp
-base-pp-pp
-base-pp-pp
-base-pp-pp
-base-pp-pp
-base-pp-pp
-base-pp-pp
-base-pp-pp
-base-pp-pp
+base-1headcandidate	3	2	4	1	obl	Es kommt in den Sinn.
+base-1headcandidate	3	2	4	1	obl	Sie gehen auf dem Weg.
+base-1headcandidate	3	2	4	1	obl	Du stehst auf der Bühne.
+base-1headcandidate	3	2	4	1	obl	Sie bleibt in der Bundesrepublik.
+base-1headcandidate	3	2	4	1	obl	Er zeigt auf die Straße.
+base-1headcandidate	3	2	4	1	obl	Es liegt in dem Jahr.
+base-1headcandidate	3	2	4	1	obl	Wir spielen in der Stadt.
+base-1headcandidate	3	2	4	1	obl	Sie sprechen zu dem Thema.
+base-1headcandidate	3	2	4	1	obl	Ihr beginnt in der Nacht.
+base-1headcandidate	3	2	4	1	obl	Ich lebe in dem Haus.
+base-1headcandidate	3	2	4	1	obl	Es gilt in der Woche.
+base-1headcandidate	3	2	4	1	obl	Du schreibst in die Hand.
+base-1headcandidate	3	2	4	1	obl	Sie erscheint in der Welt.
+base-1headcandidate	3	2	4	1	obl	Er glaubt an das Ende.
+base-1headcandidate	3	2	4	1	obl	Sie arbeiten in dem Bereich.
+
+base-2headcandidates	5	4	6	1	obl	Sie hat das Geld in der Hand.
+base-2headcandidates	5	4	6	1	obl	Wir sagen das Wort zu dem Thema.
+base-2headcandidates	5	4	6	1	obl	Du lässt den Mann auf der Straße.
+base-2headcandidates	5	4	6	1	obl	Du siehst die Chance in dem Jahr.
+base-2headcandidates	5	4	6	1	obl	Ihr findet den Platz in der Welt.
+base-2headcandidates	5	4	6	1	obl	Ich zeige das Problem in dem Bereich.
+base-2headcandidates	5	4	6	1	obl	Er hält das Bild in der Hand.
+base-2headcandidates	5	4	6	1	obl	Wir nehmen das Kind auf die Bühne.
+base-2headcandidates	5	4	6	1	obl	Sie führt die Frau an das Ende.
+base-2headcandidates	5	4	6	1	obl	Er bekommt die Chance in dem Jahr.
+base-2headcandidates	5	4	6	1	obl	Er fordert das Recht in der Bundesrepublik.
+base-2headcandidates	5	4	6	1	obl	Ihr schreibt die Geschichte in der Nacht.
+base-2headcandidates	5	4	6	1	obl	Sie wollen die Arbeit in der Stadt.
+base-2headcandidates	5	4	6	1	obl	Sie erhält die Rolle in dem Film.
+base-2headcandidates	5	4	6	1	obl	Ich brauche die Zeit für die Frau.
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
