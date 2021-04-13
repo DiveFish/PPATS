@@ -1,0 +1,137 @@
+features    head_distance   prep_position   prep_obj_position   head_pos    relation    sentence
+base-1headcandidate	3	2	4	1	obl	Sie kommt in den Sinn.
+base-1headcandidate	3	2	4	1	obl	Sie geht auf dem Weg.
+base-1headcandidate	3	2	4	1	obl	Sie steht auf der Bühne.
+base-1headcandidate	3	2	4	1	obl	Sie bleibt in der Bundesrepublik.
+base-1headcandidate	3	2	4	1	obl	Sie zeigt auf die Straße.
+base-1headcandidate	3	2	4	1	obl	Er liegt in dem Haus.
+base-1headcandidate	3	2	4	1	obl	Er spielt in der Stadt.
+base-1headcandidate	3	2	4	1	obl	Er spricht zu dem Thema.
+base-1headcandidate	3	2	4	1	obl	Er beginnt in der Nacht.
+base-1headcandidate	3	2	4	1	obl	Er lebt in dem Jahr.
+base-1headcandidate	3	2	4	1	obl	Sie gelten in der Woche.
+base-1headcandidate	3	2	4	1	obl	Sie schreiben in die Hand.
+base-1headcandidate	3	2	4	1	obl	Sie erscheinen in der Welt.
+base-1headcandidate	3	2	4	1	obl	Sie glauben an das Ende.
+base-1headcandidate	3	2	4	1	obl	Sie arbeiten in dem Bereich.
+
+base-2headcandidates	5	4	6	1	obl	Sie hat das Geld in der Hand.
+base-2headcandidates	5	4	6	1	obl	Sie sagt das Wort zu dem Thema.
+base-2headcandidates	5	4	6	1	obl	Sie lässt den Mann auf der Straße.
+base-2headcandidates	5	4	6	1	obl	Sie sieht den Weg in das Haus.
+base-2headcandidates	5	4	6	1	obl	Sie findet den Platz in der Welt.
+base-2headcandidates	5	4	6	1	obl	Er zeigt das Problem in dem Bereich.
+base-2headcandidates	5	4	6	1	obl	Er hält das Bild in der Hand.
+base-2headcandidates	5	4	6	1	obl	Er nimmt das Kind auf die Bühne.
+base-2headcandidates	5	4	6	1	obl	Er führt die Frau an das Ende.
+base-2headcandidates	5	4	6	1	obl	Er bekommt die Chance in dem Jahr.
+base-2headcandidates	5	4	6	1	obl	Sie fordern das Recht in der Bundesrepublik.
+base-2headcandidates	5	4	6	1	obl	Sie schreiben die Geschichte in der Nacht.
+base-2headcandidates	5	4	6	1	obl	Sie wollen die Arbeit in der Stadt.
+base-2headcandidates	5	4	6	1	obl	Sie erhalten die Rolle in dem Film.
+base-2headcandidates	5	4	6	1	obl	Sie brauchen die Zeit für die Frau.
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-3headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-4headcandidates
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-prepdetadjnoun
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppossnp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp
+base-pppp

@@ -1,0 +1,191 @@
+word-/phrase-type	word/comb	tueba-count
+verb1head	kommen	1379
+verb1head	gehen	1239
+verb1head	stehen	968
+verb1head	bleiben	807
+verb1head	zeigen	571
+verb1head	liegen	516
+verb1head	spielen	442
+verb1head	sprechen	439
+verb1head	beginnen	426
+verb1head	leben	393
+verb1head	gelten	384
+verb1head	schreiben	380
+verb1head	glauben	347
+verb1head	arbeiten	308
+verb1head	erscheinen	220
+verb2heads	haben	2428
+verb2heads	sagen	1618
+verb2heads	lassen	1272
+verb2heads	sehen	917
+verb2heads	finden	662
+verb2heads	zeigen	571
+verb2heads	halten	559
+verb2heads	nehmen	462
+verb2heads	führen	462
+verb2heads	bekommen	386
+verb2heads	fordern	376
+verb2heads	schreiben	380
+verb2heads	wollen	349
+verb2heads	erhalten	313
+verb2heads	brauchen	302
+verb3heads	geben	2428
+verb3heads	zeigen	571
+verb3heads	erklären	560
+verb3heads	bringen	528
+verb3heads	stellen	414
+verb3heads	setzen	333
+verb3heads	nennen	286
+verb3heads	erzählen	274
+verb3heads	berichten	254
+verb3heads	suchen	225
+verb3heads	tragen	221
+verb3heads	einsetzen	174
+verb3heads	bestätigen	166
+verb3heads	legen	232
+verb3heads	verkaufen	150
+reflverb	sich-beschäfigen
+reflverb	sich-beteiligen
+reflverb	sich-belaufen
+reflverb	sich-befinden
+reflverb	sich-setzen
+reflverb	sich-kümmern
+reflverb	sich-jähren
+reflverb	sich-stellen
+reflverb	sich-erinnern
+reflverb
+reflverb
+reflverb
+reflverb
+reflverb
+reflverb
+ppwithdet	in-dem-Jahr	991
+ppwithdet	an-das-Ende	290
+ppwithdet	in-die-Woche	201
+ppwithdet	auf-die-Straße	183
+ppwithdet	in-dem-Fall	173
+ppwithdet	in-der-Stadt	171
+ppwithdet	auf-dem-Weg	152
+ppwithdet	in-das-Haus	147
+ppwithdet	in-den-Sinn	142
+ppwithdet	in-der-Hand	127
+ppwithdet	auf-der-Bühne	124
+ppwithdet	in-der-Nacht	122
+ppwithdet	in-dem-Film	101
+ppwithdet	für-die-Frau	99
+ppwithdet	in-der-Welt	98
+ppwithdet	in-der-Bundesrepublik	95
+ppwithdet	zu-dem-Thema	95
+ppwithdet	in-dem-Bereich	90
+ppwithoutdet	in-Zukunft	113
+ppwithoutdet	zu-Hause	110
+ppwithoutdet	seit-Jahren	109
+ppwithoutdet	zu-Beginn	100
+ppwithoutdet	in-Frage	91
+ppwithoutdet	zu-Ende	88
+ppwithoutdet	nach-Hause	83
+ppwithoutdet	vor-Ort	72
+ppwithoutdet	vor-Kurzem	72
+ppwithoutdet	pro-Jahr	49
+ppwithoutdet	seit-Langem	48
+ppwithoutdet	für-Gerichtigkeit	42
+ppwithoutdet	seit-Wochen	38
+ppwithoutdet	seit-Anfang	38
+ppwithoutdet	aus Angst	36
+ppwithcontrdet	zum-Beispiel	378
+ppwithcontrdet	ans-Ende	279
+ppwithcontrdet	ins-Land	216
+ppwithcontrdet	zur-Zeit	208
+ppwithcontrdet	am-Sonntag	194
+ppwithcontrdet	am-Tag	183
+ppwithcontrdet	am-Wochenende	165
+ppwithcontrdet	zum-Teil	126
+ppwithcontrdet	am-Rand	122
+ppwithcontrdet	im-Westen	119
+ppwithcontrdet	im-Monat	114
+ppwithcontrdet	im-Mai	110
+ppwithcontrdet	im-Raum	104
+ppwithcontrdet	im-Sommer	95
+ppwithcontrdet	ins-Ausland	92
+ppwithdetandadj
+ppwithdetandadj
+ppwithdetandadj
+ppwithdetandadj
+ppwithdetandadj
+ppwithdetandadj
+ppwithdetandadj
+ppwithdetandadj
+ppwithdetandadj
+ppwithdetandadj
+ppwithdetandadj
+ppwithdetandadj
+ppwithdetandadj
+ppwithdetandadj
+ppwithdetandadj
+ppwithcontrdetandadj	zum-letzten-Mal
+ppwithcontrdetandadj	am-ersten-Mai
+ppwithcontrdetandadj
+ppwithcontrdetandadj
+ppwithcontrdetandadj
+ppwithcontrdetandadj
+ppwithcontrdetandadj
+ppwithcontrdetandadj
+ppwithcontrdetandadj
+ppwithcontrdetandadj
+ppwithcontrdetandadj
+ppwithcontrdetandadj
+ppwithcontrdetandadj
+ppwithcontrdetandadj
+ppwithcontrdetandadj
+ppwithcontrdetandadj
+ppwithpossnp	im-Rahmen-des	153
+ppwithpossnp	auf-Seiten-des	115
+ppwithpossnp	nach-Angabe-des	165
+ppwithpossnp	in-Richtung-des	105
+ppwithpossnp	mit-Hilfe-des	96
+ppwithpossnp	in-Sache-des	74
+ppwithpossnp	nach-Ansicht-des	56
+ppwithpossnp	in-Form-des	42
+ppwithpossnp	seit-Beginn-des	39
+ppwithpossnp	seit-Anfang-des	28
+ppwithpossnp	bis-Ende-des	37
+ppwithpossnp	von-Seiten-des	35
+ppwithpossnp	an-Bord-des	33
+ppwithpossnp	auf-Kosten-des	29
+ppwithpossnp	in-Zeiten-des	26
+ppwithpp	im-Gegensatz-zu	94
+ppwithpp	mit-Blick-auf	32
+ppwithpp
+ppwithpp
+ppwithpp
+ppwithpp
+ppwithpp
+ppwithpp
+ppwithpp
+ppwithpp
+ppwithpp
+ppwithpp
+ppwithpp
+ppwithpp
+ppwithpp
+obj	Geld	274
+obj	Million	236
+obj	Frau	234
+obj	Rolle	208
+obj	Chance	197
+obj	Mensch	182
+obj	Platz	180
+obj	Weg	178
+obj	Problem	173
+obj	Leben	170
+obj	Frage	164
+obj	Arbeit	161
+obj	Zeit	155
+obj	Kind	155
+obj	Recht	148
+obj	Interesse	144
+obj	Name	135
+obj	Wort	135
+obj	Bild	134
+obj	Mann	133
+obj	Geschichte	112
