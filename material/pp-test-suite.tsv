@@ -14,7 +14,6 @@ base-1headcandidate	3	2	4	1	obl	Sie schreiben in die Hand.
 base-1headcandidate	3	2	4	1	obl	Sie erscheinen in der Welt.
 base-1headcandidate	3	2	4	1	obl	Sie glauben an das Ende.
 base-1headcandidate	3	2	4	1	obl	Sie arbeiten in dem Bereich.
-
 base-2headcandidates	5	4	6	1	obl	Sie hat das Geld in der Hand.
 base-2headcandidates	5	4	6	1	obl	Sie sagt das Wort zu dem Thema.
 base-2headcandidates	5	4	6	1	obl	Sie lässt den Mann auf der Straße.
@@ -30,21 +29,21 @@ base-2headcandidates	5	4	6	1	obl	Sie schreiben die Geschichte in der Nacht.
 base-2headcandidates	5	4	6	1	obl	Sie wollen die Arbeit in der Stadt.
 base-2headcandidates	5	4	6	1	obl	Sie erhalten die Rolle in dem Film.
 base-2headcandidates	5	4	6	1	obl	Sie brauchen die Zeit für die Frau.
-base-3headcandidates
-base-3headcandidates
-base-3headcandidates
-base-3headcandidates
-base-3headcandidates
-base-3headcandidates
-base-3headcandidates
-base-3headcandidates
-base-3headcandidates
-base-3headcandidates
-base-3headcandidates
-base-3headcandidates
-base-3headcandidates
-base-3headcandidates
-base-3headcandidates
+base-3headcandidates	7	6	8	1	obl	Sie gibt der Frau das Geld in die Hand.
+base-3headcandidates	7	6	8	1	obl	Sie zeigt der Regierung das Problem in der Welt.
+base-3headcandidates	7	6	8	1	obl	Sie erklärt den Leuten das Leben auf der Straße.
+base-3headcandidates	7	6	8	1	obl	Sie bringt dem Herren die Million in das Haus.
+base-3headcandidates	7	6	8	1	obl	Sie stellt dem Kind die Frage zu dem Thema.
+base-3headcandidates	7	6	8	1	obl	Er setzt dem Gegner die Frau auf die Bühne.
+base-3headcandidates	7	6	8	1	obl	Er nennt der Bevölkerung den Namen in dem Film.
+base-3headcandidates	7	6	8	1	obl	Er erzählt der Welt die Geschichte in der Nacht.
+base-3headcandidates	7	6	8	1	obl	Er sucht dem Präsidenten die Chance in dem Bereich.
+base-3headcandidates	7	6	8	1	obl	Er trägt dem Mann das Kind auf dem Weg.
+base-3headcandidates	7	6	8	1	obl	Sie bauen dem Publikum den Platz in dem Jahr.
+base-3headcandidates	7	6	8	1	obl	Sie schicken dem Kollegen das Bild in der Woche.
+base-3headcandidates	7	6	8	1	obl	Sie bestätigen der Partei das Recht in der Bundesrepublik.
+base-3headcandidates	7	6	8	1	obl	Sie legen dem Menschen das Buch auf den Tisch.
+base-3headcandidates	7	6	8	1	obl	Sie verkaufen dem Land den Platz an der Grenze.
 base-4headcandidates
 base-4headcandidates
 base-4headcandidates
@@ -60,21 +59,21 @@ base-4headcandidates
 base-4headcandidates
 base-4headcandidates
 base-4headcandidates
-base-prepnoun
-base-prepnoun
-base-prepnoun
-base-prepnoun
-base-prepnoun
-base-prepnoun
-base-prepnoun
-base-prepnoun
-base-prepnoun
-base-prepnoun
-base-prepnoun
-base-prepnoun
-base-prepnoun
-base-prepnoun
-base-prepnoun
+base-prepnoun	2	2	3	1	Sie spielt zu Hause.
+base-prepnoun	2	2	3	1	Sie erscheint zu Beginn.
+base-prepnoun	2	2	3	1	Sie steht in Frage.
+base-prepnoun	2	2	3	1	Sie lebt seit Jahren.
+base-prepnoun	2	2	3	1	Sie arbeitet zu Ende.
+base-prepnoun	2	2	3	1	Er kommt nach Hause.
+base-prepnoun	2	2	3	1	Er spricht vor Ort.
+base-prepnoun	2	2	3	1	Er begann vor Kurzem.
+base-prepnoun	2	2	3	1	Er bleibt in Bewegung.
+base-prepnoun	2	2	3	1	Er glaubt seit langem.
+base-prepnoun	2	2	3	1	Sie schreiben für Gerechtigkeit.
+base-prepnoun	2	2	3	1	Sie liegen seit Wochen.
+base-prepnoun	2	2	3	1	Sie bestehen seit Anfang.
+base-prepnoun	2	2	3	1	Sie gehen aus Angst.
+base-prepnoun	2	2	3	1	Sie gelten zu Recht.
 base-prepdetnoun
 base-prepdetnoun
 base-prepdetnoun
