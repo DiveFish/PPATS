@@ -37,13 +37,15 @@ verb3heads	stellen	414
 verb3heads	setzen	333
 verb3heads	nennen	286
 verb3heads	erzählen	274
-verb3heads	berichten	254
 verb3heads	suchen	225
 verb3heads	tragen	221
+verb3heads	vorstellen	192
 verb3heads	einsetzen	174
 verb3heads	bestätigen	166
 verb3heads	legen	232
 verb3heads	verkaufen	150
+verb3heads	bauen	137
+verb3heads	schicken	130
 reflverb	sich-beschäfigen
 reflverb	sich-beteiligen
 reflverb	sich-belaufen
@@ -77,6 +79,8 @@ ppwithdet	in-der-Welt	98
 ppwithdet	in-der-Bundesrepublik	95
 ppwithdet	zu-dem-Thema	95
 ppwithdet	in-dem-Bereich	90
+ppwithdet	an-der-Grenze	79
+ppwithdet	auf-den-Tisch	69
 ppwithoutdet	in-Zukunft	113
 ppwithoutdet	zu-Hause	110
 ppwithoutdet	seit-Jahren	109
@@ -189,3 +193,25 @@ obj	Wort	135
 obj	Bild	134
 obj	Mann	133
 obj	Geschichte	112
+obj	Buch	101
+iobj	Frau	28
+iobj	Publikum	23
+iobj	Mensch	21
+iobj	Partei	20
+iobj	Mann	19
+iobj	Kind	17
+iobj	Regierung	17
+iobj	Leute	14
+iobj	Welt	12
+iobj	Thema	11
+iobj	Forderung	11
+iobj	Kollege	10
+iobj	Präsident	9
+iobj	Film	9
+iobj	Gegner	9
+iobj	Sache	8
+iobj	Leben	8
+iobj	Herr	8
+iobj	Bevölkerung	8
+iobj	Beliebtheit	8
+iobj	Land	8
