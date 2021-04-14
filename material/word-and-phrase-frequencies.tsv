@@ -13,6 +13,7 @@ verb1head	gelten	384
 verb1head	schreiben	380
 verb1head	glauben	347
 verb1head	arbeiten	308
+verb1head	bestehen	268
 verb1head	erscheinen	220
 verb2heads	haben	2428
 verb2heads	sagen	1618
@@ -95,7 +96,9 @@ ppwithoutdet	seit-Langem	48
 ppwithoutdet	für-Gerichtigkeit	42
 ppwithoutdet	seit-Wochen	38
 ppwithoutdet	seit-Anfang	38
+ppwithoutdet	in-Bewegung	38
 ppwithoutdet	aus Angst	36
+ppwithoutdet	zu-Recht	33
 ppwithcontrdet	zum-Beispiel	378
 ppwithcontrdet	ans-Ende	279
 ppwithcontrdet	ins-Land	216
