@@ -13,10 +13,6 @@ verb1head	gelten	384
 verb1head	schreiben	380
 verb1head	glauben	347
 verb1head	arbeiten	308
-<<<<<<< HEAD
-verb1head	bestehen	268
-=======
->>>>>>> master
 verb1head	erscheinen	220
 verb2heads	haben	2428
 verb2heads	sagen	1618
@@ -41,24 +37,15 @@ verb3heads	stellen	414
 verb3heads	setzen	333
 verb3heads	nennen	286
 verb3heads	erzählen	274
-<<<<<<< HEAD
 verb3heads	suchen	225
 verb3heads	tragen	221
 verb3heads	vorstellen	192
-=======
-verb3heads	berichten	254
-verb3heads	suchen	225
-verb3heads	tragen	221
->>>>>>> master
 verb3heads	einsetzen	174
 verb3heads	bestätigen	166
 verb3heads	legen	232
 verb3heads	verkaufen	150
-<<<<<<< HEAD
 verb3heads	bauen	137
 verb3heads	schicken	130
-=======
->>>>>>> master
 reflverb	sich-beschäfigen
 reflverb	sich-beteiligen
 reflverb	sich-belaufen
@@ -92,11 +79,8 @@ ppwithdet	in-der-Welt	98
 ppwithdet	in-der-Bundesrepublik	95
 ppwithdet	zu-dem-Thema	95
 ppwithdet	in-dem-Bereich	90
-<<<<<<< HEAD
 ppwithdet	an-der-Grenze	79
 ppwithdet	auf-den-Tisch	69
-=======
->>>>>>> master
 ppwithoutdet	in-Zukunft	113
 ppwithoutdet	zu-Hause	110
 ppwithoutdet	seit-Jahren	109
@@ -111,13 +95,9 @@ ppwithoutdet	seit-Langem	48
 ppwithoutdet	für-Gerichtigkeit	42
 ppwithoutdet	seit-Wochen	38
 ppwithoutdet	seit-Anfang	38
-<<<<<<< HEAD
 ppwithoutdet	in-Bewegung	38
 ppwithoutdet	aus Angst	36
 ppwithoutdet	zu-Recht	33
-=======
-ppwithoutdet	aus Angst	36
->>>>>>> master
 ppwithcontrdet	zum-Beispiel	378
 ppwithcontrdet	ans-Ende	279
 ppwithcontrdet	ins-Land	216
@@ -214,7 +194,6 @@ obj	Name	135
 obj	Wort	135
 obj	Bild	134
 obj	Mann	133
-<<<<<<< HEAD
 obj	Geschichte	112
 obj	Buch	101
 iobj	Frau	28
@@ -238,6 +217,3 @@ iobj	Herr	8
 iobj	Bevölkerung	8
 iobj	Beliebtheit	8
 iobj	Land	8
-=======
-obj	Geschichte	112
->>>>>>> master
