@@ -81,6 +81,7 @@ ppwithdet	zu-dem-Thema	95
 ppwithdet	in-dem-Bereich	90
 ppwithdet	an-der-Grenze	79
 ppwithdet	auf-den-Tisch	69
+ppwithdet	mit-der-Hand	13
 ppwithoutdet	in-Zukunft	113
 ppwithoutdet	zu-Hause	110
 ppwithoutdet	seit-Jahren	109
@@ -194,8 +195,13 @@ obj	Name	135
 obj	Wort	135
 obj	Bild	134
 obj	Mann	133
+obj	Haus	124
+obj	Leute	117
+obj	Grund	116
+obj	Film	111
 obj	Geschichte	112
 obj	Buch	101
+
 iobj	Frau	28
 iobj	Publikum	23
 iobj	Mensch	21
@@ -217,3 +223,7 @@ iobj	Herr	8
 iobj	Bevölkerung	8
 iobj	Beliebtheit	8
 iobj	Land	8
+iobj	Staat	8
+iobj	Kunde	8
+iobj	Flüchtling	8
+iobj	Gast	8
