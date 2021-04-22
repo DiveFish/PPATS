@@ -1,7 +1,28 @@
 # PPATS
-A PP attachment test suite for German and Dutch
+A **PP** **a**ttachment **t**est **s**uite for German
 
-## Searching Prepositions and Meanings
+PP attachment is the largest source of errors in syntactic parsing. But what is it exactly that makes it difficult? And which kinds of parsers struggle less with these structues?
+
+This test suite provides sample sentences with prepositional phrases that exhibit specific properties of different degrees of difficulty. The properties are accessible through the annotations. Parser can be evaluated against the full test suite or particular properties to test their abilities to solve PP attachment of various difficulty levels.
+
+|Property | Annotation |
+|:------------- |:-------------|
+|Base case|`base`|
+|1 head candidate|`1headcandidate`|
+|2 head candidates|`2headcandidates`|
+|3 head candidates|`3headcandidates`|
+|PP = P + N |`prepnoun`|
+|PP = P + D + A + N|`prepdetadjnoun`|
+|Pp = P + D + N + genitive NP|`pppossnp`|
+|PP = p + D + N + PP|`pppp`|
+|PP before head|`ppbeforehead`|
+|Prepositional object|`verbheadedobjp`|
+|Noun-headed PP|`nounheadedpp`|
+|PP in idiom|`idiom`|
+
+The base case consists of a verb-headed PP that has only one attachment head candidate. The PP consists of a preposition, a determiner and a noun. This configuration has been selected based on frequenties in the TüBa-D/Z v11 UD corpus.
+
+## Searching prepositions and meanings
 
 You can make use of the `search_examples.py` script to search for specific prepositions and meanings. If you specify the filename (optional) it must be in the same JSON format as `meaning_examples.json`.
 
@@ -26,7 +47,7 @@ Change the filename (if necessary):
 ## Obtaining Preposition-Meaning Frequency Statistics
 
 There are statistics stating the frequencies of prepositions and meanings and their combinations.
-These have been obtained from a number of tables (prepsensNZZ) listing this information, which are not included in this repo.
+These have been obtained from PrepSensNZZ, a licensed corpus of meaning-annotated PPs (Kiss et al. 2016).
 
 To regenerate these statistics, the following must be run:
 
@@ -36,7 +57,7 @@ Note: The file names are those that are already present in the repository. For r
 
 Here is a list of what the 4 arguments to the script must contain:
 
-1. The directory with the files containing the original frequency (prepsensNZZ) named above.
+1. The directory with the files containing the original frequency (PrepSensNZZ) named above.
 2. The TSV file that contains a table mapping all prepositions to meanings and stating their combined frequencies.
 3. The table that lists the top meanings per preposition (and the overall frequency of the prepositions).
 4. The table that lists the top prepositions per meaning (and the overall frequency of the meanings).
@@ -51,3 +72,6 @@ For data collection the following resources have been used.
 - https://www.schreiben.net/artikel/70-redewendungen-bedeutung-herkunft-1635/
 - https://de.wikiquote.org/wiki/Deutsche_Sprichw%C3%B6rter
 - https://de.wikipedia.org/wiki/Liste_deutscher_Redewendungen
+
+## References
+PrepSensNZZ: Tibor Kiss, Antje Müller, Claudia Roch, Tobias Stadtfeld, Alicia Katharina Börner and Monika Duzy. 2016. Ein Handbuch für die Bestimmung und Annotation von Präpositionsbedeutungen im Deutschen. Bochum, 1-440. Available here: /media/pages/publikationen/Kiss2016Handbuch/kiss2016handbuch.pdf
