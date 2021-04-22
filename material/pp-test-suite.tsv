@@ -1,5 +1,5 @@
 features    head_distance   prep_position   prep_obj_position   head_pos    relation    sentence
-base-1headcandidate	3	2	4	1	obl	Sie kommt in den Sinn.
+base-1headcandidate	3	2	4	1	obl	Sie kommt auf den Tisch.
 base-1headcandidate	3	2	4	1	obl	Sie geht auf dem Weg.
 base-1headcandidate	3	2	4	1	obl	Sie steht auf der Bühne.
 base-1headcandidate	3	2	4	1	obl	Sie bleibt in der Bundesrepublik.
@@ -134,7 +134,7 @@ base-pppp
 base-pppp
 base-pppp
 base-pppp
-base-ppbeforehead	1	0	4	1	obl	In den Sinn kommt sie.
+base-ppbeforehead	1	0	4	1	obl	Auf den Tisch kommt sie.
 base-ppbeforehead	1	0	4	1	obl	Auf dem Weg geht sie.
 base-ppbeforehead	1	0	4	1	obl	Auf der Bühne steht sie.
 base-ppbeforehead	1	0	4	1	obl	In der Bundesrepublik bleibt sie.
