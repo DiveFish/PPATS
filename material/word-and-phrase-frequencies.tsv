@@ -11,9 +11,16 @@ verb1head	beginnen	426
 verb1head	leben	393
 verb1head	gelten	384
 verb1head	schreiben	380
+verb1head	handeln	350
 verb1head	glauben	347
 verb1head	arbeiten	308
+verb1head	gewinnen	237
+verb1head	fallen	228
 verb1head	erscheinen	220
+verb1head	verlieren	214
+verb1head	reden	177
+verb1head	trinken	82
+verb1head	zeichnen	53
 verb2heads	haben	2428
 verb2heads	sagen	1618
 verb2heads	lassen	1272
@@ -160,21 +167,35 @@ ppwithpossnp	von-Seiten-des	35
 ppwithpossnp	an-Bord-des	33
 ppwithpossnp	auf-Kosten-des	29
 ppwithpossnp	in-Zeiten-des	26
-ppwithpp	im-Gegensatz-zu	94
-ppwithpp	mit-Blick-auf	32
-ppwithpp
-ppwithpp
-ppwithpp
-ppwithpp
-ppwithpp
-ppwithpp
-ppwithpp
-ppwithpp
-ppwithpp
-ppwithpp
-ppwithpp
-ppwithpp
-ppwithpp
+ppobjpp	Weg-in-die-Zukunft	4
+ppobjpp	Bühne-in-dem-Schauspielhaus	2
+ppobjpp	Straße-in-dem-Berg	2
+ppobjpp	Haus-in-der-Straße	4
+ppobjpp	Stadt-mit-dem-Fluss	1
+ppobjpp	Thema-in-dem-Fall	3
+ppobjpp	Nacht-vor-dem-Tod	9
+ppobjpp	Jahr-auf-der-Insel	1
+ppobjpp	Woche-in-dem-Haus	1
+ppobjpp	Hand-von-dem-Großgrundbesitzer	1
+ppobjpp	Welt-für-den-Betrachter	6
+ppobjpp	Ende-unter-dem-Umstand	1
+ppobjpp	Bereich-in-der-Musikindustrie	1
+ppobjpp	Grenze-mit-dem-Zaun	1
+ppobjpp	Frau-in-der-Kneipe	1
+ppobjpp	Film-über-den-Krieg	1
+ppobjpp	Monat-mit-den-Feiertagen	1
+ppobjpp	Staat-mit-dem-Einparteisystem	1
+ppobjpp	Bar-an-der-Ecke	1
+fixedppwithpp	nach-Angabe-von	191
+fixedppwithpp	im-Gegensatz-zu	94
+fixedppwithpp	mit-Blick-auf	32
+fixedppwithpp	an-Stelle-von	70
+fixedppwithpp	in-Form-von	63
+fixedppwithpp	in-Zusammenhang-mit	54
+fixedppwithpp	im-Vergleich-zu	45
+fixedppwithpp	im-Auftrag-von	33
+fixedppwithpp	auf-Suche-von	29
+fixedppwithpp	mit-Ausnahme-von	26
 obj	Geld	274
 obj	Million	236
 obj	Frau	234
@@ -201,7 +222,6 @@ obj	Grund	116
 obj	Film	111
 obj	Geschichte	112
 obj	Buch	101
-
 iobj	Frau	28
 iobj	Publikum	23
 iobj	Mensch	21
@@ -211,6 +231,7 @@ iobj	Kind	17
 iobj	Regierung	17
 iobj	Leute	14
 iobj	Welt	12
+iobj	Schiff	12
 iobj	Thema	11
 iobj	Forderung	11
 iobj	Kollege	10
@@ -227,3 +248,32 @@ iobj	Staat	8
 iobj	Kunde	8
 iobj	Flüchtling	8
 iobj	Gast	8
+iobj	Spekulation	6
+iobj	Stadt	5
+iobj	Kontrolle	5
+adj	neu	1716
+adj	andere	1207
+adj	erste	1179
+adj	groß	1091
+adj	politisch	913
+adj	deutsch	908
+adj	letzte	820
+adj	gut	809
+adj	eigen	667
+adj	alt	622
+adj	klein	615
+adj	beide	500
+adj	ganz	484
+adj	lang	447
+adj	öffentlich	416
+adj	nächste	414
+adj	später	403
+adj	international	391
+adj	jung	386
+adj	vergangen	371
+adj	möglich	352
+adj	kurz	346
+adj	schwer	325
+adj	frei	322
+adj	gemeinsam	319
+adj	weit	300

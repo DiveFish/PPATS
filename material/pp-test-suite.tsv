@@ -59,78 +59,63 @@ base-4headcandidates
 base-4headcandidates
 base-4headcandidates
 base-4headcandidates
-base-prepnoun	2	2	3	1	Sie spielt zu Hause.
-base-prepnoun	2	2	3	1	Sie erscheint zu Beginn.
-base-prepnoun	2	2	3	1	Sie steht in Frage.
-base-prepnoun	2	2	3	1	Sie lebt seit Jahren.
-base-prepnoun	2	2	3	1	Sie arbeitet zu Ende.
-base-prepnoun	2	2	3	1	Er kommt nach Hause.
-base-prepnoun	2	2	3	1	Er spricht vor Ort.
-base-prepnoun	2	2	3	1	Er begann vor Kurzem.
-base-prepnoun	2	2	3	1	Er bleibt in Bewegung.
-base-prepnoun	2	2	3	1	Er glaubt seit Langem.
-base-prepnoun	2	2	3	1	Sie schreiben für Gerechtigkeit.
-base-prepnoun	2	2	3	1	Sie liegen seit Wochen.
-base-prepnoun	2	2	3	1	Sie bestehen seit Anfang.
-base-prepnoun	2	2	3	1	Sie gehen aus Angst.
-base-prepnoun	2	2	3	1	Sie gelten zu Recht.
-base-prepdetnoun
-base-prepdetnoun
-base-prepdetnoun
-base-prepdetnoun
-base-prepdetnoun
-base-prepdetnoun
-base-prepdetnoun
-base-prepdetnoun
-base-prepdetnoun
-base-prepdetnoun
-base-prepdetnoun
-base-prepdetnoun
-base-prepdetnoun
-base-prepdetnoun
-base-prepdetnoun
-base-prepdetadjnoun
-base-prepdetadjnoun
-base-prepdetadjnoun
-base-prepdetadjnoun
-base-prepdetadjnoun
-base-prepdetadjnoun
-base-prepdetadjnoun
-base-prepdetadjnoun
-base-prepdetadjnoun
-base-prepdetadjnoun
-base-prepdetadjnoun
-base-prepdetadjnoun
-base-prepdetadjnoun
-base-prepdetadjnoun
-base-prepdetadjnoun
-base-pppossnp
-base-pppossnp
-base-pppossnp
-base-pppossnp
-base-pppossnp
-base-pppossnp
-base-pppossnp
-base-pppossnp
-base-pppossnp
-base-pppossnp
-base-pppossnp
-base-pppossnp
-base-pppossnp
-base-pppossnp
-base-pppossnp
-base-pppp
-base-pppp
-base-pppp
-base-pppp
-base-pppp
-base-pppp
-base-pppp
-base-pppp
-base-pppp
-base-pppp
-base-pppp
-base-pppp
-base-pppp
-base-pppp
-base-pppp
+base-prepnoun	2	2	3	1	obl	Sie spielt zu Hause.
+base-prepnoun	2	2	3	1	obl	Sie erscheint zu Beginn.
+base-prepnoun	2	2	3	1	obl	Sie steht in Frage.
+base-prepnoun	2	2	3	1	obl	Sie lebt seit Jahren.
+base-prepnoun	2	2	3	1	obl	Sie arbeitet zu Ende.
+base-prepnoun	2	2	3	1	obl	Er kommt nach Hause.
+base-prepnoun	2	2	3	1	obl	Er spricht vor Ort.
+base-prepnoun	2	2	3	1	obl	Er begann vor Kurzem.
+base-prepnoun	2	2	3	1	obl	Er bleibt in Bewegung.
+base-prepnoun	2	2	3	1	obl	Er glaubt seit Langem.
+base-prepnoun	2	2	3	1	obl	Sie schreiben für Gerechtigkeit.
+base-prepnoun	2	2	3	1	obl	Sie liegen seit Wochen.
+base-prepnoun	2	2	3	1	obl	Sie bestehen seit Anfang.
+base-prepnoun	2	2	3	1	obl	Sie gehen aus Angst.
+base-prepnoun	2	2	3	1	obl	Sie gelten zu Recht.
+base-prepdetadjnoun	4	2	5	1	obl	Sie geht auf dem langen Weg.
+base-prepdetadjnoun	4	2	5	1	obl	Sie steht auf der hohen Bühne.
+base-prepdetadjnoun	4	2	5	1	obl	Sie bleibt in der deutschen Bundesrepublik.
+base-prepdetadjnoun	4	2	5	1	obl	Sie zeigt auf die freie Straße.
+base-prepdetadjnoun	4	2	5	1	obl	Sie spricht in dem kurzen Film.
+base-prepdetadjnoun	4	2	5	1	obl	Er liegt in dem großen Haus.
+base-prepdetadjnoun	4	2	5	1	obl	Er spielt in der anderen Stadt.
+base-prepdetadjnoun	4	2	5	1	obl	Er spricht zu dem möglichen Thema.
+base-prepdetadjnoun	4	2	5	1	obl	Er beginnt in der späten Nacht.
+base-prepdetadjnoun	4	2	5	1	obl	Er lebt in dem vergangenen Jahr.
+base-prepdetadjnoun	4	2	5	1	obl	Sie gelten in der neuen Woche.
+base-prepdetadjnoun	4	2	5	1	obl	Sie schreiben in die eigene Hand.
+base-prepdetadjnoun	4	2	5	1	obl	Sie erscheinen in der politischen Welt.
+base-prepdetadjnoun	4	2	5	1	obl	Sie sitzen an dem guten Ende.
+base-prepdetadjnoun	4	2	5	1	obl	Sie arbeiten in dem ganzen Bereich.
+base-pppossnp	2	2	3	1	obl	Sie spricht im Rahmen des Films.
+base-pppossnp	2	2	3	1	obl	Sie steht auf Seiten der Bundesrepublik.
+base-pppossnp	2	2	3	1	obl	Sie handelt nach Angabe der Regierung.
+base-pppossnp	2	2	3	1	obl	Sie geht in Richtung des Gegners.
+base-pppossnp	2	2	3	1	obl	Sie arbeitet mit Hilfe des Kollegen.
+base-pppossnp	2	2	3	1	obl	Er schreibt in Sache der Partei.
+base-pppossnp	2	2	3	1	obl	Er lebt nach Ansicht des Staats.
+base-pppossnp	2	2	3	1	obl	Er erscheint in Form des Herren.
+base-pppossnp	2	2	3	1	obl	Er redet seit Beginn der Kontrolle.
+base-pppossnp	2	2	3	1	obl	Er liegt seit Anfang des Lebens.
+base-pppossnp	2	2	3	1	obl	Sie gelten bis Ende des Jahres.
+base-pppossnp	2	2	3	1	obl	Sie kommen von Seiten des Präsidenten.
+base-pppossnp	2	2	3	1	obl	Sie bleiben an Bord des Schiffs.
+base-pppossnp	2	2	3	1	obl	Sie trinken auf Kosten der Bevölkerung.
+base-pppossnp	2	2	3	1	obl	Sie beginnen in Zeiten der Spekulation.
+base-pppp	2	2	3	1	obl	Sie kommt an die Grenze mit dem Zaun.
+base-pppp	2	2	3	1	obl	Sie geht auf dem Weg in die Zukunft.
+base-pppp	2	2	3	1	obl	Sie steht auf der Bühne in dem Schauspielhaus.
+base-pppp	2	2	3	1	obl	Sie bleibt für die Frau in der Kneipe.
+base-pppp	2	2	3	1	obl	Sie sucht auf der Straße in dem Berg.
+base-pppp	2	2	3	1	obl	Er liegt in dem Haus in der Straße.
+base-pppp	2	2	3	1	obl	Er baut in der Stadt mit dem Fluss.
+base-pppp	2	2	3	1	obl	Er spielt in dem Film über den Krieg.
+base-pppp	2	2	3	1	obl	Er beginnt in der Nacht vor dem Tod.
+base-pppp	2	2	3	1	obl	Er lebt in dem Land mit der Insel.
+base-pppp	2	2	3	1	obl	Sie gelten in dem Monat mit den Feiertagen.
+base-pppp	2	2	3	1	obl	Sie schreiben in die Hand von dem Großgrundbesitzer.
+base-pppp	2	2	3	1	obl	Sie erscheinen in dem Staat mit dem Einparteisystem.
+base-pppp	2	2	3	1	obl	Sie trinken in der Bar an der Ecke.
+base-pppp	2	2	3	1	obl	Sie arbeiten in dem Bereich in der Musikindustrie.
