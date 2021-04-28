@@ -18,6 +18,7 @@ verb2heads	haben	2428
 verb2heads	sagen	1618
 verb2heads	lassen	1272
 verb2heads	sehen	917
+verb2heads	mögen	674
 verb2heads	finden	662
 verb2heads	zeigen	571
 verb2heads	halten	559
@@ -26,9 +27,12 @@ verb2heads	führen	462
 verb2heads	bekommen	386
 verb2heads	fordern	376
 verb2heads	schreiben	380
+verb2heads	verlieren	355
 verb2heads	wollen	349
 verb2heads	erhalten	313
 verb2heads	brauchen	302
+verb2heads	vergessen	194
+verb2heads	beschreiben	148
 verb3heads	geben	2428
 verb3heads	zeigen	571
 verb3heads	erklären	560
