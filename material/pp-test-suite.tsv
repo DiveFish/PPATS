@@ -179,7 +179,7 @@ base-idiom	3	2	4	1	obl	Sie schlagen über die Stränge.
 2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie suchen die Familie mit dem Kind.
 2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie verlieren den Konflikt in der Welt.
 2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie erhalten den Zugang zu dem Teil.
-2headcandidates-prepnoun	4	4	5	1	obl	Sie hat das Geld zu Hause.
+2headcandidates-prepnoun	4	4	5	1	obl	Sie verliert das Geld zu Hause.
 2headcandidates-prepnoun	4	4	5	1	obl	Sie sagt das Wort zu Beginn.
 2headcandidates-prepnoun	4	4	5	1	obl	Sie lässt den Mann nach Hause.
 2headcandidates-prepnoun	4	4	5	1	obl	Sie sieht den Weg seit Jahren.
@@ -188,24 +188,40 @@ base-idiom	3	2	4	1	obl	Sie schlagen über die Stränge.
 2headcandidates-prepnoun	4	4	5	1	obl	Er hält das Kind in Bewegung.
 2headcandidates-prepnoun	4	4	5	1	obl	Er schreibt das Buch zu Ende.
 2headcandidates-prepnoun	4	4	5	1	obl	Er erhält die Rolle zu Recht.
-2headcandidates-prepnoun	4	4	5	1	obl	Er braucht die Zeit aus Angst.
+2headcandidates-prepnoun	4	4	5	1	obl	Er hat die Zeit unter Kontrolle.
 2headcandidates-prepnoun	4	4	5	1	obl	Sie führen die Frau seit Wochen.
 2headcandidates-prepnoun	4	4	5	1	obl	Sie zeigen das Problem seit Anfang.
 2headcandidates-prepnoun	4	4	5	1	obl	Sie bekommen die Chance in Zukunft.
 2headcandidates-prepnoun	4	4	5	1	obl	Sie stellen das Kind in Frage.
-2headcandidates-prepnoun	4	4	5	1	obl	Sie erzählen die Geschichte für Gerechtigkeit.
+2headcandidates-prepnoun	4	4	5	1	obl	Sie erzählen die Geschichte mit Sicherheit.
 3headcandidates-prepnoun	6	6	7	1	obl	Sie gibt der Frau das Geld zu Hause.
 3headcandidates-prepnoun	6	6	7	1	obl	Sie zeigt dem Gast das Haus zu Beginn.
 3headcandidates-prepnoun	6	6	7	1	obl	Sie bringt dem Herren die Million nach Hause.
 3headcandidates-prepnoun	6	6	7	1	obl	Sie erklärt den Leuten den Grund seit Jahren.
 3headcandidates-prepnoun	6	6	7	1	obl	Sie stellt dem Kind die Frage vor Ort.
 3headcandidates-prepnoun	6	6	7	1	obl	Er trägt dem Mann das Kind seit Langem.
-3headcandidates-prepnoun	6	6	7	1	obl	Er hält das Kind vor Gericht.
-3headcandidates-prepnoun	6	6	7	1	obl	Er bauen dem Publikum den Platz zu Ende.
+3headcandidates-prepnoun	6	6	7	1	obl	Er beschreibt dem Gegner den Grund vor Gericht.
+3headcandidates-prepnoun	6	6	7	1	obl	Er baut dem Publikum den Platz zu Ende.
 3headcandidates-prepnoun	6	6	7	1	obl	Er verkauft dem Land den Film zu Recht.
-3headcandidates-prepnoun	6	6	7	1	obl	Er nennt der Bevölkerung den Namen aus Angst.
+3headcandidates-prepnoun	6	6	7	1	obl	Er sagt der Bevölkerung den Namen aus Angst.
 3headcandidates-prepnoun	6	6	7	1	obl	Sie bestätigen der Partei das Recht seit Wochen.
 3headcandidates-prepnoun	6	6	7	1	obl	Sie nennen dem Präsidenten die Forderung seit Anfang.
 3headcandidates-prepnoun	6	6	7	1	obl	Sie schicken dem Kollegen das Bild in Zukunft.
-3headcandidates-prepnoun	6	6	7	1	obl	Sie suchten dem Flüchtling die Chance vor Kurzem.
-3headcandidates-prepnoun	6	6	7	1	obl	Sie erzählen die Geschichte für Gerechtigkeit.
+3headcandidates-prepnoun	6	6	7	1	obl	Sie suchen dem Flüchtling die Chance vor Kurzem.
+3headcandidates-prepnoun	6	6	7	1	obl	Sie erzählen dem Menschen die Geschichte mit Sicherheit.
+
+base-3headcandidates	7	6	8	1	obl	Sie gibt der Frau das Geld in die Hand.
+base-3headcandidates	7	6	8	1	obl	Sie zeigt dem Gast das Haus mit der Hand.
+base-3headcandidates	7	6	8	1	obl	Sie erklärt den Leuten den Grund auf der Straße.
+base-3headcandidates	7	6	8	1	obl	Sie bringt dem Herren die Million in das Haus.
+base-3headcandidates	7	6	8	1	obl	Sie stellt dem Kind die Frage zu dem Thema.
+base-3headcandidates	7	6	8	1	obl	Er setzt dem Gegner die Frau auf die Bühne.
+base-3headcandidates	7	6	8	1	obl	Er nennt der Bevölkerung den Namen in dem Film.
+base-3headcandidates	7	6	8	1	obl	Er erzählt der Welt die Geschichte in der Nacht.
+base-3headcandidates	7	6	8	1	obl	Er sucht dem Präsidenten die Chance in dem Bereich.
+base-3headcandidates	7	6	8	1	obl	Er trägt dem Mann das Kind auf dem Weg.
+base-3headcandidates	7	6	8	1	obl	Sie bauen dem Publikum den Platz in dem Jahr.
+base-3headcandidates	7	6	8	1	obl	Sie schicken dem Kollegen das Bild in der Woche.
+base-3headcandidates	7	6	8	1	obl	Sie bestätigen der Partei das Recht in der Bundesrepublik.
+base-3headcandidates	7	6	8	1	obl	Sie legen dem Menschen das Buch auf den Tisch.
+base-3headcandidates	7	6	8	1	obl	Sie verkaufen dem Land den Film an der Grenze.
