@@ -1,5 +1,5 @@
 features    head_distance   prep_position   prep_obj_position   head_pos    relation    sentence
-base-1headcandidate	3	2	4	1	obl	Sie kommt in den Sinn.
+base-1headcandidate	3	2	4	1	obl	Sie kommt auf den Tisch.
 base-1headcandidate	3	2	4	1	obl	Sie geht auf dem Weg.
 base-1headcandidate	3	2	4	1	obl	Sie steht auf der Bühne.
 base-1headcandidate	3	2	4	1	obl	Sie bleibt in der Bundesrepublik.
@@ -119,3 +119,63 @@ base-pppp	2	2	3	1	obl	Sie schreiben in die Hand von dem Großgrundbesitzer.
 base-pppp	2	2	3	1	obl	Sie erscheinen in dem Staat mit dem Einparteisystem.
 base-pppp	2	2	3	1	obl	Sie trinken in der Bar an der Ecke.
 base-pppp	2	2	3	1	obl	Sie arbeiten in dem Bereich in der Musikindustrie.
+base-ppbeforehead	1	0	4	1	obl	Auf den Tisch kommt sie.
+base-ppbeforehead	1	0	4	1	obl	Auf dem Weg geht sie.
+base-ppbeforehead	1	0	4	1	obl	Auf der Bühne steht sie.
+base-ppbeforehead	1	0	4	1	obl	In der Bundesrepublik bleibt sie.
+base-ppbeforehead	1	0	4	1	obl	Auf die Straße zeigt sie.
+base-ppbeforehead	1	0	4	1	obl	In dem Haus liegt er.
+base-ppbeforehead	1	0	4	1	obl	In der Stadt spielt er.
+base-ppbeforehead	1	0	4	1	obl	Zu dem Thema spricht er.
+base-ppbeforehead	1	0	4	1	obl	In der Nacht beginnt er.
+base-ppbeforehead	1	0	4	1	obl	In dem Jahr lebt er.
+base-ppbeforehead	1	0	4	1	obl	In der Woche gelten sie.
+base-ppbeforehead	1	0	4	1	obl	In die Hand schreiben sie.
+base-ppbeforehead	1	0	4	1	obl	In der Welt erscheinen sie.
+base-ppbeforehead	1	0	4	1	obl	An das Ende glauben sie.
+base-ppbeforehead	1	0	4	1	obl	In dem Bereich arbeiten sie.
+base-verbheadedobjp	3	2	4	1	obl	Sie kommt zu der Forderung.
+base-verbheadedobjp	3	2	4	1	obl	Sie gehört zu dem Kind.
+base-verbheadedobjp	3	2	4	1	obl	Sie sorgt für den Flüchtling.
+base-verbheadedobjp	3	2	4	1	obl	Sie rechnet mit dem Kunden.
+base-verbheadedobjp	3	2	4	1	obl	Sie steht zu der Regierung.
+base-verbheadedobjp	3	2	4	1	obl	Er gerät in die Sache.
+base-verbheadedobjp	3	2	4	1	obl	Er erinnert an den Gegner.
+base-verbheadedobjp	3	2	4	1	obl	Er stammt aus dem Staat.
+base-verbheadedobjp	3	2	4	1	obl	Er steckt in dem Thema.
+base-verbheadedobjp	3	2	4	1	obl	Er verfügt über die Leute.
+base-verbheadedobjp	3	2	4	1	obl	Sie bestehen aus der Bevölkerung.
+base-verbheadedobjp	3	2	4	1	obl	Sie stoßen auf die Frau.
+base-verbheadedobjp	3	2	4	1	obl	Sie verweisen auf den Film.
+base-verbheadedobjp	3	2	4	1	obl	Sie hoffen auf das Publikum.
+base-verbheadedobjp	3	2	4	1	obl	Sie glauben an den Präsidenten.
+base-idiom	3	2	4	1	obl	Sie ist unter der Haube.
+base-idiom	3	2	4	1	obl	Sie ist über den Berg.
+base-idiom	3	2	4	1	obl	Sie tanzt aus der Reihe.
+base-idiom	3	2	4	1	obl	Sie ist aus dem Häuschen.
+base-idiom	3	2	4	1	obl	Sie kommt aus dem Mußtopf.
+base-idiom	3	2	4	1	obl	Er drückt auf die Tube.
+base-idiom	3	2	4	1	obl	Er ist neben der Kappe.
+base-idiom	3	2	4	1	obl	Er sitzt an der Quelle.
+base-idiom	3	2	4	1	obl	Er steht auf dem Schlauch.
+base-idiom	3	2	4	1	obl	Er ist weg vom Fenster.
+base-idiom	3	2	4	1	obl	Sie sind von der Rolle.
+base-idiom	3	2	4	1	obl	Sie spielen mit dem Feuer.
+base-idiom	3	2	4	1	obl	Sie springen in die Bresche .
+base-idiom	3	2	4	1	obl	Sie sitzen auf heißen Kohlen.
+base-idiom	3	2	4	1	obl	Sie schlagen über die Stränge.
+2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie bekommt die Antwort auf die Frage.
+2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie geht den Schritt in die Richtung.
+2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie schreibt den Kommentar auf der Seite.
+2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie beschreibt den Einsatz von den Bodentruppen.
+2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie will die Suche nach der Identität.
+2headcandidates-nounheadedpp	5	4	6	1	nmod	Er bestätigt die Gründung von dem Komitee.
+2headcandidates-nounheadedpp	5	4	6	1	nmod	Er mag die Stimme in dem Schrank.
+2headcandidates-nounheadedpp	5	4	6	1	nmod	Er führt die Truppe gegen den Befreiungskrieg.
+2headcandidates-nounheadedpp	5	4	6	1	nmod	Er erklärt die Bevorzugung von den Frauen.
+2headcandidates-nounheadedpp	5	4	6	1	nmod	Er hält die Mehrheit in dem Parlament.
+2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie zeigen die Diskriminierung von den Frauen.
+2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie vergisst die Träne in dem Auge.
+2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie suchen die Familie mit dem Kind.
+2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie verlieren den Konflikt in der Welt.
+2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie erhalten den Zugang zu dem Teil.
