@@ -239,18 +239,48 @@ base-idiom	3	4	4	1	obl	Sie schlagen über die Stränge.
 2headcandidates-pppossnp	4	4	5	1	obl	Sie setzen das Kind an Bord des Schiffs.
 2headcandidates-pppossnp	4	4	5	1	obl	Sie verlieren das Geld auf Kosten der Bevölkerung.
 2headcandidates-pppossnp	4	4	5	1	obl	Sie erzählen die Geschichte in Zeiten der Spekulation.
-3headcandidates-pppossnp	4	4	3	1	obl	Sie schicken dem Kollegen das Bild im Rahmen des Films.
-3headcandidates-pppossnp	4	4	3	1	obl	Sie bestätigt der Partei das Recht auf Seiten der Bundesrepublik.
-3headcandidates-pppossnp	4	4	3	1	obl	Sie bringt dem Herren die Million nach Angabe der Regierung.
-3headcandidates-pppossnp	4	4	3	1	obl	Sie erzählt dem Menschen die Geschichte am Tag der Forderung.
-3headcandidates-pppossnp	4	4	3	1	obl	Sie beschreibt dem Gegner den Grund mit Hilfe des Kollegen.
-3headcandidates-pppossnp	4	4	3	1	obl	Er gibt der Frau das Geld in Sache der Partei.
-3headcandidates-pppossnp	4	4	3	1	obl	Er sagt der Bevölkerung den Namen nach Ansicht des Staats.
-3headcandidates-pppossnp	4	4	3	1	obl	Er verliert das Interesse am Tag der Forderung.x
-3headcandidates-pppossnp	4	4	3	1	obl	Er suchen dem Flüchtling die Chance seit Beginn der Kontrolle.
-3headcandidates-pppossnp	4	4	3	1	obl	Er trägt dem Mann das Kind seit Anfang des Lebens.
-3headcandidates-pppossnp	4	4	3	1	obl	Sie bauen dem Publikum den Platz bis Ende des Jahres.
-3headcandidates-pppossnp	4	4	3	1	obl	Sie erklären den Leuten den Grund von Seiten des Präsidenten.
-3headcandidates-pppossnp	4	4	3	1	obl	Sie verkaufen dem Land den Film an Bord des Schiffs.
-3headcandidates-pppossnp	4	4	3	1	obl	Sie nennen dem Präsidenten die Forderung auf Kosten der Bevölkerung.
-3headcandidates-pppossnp	4	4	3	1	obl	Sie stellen dem Kind die Frage in Zeiten der Spekulation.
+3headcandidates-pppossnp	6	6	5	1	obl	Sie schicken dem Kollegen das Bild im Rahmen des Films.
+3headcandidates-pppossnp	6	6	5	1	obl	Sie bestätigt der Partei das Recht auf Seiten der Bundesrepublik.
+3headcandidates-pppossnp	6	6	5	1	obl	Sie bringt dem Herren die Million nach Angabe der Regierung.
+3headcandidates-pppossnp	6	6	5	1	obl	Sie erzählt dem Menschen die Geschichte am Tag der Forderung.
+3headcandidates-pppossnp	6	6	5	1	obl	Sie beschreibt dem Gegner den Grund mit Hilfe des Kollegen.
+3headcandidates-pppossnp	6	6	5	1	obl	Er gibt der Frau das Geld in Sache der Partei.
+3headcandidates-pppossnp	6	6	5	1	obl	Er sagt der Bevölkerung den Namen nach Ansicht des Staats.
+3headcandidates-pppossnp	6	6	5	1	obl	Er zeigt dem Staat die Sache am Tag der Forderung.
+3headcandidates-pppossnp	6	6	5	1	obl	Er suchen dem Flüchtling die Chance seit Beginn der Kontrolle.
+3headcandidates-pppossnp	6	6	5	1	obl	Er trägt dem Mann das Kind seit Anfang des Lebens.
+3headcandidates-pppossnp	6	6	5	1	obl	Sie bauen dem Publikum den Platz bis Ende des Jahres.
+3headcandidates-pppossnp	6	6	5	1	obl	Sie erklären den Leuten den Grund von Seiten des Präsidenten.
+3headcandidates-pppossnp	6	6	5	1	obl	Sie verkaufen dem Land den Film an Bord des Schiffs.
+3headcandidates-pppossnp	6	6	5	1	obl	Sie nennen dem Präsidenten die Forderung auf Kosten der Bevölkerung.
+3headcandidates-pppossnp	6	6	5	1	obl	Sie stellen dem Kind die Frage in Zeiten der Spekulation.
+4headcandidates-pppossnp	8	8	9	1	obl	Sie schicken dem Kollegen das Bild des Schiffs im Rahmen des Films.
+4headcandidates-pppossnp	8	8	9	1	obl	Sie bestätigt der Partei das Recht der Kontrolle auf Seiten der Bundesrepublik.
+4headcandidates-pppossnp	8	8	9	1	obl	Sie bringt dem Herren die Million des Staates nach Angabe der Regierung.
+4headcandidates-pppossnp	8	8	9	1	obl	Sie erzählt dem Menschen die Geschichte des Flüchtlings am Tag der Forderung.
+4headcandidates-pppossnp	8	8	9	1	obl	Sie beschreibt dem Gegner den Grund der Forderung mit Hilfe des Kollegen.
+4headcandidates-pppossnp	8	8	9	1	obl	Er gibt der Frau das Geld des Kunden in Sache der Partei.
+4headcandidates-pppossnp	8	8	9	1	obl	Er sagt der Bevölkerung den Namen des Gegners nach Ansicht des Staats.
+4headcandidates-pppossnp	8	8	9	1	obl	Er zeigt dem Staat die Sache der Stadt am Tag der Forderung.
+4headcandidates-pppossnp	8	8	9	1	obl	Er sucht dem Flüchtling die Chance des Lebens seit Beginn der Kontrolle.
+4headcandidates-pppossnp	8	8	9	1	obl	Er trägt dem Mann das Kind des Kollegen seit Anfang des Lebens.
+4headcandidates-pppossnp	8	8	9	1	obl	Sie bauen dem Publikum den Platz der Regierung bis Ende des Jahres.
+4headcandidates-pppossnp	8	8	9	1	obl	Sie erklären den Leuten das Buch der Partei von Seiten des Präsidenten.
+4headcandidates-pppossnp	8	8	9	1	obl	Sie verkaufen dem Land den Film der Frau an Bord des Schiffs.
+4headcandidates-pppossnp	8	8	9	1	obl	Sie nennen dem Präsidenten die Forderung des Herren auf Kosten der Bevölkerung.
+4headcandidates-pppossnp	8	8	9	1	obl	Sie stellen dem Kind die Frage der Bevölkerung in Zeiten der Spekulation.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie schicken dem Kollegen des Gegners das Bild des Schiffs im Rahmen des Films.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie bestätigt der Partei der Stadt das Recht der Kontrolle auf Seiten der Bundesrepublik.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie bringt dem Herren der Partei die Million des Staates nach Angabe der Regierung.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie erzählt dem Menschen der Stadt die Geschichte des Flüchtlings am Tag der Forderung.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie beschreibt dem Gegner der Spekulation den Grund der Forderung mit Hilfe des Kollegen.
+5headcandidates-pppossnp	10	10	11	1	obl	Er gibt der Frau des Kollegen das Geld des Kunden in Sache der Partei.
+5headcandidates-pppossnp	10	10	11	1	obl	Er sagt der Bevölkerung des Staates den Namen des Gegners nach Ansicht des Staats.
+5headcandidates-pppossnp	10	10	11	1	obl	Er zeigt dem Staat des Kindes die Sache der Stadt am Tag der Forderung.
+5headcandidates-pppossnp	10	10	11	1	obl	Er sucht dem Flüchtling des Landes die Chance des Lebens seit Beginn der Kontrolle.
+5headcandidates-pppossnp	10	10	11	1	obl	Er trägt dem Mann des Lebens das Kind des Kollegen seit Anfang des Lebens.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie bauen dem Publikum der Regierung den Platz der Regierung bis Ende des Jahres.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie erklären den Leuten der Welt das Buch der Partei von Seiten des Präsidenten.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie verkaufen dem Land des Menschen den Film der Frau an Bord des Schiffs.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie nennen dem Präsidenten der Bevölkerung die Forderung des Herren auf Kosten der Bevölkerung.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie stellen dem Kind des Flüchtlings die Frage der Bevölkerung in Zeiten der Spekulation.
