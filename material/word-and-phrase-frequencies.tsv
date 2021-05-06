@@ -96,6 +96,7 @@ ppwithoutdet	in-Zukunft	113
 ppwithoutdet	zu-Hause	110
 ppwithoutdet	seit-Jahren	109
 ppwithoutdet	zu-Beginn	100
+ppwithdet	vor-Gericht	98
 ppwithoutdet	in-Frage	91
 ppwithoutdet	zu-Ende	88
 ppwithoutdet	nach-Hause	83
@@ -103,12 +104,16 @@ ppwithoutdet	vor-Ort	72
 ppwithoutdet	vor-Kurzem	72
 ppwithoutdet	pro-Jahr	49
 ppwithoutdet	seit-Langem	48
-ppwithoutdet	für-Gerichtigkeit	42
+ppwithoutdet	für-Gerechtigkeit	42
 ppwithoutdet	seit-Wochen	38
 ppwithoutdet	seit-Anfang	38
 ppwithoutdet	in-Bewegung	38
 ppwithoutdet	aus Angst	36
+ppwithoutdet	auf-Dauer	36
 ppwithoutdet	zu-Recht	33
+ppwithoutdet	mit-Sicherheit	31
+ppwithoutdet	über-Kopf	28
+ppwithoutdet	unter-Kontrolle	25
 ppwithcontrdet	zum-Beispiel	378
 ppwithcontrdet	ans-Ende	279
 ppwithcontrdet	ins-Land	216
