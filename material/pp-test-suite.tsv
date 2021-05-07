@@ -1,19 +1,19 @@
 features    head_distance   prep_position   prep_obj_position   head_pos    relation    sentence
-base-1headcandidate	3	4	4	1	obl	Sie kommt auf den Tisch.
-base-1headcandidate	3	4	4	1	obl	Sie geht auf dem Weg.
-base-1headcandidate	3	4	4	1	obl	Sie steht auf der Bühne.
-base-1headcandidate	3	4	4	1	obl	Sie bleibt in der Bundesrepublik.
-base-1headcandidate	3	4	4	1	obl	Sie zeigt auf die Straße.
-base-1headcandidate	3	4	4	1	obl	Er liegt in dem Haus.
-base-1headcandidate	3	4	4	1	obl	Er spielt in der Stadt.
-base-1headcandidate	3	4	4	1	obl	Er spricht zu dem Thema.
-base-1headcandidate	3	4	4	1	obl	Er beginnt in der Nacht.
-base-1headcandidate	3	4	4	1	obl	Er lebt in dem Jahr.
-base-1headcandidate	3	4	4	1	obl	Sie gelten in der Woche.
-base-1headcandidate	3	4	4	1	obl	Sie schreiben in die Hand.
-base-1headcandidate	3	4	4	1	obl	Sie erscheinen in der Welt.
-base-1headcandidate	3	4	4	1	obl	Sie glauben an das Ende.
-base-1headcandidate	3	4	4	1	obl	Sie arbeiten in dem Bereich.
+base-1headcandidate	3	2	4	1	obl	Sie kommt auf den Tisch.
+base-1headcandidate	3	2	4	1	obl	Sie geht auf dem Weg.
+base-1headcandidate	3	2	4	1	obl	Sie steht auf der Bühne.
+base-1headcandidate	3	2	4	1	obl	Sie bleibt in der Bundesrepublik.
+base-1headcandidate	3	2	4	1	obl	Sie zeigt auf die Straße.
+base-1headcandidate	3	2	4	1	obl	Er liegt in dem Haus.
+base-1headcandidate	3	2	4	1	obl	Er spielt in der Stadt.
+base-1headcandidate	3	2	4	1	obl	Er spricht zu dem Thema.
+base-1headcandidate	3	2	4	1	obl	Er beginnt in der Nacht.
+base-1headcandidate	3	2	4	1	obl	Er lebt in dem Jahr.
+base-1headcandidate	3	2	4	1	obl	Sie gelten in der Woche.
+base-1headcandidate	3	2	4	1	obl	Sie schreiben in die Hand.
+base-1headcandidate	3	2	4	1	obl	Sie erscheinen in der Welt.
+base-1headcandidate	3	2	4	1	obl	Sie glauben an das Ende.
+base-1headcandidate	3	2	4	1	obl	Sie arbeiten in dem Bereich.
 base-2headcandidates	5	4	6	1	obl	Sie hat das Geld in der Hand.
 base-2headcandidates	5	4	6	1	obl	Sie sagt das Wort zu dem Thema.
 base-2headcandidates	5	4	6	1	obl	Sie lässt den Mann auf der Straße.
@@ -59,81 +59,81 @@ base-4headcandidates	9	8	10	1	obl	Sie schicken dem Kollegen das Bild des Schiffs
 base-4headcandidates	9	8	10	1	obl	Sie bestätigen der Partei das Recht der Kontrolle in der Bundesrepublik.
 base-4headcandidates	9	8	10	1	obl	Sie legen dem Menschen das Buch des Kindes auf den Tisch.
 base-4headcandidates	9	8	10	1	obl	Sie verkaufen dem Land den Film der Partei an der Grenze.
-base-5headcandidates	11	10	14	1	obl	Sie gibt der Frau des Kollegen das Geld des Kunden in die Hand.
-base-5headcandidates	11	10	14	1	obl	Sie zeigt dem Gast des Mannes das Haus der Frau mit der Hand.
-base-5headcandidates	11	10	14	1	obl	Sie erklärt den Leuten der Welt den Grund der Forderung auf der Straße.
-base-5headcandidates	11	10	14	1	obl	Sie bringt dem Herren der Partei die Million des Staates in das Haus.
-base-5headcandidates	11	10	14	1	obl	Sie stellt dem Kind des Flüchtlings die Frage des Publikums zu dem Thema.
-base-5headcandidates	11	10	14	1	obl	Er setzt dem Publikum der Regierung die Frau des Präsidenten auf die Bühne.
-base-5headcandidates	11	10	14	1	obl	Er nennt der Bevölkerung des Staates den Namen des Gegners in dem Film.
-base-5headcandidates	11	10	14	1	obl	Er erzählt dem Flüchtling des Landes die Geschichte der Stadt in der Nacht.
-base-5headcandidates	11	10	14	1	obl	Er sucht dem Präsidenten der Bevölkerung die Chance des Lebens in dem Bereich.
-base-5headcandidates	11	10	14	1	obl	Er trägt dem Mann des Lebens das Kind des Kollegen auf dem Weg.
-base-5headcandidates	11	10	14	1	obl	Sie bauen dem Land des Menschen den Platz der Regierung in dem Jahr.
-base-5headcandidates	11	10	14	1	obl	Sie schicken dem Kollegen des Gegners das Bild des Schiffs in der Woche.
-base-5headcandidates	11	10	14	1	obl	Sie bestätigen der Partei der Stadt das Recht der Kontrolle in der Bundesrepublik.
-base-5headcandidates	11	10	14	1	obl	Sie legen dem Gegner der Spekulation das Buch des Kindes auf den Tisch.
-base-5headcandidates	11	10	14	1	obl	Sie verkaufen dem Land des Gastes den Film der Partei an der Grenze.
-base-prepnoun	4	4	3	1	obl	Sie spielt zu Hause.
-base-prepnoun	4	4	3	1	obl	Sie erscheint zu Beginn.
-base-prepnoun	4	4	3	1	obl	Sie steht in Frage.
-base-prepnoun	4	4	3	1	obl	Sie lebt seit Jahren.
-base-prepnoun	4	4	3	1	obl	Sie arbeitet zu Ende.
-base-prepnoun	4	4	3	1	obl	Er kommt nach Hause.
-base-prepnoun	4	4	3	1	obl	Er spricht vor Ort.
-base-prepnoun	4	4	3	1	obl	Er beginnt mit Sicherheit.
-base-prepnoun	4	4	3	1	obl	Er bleibt in Bewegung.
-base-prepnoun	4	4	3	1	obl	Er glaubt seit Langem.
-base-prepnoun	4	4	3	1	obl	Sie schreiben für Gerechtigkeit.
-base-prepnoun	4	4	3	1	obl	Sie liegen seit Wochen.
-base-prepnoun	4	4	3	1	obl	Sie bestehen seit Anfang.
-base-prepnoun	4	4	3	1	obl	Sie gehen aus Angst.
-base-prepnoun	4	4	3	1	obl	Sie gelten zu Recht.
-base-prepdetadjnoun	4	4	5	1	obl	Sie geht auf dem langen Weg.
-base-prepdetadjnoun	4	4	5	1	obl	Sie steht auf der hohen Bühne.
-base-prepdetadjnoun	4	4	5	1	obl	Sie bleibt in der deutschen Bundesrepublik.
-base-prepdetadjnoun	4	4	5	1	obl	Sie zeigt auf die freie Straße.
-base-prepdetadjnoun	4	4	5	1	obl	Sie spricht in dem kurzen Film.
-base-prepdetadjnoun	4	4	5	1	obl	Er liegt in dem großen Haus.
-base-prepdetadjnoun	4	4	5	1	obl	Er spielt in der anderen Stadt.
-base-prepdetadjnoun	4	4	5	1	obl	Er spricht zu dem möglichen Thema.
-base-prepdetadjnoun	4	4	5	1	obl	Er beginnt in der späten Nacht.
-base-prepdetadjnoun	4	4	5	1	obl	Er lebt in dem vergangenen Jahr.
-base-prepdetadjnoun	4	4	5	1	obl	Sie gelten in der neuen Woche.
-base-prepdetadjnoun	4	4	5	1	obl	Sie schreiben in die eigene Hand.
-base-prepdetadjnoun	4	4	5	1	obl	Sie erscheinen in der politischen Welt.
-base-prepdetadjnoun	4	4	5	1	obl	Sie sitzen an dem guten Ende.
-base-prepdetadjnoun	4	4	5	1	obl	Sie arbeiten in dem ganzen Bereich.
-base-pppossnp	4	4	3	1	obl	Sie spricht im Rahmen des Films.
-base-pppossnp	4	4	3	1	obl	Sie steht auf Seiten der Bundesrepublik.
-base-pppossnp	4	4	3	1	obl	Sie handelt nach Angabe der Regierung.
-base-pppossnp	4	4	3	1	obl	Sie geht in Richtung des Gegners.
-base-pppossnp	4	4	3	1	obl	Sie arbeitet mit Hilfe des Kollegen.
-base-pppossnp	4	4	3	1	obl	Er schreibt in Sache der Partei.
-base-pppossnp	4	4	3	1	obl	Er lebt nach Ansicht des Staats.
-base-pppossnp	4	4	3	1	obl	Er erscheint in Form des Herren.
-base-pppossnp	4	4	3	1	obl	Er redet seit Beginn der Kontrolle.
-base-pppossnp	4	4	3	1	obl	Er liegt seit Anfang des Lebens.
-base-pppossnp	4	4	3	1	obl	Sie gelten bis Ende des Jahres.
-base-pppossnp	4	4	3	1	obl	Sie kommen von Seiten des Präsidenten.
-base-pppossnp	4	4	3	1	obl	Sie bleiben an Bord des Schiffs.
-base-pppossnp	4	4	3	1	obl	Sie trinken auf Kosten der Bevölkerung.
-base-pppossnp	4	4	3	1	obl	Sie beginnen in Zeiten der Spekulation.
-base-pppp	4	4	3	1	obl	Sie kommt an die Grenze mit dem Zaun.
-base-pppp	4	4	3	1	obl	Sie geht auf dem Weg in die Zukunft.
-base-pppp	4	4	3	1	obl	Sie steht auf der Bühne in dem Schauspielhaus.
-base-pppp	4	4	3	1	obl	Sie bleibt für die Frau in der Kneipe.
-base-pppp	4	4	3	1	obl	Sie sucht auf der Straße in dem Berg.
-base-pppp	4	4	3	1	obl	Er liegt in dem Haus in der Straße.
-base-pppp	4	4	3	1	obl	Er baut in der Stadt mit dem Fluss.
-base-pppp	4	4	3	1	obl	Er spielt in dem Film über den Krieg.
-base-pppp	4	4	3	1	obl	Er beginnt in der Nacht vor dem Tod.
-base-pppp	4	4	3	1	obl	Er lebt in dem Land mit der Insel.
-base-pppp	4	4	3	1	obl	Sie gelten in dem Monat mit den Feiertagen.
-base-pppp	4	4	3	1	obl	Sie schreiben in die Hand von dem Großgrundbesitzer.
-base-pppp	4	4	3	1	obl	Sie erscheinen in dem Staat mit dem Einparteisystem.
-base-pppp	4	4	3	1	obl	Sie trinken in der Bar an der Ecke.
-base-pppp	4	4	3	1	obl	Sie arbeiten in dem Bereich in der Musikindustrie.
+base-5headcandidates	11	10	12	1	obl	Sie gibt der Frau des Kollegen das Geld des Kunden in die Hand.
+base-5headcandidates	11	10	12	1	obl	Sie zeigt dem Gast des Mannes das Haus der Frau mit der Hand.
+base-5headcandidates	11	10	12	1	obl	Sie erklärt den Leuten der Welt den Grund der Forderung auf der Straße.
+base-5headcandidates	11	10	12	1	obl	Sie bringt dem Herren der Partei die Million des Staates in das Haus.
+base-5headcandidates	11	10	12	1	obl	Sie stellt dem Kind des Flüchtlings die Frage des Publikums zu dem Thema.
+base-5headcandidates	11	10	12	1	obl	Er setzt dem Publikum der Regierung die Frau des Präsidenten auf die Bühne.
+base-5headcandidates	11	10	12	1	obl	Er nennt der Bevölkerung des Staates den Namen des Gegners in dem Film.
+base-5headcandidates	11	10	12	1	obl	Er erzählt dem Flüchtling des Landes die Geschichte der Stadt in der Nacht.
+base-5headcandidates	11	10	12	1	obl	Er sucht dem Präsidenten der Bevölkerung die Chance des Lebens in dem Bereich.
+base-5headcandidates	11	10	12	1	obl	Er trägt dem Mann des Lebens das Kind des Kollegen auf dem Weg.
+base-5headcandidates	11	10	12	1	obl	Sie bauen dem Land des Menschen den Platz der Regierung in dem Jahr.
+base-5headcandidates	11	10	12	1	obl	Sie schicken dem Kollegen des Gegners das Bild des Schiffs in der Woche.
+base-5headcandidates	11	10	12	1	obl	Sie bestätigen der Partei der Stadt das Recht der Kontrolle in der Bundesrepublik.
+base-5headcandidates	11	10	12	1	obl	Sie legen dem Gegner der Spekulation das Buch des Kindes auf den Tisch.
+base-5headcandidates	11	10	12	1	obl	Sie verkaufen dem Land des Gastes den Film der Partei an der Grenze.
+base-prepnoun	2	2	3	1	obl	Sie spielt zu Hause.
+base-prepnoun	2	2	3	1	obl	Sie erscheint zu Beginn.
+base-prepnoun	2	2	3	1	obl	Sie steht in Frage.
+base-prepnoun	2	2	3	1	obl	Sie lebt seit Jahren.
+base-prepnoun	2	2	3	1	obl	Sie arbeitet zu Ende.
+base-prepnoun	2	2	3	1	obl	Er kommt nach Hause.
+base-prepnoun	2	2	3	1	obl	Er spricht vor Ort.
+base-prepnoun	2	2	3	1	obl	Er beginnt mit Sicherheit.
+base-prepnoun	2	2	3	1	obl	Er bleibt in Bewegung.
+base-prepnoun	2	2	3	1	obl	Er glaubt seit Langem.
+base-prepnoun	2	2	3	1	obl	Sie schreiben für Gerechtigkeit.
+base-prepnoun	2	2	3	1	obl	Sie liegen seit Wochen.
+base-prepnoun	2	2	3	1	obl	Sie bestehen seit Anfang.
+base-prepnoun	2	2	3	1	obl	Sie gehen aus Angst.
+base-prepnoun	2	2	3	1	obl	Sie gelten zu Recht.
+base-prepdetadjnoun	4	2	5	1	obl	Sie geht auf dem langen Weg.
+base-prepdetadjnoun	4	2	5	1	obl	Sie steht auf der hohen Bühne.
+base-prepdetadjnoun	4	2	5	1	obl	Sie bleibt in der deutschen Bundesrepublik.
+base-prepdetadjnoun	4	2	5	1	obl	Sie zeigt auf die freie Straße.
+base-prepdetadjnoun	4	2	5	1	obl	Sie spricht in dem kurzen Film.
+base-prepdetadjnoun	4	2	5	1	obl	Er liegt in dem großen Haus.
+base-prepdetadjnoun	4	2	5	1	obl	Er spielt in der anderen Stadt.
+base-prepdetadjnoun	4	2	5	1	obl	Er spricht zu dem möglichen Thema.
+base-prepdetadjnoun	4	2	5	1	obl	Er beginnt in der späten Nacht.
+base-prepdetadjnoun	4	2	5	1	obl	Er lebt in dem vergangenen Jahr.
+base-prepdetadjnoun	4	2	5	1	obl	Sie gelten in der neuen Woche.
+base-prepdetadjnoun	4	2	5	1	obl	Sie schreiben in die eigene Hand.
+base-prepdetadjnoun	4	2	5	1	obl	Sie erscheinen in der politischen Welt.
+base-prepdetadjnoun	4	2	5	1	obl	Sie sitzen an dem guten Ende.
+base-prepdetadjnoun	4	2	5	1	obl	Sie arbeiten in dem ganzen Bereich.
+base-pppossnp	2	2	3	1	obl	Sie spricht im Rahmen des Films.
+base-pppossnp	2	2	3	1	obl	Sie steht auf Seiten der Bundesrepublik.
+base-pppossnp	2	2	3	1	obl	Sie handelt nach Angabe der Regierung.
+base-pppossnp	2	2	3	1	obl	Sie geht in Richtung des Gegners.
+base-pppossnp	2	2	3	1	obl	Sie arbeitet mit Hilfe des Kollegen.
+base-pppossnp	2	2	3	1	obl	Er schreibt in Sache der Partei.
+base-pppossnp	2	2	3	1	obl	Er lebt nach Ansicht des Staats.
+base-pppossnp	2	2	3	1	obl	Er erscheint in Form des Herren.
+base-pppossnp	2	2	3	1	obl	Er redet seit Beginn der Kontrolle.
+base-pppossnp	2	2	3	1	obl	Er liegt seit Anfang des Lebens.
+base-pppossnp	2	2	3	1	obl	Sie gelten bis Ende des Jahres.
+base-pppossnp	2	2	3	1	obl	Sie kommen von Seiten des Präsidenten.
+base-pppossnp	2	2	3	1	obl	Sie bleiben an Bord des Schiffs.
+base-pppossnp	2	2	3	1	obl	Sie trinken auf Kosten der Bevölkerung.
+base-pppossnp	2	2	3	1	obl	Sie beginnen in Zeiten der Spekulation.
+base-pppp	3	2	3	1	obl	Sie kommt an die Grenze mit dem Zaun.
+base-pppp	3	2	3	1	obl	Sie geht auf dem Weg in die Zukunft.
+base-pppp	3	2	3	1	obl	Sie steht auf der Bühne in dem Schauspielhaus.
+base-pppp	3	2	3	1	obl	Sie bleibt für die Frau in der Kneipe.
+base-pppp	3	2	3	1	obl	Sie sucht auf der Straße in dem Berg.
+base-pppp	3	2	3	1	obl	Er liegt in dem Haus in der Straße.
+base-pppp	3	2	3	1	obl	Er baut in der Stadt mit dem Fluss.
+base-pppp	3	2	3	1	obl	Er spielt in dem Film über den Krieg.
+base-pppp	3	2	3	1	obl	Er beginnt in der Nacht vor dem Tod.
+base-pppp	3	2	3	1	obl	Er lebt in dem Land mit der Insel.
+base-pppp	3	2	3	1	obl	Sie gelten in dem Monat mit den Feiertagen.
+base-pppp	3	2	3	1	obl	Sie schreiben in die Hand von dem Großgrundbesitzer.
+base-pppp	3	2	3	1	obl	Sie erscheinen in dem Staat mit dem Einparteisystem.
+base-pppp	3	2	3	1	obl	Sie trinken in der Bar an der Ecke.
+base-pppp	3	2	3	1	obl	Sie arbeiten in dem Bereich in der Musikindustrie.
 base-ppbeforehead	1	0	4	1	obl	Auf den Tisch kommt sie.
 base-ppbeforehead	1	0	4	1	obl	Auf dem Weg geht sie.
 base-ppbeforehead	1	0	4	1	obl	Auf der Bühne steht sie.
@@ -149,36 +149,36 @@ base-ppbeforehead	1	0	4	1	obl	In die Hand schreiben sie.
 base-ppbeforehead	1	0	4	1	obl	In der Welt erscheinen sie.
 base-ppbeforehead	1	0	4	1	obl	An das Ende glauben sie.
 base-ppbeforehead	1	0	4	1	obl	In dem Bereich arbeiten sie.
-base-verbheadedobjp	3	4	4	1	obl	Sie kommt zu der Forderung.
-base-verbheadedobjp	3	4	4	1	obl	Sie gehört zu dem Kind.
-base-verbheadedobjp	3	4	4	1	obl	Sie sorgt für den Flüchtling.
-base-verbheadedobjp	3	4	4	1	obl	Sie rechnet mit dem Kunden.
-base-verbheadedobjp	3	4	4	1	obl	Sie steht zu der Regierung.
-base-verbheadedobjp	3	4	4	1	obl	Er gerät in die Sache.
-base-verbheadedobjp	3	4	4	1	obl	Er erinnert an den Gegner.
-base-verbheadedobjp	3	4	4	1	obl	Er stammt aus dem Staat.
-base-verbheadedobjp	3	4	4	1	obl	Er steckt in dem Thema.
-base-verbheadedobjp	3	4	4	1	obl	Er verfügt über die Leute.
-base-verbheadedobjp	3	4	4	1	obl	Sie bestehen aus der Bevölkerung.
-base-verbheadedobjp	3	4	4	1	obl	Sie stoßen auf die Frau.
-base-verbheadedobjp	3	4	4	1	obl	Sie verweisen auf den Film.
-base-verbheadedobjp	3	4	4	1	obl	Sie hoffen auf das Publikum.
-base-verbheadedobjp	3	4	4	1	obl	Sie glauben an den Präsidenten.
-base-idiom	3	4	4	1	obl	Sie ist unter der Haube.
-base-idiom	3	4	4	1	obl	Sie ist über den Berg.
-base-idiom	3	4	4	1	obl	Sie tanzt aus der Reihe.
-base-idiom	3	4	4	1	obl	Sie ist aus dem Häuschen.
-base-idiom	3	4	4	1	obl	Sie kommt aus dem Mußtopf.
-base-idiom	3	4	4	1	obl	Er drückt auf die Tube.
-base-idiom	3	4	4	1	obl	Er ist neben der Kappe.
-base-idiom	3	4	4	1	obl	Er sitzt an der Quelle.
-base-idiom	3	4	4	1	obl	Er steht auf dem Schlauch.
-base-idiom	3	4	4	1	obl	Er ist weg vom Fenster.
-base-idiom	3	4	4	1	obl	Sie sind von der Rolle.
-base-idiom	3	4	4	1	obl	Sie spielen mit dem Feuer.
-base-idiom	3	4	4	1	obl	Sie springen in die Bresche .
-base-idiom	3	4	4	1	obl	Sie sitzen auf heißen Kohlen.
-base-idiom	3	4	4	1	obl	Sie schlagen über die Stränge.
+base-verbheadedobjp	3	2	4	1	obl	Sie kommt zu der Forderung.
+base-verbheadedobjp	3	2	4	1	obl	Sie gehört zu dem Kind.
+base-verbheadedobjp	3	2	4	1	obl	Sie sorgt für den Flüchtling.
+base-verbheadedobjp	3	2	4	1	obl	Sie rechnet mit dem Kunden.
+base-verbheadedobjp	3	2	4	1	obl	Sie steht zu der Regierung.
+base-verbheadedobjp	3	2	4	1	obl	Er gerät in die Sache.
+base-verbheadedobjp	3	2	4	1	obl	Er erinnert an den Gegner.
+base-verbheadedobjp	3	2	4	1	obl	Er stammt aus dem Staat.
+base-verbheadedobjp	3	2	4	1	obl	Er steckt in dem Thema.
+base-verbheadedobjp	3	2	4	1	obl	Er verfügt über die Leute.
+base-verbheadedobjp	3	2	4	1	obl	Sie bestehen aus der Bevölkerung.
+base-verbheadedobjp	3	2	4	1	obl	Sie stoßen auf die Frau.
+base-verbheadedobjp	3	2	4	1	obl	Sie verweisen auf den Film.
+base-verbheadedobjp	3	2	4	1	obl	Sie hoffen auf das Publikum.
+base-verbheadedobjp	3	2	4	1	obl	Sie glauben an den Präsidenten.
+base-idiom	3	2	4	1	obl	Sie ist unter der Haube.
+base-idiom	3	2	4	1	obl	Sie ist über den Berg.
+base-idiom	3	2	4	1	obl	Sie tanzt aus der Reihe.
+base-idiom	3	2	4	1	obl	Sie ist aus dem Häuschen.
+base-idiom	3	2	4	1	obl	Sie kommt aus dem Mußtopf.
+base-idiom	3	2	4	1	obl	Er drückt auf die Tube.
+base-idiom	3	2	4	1	obl	Er ist neben der Kappe.
+base-idiom	3	2	4	1	obl	Er sitzt an der Quelle.
+base-idiom	3	2	4	1	obl	Er steht auf dem Schlauch.
+base-idiom	3	2	4	1	obl	Er ist weg vom Fenster.
+base-idiom	3	2	4	1	obl	Sie sind von der Rolle.
+base-idiom	3	2	4	1	obl	Sie spielen mit dem Feuer.
+base-idiom	3	2	4	1	obl	Sie springen in die Bresche.
+base-idiom	3	2	4	1	obl	Sie sitzen auf heißen Kohlen.
+base-idiom	3	2	4	1	obl	Sie schlagen über die Stränge.
 2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie bekommt die Antwort auf die Frage.
 2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie geht den Schritt in die Richtung.
 2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie schreibt den Kommentar auf der Seite.
@@ -239,48 +239,48 @@ base-idiom	3	4	4	1	obl	Sie schlagen über die Stränge.
 2headcandidates-pppossnp	4	4	5	1	obl	Sie setzen das Kind an Bord des Schiffs.
 2headcandidates-pppossnp	4	4	5	1	obl	Sie verlieren das Geld auf Kosten der Bevölkerung.
 2headcandidates-pppossnp	4	4	5	1	obl	Sie erzählen die Geschichte in Zeiten der Spekulation.
-3headcandidates-pppossnp	6	6	5	1	obl	Sie schicken dem Kollegen das Bild im Rahmen des Films.
-3headcandidates-pppossnp	6	6	5	1	obl	Sie bestätigt der Partei das Recht auf Seiten der Bundesrepublik.
-3headcandidates-pppossnp	6	6	5	1	obl	Sie bringt dem Herren die Million nach Angabe der Regierung.
-3headcandidates-pppossnp	6	6	5	1	obl	Sie erzählt dem Menschen die Geschichte am Tag der Forderung.
-3headcandidates-pppossnp	6	6	5	1	obl	Sie beschreibt dem Gegner den Grund mit Hilfe des Kollegen.
-3headcandidates-pppossnp	6	6	5	1	obl	Er gibt der Frau das Geld in Sache der Partei.
-3headcandidates-pppossnp	6	6	5	1	obl	Er sagt der Bevölkerung den Namen nach Ansicht des Staats.
-3headcandidates-pppossnp	6	6	5	1	obl	Er zeigt dem Staat die Sache am Tag der Forderung.
-3headcandidates-pppossnp	6	6	5	1	obl	Er suchen dem Flüchtling die Chance seit Beginn der Kontrolle.
-3headcandidates-pppossnp	6	6	5	1	obl	Er trägt dem Mann das Kind seit Anfang des Lebens.
-3headcandidates-pppossnp	6	6	5	1	obl	Sie bauen dem Publikum den Platz bis Ende des Jahres.
-3headcandidates-pppossnp	6	6	5	1	obl	Sie erklären den Leuten den Grund von Seiten des Präsidenten.
-3headcandidates-pppossnp	6	6	5	1	obl	Sie verkaufen dem Land den Film an Bord des Schiffs.
-3headcandidates-pppossnp	6	6	5	1	obl	Sie nennen dem Präsidenten die Forderung auf Kosten der Bevölkerung.
-3headcandidates-pppossnp	6	6	5	1	obl	Sie stellen dem Kind die Frage in Zeiten der Spekulation.
+3headcandidates-pppossnp	6	6	7	1	obl	Sie schicken dem Kollegen das Bild im Rahmen des Films.
+3headcandidates-pppossnp	6	6	7	1	obl	Sie bestätigt der Partei das Recht auf Seiten der Bundesrepublik.
+3headcandidates-pppossnp	6	6	7	1	obl	Sie bringt dem Herren die Million am Tag der Forderung.
+3headcandidates-pppossnp	6	6	7	1	obl	Sie erzählt dem Menschen die Geschichte am Tag der Forderung.
+3headcandidates-pppossnp	6	6	7	1	obl	Sie beschreibt dem Gegner den Grund mit Hilfe des Kollegen.
+3headcandidates-pppossnp	6	6	7	1	obl	Er gibt der Frau das Geld in Sache der Partei.
+3headcandidates-pppossnp	6	6	7	1	obl	Er sagt der Bevölkerung den Namen nach Ansicht des Staats.
+3headcandidates-pppossnp	6	6	7	1	obl	Er zeigt dem Staat die Sache nach Angabe der Regierung.
+3headcandidates-pppossnp	6	6	7	1	obl	Er suchen dem Flüchtling die Chance seit Beginn der Kontrolle.
+3headcandidates-pppossnp	6	6	7	1	obl	Er trägt dem Mann das Kind seit Anfang des Lebens.
+3headcandidates-pppossnp	6	6	7	1	obl	Sie bauen dem Publikum den Platz bis Ende des Jahres.
+3headcandidates-pppossnp	6	6	7	1	obl	Sie erklären den Leuten den Grund von Seiten des Präsidenten.
+3headcandidates-pppossnp	6	6	7	1	obl	Sie verkaufen dem Land den Film an Bord des Schiffs.
+3headcandidates-pppossnp	6	6	7	1	obl	Sie nennen dem Präsidenten die Forderung auf Kosten der Bevölkerung.
+3headcandidates-pppossnp	6	6	7	1	obl	Sie stellen dem Kind die Frage in Zeiten der Spekulation.
 4headcandidates-pppossnp	8	8	9	1	obl	Sie schicken dem Kollegen das Bild des Schiffs im Rahmen des Films.
 4headcandidates-pppossnp	8	8	9	1	obl	Sie bestätigt der Partei das Recht der Kontrolle auf Seiten der Bundesrepublik.
-4headcandidates-pppossnp	8	8	9	1	obl	Sie bringt dem Herren die Million des Staates nach Angabe der Regierung.
-4headcandidates-pppossnp	8	8	9	1	obl	Sie erzählt dem Menschen die Geschichte des Flüchtlings am Tag der Forderung.
+4headcandidates-pppossnp	8	8	9	1	obl	Sie bringt dem Herren die Million des Staates am Tag der Forderung.
+4headcandidates-pppossnp	8	8	9	1	obl	Sie erzählt dem Menschen die Geschichte des Flüchtlings im Zentrum des Landes.
 4headcandidates-pppossnp	8	8	9	1	obl	Sie beschreibt dem Gegner den Grund der Forderung mit Hilfe des Kollegen.
 4headcandidates-pppossnp	8	8	9	1	obl	Er gibt der Frau das Geld des Kunden in Sache der Partei.
 4headcandidates-pppossnp	8	8	9	1	obl	Er sagt der Bevölkerung den Namen des Gegners nach Ansicht des Staats.
-4headcandidates-pppossnp	8	8	9	1	obl	Er zeigt dem Staat die Sache der Stadt am Tag der Forderung.
+4headcandidates-pppossnp	8	8	9	1	obl	Er zeigt dem Staat die Sache der Stadt nach Angabe der Regierung.
 4headcandidates-pppossnp	8	8	9	1	obl	Er sucht dem Flüchtling die Chance des Lebens seit Beginn der Kontrolle.
 4headcandidates-pppossnp	8	8	9	1	obl	Er trägt dem Mann das Kind des Kollegen seit Anfang des Lebens.
 4headcandidates-pppossnp	8	8	9	1	obl	Sie bauen dem Publikum den Platz der Regierung bis Ende des Jahres.
 4headcandidates-pppossnp	8	8	9	1	obl	Sie erklären den Leuten das Buch der Partei von Seiten des Präsidenten.
 4headcandidates-pppossnp	8	8	9	1	obl	Sie verkaufen dem Land den Film der Frau an Bord des Schiffs.
-4headcandidates-pppossnp	8	8	9	1	obl	Sie nennen dem Präsidenten die Forderung des Herren auf Kosten der Bevölkerung.
+4headcandidates-pppossnp	8	8	9	1	obl	Sie nennen dem Präsidenten die Forderung des Herren im Vorfeld der Sache.
 4headcandidates-pppossnp	8	8	9	1	obl	Sie stellen dem Kind die Frage der Bevölkerung in Zeiten der Spekulation.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie schicken dem Kollegen des Gegners das Bild des Schiffs im Rahmen des Films.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie bestätigt der Partei der Stadt das Recht der Kontrolle auf Seiten der Bundesrepublik.
-5headcandidates-pppossnp	10	10	11	1	obl	Sie bringt dem Herren der Partei die Million des Staates nach Angabe der Regierung.
-5headcandidates-pppossnp	10	10	11	1	obl	Sie erzählt dem Menschen der Stadt die Geschichte des Flüchtlings am Tag der Forderung.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie bringt dem Herren der Partei die Million des Staates am Tag der Forderung.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie erzählt dem Menschen der Stadt die Geschichte des Flüchtlings im Zentrum des Landes.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie beschreibt dem Gegner der Spekulation den Grund der Forderung mit Hilfe des Kollegen.
 5headcandidates-pppossnp	10	10	11	1	obl	Er gibt der Frau des Kollegen das Geld des Kunden in Sache der Partei.
 5headcandidates-pppossnp	10	10	11	1	obl	Er sagt der Bevölkerung des Staates den Namen des Gegners nach Ansicht des Staats.
-5headcandidates-pppossnp	10	10	11	1	obl	Er zeigt dem Staat des Kindes die Sache der Stadt am Tag der Forderung.
+5headcandidates-pppossnp	10	10	11	1	obl	Er zeigt dem Staat des Kindes die Sache der Stadt nach Angabe der Regierung.
 5headcandidates-pppossnp	10	10	11	1	obl	Er sucht dem Flüchtling des Landes die Chance des Lebens seit Beginn der Kontrolle.
 5headcandidates-pppossnp	10	10	11	1	obl	Er trägt dem Mann des Lebens das Kind des Kollegen seit Anfang des Lebens.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie bauen dem Publikum der Regierung den Platz der Regierung bis Ende des Jahres.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie erklären den Leuten der Welt das Buch der Partei von Seiten des Präsidenten.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie verkaufen dem Land des Menschen den Film der Frau an Bord des Schiffs.
-5headcandidates-pppossnp	10	10	11	1	obl	Sie nennen dem Präsidenten der Bevölkerung die Forderung des Herren auf Kosten der Bevölkerung.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie nennen dem Präsidenten der Bevölkerung die Forderung des Herren im Vorfeld der Sache.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie stellen dem Kind des Flüchtlings die Frage der Bevölkerung in Zeiten der Spekulation.
