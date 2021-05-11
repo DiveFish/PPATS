@@ -105,20 +105,20 @@ base-prepdetadjnoun	4	2	5	1	obl	Sie erscheinen in der politischen Welt.
 base-prepdetadjnoun	4	2	5	1	obl	Sie sitzen an dem guten Ende.
 base-prepdetadjnoun	4	2	5	1	obl	Sie arbeiten in dem ganzen Bereich.
 base-pppossnp	2	2	3	1	obl	Sie spricht im Rahmen des Films.
-base-pppossnp	2	2	3	1	obl	Sie steht auf Seiten der Bundesrepublik.
-base-pppossnp	2	2	3	1	obl	Sie handelt nach Angabe der Regierung.
-base-pppossnp	2	2	3	1	obl	Sie geht in Richtung des Gegners.
+base-pppossnp	2	2	3	1	obl	Sie steht auf Seiten des Amts.
+base-pppossnp	2	2	3	1	obl	Sie handelt nach Angabe des Werks.
+base-pppossnp	2	2	3	1	obl	Sie geht in Richtung des Hauses.
 base-pppossnp	2	2	3	1	obl	Sie arbeitet mit Hilfe des Kollegen.
 base-pppossnp	2	2	3	1	obl	Er schreibt in Sache der Partei.
-base-pppossnp	2	2	3	1	obl	Er lebt nach Ansicht des Staats.
-base-pppossnp	2	2	3	1	obl	Er erscheint in Form des Herren.
-base-pppossnp	2	2	3	1	obl	Er redet seit Beginn der Kontrolle.
+base-pppossnp	2	2	3	1	obl	Er lebt nach Ansicht der Gesellschaft.
+base-pppossnp	2	2	3	1	obl	Er erscheint in Form des Mannes.
+base-pppossnp	2	2	3	1	obl	Er redet seit Beginn der Zeit.
 base-pppossnp	2	2	3	1	obl	Er liegt seit Anfang des Lebens.
-base-pppossnp	2	2	3	1	obl	Sie gelten bis Ende des Jahres.
-base-pppossnp	2	2	3	1	obl	Sie kommen von Seiten des Präsidenten.
-base-pppossnp	2	2	3	1	obl	Sie bleiben an Bord des Schiffs.
-base-pppossnp	2	2	3	1	obl	Sie trinken auf Kosten der Bevölkerung.
-base-pppossnp	2	2	3	1	obl	Sie beginnen in Zeiten der Spekulation.
+base-pppossnp	2	2	3	1	obl	Sie gelten bis Ende des Buchs.
+base-pppossnp	2	2	3	1	obl	Sie kommen von Seiten des Sohnes.
+base-pppossnp	2	2	3	1	obl	Sie bleiben im Zentrum der Wohnung.
+base-pppossnp	2	2	3	1	obl	Sie trinken auf Kosten der Frau.
+base-pppossnp	2	2	3	1	obl	Sie beginnen in Zeiten der Rückkehr.
 base-pppp	3	2	3	1	obl	Sie kommt an die Grenze mit dem Zaun.
 base-pppp	3	2	3	1	obl	Sie geht auf dem Weg in die Zukunft.
 base-pppp	3	2	3	1	obl	Sie steht auf der Bühne in dem Schauspielhaus.
@@ -224,36 +224,36 @@ base-idiom	3	2	4	1	obl	Sie schlagen über die Stränge.
 3headcandidates-prepnoun	6	6	7	1	obl	Sie schicken dem Kollegen das Bild in Zukunft.
 3headcandidates-prepnoun	6	6	7	1	obl	Sie suchen dem Flüchtling die Chance auf Dauer.
 3headcandidates-prepnoun	6	6	7	1	obl	Sie erzählen dem Menschen die Geschichte mit Sicherheit.
-4headcandidates-prepnoun	8	8	9	1	obl	Sie gibt der Frau das Geld des Kunden zu Hause.
+4headcandidates-prepnoun	8	8	9	1	obl	Sie gibt der Frau das Geld des Kollegen zu Hause.
 4headcandidates-prepnoun	8	8	9	1	obl	Sie zeigt dem Gast das Haus der Frau zu Beginn.
-4headcandidates-prepnoun	8	8	9	1	obl	Sie bringt dem Herren die Million des Staates nach Hause.
-4headcandidates-prepnoun	8	8	9	1	obl	Sie erklärt den Leuten den Grund der Forderung seit Jahren.
-4headcandidates-prepnoun	8	8	9	1	obl	Sie stellt dem Kind die Frage des Publikums vor Ort.
-4headcandidates-prepnoun	8	8	9	1	obl	Er trägt dem Mann das Kind des Präsidenten seit Langem.
-4headcandidates-prepnoun	8	8	9	1	obl	Er beschreibt dem Gegner das Schiff des Mannes vor Gericht.
-4headcandidates-prepnoun	8	8	9	1	obl	Er baut dem Publikum den Platz der Stadt zu Ende.
+4headcandidates-prepnoun	8	8	9	1	obl	Sie bringt dem Herren die Million des Mannes nach Hause.
+4headcandidates-prepnoun	8	8	9	1	obl	Sie erklärt den Leuten den Grund der Endes seit Jahren.
+4headcandidates-prepnoun	8	8	9	1	obl	Sie stellt dem Kind die Frage des Sohnes vor Ort.
+4headcandidates-prepnoun	8	8	9	1	obl	Er trägt dem Mann das Kind der Familie seit Langem.
+4headcandidates-prepnoun	8	8	9	1	obl	Er beschreibt dem Gegner das Schiff des Vaters vor Gericht.
+4headcandidates-prepnoun	8	8	9	1	obl	Er baut dem Publikum den Platz der Heimat zu Ende.
 4headcandidates-prepnoun	8	8	9	1	obl	Er verkauft dem Land den Film der Partei zu Recht.
-4headcandidates-prepnoun	8	8	9	1	obl	Er sagt der Bevölkerung den Namen des Kollegen aus Angst.
-4headcandidates-prepnoun	8	8	9	1	obl	Sie bestätigen der Partei das Recht der Kontrolle seit Wochen.
-4headcandidates-prepnoun	8	8	9	1	obl	Sie nennen dem Präsidenten die Forderung des Staates seit Anfang.
-4headcandidates-prepnoun	8	8	9	1	obl	Sie schicken dem Kollegen das Bild des Schiffs in Zukunft.
+4headcandidates-prepnoun	8	8	9	1	obl	Er sagt der Bevölkerung den Namen der Mutter aus Angst.
+4headcandidates-prepnoun	8	8	9	1	obl	Sie bestätigen der Partei das Recht der Meinung seit Wochen.
+4headcandidates-prepnoun	8	8	9	1	obl	Sie nennen dem Präsidenten die Forderung der Gesellschaft seit Anfang.
+4headcandidates-prepnoun	8	8	9	1	obl	Sie schicken dem Kollegen das Bild der Freundin in Zukunft.
 4headcandidates-prepnoun	8	8	9	1	obl	Sie suchen dem Flüchtling die Chance des Lebens auf Dauer.
-4headcandidates-prepnoun	8	8	9	1	obl	Sie erzählen dem Menschen die Geschichte des Herren mit Sicherheit.
-5headcandidates-prepnoun	10	10	11	1	obl	Sie gibt der Frau des Kollegen das Geld des Kunden zu Hause.
-5headcandidates-prepnoun	10	10	11	1	obl	Sie zeigt dem Gast des Mannes das Haus der Frau zu Beginn.
-5headcandidates-prepnoun	10	10	11	1	obl	Sie bringt dem Herren der Partei die Million des Staates nach Hause.
-5headcandidates-prepnoun	10	10	11	1	obl	Sie erklärt den Leuten der Welt den Grund der Forderung seit Jahren.
-5headcandidates-prepnoun	10	10	11	1	obl	Sie stellt dem Kind des Flüchtlings die Frage des Publikums vor Ort.
-5headcandidates-prepnoun	10	10	11	1	obl	Er trägt dem Mann des Lebens das Kind des Präsidenten seit Langem.
-5headcandidates-prepnoun	10	10	11	1	obl	Er beschreibt dem Gegner der Spekulation das Schiff des Mannes vor Gericht.
-5headcandidates-prepnoun	10	10	11	1	obl	Er baut dem Publikum der Regierung den Platz der Stadt zu Ende.
-5headcandidates-prepnoun	10	10	11	1	obl	Er verkauft dem Land des Menschen den Film der Partei zu Recht.
-5headcandidates-prepnoun	10	10	11	1	obl	Er sagt der Bevölkerung des Staates den Namen des Kollegen aus Angst.
-5headcandidates-prepnoun	10	10	11	1	obl	Sie bestätigen der Partei der Stadt das Recht der Kontrolle seit Wochen.
-5headcandidates-prepnoun	10	10	11	1	obl	Sie nennen dem Präsidenten der Bevölkerung die Forderung des Staates seit Anfang.
-5headcandidates-prepnoun	10	10	11	1	obl	Sie schicken dem Kollegen des Gegners das Bild des Schiffs in Zukunft.
-5headcandidates-prepnoun	10	10	11	1	obl	Sie suchen dem Flüchtling des Landes die Chance des Lebens auf Dauer.
-5headcandidates-prepnoun	10	10	11	1	obl	Sie erzählen dem Kunden der Frau die Geschichte des Herren mit Sicherheit.
+4headcandidates-prepnoun	8	8	9	1	obl	Sie erzählen dem Menschen die Geschichte des Kindes mit Sicherheit.
+5headcandidates-prepnoun	10	10	11	1	obl	Sie gibt der Frau des Mannes das Geld des Kollegen zu Hause.
+5headcandidates-prepnoun	10	10	11	1	obl	Sie zeigt dem Gast des Kollegen das Haus der Frau zu Beginn.
+5headcandidates-prepnoun	10	10	11	1	obl	Sie bringt dem Herren der Partei die Million des Mannes nach Hause.
+5headcandidates-prepnoun	10	10	11	1	obl	Sie erklärt den Leuten der Partei den Grund des Endes seit Jahren.
+5headcandidates-prepnoun	10	10	11	1	obl	Sie stellt dem Kind des Vaters die Frage des Sohnes vor Ort.
+5headcandidates-prepnoun	10	10	11	1	obl	Er trägt dem Mann des Lebens das Kind der Familie seit Langem.
+5headcandidates-prepnoun	10	10	11	1	obl	Er beschreibt dem Gegner der Mutter das Schiff des Vaters vor Gericht.
+5headcandidates-prepnoun	10	10	11	1	obl	Er baut dem Publikum des Films den Platz der Heimat zu Ende.
+5headcandidates-prepnoun	10	10	11	1	obl	Er verkauft dem Land des Freundes den Film der Partei zu Recht.
+5headcandidates-prepnoun	10	10	11	1	obl	Er sagt der Bevölkerung des Landes den Namen der Mutter aus Angst.
+5headcandidates-prepnoun	10	10	11	1	obl	Sie bestätigen der Partei der Heimat das Recht der Meinung seit Wochen.
+5headcandidates-prepnoun	10	10	11	1	obl	Sie nennen dem Präsidenten des Amts die Forderung der Gesellschaft seit Anfang.
+5headcandidates-prepnoun	10	10	11	1	obl	Sie schicken dem Kollegen der Frau das Bild der Freundin in Zukunft.
+5headcandidates-prepnoun	10	10	11	1	obl	Sie suchen dem Flüchtling der Gesellschaft die Chance des Lebens auf Dauer.
+5headcandidates-prepnoun	10	10	11	1	obl	Sie erzählen dem Kunden der Freundin die Geschichte des Kindes mit Sicherheit.
 2headcandidates-prepdetadjnoun	6	5	7	1	obl	Sie verliert das Geld in der späten Nacht.
 2headcandidates-prepdetadjnoun	6	5	7	1	obl	Sie sagt das Wort zu dem möglichen Thema.
 2headcandidates-prepdetadjnoun	6	5	7	1	obl	Sie lässt den Mann an der internationalen Grenze.
