@@ -51,12 +51,12 @@ base-4headcandidates	9	8	10	1	obl	Sie bringt dem Herren die Million des Mannes i
 base-4headcandidates	9	8	10	1	obl	Sie stellt dem Kind die Frage des Sohnes zu dem Thema.
 base-4headcandidates	9	8	10	1	obl	Er setzt dem Gegner die Frau des Vaters auf die Bühne.
 base-4headcandidates	9	8	10	1	obl	Er nennt der Bevölkerung den Namen des Freundes in dem Film.
-base-4headcandidates	9	8	10	1	obl	Er erzählt der Welt die Geschichte der Hauses in der Nacht.
+base-4headcandidates	9	8	10	1	obl	Er erzählt der Welt die Geschichte des Hauses in der Nacht.
 base-4headcandidates	9	8	10	1	obl	Er sucht dem Präsidenten die Chance des Lebens in dem Bereich.
 base-4headcandidates	9	8	10	1	obl	Er trägt dem Mann das Kind der Familie auf dem Weg.
 base-4headcandidates	9	8	10	1	obl	Sie bauen dem Land den Platz der Heimat in dem Jahr.
 base-4headcandidates	9	8	10	1	obl	Sie schicken dem Kollegen das Bild der Wohnung in der Woche.
-base-4headcandidates	9	8	10	1	obl	Sie bestätigen der Partei das Recht der Meinung in der Bundesrepublik.
+base-4headcandidates	9	8	10	1	obl	Sie bestätigen der Partei das Recht der Rückkehr in der Bundesrepublik.
 base-4headcandidates	9	8	10	1	obl	Sie legen dem Menschen das Buch des Kindes auf den Tisch.
 base-4headcandidates	9	8	10	1	obl	Sie verkaufen dem Land den Film der Partei an der Grenze.
 base-5headcandidates	11	10	12	1	obl	Sie gibt der Frau des Mannes das Geld des Kollegen in die Hand.
@@ -71,7 +71,7 @@ base-5headcandidates	11	10	12	1	obl	Er sucht dem Präsidenten des Amts die Chanc
 base-5headcandidates	11	10	12	1	obl	Er trägt dem Mann des Lebens das Kind der Familie auf dem Weg.
 base-5headcandidates	11	10	12	1	obl	Sie bauen dem Land des Freundes den Platz der Heimat in dem Jahr.
 base-5headcandidates	11	10	12	1	obl	Sie schicken dem Kollegen der Frau das Bild der Wohnung in der Woche.
-base-5headcandidates	11	10	12	1	obl	Sie bestätigen der Partei der Heimat das Recht der Meinung in der Bundesrepublik.
+base-5headcandidates	11	10	12	1	obl	Sie bestätigen der Partei der Heimat das Recht der Rückkehr in der Bundesrepublik.
 base-5headcandidates	11	10	12	1	obl	Sie legen dem Gegner der Mutter das Buch des Kindes auf den Tisch.
 base-5headcandidates	11	10	12	1	obl	Sie verkaufen dem Land des Sohnes den Film der Partei an der Grenze.
 base-prepnoun	2	2	3	1	obl	Sie spielt zu Hause.
@@ -296,7 +296,7 @@ base-idiom	3	2	4	1	obl	Sie schlagen über die Stränge.
 4headcandidates-prepdetadjnoun	10	9	11	1	obl	Er trägt dem Mann das Kind der Familie auf dem langen Weg.
 4headcandidates-prepdetadjnoun	10	9	11	1	obl	Sie bauen dem Land den Platz der Heimat in dem nächsten Jahr.
 4headcandidates-prepdetadjnoun	10	9	11	1	obl	Sie schicken dem Kollegen das Bild der Freundin in der vergangenen Woche.
-4headcandidates-prepdetadjnoun	10	9	11	1	obl	Sie bestätigen der Partei das Recht der Meinung in der deutschen Bundesrepublik.
+4headcandidates-prepdetadjnoun	10	9	11	1	obl	Sie bestätigen der Partei das Recht der Rückkehr in der deutschen Bundesrepublik.
 4headcandidates-prepdetadjnoun	10	9	11	1	obl	Sie legen dem Menschen das Buch des Sohns auf den alten Tisch.
 4headcandidates-prepdetadjnoun	10	9	11	1	obl	Sie verkaufen dem Land den Film der Partei an der gemeinsamen Grenze.
 5headcandidates-prepdetadjnoun	12	11	13	1	obl	Sie gibt der Frau des Mannes das Geld des Kunden in die freie Hand.
@@ -309,7 +309,7 @@ base-idiom	3	2	4	1	obl	Sie schlagen über die Stränge.
 5headcandidates-prepdetadjnoun	12	11	13	1	obl	Er erzählt dem Flüchtling der Gesellschaft die Geschichte der Stadt in der ersten Nacht.
 5headcandidates-prepdetadjnoun	12	11	13	1	obl	Er sucht dem Präsidenten des Amts die Chance des Lebens in dem jungen Bereich.
 5headcandidates-prepdetadjnoun	12	11	13	1	obl	Er trägt dem Mann des Lebens das Kind des Kollegen auf dem langen Weg.
-5headcandidates-prepdetadjnoun	12	11	13	1	obl	Sie bauen dem Land des Freundes den Platz der Regierung in dem nächsten  Jahr.
+5headcandidates-prepdetadjnoun	12	11	13	1	obl	Sie bauen dem Land des Freundes den Platz der Regierung in dem nächsten Jahr.
 5headcandidates-prepdetadjnoun	12	11	13	1	obl	Sie schicken dem Kollegen der Frau das Bild des Schiffs in der vergangenen Woche.
 5headcandidates-prepdetadjnoun	12	11	13	1	obl	Sie bestätigen der Partei der Heimat das Recht der Kontrolle in der deutschen Bundesrepublik.
 5headcandidates-prepdetadjnoun	12	11	13	1	obl	Sie legen dem Gegner der Mutter das Buch des Kindes auf den alten Tisch.
@@ -362,7 +362,7 @@ base-idiom	3	2	4	1	obl	Sie schlagen über die Stränge.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie schicken dem Kollegen der Frau das Bild der Freundin im Rahmen des Films.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie bestätigt der Partei der Mitte das Recht der Meinung auf Seiten der Bundesrepublik.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie bringt dem Herren der Partei die Million des Mannes am Tag der Forderung.
-5headcandidates-pppossnp	10	10	11	1	obl	Sie erzählt dem Menschen des Werks die Geschichte der Rückkehr im Zentrum des Landes.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie erzählt dem Gast der Mutter die Geschichte der Rückkehr im Zentrum des Landes.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie beschreibt dem Gegner der Forderung den Grund des Endes mit Hilfe des Kollegen.
 5headcandidates-pppossnp	10	10	11	1	obl	Er gibt der Frau des Kollegen das Geld des Kollegen in Sache der Partei.
 5headcandidates-pppossnp	10	10	11	1	obl	Er sagt der Bevölkerung des Landes den Namen des Freundes nach Ansicht des Staats.
