@@ -164,20 +164,20 @@ base-verbheadedobjp	3	2	4	1	obl	Sie stoßen auf die Frau.
 base-verbheadedobjp	3	2	4	1	obl	Sie verweisen auf den Film.
 base-verbheadedobjp	3	2	4	1	obl	Sie hoffen auf das Publikum.
 base-verbheadedobjp	3	2	4	1	obl	Sie glauben an den Präsidenten.
-base-idiom	3	2	4	1	obl	Sie ist unter der Haube.
-base-idiom	3	2	4	1	obl	Sie ist über den Berg.
+base-idiom	3	2	4	1	obl	Sie geht unter die Gürtellinie.
+base-idiom	3	2	4	1	obl	Sie sitzt zwischen den Stühlen.
 base-idiom	3	2	4	1	obl	Sie tanzt aus der Reihe.
-base-idiom	3	2	4	1	obl	Sie ist aus dem Häuschen.
+base-idiom	3	2	4	1	obl	Sie bleibt auf dem Teppich.
 base-idiom	3	2	4	1	obl	Sie kommt aus dem Mußtopf.
 base-idiom	3	2	4	1	obl	Er drückt auf die Tube.
-base-idiom	3	2	4	1	obl	Er ist neben der Kappe.
+base-idiom	3	2	4	1	obl	Er liest zwischen den Zeilen.
 base-idiom	3	2	4	1	obl	Er sitzt an der Quelle.
 base-idiom	3	2	4	1	obl	Er steht auf dem Schlauch.
-base-idiom	3	2	4	1	obl	Er ist weg vom Fenster.
-base-idiom	3	2	4	1	obl	Sie sind von der Rolle.
+base-idiom	3	2	4	1	obl	Er geht in die Falle.
+base-idiom	3	2	4	1	obl	Sie treten in das Fettnäpfchen.
 base-idiom	3	2	4	1	obl	Sie spielen mit dem Feuer.
 base-idiom	3	2	4	1	obl	Sie springen in die Bresche.
-base-idiom	3	2	4	1	obl	Sie sitzen auf heißen Kohlen.
+base-idiom	3	2	4	1	obl	Sie gehen in die Binsen.
 base-idiom	3	2	4	1	obl	Sie schlagen über die Stränge.
 2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie bekommt die Antwort auf die Frage.
 2headcandidates-nounheadedpp	5	4	6	1	nmod	Sie geht den Schritt in die Richtung.
@@ -449,3 +449,33 @@ prepdetadjnoun-pppp	3	2	3	1	obl	Sie schreiben in die alte Hand von dem Großgrun
 prepdetadjnoun-pppp	3	2	3	1	obl	Sie erscheinen in dem freien Staat mit dem Einparteisystem.
 prepdetadjnoun-pppp	3	2	3	1	obl	Sie trinken in der kleinen Bar an der Ecke.
 prepdetadjnoun-pppp	3	2	3	1	obl	Sie arbeiten in dem anderen Bereich in der Musikindustrie.
+2headcandidates-idiom	5	4	6	1	obl	Sie nimmt die Beine in die Hand.
+2headcandidates-idiom	5	4	6	1	obl	Sie lässt die Katze aus dem Sack.
+2headcandidates-idiom	5	4	6	1	obl	Sie tritt der Regierung auf den Schlips.
+2headcandidates-idiom	5	4	6	1	obl	Sie findet ein Haar in der Suppe.
+2headcandidates-idiom	5	4	6	1	obl	Sie trägt das Herz auf der Zunge.
+2headcandidates-idiom	5	4	6	1	obl	Er malt den Teufel an die Wand.
+2headcandidates-idiom	5	4	6	1	obl	Er zwingt den Gegner in die Knie.
+2headcandidates-idiom	5	4	6	1	obl	Er steckt den Kopf in den Sand.
+2headcandidates-idiom	5	4	6	1	obl	Er hält das Heft in der Hand.
+2headcandidates-idiom	5	4	6	1	obl	Er legt den Finger in die Wunde.
+2headcandidates-idiom	5	4	6	1	obl	Sie nehmen das Kind auf den Arm.
+2headcandidates-idiom	5	4	6	1	obl	Sie treffen den Nagel auf den Kopf.
+2headcandidates-idiom	5	4	6	1	obl	Sie wickeln die Leute um den Finger.
+2headcandidates-idiom	5	4	6	1	obl	Sie bringen den Mann auf die Palme.
+2headcandidates-idiom	5	4	6	1	obl	Sie ziehen die Menschen durch den Kakao.
+ppbeforehead-idiom	1	0	2	3	obl	Unter die Gürtellinie geht sie.
+ppbeforehead-idiom	1	0	2	3	obl	Zwischen den Stühlen sitzt sie.
+ppbeforehead-idiom	1	0	2	3	obl	Aus der Reihe tanzt sie.
+ppbeforehead-idiom	1	0	2	3	obl	Auf dem Teppich bleibt sie.
+ppbeforehead-idiom	1	0	2	3	obl	Aus dem Mußtopf kommt sie.
+ppbeforehead-idiom	1	0	2	3	obl	Auf die Tube drückt er.
+ppbeforehead-idiom	1	0	2	3	obl	Zwischen den Zeilen liest er.
+ppbeforehead-idiom	1	0	2	3	obl	An der Quelle sitzt er.
+ppbeforehead-idiom	1	0	2	3	obl	Auf dem Schlauch steht er.
+ppbeforehead-idiom	1	0	2	3	obl	In die Falle geht er.
+ppbeforehead-idiom	1	0	2	3	obl	In das Fettnäpfchen treten sie.
+ppbeforehead-idiom	1	0	2	3	obl	Mit dem Feuer spielen sie.
+ppbeforehead-idiom	1	0	2	3	obl	In die Bresche springen sie.
+ppbeforehead-idiom	1	0	2	3	obl	In die Binsen gehen sie.
+ppbeforehead-idiom	1	0	2	3	obl	Über die Stränge schlagen sie.
