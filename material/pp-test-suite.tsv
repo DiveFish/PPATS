@@ -374,6 +374,86 @@ base-idiom	3	2	4	1	obl	Sie schlagen über die Stränge.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie verkaufen dem Land des Sohnes den Film der Frau an Bord des Schiffs.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie nennen dem Präsidenten der Heimat die Forderung der Gesellschaft im Vorfeld der Sache.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie stellen dem Kind des Vaters die Frage des Sohnes in Zeiten der Spekulation.
+----- below here is done
+2headcandidates-ppbeforehead	1	0	2	3	obl	In der Hand hat sie das Geld.
+2headcandidates-ppbeforehead	1	0	2	3	obl	Zu dem Thema sagt sie das Wort.
+2headcandidates-ppbeforehead	1	0	2	3	obl	Auf der Straße lässt sie den Mann.
+2headcandidates-ppbeforehead	1	0	2	3	obl	In das Haus sieht sie den Weg.
+2headcandidates-ppbeforehead	1	0	2	3	obl	In der Welt findet sie den Platz.
+2headcandidates-ppbeforehead	1	0	2	3	obl	In dem Bereich zeigt er das Problem.
+2headcandidates-ppbeforehead	1	0	2	3	obl	In der Hand hält er das Bild.
+2headcandidates-ppbeforehead	1	0	2	3	obl	Auf die Bühne nimmt er das Kind.
+2headcandidates-ppbeforehead	1	0	2	3	obl	An das Ende führt er die Frau.
+2headcandidates-ppbeforehead	1	0	2	3	obl	In dem Jahr bekommt er die Chance.
+2headcandidates-ppbeforehead	1	0	2	3	obl	In der Bundesrepublik fordern sie das Recht.
+2headcandidates-ppbeforehead	1	0	2	3	obl	In der Nacht schreiben sie die Geschichte.
+2headcandidates-ppbeforehead	1	0	2	3	obl	In der Stadt wollen sie die Arbeit.
+2headcandidates-ppbeforehead	1	0	2	3	obl	In dem Film erhalten sie die Rolle.
+2headcandidates-ppbeforehead	1	0	2	3	obl	Für die Frau brauchen sie die Zeit.
+----- below here name and numbers correct, sentences must be changed
+3headcandidates-ppbeforehead	1	0	2	3	obl	In der Hand hat sie das Geld.
+3headcandidates-ppbeforehead	1	0	2	3	obl	Zu dem Thema sagt sie das Wort.
+3headcandidates-ppbeforehead	1	0	2	3	obl	Auf der Straße lässt sie den Mann.
+3headcandidates-ppbeforehead	1	0	2	3	obl	In das Haus sieht sie den Weg.
+3headcandidates-ppbeforehead	1	0	2	3	obl	In der Welt findet sie den Platz.
+3headcandidates-ppbeforehead	1	0	2	3	obl	In dem Bereich zeigt er das Problem.
+3headcandidates-ppbeforehead	1	0	2	3	obl	In der Hand hält er das Bild.
+3headcandidates-ppbeforehead	1	0	2	3	obl	Auf die Bühne nimmt er das Kind.
+3headcandidates-ppbeforehead	1	0	2	3	obl	An das Ende führt er die Frau.
+3headcandidates-ppbeforehead	1	0	2	3	obl	In dem Jahr bekommt er die Chance.
+3headcandidates-ppbeforehead	1	0	2	3	obl	In der Bundesrepublik fordern sie das Recht.
+3headcandidates-ppbeforehead	1	0	2	3	obl	In der Nacht schreiben sie die Geschichte.
+3headcandidates-ppbeforehead	1	0	2	3	obl	In der Stadt wollen sie die Arbeit.
+3headcandidates-ppbeforehead	1	0	2	3	obl	In dem Film erhalten sie die Rolle.
+3headcandidates-ppbeforehead	1	0	2	3	obl	Für die Frau brauchen sie die Zeit.
+----- below here is helper for next categories
+base-3headcandidates	7	6	8	1	obl	In die Hand gibt sie der Frau das Geld.
+base-3headcandidates	7	6	8	1	obl	Sie zeigt dem Gast das Haus mit der Hand.
+base-3headcandidates	7	6	8	1	obl	Sie erklärt den Leuten den Grund auf der Straße.
+base-3headcandidates	7	6	8	1	obl	Sie bringt dem Herren die Million in das Haus.
+base-3headcandidates	7	6	8	1	obl	Sie stellt dem Kind die Frage zu dem Thema.
+base-3headcandidates	7	6	8	1	obl	Er setzt dem Gegner die Frau auf die Bühne.
+base-3headcandidates	7	6	8	1	obl	Er nennt der Bevölkerung den Namen in dem Film.
+base-3headcandidates	7	6	8	1	obl	Er erzählt der Welt die Geschichte in der Nacht.
+base-3headcandidates	7	6	8	1	obl	Er sucht dem Präsidenten die Chance in dem Bereich.
+base-3headcandidates	7	6	8	1	obl	Er trägt dem Mann das Kind auf dem Weg.
+base-3headcandidates	7	6	8	1	obl	Sie bauen dem Publikum den Platz in dem Jahr.
+base-3headcandidates	7	6	8	1	obl	Sie schicken dem Kollegen das Bild in der Woche.
+base-3headcandidates	7	6	8	1	obl	Sie bestätigen der Partei das Recht in der Bundesrepublik.
+base-3headcandidates	7	6	8	1	obl	Sie legen dem Menschen das Buch auf den Tisch.
+base-3headcandidates	7	6	8	1	obl	Sie verkaufen dem Land den Film an der Grenze.
+base-4headcandidates	9	8	10	1	obl	Sie gibt der Frau das Geld des Kollegen in die Hand.
+base-4headcandidates	9	8	10	1	obl	Sie zeigt dem Gast das Haus der Frau mit der Hand.
+base-4headcandidates	9	8	10	1	obl	Sie erklärt den Leuten den Grund des Endes auf der Straße.
+base-4headcandidates	9	8	10	1	obl	Sie bringt dem Herren die Million des Mannes in das Haus.
+base-4headcandidates	9	8	10	1	obl	Sie stellt dem Kind die Frage des Sohnes zu dem Thema.
+base-4headcandidates	9	8	10	1	obl	Er setzt dem Gegner die Frau des Vaters auf die Bühne.
+base-4headcandidates	9	8	10	1	obl	Er nennt der Bevölkerung den Namen des Freundes in dem Film.
+base-4headcandidates	9	8	10	1	obl	Er erzählt der Welt die Geschichte des Hauses in der Nacht.
+base-4headcandidates	9	8	10	1	obl	Er sucht dem Präsidenten die Chance des Lebens in dem Bereich.
+base-4headcandidates	9	8	10	1	obl	Er trägt dem Mann das Kind der Familie auf dem Weg.
+base-4headcandidates	9	8	10	1	obl	Sie bauen dem Land den Platz der Heimat in dem Jahr.
+base-4headcandidates	9	8	10	1	obl	Sie schicken dem Kollegen das Bild der Wohnung in der Woche.
+base-4headcandidates	9	8	10	1	obl	Sie bestätigen der Partei das Recht der Rückkehr in der Bundesrepublik.
+base-4headcandidates	9	8	10	1	obl	Sie legen dem Menschen das Buch des Kindes auf den Tisch.
+base-4headcandidates	9	8	10	1	obl	Sie verkaufen dem Land den Film der Partei an der Grenze.
+base-5headcandidates	11	10	12	1	obl	Sie gibt der Frau des Mannes das Geld des Kollegen in die Hand.
+base-5headcandidates	11	10	12	1	obl	Sie zeigt dem Gast des Kollegen das Haus der Frau mit der Hand.
+base-5headcandidates	11	10	12	1	obl	Sie erklärt den Leuten der Partei den Grund des Endes auf der Straße.
+base-5headcandidates	11	10	12	1	obl	Sie bringt dem Herren des Hauses die Million des Mannes in das Haus.
+base-5headcandidates	11	10	12	1	obl	Sie stellt dem Kind des Vaters die Frage des Sohnes zu dem Thema.
+base-5headcandidates	11	10	12	1	obl	Er setzt dem Publikum des Films die Frau des Vaters auf die Bühne.
+base-5headcandidates	11	10	12	1	obl	Er nennt der Bevölkerung des Landes den Namen des Freundes in dem Film.
+base-5headcandidates	11	10	12	1	obl	Er erzählt dem Flüchtling der Gesellschaft die Geschichte des Hauses in der Nacht.
+base-5headcandidates	11	10	12	1	obl	Er sucht dem Präsidenten des Amts die Chance des Lebens in dem Bereich.
+base-5headcandidates	11	10	12	1	obl	Er trägt dem Mann des Lebens das Kind der Familie auf dem Weg.
+base-5headcandidates	11	10	12	1	obl	Sie bauen dem Land des Freundes den Platz der Heimat in dem Jahr.
+base-5headcandidates	11	10	12	1	obl	Sie schicken dem Kollegen der Frau das Bild der Wohnung in der Woche.
+base-5headcandidates	11	10	12	1	obl	Sie bestätigen der Partei der Heimat das Recht der Rückkehr in der Bundesrepublik.
+base-5headcandidates	11	10	12	1	obl	Sie legen dem Gegner der Mutter das Buch des Kindes auf den Tisch.
+base-5headcandidates	11	10	12	1	obl	Sie verkaufen dem Land des Sohnes den Film der Partei an der Grenze.
+
+---> below here is idiom data created by Patricia; must stay
 2headcandidates-idiom	5	4	6	1	obl Sie nimmt die Beine in die Hand.
 2headcandidates-idiom	5	4	6	1	obl Sie lässt die Katze aus dem Sack.
 2headcandidates-idiom	5	4	6	1	obl Sie tritt der Regierung auf den Schlips.
