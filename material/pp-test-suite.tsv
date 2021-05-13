@@ -434,6 +434,81 @@ base-idiom	3	2	4	1	obl	Sie schlagen über die Stränge.
 5headcandidates-ppbeforehead	1	0	2	3	obl	In der Bundesrepublik bestätigen sie der Partei der Heimat das Recht der Rückkehr.
 5headcandidates-ppbeforehead	1	0	2	3	obl	Auf den Tisch legen sie dem Gast der Familie das Buch des Kindes.
 5headcandidates-ppbeforehead	1	0	2	3	obl	An der Grenze verkaufen sie dem Land des Sohnes den Film der Partei.
+ppbeforehead-prepnoun	1	0	1	2	obl	Zu Hause spielt sie.
+ppbeforehead-prepnoun	1	0	1	2	obl	Zu Beginn erscheint sie.
+ppbeforehead-prepnoun	1	0	1	2	obl	In Frage steht sie.
+ppbeforehead-prepnoun	1	0	1	2	obl	Seit Jahren lebt sie.
+ppbeforehead-prepnoun	1	0	1	2	obl	Zu Ende arbeitet sie.
+ppbeforehead-prepnoun	1	0	1	2	obl	Nach Hause kommt er.
+ppbeforehead-prepnoun	1	0	1	2	obl	Vor Ort spricht er.
+ppbeforehead-prepnoun	1	0	1	2	obl	Mit Sicherheit beginnt er.
+ppbeforehead-prepnoun	1	0	1	2	obl	In Bewegung bleibt er.
+ppbeforehead-prepnoun	1	0	1	2	obl	Seit Langem glaubt er.
+ppbeforehead-prepnoun	1	0	1	2	obl	Für Gerechtigkeit schreiben sie.
+ppbeforehead-prepnoun	1	0	1	2	obl	Seit Wochen liegen sie.
+ppbeforehead-prepnoun	1	0	1	2	obl	Seit Anfang bestehen sie.
+ppbeforehead-prepnoun	1	0	1	2	obl	Aus Angst gehen sie.
+ppbeforehead-prepnoun	1	0	1	2	obl	Zu Recht gelten sie.
+ppbeforehead-prepdetadjnoun	1	0	2	3	obl	Auf dem langen Weg geht.
+ppbeforehead-prepdetadjnoun	1	0	2	3	obl	Auf der hohen Bühne steht sie.
+ppbeforehead-prepdetadjnoun	1	0	2	3	obl	In der deutschen Bundesrepublik bleibt sie.
+ppbeforehead-prepdetadjnoun	1	0	2	3	obl	Auf die freie Straße zeigt sie.
+ppbeforehead-prepdetadjnoun	1	0	2	3	obl	In dem kurzen Film spricht sie.
+ppbeforehead-prepdetadjnoun	1	0	2	3	obl	In dem großen Haus liegt er.
+ppbeforehead-prepdetadjnoun	1	0	2	3	obl	In der anderen Stadt spielt er.
+ppbeforehead-prepdetadjnoun	1	0	2	3	obl	Zu dem möglichen Thema spricht er.
+ppbeforehead-prepdetadjnoun	1	0	2	3	obl	In der späten Nacht beginnt er.
+ppbeforehead-prepdetadjnoun	1	0	2	3	obl	In dem vergangenen Jahr lebt er.
+ppbeforehead-prepdetadjnoun	1	0	2	3	obl	In der neuen Woche gelten sie.
+ppbeforehead-prepdetadjnoun	1	0	2	3	obl	In die eigene Hand schreiben sie.
+ppbeforehead-prepdetadjnoun	1	0	2	3	obl	In der politischen Welt erscheinen sie.
+ppbeforehead-prepdetadjnoun	1	0	2	3	obl	An dem guten Ende sitzen sie.
+ppbeforehead-prepdetadjnoun	1	0	2	3	obl	In dem ganzen Bereich arbeiten sie.
+ppbeforehead-pppossnp	3	0	1	4	obl	Im Rahmen des Films spricht sie.
+ppbeforehead-pppossnp	3	0	1	4	obl	Auf Seiten des Amts steht sie.
+ppbeforehead-pppossnp	3	0	1	4	obl	Nach Angabe des Werks handelt sie.
+ppbeforehead-pppossnp	3	0	1	4	obl	In Richtung des Hauses geht sie.
+ppbeforehead-pppossnp	3	0	1	4	obl	Mit Hilfe des Kollegen arbeitet sie.
+ppbeforehead-pppossnp	3	0	1	4	obl	In Sache der Partei schreibt er.
+ppbeforehead-pppossnp	3	0	1	4	obl	Nach Ansicht der Gesellschaft lebt er.
+ppbeforehead-pppossnp	3	0	1	4	obl	In Form des Mannes erscheint er.
+ppbeforehead-pppossnp	3	0	1	4	obl	Seit Beginn der Zeit redet er.
+ppbeforehead-pppossnp	3	0	1	4	obl	Seit Anfang des Lebens liegt er.
+ppbeforehead-pppossnp	3	0	1	4	obl	Bis Ende des Buchs gelten sie.
+ppbeforehead-pppossnp	2	2	3	1	obl	Von Seiten des Sohnes kommen sie.
+ppbeforehead-pppossnp	3	0	1	4	obl	Im Zentrum der Wohnung bleiben sie.
+ppbeforehead-pppossnp	3	0	1	4	obl	Auf Kosten der Frau trinken sie.
+ppbeforehead-pppossnp	3	0	1	4	obl	In Zeiten der Rückkehr beginnen sie.
+ppbeforehead-pppp	4	0	2	6	obl	An die Grenze mit dem Zaun kommt sie.
+ppbeforehead-pppp	4	0	2	6	obl	Auf dem Weg in die Zukunft geht sie.
+ppbeforehead-pppp	4	0	2	6	obl	Auf der Bühne in dem Schauspielhaus steht sie.
+ppbeforehead-pppp	4	0	2	6	obl	Für die Frau in der Kneipe bleibt sie.
+ppbeforehead-pppp	4	0	2	6	obl	Auf der Straße in dem Berg sucht sie.
+ppbeforehead-pppp	4	0	2	6	obl	In dem Haus in der Straße liegt er.
+ppbeforehead-pppp	4	0	2	6	obl	In der Stadt mit dem Fluss baut er.
+ppbeforehead-pppp	4	0	2	6	obl	In dem Film über den Krieg spielt er.
+ppbeforehead-pppp	4	0	2	6	obl	In der Nacht vor dem Tod beginnt er.
+ppbeforehead-pppp	4	0	2	6	obl	In dem Land mit der Insel lebt er.
+ppbeforehead-pppp	4	0	2	6	obl	In dem Monat mit den Feiertagen gelten sie.
+ppbeforehead-pppp	4	0	2	6	obl	In die Hand von dem Großgrundbesitzer schreiben sie.
+ppbeforehead-pppp	4	0	2	6	obl	In dem Staat mit dem Einparteisystem erscheinen sie.
+ppbeforehead-pppp	4	0	2	6	obl	In der Bar an der Ecke trinken sie.
+ppbeforehead-pppp	4	0	2	6	obl	In dem Bereich in der Musikindustrie arbeiten sie.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Zu der Forderung kommt sie.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Zu dem Kind gehört sie.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Für den Flüchtling sorgt sie.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Mit dem Kunden rechnet sie.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Zu der Regierung steht sie.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	In die Sache gerät er.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	An den Gegner erinnert er.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Aus dem Staat stammt er.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	In dem Thema steckt er.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Über die Leute verfügt er.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Aus der Bevölkerung bestehen sie.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Auf die Frau stoßen sie.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Auf den Film verweisen sie.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Auf das Publikum hoffen sie.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	An den Präsidenten glauben sie.
 2headcandidates-idiom	5	4	6	1	obl Sie nimmt die Beine in die Hand.
 2headcandidates-idiom	5	4	6	1	obl Sie lässt die Katze aus dem Sack.
 2headcandidates-idiom	5	4	6	1	obl Sie tritt der Regierung auf den Schlips.
