@@ -464,3 +464,78 @@ ppbeforehead-idiom	1	0	2	3	obl	Über die Stränge schlagen sie.
 5headcandidates-verbheadedobjp	11	10	12	1	obl	Sie halten dem Staat des Flüchtlings die Sache der Partei unter die Nase.
 5headcandidates-verbheadedobjp	11	10	12	1	obl	Sie mischen dem Land des Sohnes den Flüchtling des Landes unter die Regierung.
 5headcandidates-verbheadedobjp	11	10	12	1	obl	Sie erfüllen dem Gast des Kollegen das Leben der Spekulation mit der Forderung.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie geht zu Ende.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie kommt in Frage.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie tritt in Kraft.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie kommt zu Wort.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie steht in Aussicht.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Er steht vor Gericht.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Er geht auf Sendung.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Er kommt in Betracht.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Er bittet um Hilfe.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Er sorgt für Aufregung.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie ziehen zu Felde.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie stehen unter Druck.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie gehen auf Distanz.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie gehen in Führung.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie geraten außer Kontrolle.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie kommt zu der letzten Forderung.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie gehört zu dem kleinen Kind.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie sorgt für den alten Flüchtling.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie rechnet mit dem anderen Kunden.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie steht zu der internationalen Regierung.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Er gerät in die öffentliche Sache.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Er erinnert an den gemeinsamen Gegner.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Er stammt aus dem freien Staat.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Er steckt in dem vergangenen Thema.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Er verfügt über die beiden Leute.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie bestehen aus der deutschen Bevölkerung.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie stoßen auf die große Frau.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie verweisen auf den ersten Film.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie hoffen auf das politische Publikum.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie glauben an den neuen Präsidenten.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie kommt zu der Forderung der Frau.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie gehört zu dem Kind der Familie.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie sorgt für den Flüchtling des Landes.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie rechnet mit dem Kunden des Herren.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie steht zu der Regierung der Gesellschaft.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Er gerät in die Sache der Partei.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Er erinnert an den Gegner der Mutter.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Er stammt aus dem Staat des Gastes.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Er steckt in dem Thema des Publikums.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Er verfügt über die Leute der Stadt.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie bestehen aus der Bevölkerung des Staates.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie stoßen auf die Frau des Vaters.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie verweisen auf den Film der Regierung.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie hoffen auf das Publikum des Films.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie glauben an den Präsidenten des Amts.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie kommt zu der Grenze mit dem Zaun.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie gehört zu der Frau in der Kneipe.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie sorgt für den Staat mit dem Einparteisystem.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie rechnet mit dem Film über den Krieg.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie steht zu dem Land mit der Insel.
+pppp-verbheadedobjp	3	2	4	1	obl	Er gerät in die Hand von dem Großgrundbesitzer.
+pppp-verbheadedobjp	3	2	4	1	obl	Er erinnert an den Monat mit den Feiertagen.
+pppp-verbheadedobjp	3	2	4	1	obl	Er stammt aus dem Haus in der Straße.
+pppp-verbheadedobjp	3	2	4	1	obl	Er steckt in der Bar an der Ecke.
+pppp-verbheadedobjp	3	2	4	1	obl	Er verfügt über den Bereich in der Musikindustrie.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie bestehen aus der Stadt mit dem Fluss.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie stoßen auf den Weg in die Zukunft.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie verweisen auf die Bühne in dem Schauspielhaus.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie hoffen auf die Straße in dem Berg.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie glauben an die Nacht vor dem Tod.
+ppbeforehead-verbheadedobjp	3	2	4	1	obl	Zu der Forderung kommt sie.
+ppbeforehead-verbheadedobjp	3	2	4	1	obl	Zu dem Kind gehört sie.
+ppbeforehead-verbheadedobjp	3	2	4	1	obl	Für den Flüchtling sorgt sie.
+ppbeforehead-verbheadedobjp	3	2	4	1	obl	Mit dem Kunden rechnet sie.
+ppbeforehead-verbheadedobjp	3	2	4	1	obl	Zu der Regierung steht sie.
+ppbeforehead-verbheadedobjp	3	2	4	1	obl	In die Sache gerät sie.
+ppbeforehead-verbheadedobjp	3	2	4	1	obl	An den Gegner erinnert er.
+ppbeforehead-verbheadedobjp	3	2	4	1	obl	Aus dem Staat stammt er.
+ppbeforehead-verbheadedobjp	3	2	4	1	obl	In dem Thema steckt er.
+ppbeforehead-verbheadedobjp	3	2	4	1	obl	Über die Leute verfügt er.
+ppbeforehead-verbheadedobjp	3	2	4	1	obl	Aus der Bevölkerung bestehen sie.
+ppbeforehead-verbheadedobjp	3	2	4	1	obl	Auf die Frau stoßen sie.
+ppbeforehead-verbheadedobjp	3	2	4	1	obl	Auf den Film verweisen sie.
+ppbeforehead-verbheadedobjp	3	2	4	1	obl	Auf das Publikum hoffen sie.
+ppbeforehead-verbheadedobjp	3	2	4	1	obl	An den Präsidenten glauben sie.
