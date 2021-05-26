@@ -104,7 +104,7 @@ base-5headcandidates	11	10	12	1	obl	Sie verkaufen dem Land des Sohnes den Film d
 1headcandidate-prepdetadjnoun	4	2	5	1	obl	Sie erscheinen in der politischen Welt.
 1headcandidate-prepdetadjnoun	4	2	5	1	obl	Sie sitzen an dem guten Ende.
 1headcandidate-prepdetadjnoun	4	2	5	1	obl	Sie arbeiten in dem ganzen Bereich.
-1headcandidate-pppossnp	2	2	3	1	obl	Sie spricht im Rahmen des Films.
+1headcandidate-pppossnp	2	2	3	1	obl	Sie spricht auf Frage des Vaters.
 1headcandidate-pppossnp	2	2	3	1	obl	Sie steht auf Seiten des Amts.
 1headcandidate-pppossnp	2	2	3	1	obl	Sie handelt nach Angabe des Werks.
 1headcandidate-pppossnp	2	2	3	1	obl	Sie geht in Richtung des Hauses.
@@ -116,7 +116,7 @@ base-5headcandidates	11	10	12	1	obl	Sie verkaufen dem Land des Sohnes den Film d
 1headcandidate-pppossnp	2	2	3	1	obl	Er liegt seit Anfang des Lebens.
 1headcandidate-pppossnp	2	2	3	1	obl	Sie gelten bis Ende des Buchs.
 1headcandidate-pppossnp	2	2	3	1	obl	Sie kommen von Seiten des Sohnes.
-1headcandidate-pppossnp	2	2	3	1	obl	Sie bleiben im Zentrum der Wohnung.
+1headcandidate-pppossnp	2	2	3	1	obl	Sie zeichnen aus Sicht der Mutter.
 1headcandidate-pppossnp	2	2	3	1	obl	Sie trinken auf Kosten der Frau.
 1headcandidate-pppossnp	2	2	3	1	obl	Sie beginnen in Zeiten der Rückkehr.
 1headcandidate-pppp	3	2	3	1	obl	Sie kommt an die Grenze mit dem Zaun.
@@ -314,14 +314,14 @@ base-prepdetadjnoun	6	5	7	1	obl	Sie erzählen die Geschichte in der ganzen Welt.
 5headcandidates-prepdetadjnoun	12	11	13	1	obl	Sie bestätigen der Partei der Heimat das Recht der Kontrolle in der deutschen Bundesrepublik.
 5headcandidates-prepdetadjnoun	12	11	13	1	obl	Sie legen dem Gegner der Mutter das Buch des Kindes auf den alten Tisch.
 5headcandidates-prepdetadjnoun	12	11	13	1	obl	Sie verkaufen dem Kunden der Freundin den Film der Partei an der gemeinsamen Grenze.
-base-pppossnp	4	4	5	1	obl	Sie sagt das Wort im Rahmen des Films.
+base-pppossnp	4	4	5	1	obl	Sie sagt das Wort auf Frage des Vaters.
 base-pppossnp	4	4	5	1	obl	Sie zeigt das Problem auf Seiten der Bundesrepublik.
 base-pppossnp	4	4	5	1	obl	Sie schreibt das Buch nach Angabe der Regierung.
 base-pppossnp	4	4	5	1	obl	Sie führt die Frau in Richtung des Gegners.
 base-pppossnp	4	4	5	1	obl	Sie bekommt die Chance mit Hilfe des Kollegen.
 base-pppossnp	4	4	5	1	obl	Er fordert das Recht in Sache der Partei.
 base-pppossnp	4	4	5	1	obl	Er hat die Zeit nach Ansicht des Staats.
-base-pppossnp	4	4	5	1	obl	Er verliert das Interesse am Tag der Forderung.
+base-pppossnp	4	4	5	1	obl	Er verliert das Interesse auf Basis der Forderung.
 base-pppossnp	4	4	5	1	obl	Er hält den Gast seit Beginn der Kontrolle.
 base-pppossnp	4	4	5	1	obl	Er mag den Mann seit Anfang des Lebens.
 base-pppossnp	4	4	5	1	obl	Sie erhalten die Rolle bis Ende des Jahres.
@@ -329,10 +329,10 @@ base-pppossnp	4	4	5	1	obl	Sie erhalten den Film von Seiten des Präsidenten.
 base-pppossnp	4	4	5	1	obl	Sie setzen das Kind an Bord des Schiffs.
 base-pppossnp	4	4	5	1	obl	Sie verlieren das Geld auf Kosten der Bevölkerung.
 base-pppossnp	4	4	5	1	obl	Sie erzählen die Geschichte in Zeiten der Spekulation.
-3headcandidates-pppossnp	6	6	7	1	obl	Sie schicken dem Kollegen das Bild im Rahmen des Films.
+3headcandidates-pppossnp	6	6	7	1	obl	Sie schicken dem Kollegen das Bild auf Frage des Vaters.
 3headcandidates-pppossnp	6	6	7	1	obl	Sie bestätigt der Partei das Recht auf Seiten der Bundesrepublik.
-3headcandidates-pppossnp	6	6	7	1	obl	Sie bringt dem Herren die Million am Tag der Forderung.
-3headcandidates-pppossnp	6	6	7	1	obl	Sie erzählt dem Menschen die Geschichte am Tag der Forderung.
+3headcandidates-pppossnp	6	6	7	1	obl	Sie bringt dem Herren die Million auf Basis der Forderung.
+3headcandidates-pppossnp	6	6	7	1	obl	Sie erzählt dem Menschen die Geschichte aus Sicht der Mutter.
 3headcandidates-pppossnp	6	6	7	1	obl	Sie beschreibt dem Gegner den Grund mit Hilfe des Kollegen.
 3headcandidates-pppossnp	6	6	7	1	obl	Er gibt der Frau das Geld in Sache der Partei.
 3headcandidates-pppossnp	6	6	7	1	obl	Er sagt der Bevölkerung den Namen nach Ansicht des Staats.
@@ -346,7 +346,7 @@ base-pppossnp	4	4	5	1	obl	Sie erzählen die Geschichte in Zeiten der Spekulation
 3headcandidates-pppossnp	6	6	7	1	obl	Sie stellen dem Kind die Frage in Zeiten der Spekulation.
 4headcandidates-pppossnp	8	8	9	1	obl	Sie schicken dem Kollegen das Bild der Freundin im Rahmen des Films.
 4headcandidates-pppossnp	8	8	9	1	obl	Sie bestätigt der Partei das Recht der Meinung auf Seiten der Bundesrepublik.
-4headcandidates-pppossnp	8	8	9	1	obl	Sie bringt dem Herren die Million des Mannes am Tag der Forderung.
+4headcandidates-pppossnp	8	8	9	1	obl	Sie bringt dem Herren die Million des Mannes auf Basis der Forderung.
 4headcandidates-pppossnp	8	8	9	1	obl	Sie erzählt dem Menschen die Geschichte der Rückkehr im Zentrum des Landes.
 4headcandidates-pppossnp	8	8	9	1	obl	Sie beschreibt dem Gegner den Grund des Endes mit Hilfe des Kollegen.
 4headcandidates-pppossnp	8	8	9	1	obl	Er gibt der Frau das Geld des Kollegen in Sache der Partei.
@@ -359,10 +359,10 @@ base-pppossnp	4	4	5	1	obl	Sie erzählen die Geschichte in Zeiten der Spekulation
 4headcandidates-pppossnp	8	8	9	1	obl	Sie verkaufen dem Land den Film der Frau an Bord des Schiffs.
 4headcandidates-pppossnp	8	8	9	1	obl	Sie nennen dem Präsidenten die Forderung der Gesellschaft im Vorfeld der Sache.
 4headcandidates-pppossnp	8	8	9	1	obl	Sie stellen dem Kind die Frage des Sohnes in Zeiten der Spekulation.
-5headcandidates-pppossnp	10	10	11	1	obl	Sie schicken dem Kollegen der Frau das Bild der Freundin im Rahmen des Films.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie schicken dem Kollegen der Frau das Bild der Freundin auf Frage des Vaters.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie bestätigt der Partei der Mitte das Recht der Meinung auf Seiten der Bundesrepublik.
-5headcandidates-pppossnp	10	10	11	1	obl	Sie bringt dem Herren der Partei die Million des Mannes am Tag der Forderung.
-5headcandidates-pppossnp	10	10	11	1	obl	Sie erzählt dem Gast der Mutter die Geschichte der Rückkehr im Zentrum des Landes.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie bringt dem Herren der Partei die Million des Mannes auf Basis der Forderung.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie erzählt dem Gast der Mutter die Geschichte der Rückkehr aus Sicht des Landes.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie beschreibt dem Gegner der Forderung den Grund des Endes mit Hilfe des Kollegen.
 5headcandidates-pppossnp	10	10	11	1	obl	Er gibt der Frau des Kollegen das Geld des Kollegen in Sache der Partei.
 5headcandidates-pppossnp	10	10	11	1	obl	Er sagt der Bevölkerung des Landes den Namen des Freundes nach Ansicht des Staats.
@@ -372,7 +372,7 @@ base-pppossnp	4	4	5	1	obl	Sie erzählen die Geschichte in Zeiten der Spekulation
 5headcandidates-pppossnp	10	10	11	1	obl	Sie bauen dem Publikum des Films den Platz der Heimat bis Ende des Jahres.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie erklären den Leuten des Amts das Buch des Kindes von Seiten des Präsidenten.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie verkaufen dem Land des Sohnes den Film der Frau an Bord des Schiffs.
-5headcandidates-pppossnp	10	10	11	1	obl	Sie nennen dem Präsidenten der Heimat die Forderung der Gesellschaft im Vorfeld der Sache.
+5headcandidates-pppossnp	10	10	11	1	obl	Sie nennen dem Präsidenten der Heimat die Forderung der Gesellschaft nach Meinung der Mutter.
 5headcandidates-pppossnp	10	10	11	1	obl	Sie stellen dem Kind des Vaters die Frage des Sohnes in Zeiten der Spekulation.
 base-pppp	5	4	6	1	obl	Sie bringt das Kind an die Grenze mit dem Zaun.
 base-pppp	5	4	6	1	obl	Sie sagt das Wort auf dem Weg in die Zukunft.
@@ -447,7 +447,7 @@ prepdetadjnoun-pppp	6	4	7	1	obl	Er bekommt die Chance in dem großen Land mit de
 prepdetadjnoun-pppp	6	4	7	1	obl	Sie zeigen das Kind in dem nächsten Monat mit den Feiertagen.
 prepdetadjnoun-pppp	6	4	7	1	obl	Sie legen das Bild in die alte Hand von dem Großgrundbesitzer.
 prepdetadjnoun-pppp	6	4	7	1	obl	Sie fordern das Recht in dem freien Staat mit dem Einparteisystem.
-prepdetadjnoun-pppp	6	4	7	1	obl	Sie führt die Frau in die kleine Bar an der Ecke.
+prepdetadjnoun-pppp	6	4	7	1	obl	Sie führt die Frau in der kleinen Bar an der Ecke.
 prepdetadjnoun-pppp	6	4	7	1	obl	Sie finden den Mann in dem anderen Bereich in der Musikindustrie.
 base-ppbeforehead	1	0	2	3	obl	In der Hand hat sie das Geld.
 base-ppbeforehead	1	0	2	3	obl	Zu dem Thema sagt sie das Wort.

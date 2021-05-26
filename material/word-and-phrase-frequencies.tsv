@@ -165,7 +165,6 @@ ppwithcontrdetandadj
 ppwithcontrdetandadj
 ppwithcontrdetandadj
 ppwithcontrdetandadj
-ppwithpossnp	im-Rahmen-des	153
 ppwithpossnp	auf-Seiten-des	115
 ppwithpossnp	nach-Angabe-des	165
 ppwithpossnp	in-Richtung-des	105
@@ -180,9 +179,11 @@ ppwithpossnp	von-Seiten-des	35
 ppwithpossnp	an-Bord-des	33
 ppwithpossnp	auf-Kosten-des	29
 ppwithpossnp	in-Zeiten-des	26
-ppwithpossnp	am-Tag-des	24
-ppwithpossnp	im-Zentrum-des	23
-ppwithpossnp	im-Vorfeld-des	22
+ppwithpossnp	auf-Frage-des	22
+ppwithpossnp	aus-Sicht-des	22
+ppwithpossnp	nach-Meinung-des	22
+ppwithpossnp	mit-Ausnahme-des	22
+ppwithpossnp	auf-Basis-des	22
 ppobjpp	Weg-in-die-Zukunft	4
 ppobjpp	Bühne-in-dem-Schauspielhaus	2
 ppobjpp	Straße-in-dem-Berg	2
@@ -359,3 +360,17 @@ nmod:poss	Forderung	28
 nmod:poss	Amt	27
 nmod:poss	Gesellschaft	21
 nmod:poss	Rückkehr	17
+possnp+pp	Films-über-Flucht	2
+possnp+pp	Amts-für-Jugend	3
+possnp+pp	Werks-in-Branche	1
+possnp+pp	Hauses-in-Viertel	3
+possnp+pp	Kollegen-in-Tagespresse	1
+possnp+pp	Partei-mit-Führungsstruktur	2
+possnp+pp	Gesellschaft-mit-Umkreis	1
+possnp+pp	Mannes-in-Arbeitskleidung	3
+possnp+pp	Zeit-nach-Wahl	2
+possnp+pp	Lebens-auf-Land	2
+possnp+pp	Buchs-mit-Titel	3
+possnp+pp	Sohnes-von-General	1
+possnp+pp	Wohnung-von-Mitglied	1
+possnp+pp	Rückkehr-an-Macht	2
