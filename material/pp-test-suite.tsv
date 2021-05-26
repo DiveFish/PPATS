@@ -614,3 +614,138 @@ ppbeforehead-idiom	1	0	2	3	obl	Auf den Kopf treffen sie den Nagel.
 ppbeforehead-idiom	1	0	2	3	obl	Um den Finger wickeln sie die Leute.
 ppbeforehead-idiom	1	0	2	3	obl	Auf die Palme bringen sie den Mann.
 ppbeforehead-idiom	1	0	2	3	obl	Durch den Kakao ziehen sie die Menschen.
+base-verbheadedobjp	5	4	6	1	obl	Sie räumt das Hindernis aus dem Weg.
+base-verbheadedobjp	5	4	6	1	obl	Sie bringt das Kind zu der Welt.
+base-verbheadedobjp	5	4	6	1	obl	Sie bringt das Thema in die Diskussion.
+base-verbheadedobjp	5	4	6	1	obl	Sie nimmt die Rolle in die Hand.
+base-verbheadedobjp	5	4	6	1	obl	Sie bittet den Herren um die Sache.
+base-verbheadedobjp	5	4	6	1	obl	Er stellt die Leute in den Schatten.
+base-verbheadedobjp	5	4	6	1	obl	Er setzt das Problem in die Welt.
+base-verbheadedobjp	5	4	6	1	obl	Er steckt das Interesse in das Thema.
+base-verbheadedobjp	5	4	6	1	obl	Er verbindet die Geschichte mit dem Präsidenten.
+base-verbheadedobjp	5	4	6	1	obl	Er zählt den Menschen zu der Regierung.
+base-verbheadedobjp	5	4	6	1	obl	Sie beziehen die Frage auf die Forderung.
+base-verbheadedobjp	5	4	6	1	obl	Sie zwingen die Frau zu der Spekulation.
+base-verbheadedobjp	5	4	6	1	obl	Sie vergleichen den Film mit dem Leben.
+base-verbheadedobjp	5	4	6	1	obl	Sie legen das Wort in den Mund.
+base-verbheadedobjp	5	4	6	1	obl	Sie ziehen die Million aus dem Staat.
+3headcandidates-verbheadedobjp	7	6	8	1	obl	Sie räumen dem Kollegen das Hindernis aus dem Weg.
+3headcandidates-verbheadedobjp	7	6	8	1	obl	Sie legen dem Flüchtling das Konzept auf den Tisch.
+3headcandidates-verbheadedobjp	7	6	8	1	obl	Sie schaffen dem Kunden das Gerümpel von der Fahrbahn.
+3headcandidates-verbheadedobjp	7	6	8	1	obl	Sie ruft dem Präsidenten das Komitee in das Leben.
+3headcandidates-verbheadedobjp	7	6	8	1	obl	Sie bringt dem Herren die Menschen zum Tanzen.
+3headcandidates-verbheadedobjp	7	6	8	1	obl	Er setzt der Partei das Problem in die Welt.
+3headcandidates-verbheadedobjp	7	6	8	1	obl	Er stellt dem Kollegen die Frage zu der Verfügung.
+3headcandidates-verbheadedobjp	7	6	8	1	obl	Er legt dem Gegner das Wort in den Mund.
+3headcandidates-verbheadedobjp	7	6	8	1	obl	Er zieht dem Mann die Million aus der Tasche.
+3headcandidates-verbheadedobjp	7	6	8	1	obl	Er bringt dem Kind die Lage auf den Punkt.
+3headcandidates-verbheadedobjp	7	6	8	1	obl	Sie bringen der Frau das Stück auf die Bühne.
+3headcandidates-verbheadedobjp	7	6	8	1	obl	Sie werfen der Stadt die Frau aus der Partei.
+3headcandidates-verbheadedobjp	7	6	8	1	obl	Sie halten dem Staat die Sache unter die Nase.
+3headcandidates-verbheadedobjp	7	6	8	1	obl	Sie mischen dem Land den Flüchtling unter die Regierung.
+3headcandidates-verbheadedobjp	7	6	8	1	obl	Sie bringen dem Gast den Unmut zu dem Ausdruck.
+4headcandidates-verbheadedobjp	9	8	10	1	obl	Sie räumt dem Kollegen der Frau das Hindernis aus dem Weg.
+4headcandidates-verbheadedobjp	9	8	10	1	obl	Sie legen dem Flüchtling der Gesellschaft das Konzept auf den Tisch.
+4headcandidates-verbheadedobjp	9	8	10	1	obl	Sie schaffen dem Kunden des Gastes das Gerümpel von der Fahrbahn.
+4headcandidates-verbheadedobjp	9	8	10	1	obl	Sie ruft dem Präsidenten des Amts das Komitee in das Leben.
+4headcandidates-verbheadedobjp	9	8	10	1	obl	Sie bringt dem Herren des Hauses die Menschen zum Tanzen.
+4headcandidates-verbheadedobjp	9	8	10	1	obl	Er setzt der Partei der Heimat das Problem in die Welt.
+4headcandidates-verbheadedobjp	9	8	10	1	obl	Er stellt den Leuten der Partei die Frage zu der Verfügung.
+4headcandidates-verbheadedobjp	9	8	10	1	obl	Er legt dem Gegner der Mutter das Wort in den Mund.
+4headcandidates-verbheadedobjp	9	8	10	1	obl	Er zieht dem Mann des Lebens die Million aus der Tasche.
+4headcandidates-verbheadedobjp	9	8	10	1	obl	Er bringt dem Kind des Vaters die Lage auf den Punkt.
+4headcandidates-verbheadedobjp	9	8	10	1	obl	Sie bringen der Frau des Mannes das Stück auf die Bühne.
+4headcandidates-verbheadedobjp	9	8	10	1	obl	Sie werfen der Stadt des Gegners die Frau aus der Partei.
+4headcandidates-verbheadedobjp	9	8	10	1	obl	Sie halten dem Staat des Flüchtlings die Sache unter die Nase.
+4headcandidates-verbheadedobjp	9	8	10	1	obl	Sie mischen dem Land des Sohnes den Flüchtling unter die Regierung.
+4headcandidates-verbheadedobjp	9	8	10	1	obl	Sie bringen dem Gast des Kollegen den Unmut zu dem Ausdruck.
+5headcandidates-verbheadedobjp	11	10	12	1	obl	Sie räumt dem Kollegen der Frau das Hindernis des Lebens aus dem Weg.
+5headcandidates-verbheadedobjp	11	10	12	1	obl	Sie legt dem Flüchtling der Gesellschaft das Konzept der Familie auf den Tisch.
+5headcandidates-verbheadedobjp	11	10	12	1	obl	Sie schafft dem Kunden des Gastes das Gerümpel der Wohnung von der Fahrbahn.
+5headcandidates-verbheadedobjp	11	10	12	1	obl	Sie ruft dem Präsidenten des Amts das Komitee der Gesellschaft in das Leben.
+5headcandidates-verbheadedobjp	11	10	12	1	obl	Sie bringt dem Herren des Hauses die Menschen des Werks zum Tanzen.
+5headcandidates-verbheadedobjp	11	10	12	1	obl	Er setzt der Partei der Heimat das Problem der Kontrolle in die Welt.
+5headcandidates-verbheadedobjp	11	10	12	1	obl	Er pumpt den Leuten der Partei die Luft der Heimat auf den Reifen.
+5headcandidates-verbheadedobjp	11	10	12	1	obl	Er legt dem Gegner der Mutter das Wort der Bevölkerung in den Mund.
+5headcandidates-verbheadedobjp	11	10	12	1	obl	Er zieht dem Mann des Lebens die Million des Mannes aus der Tasche.
+5headcandidates-verbheadedobjp	11	10	12	1	obl	Er bringt dem Kind des Vaters die Lage des Kollegen auf den Punkt.
+5headcandidates-verbheadedobjp	11	10	12	1	obl	Sie bringen der Frau des Mannes das Stück des Sohnes auf die Bühne.
+5headcandidates-verbheadedobjp	11	10	12	1	obl	Sie werfen der Stadt des Gegners die Frau des Vaters aus der Partei.
+5headcandidates-verbheadedobjp	11	10	12	1	obl	Sie halten dem Staat des Flüchtlings die Sache der Partei unter die Nase.
+5headcandidates-verbheadedobjp	11	10	12	1	obl	Sie mischen dem Land des Sohnes den Flüchtling des Landes unter die Regierung.
+5headcandidates-verbheadedobjp	11	10	12	1	obl	Sie bringen dem Gast des Kollegen den Unmut der Mutter zu dem Ausdruck.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie geht zu Ende.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie kommt in Frage.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie tritt in Kraft.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie kommt zu Wort.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie steht in Aussicht.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Er steht vor Gericht.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Er geht auf Sendung.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Er kommt in Betracht.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Er bittet um Hilfe.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Er sorgt für Aufregung.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie ziehen zu Felde.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie stehen unter Druck.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie gehen auf Distanz.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie gehen in Führung.
+prepnoun-verbheadedobjp	2	2	3	1	obl	Sie geraten außer Kontrolle.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie pumpt Luft auf den neuen Reifen.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie gehört zu dem kleinen Kind.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie sorgt für den alten Flüchtling.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie rechnet mit dem anderen Kunden.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie steht zu der internationalen Regierung.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Er gerät in die öffentliche Sache.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Er erinnert an den gemeinsamen Gegner.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Er stammt aus dem freien Staat.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Er steckt in dem vergangenen Thema.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Er verfügt über die beiden Leute.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie bestehen aus der deutschen Bevölkerung.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie stoßen auf die große Frau.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie verweisen auf den ersten Film.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie hoffen auf das politische Publikum.
+prepdetadjnoun-verbheadedobjp	4	2	5	1	obl	Sie glauben an den ersten Präsidenten.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie kommt zu dem Punkt der Frau.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie gehört zu dem Kind der Familie.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie sorgt für den Flüchtling des Landes.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie rechnet mit dem Kunden des Herren.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie steht zu der Regierung der Gesellschaft.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Er gerät in die Sache der Partei.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Er erinnert an den Gegner der Mutter.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Er stammt aus dem Staat des Gastes.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Er steckt in dem Thema des Publikums.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Er verfügt über die Leute der Stadt.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie bestehen aus der Bevölkerung des Staates.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie stoßen auf die Frau des Vaters.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie verweisen auf den Film der Regierung.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie hoffen auf das Publikum des Films.
+pppossnp-verbheadedobjp	3	2	4	1	obl	Sie glauben an den Präsidenten des Amts.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie kommt zu der Grenze mit dem Zaun.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie gehört zu der Frau in der Kneipe.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie sorgt für den Staat mit dem Einparteisystem.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie rechnet mit dem Film über den Krieg.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie steht zu dem Land mit der Insel.
+pppp-verbheadedobjp	3	2	4	1	obl	Er gerät in die Hand von dem Großgrundbesitzer.
+pppp-verbheadedobjp	3	2	4	1	obl	Er erinnert an den Monat mit den Feiertagen.
+pppp-verbheadedobjp	3	2	4	1	obl	Er stammt aus dem Haus in der Straße.
+pppp-verbheadedobjp	3	2	4	1	obl	Er steckt in der Bar an der Ecke.
+pppp-verbheadedobjp	3	2	4	1	obl	Er verfügt über den Bereich in der Musikindustrie.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie bestehen aus der Stadt mit dem Fluss.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie stoßen auf den Weg in die Zukunft.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie verweisen auf die Bühne in dem Schauspielhaus.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie hoffen auf die Straße in dem Berg.
+pppp-verbheadedobjp	3	2	4	1	obl	Sie glauben an die Nacht vor dem Tod.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Aus dem Weg räumt sie das Hindernis.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Zu der Welt bringt sie das Kind.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	In die Diskussion bringt sie das Thema.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	In die Hand nimmt sie die Rolle.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Um die Sache bitte sie den Herren.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	In den Schatten stellt er die Leute.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	In die Welt setzt er das Problem.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	In das Thema steckt er das Interesse.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Mit dem Präsidenten verbindet er die Geschichte.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Zu der Regierung zählt er den Menschen.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Auf die Forderung beziehen sie die Frage.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Zu der Spekulation zwingen sie die Frau.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Mit dem Leben vergleichen sie den Film.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	In den Mund legen sie das Wort.
+ppbeforehead-verbheadedobjp	1	0	2	3	obl	Aus dem Staat ziehen sie die Million.
