@@ -1,4 +1,4 @@
-features    head_distance   prep_position   prep_obj_position   head_pos    relation    sentence
+features	head_distance	prep_position	prep_obj_position	head_pos	relation	sentence
 base-1headcandidate	3	2	4	1	obl	Sie kommt auf den Tisch.
 base-1headcandidate	3	2	4	1	obl	Sie geht auf dem Weg.
 base-1headcandidate	3	2	4	1	obl	Sie steht auf der Bühne.
