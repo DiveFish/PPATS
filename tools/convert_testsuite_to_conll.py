@@ -30,10 +30,10 @@ def testsuite_to_conll(testsuite_file, conll_file):
 
                 # Note that here 0 is the starting point like in the test suite.
                 if str(position) == prep_position:
-                    head = prep_position
+                    head = int(prep_obj_position) + 1
                     current_deprel = "case"
                 elif str(position) == prep_obj_position:
-                    head = prep_obj_position
+                    head = int(head_pos) + 1
                     current_deprel = deprel
                 else:
                     head = "_"
