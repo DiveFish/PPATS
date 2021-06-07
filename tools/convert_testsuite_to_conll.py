@@ -7,7 +7,9 @@ def testsuite_to_conll(testsuite_file, conll_file):
         reader = csv.reader(testsuite, delimiter="\t")
         writer = csv.writer(conll, delimiter= "\t")
 
-        _header = next(reader)
+        # Get rid of header in file.
+        _ = next(reader)
+
         for line in reader:
             features = line[0]
             prep_position = line[2]
