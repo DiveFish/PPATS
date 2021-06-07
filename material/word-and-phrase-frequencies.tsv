@@ -48,6 +48,7 @@ verb3heads	stellen	414
 verb3heads	setzen	333
 verb3heads	nennen	286
 verb3heads	erzählen	274
+verb3heads	berichten	262
 verb3heads	suchen	225
 verb3heads	tragen	221
 verb3heads	vorstellen	192
@@ -57,6 +58,7 @@ verb3heads	legen	232
 verb3heads	verkaufen	150
 verb3heads	bauen	137
 verb3heads	schicken	130
+verb3heads	vertreiben	46
 reflverb	sich-beschäfigen
 reflverb	sich-beteiligen
 reflverb	sich-belaufen
@@ -203,6 +205,16 @@ ppobjpp	Film-über-den-Krieg	1
 ppobjpp	Monat-mit-den-Feiertagen	1
 ppobjpp	Staat-mit-dem-Einparteisystem	1
 ppobjpp	Bar-an-der-Ecke	1
+ppobjpp	Frage-nach-Sinn	3
+ppobjpp	Bodentruppen-an-Ende	1
+ppobjpp	Identität-in-Viertel	1
+ppobjpp	Komitee-für-Gerechtigkeit	5
+ppobjpp	Schrank-mit-Puppe	1
+ppobjpp	Befreiungskrieg-gegen-Truppe	6
+ppobjpp	Frauen-mit-Kind	5
+ppobjpp	Frauen-aus-Reihe	3
+ppobjpp	Auge-von-Verhungernden	1
+ppobjpp	Kind-an-Hand	2
 fixedppwithpp	nach-Angabe-von	191
 fixedppwithpp	im-Gegensatz-zu	94
 fixedppwithpp	mit-Blick-auf	32

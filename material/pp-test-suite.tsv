@@ -749,3 +749,108 @@ ppbeforehead-verbheadedobjp	1	0	2	3	obl	Zu der Spekulation zwingen sie die Frau.
 ppbeforehead-verbheadedobjp	1	0	2	3	obl	Mit dem Leben vergleichen sie den Film.
 ppbeforehead-verbheadedobjp	1	0	2	3	obl	In den Mund legen sie das Wort.
 ppbeforehead-verbheadedobjp	1	0	2	3	obl	Aus dem Staat ziehen sie die Million.
+1head-nounheadedpp	3	2	4	-	nmod	Die Antwort auf die Frage.
+1head-nounheadedpp	3	2	4	-	nmod	Der Schritt in die Richtung.
+1head-nounheadedpp	3	2	4	-	nmod	Der Kommentar auf der Seite.
+1head-nounheadedpp	3	2	4	-	nmod	Der Einsatz von den Bodentruppen.
+1head-nounheadedpp	3	2	4	-	nmod	Die Suche nach der Identität.
+1head-nounheadedpp	3	2	4	-	nmod	Die Gründung von dem Komitee.
+1head-nounheadedpp	3	2	4	-	nmod	Die Stimme in dem Schrank.
+1head-nounheadedpp	3	2	4	-	nmod	Die Truppe gegen den Befreiungskrieg.
+1head-nounheadedpp	3	2	4	-	nmod	Die Bevorzugung von den Frauen.
+1head-nounheadedpp	3	2	4	-	nmod	Die Mehrheit in dem Parlament.
+1head-nounheadedpp	3	2	4	-	nmod	Die Diskriminierung von den Frauen.
+1head-nounheadedpp	3	2	4	-	nmod	Die Träne in dem Auge.
+1head-nounheadedpp	3	2	4	-	nmod	Die Familie mit dem Kind.
+1head-nounheadedpp	3	2	4	-	nmod	Der Konflikt in der Welt.
+1head-nounheadedpp	3	2	4	-	nmod	Der Zugang zu dem Teil.
+3head-nounheadedpp	3	2	4	1	nmod	Sie gibt der Frau die Antwort auf die Frage.
+3head-nounheadedpp	3	6	8	1	nmod	Sie erklärt den Leuten den Schritt in die Richtung.
+3head-nounheadedpp	3	6	8	1	nmod	Sie schreibt dem Gast den Kommentar auf der Seite.
+3head-nounheadedpp	3	6	8	1	nmod	Sie beschreibt dem Herren den Einsatz von den Bodentruppen.
+3head-nounheadedpp	3	6	8	1	nmod	Sie bringt dem Staat die Suche nach der Identität.
+3head-nounheadedpp	3	6	8	1	nmod	Er bestätigt dem Gegner die Auseinandersetzung mit der Polizei.
+3head-nounheadedpp	3	6	8	1	nmod	Er vertreibt dem Kunden die Stimme in dem Schrank.
+3head-nounheadedpp	3	6	8	1	nmod	Er schickt dem Land die Truppe gegen den Befreiungskrieg.
+3head-nounheadedpp	3	6	8	1	nmod	Er nennt der Welt die Truppe unter dem General.
+3head-nounheadedpp	3	6	8	1	nmod	Er verliert der Partei die Mehrheit in dem Parlament.
+3head-nounheadedpp	3	6	8	1	nmod	Sie glauben der Bevölkerung die Diskriminierung von den Frauen.
+3head-nounheadedpp	3	6	8	1	nmod	Sie erklären dem Flüchtling die Träne in dem Auge.
+3head-nounheadedpp	3	6	8	1	nmod	Sie suchen dem Mann die Familie mit dem Kind.
+3head-nounheadedpp	3	6	8	1	nmod	Sie verkaufen dem Präsidenten den Konflikt in der Welt.
+3head-nounheadedpp	3	6	8	1	nmod	Sie bauen der Regierung den Zugang zu dem Teil.
+4head-nounheadedpp	5	8	10	1	nmod	Sie gibt der Frau die Antwort des Amts auf die Frage.
+4head-nounheadedpp	5	8	10	1	nmod	Sie erklärt den Leuten den Schritt der Frau in die Richtung.
+4head-nounheadedpp	5	8	10	1	nmod	Sie schreibt dem Gast den Kommentar des Mannes auf der Seite.
+4head-nounheadedpp	5	8	10	1	nmod	Sie beschreibt dem Herren den Einsatz des Lebens von den Bodentruppen.
+4head-nounheadedpp	5	8	10	1	nmod	Sie bringt dem Staat die Suche des Präsidenten nach der Identität.
+4head-nounheadedpp	5	8	10	1	nmod	Er bestätigt dem Gegner die Auseinandersetzung des Sohnes mit der Polizei.
+4head-nounheadedpp	5	8	10	1	nmod	Er vertreibt dem Kunden die Stimme der Mutter in dem Schrank.
+4head-nounheadedpp	5	8	10	1	nmod	Er schickt dem Land die Truppe des Vaters gegen den Befreiungskrieg.
+4head-nounheadedpp	5	8	10	1	nmod	Er nennt der Welt die Truppe des Landes unter dem General.
+4head-nounheadedpp	5	8	10	1	nmod	Er verliert der Partei die Mehrheit des Anfangs in dem Parlament.
+4head-nounheadedpp	5	8	10	1	nmod	Sie glauben der Bevölkerung den Beschuss der Partei auf den Vorort.
+4head-nounheadedpp	5	8	10	1	nmod	Sie erklären dem Flüchtling die Träne des Freundes in dem Auge.
+4head-nounheadedpp	5	8	10	1	nmod	Sie suchen dem Mann die Familie der Heimat mit dem Kind.
+4head-nounheadedpp	5	8	10	1	nmod	Sie verkaufen dem Präsidenten den Konflikt des Sohnes in der Welt.
+4head-nounheadedpp	5	8	10	1	nmod	Sie bauen der Regierung den Zugang des Kollegen zu dem Teil.
+5head-nounheadedpp	5	10	12	1	nmod	Sie gibt der Frau des Mannes die Antwort des Amts auf die Frage.
+5head-nounheadedpp	5	10	12	1	nmod	Sie erklärt den Leuten der Partei den Schritt der Frau in die Richtung.
+5head-nounheadedpp	5	10	12	1	nmod	Sie schreibt dem Gast des Kollegen den Kommentar des Mannes auf der Seite.
+5head-nounheadedpp	5	10	12	1	nmod	Sie beschreibt dem Herren des Hauses den Einsatz des Lebens von den Bodentruppen.
+5head-nounheadedpp	5	10	12	1	nmod	Sie bestätigt dem Staat des Vaters die Suche des Präsidenten nach der Identität.
+5head-nounheadedpp	5	10	12	1	nmod	Er berichtet dem Gegner der Mutter die Auseinandersetzung des Sohnes mit der Polizei.
+5head-nounheadedpp	5	10	12	1	nmod	Er zeigt dem Kunden des Amts die Stimme der Mutter in dem Schrank.
+5head-nounheadedpp	5	10	12	1	nmod	Er schickt dem Land des Freundes die Truppe des Vaters gegen den Befreiungskrieg.
+5head-nounheadedpp	5	10	12	1	nmod	Er nennt der Welt der Arbeit die Truppe des Landes unter dem General.
+5head-nounheadedpp	5	10	12	1	nmod	Er verliert der Partei der Heimat die Mehrheit des Anfangs in dem Parlament.
+5head-nounheadedpp	5	10	12	1	nmod	Sie glauben der Bevölkerung des Landes den Beschuss der Partei auf den Vorort.
+5head-nounheadedpp	5	10	12	1	nmod	Sie erklären dem Flüchtling der Gesellschaft die Träne des Freundes in dem Auge.
+5head-nounheadedpp	5	10	12	1	nmod	Sie suchen dem Mann des Lebens die Familie der Heimat mit dem Kind.
+5head-nounheadedpp	5	10	12	1	nmod	Sie verkaufen dem Präsidenten des Films den Konflikt des Sohnes in der Welt.
+5head-nounheadedpp	5	10	12	1	nmod	Sie bauen der Regierung des Staats den Zugang des Kollegen zu dem Teil.
+prepdetadjnoun-nounheadedpp	4	4	7	1	nmod	Sie bekommt die Antwort auf die letzte Frage.
+prepdetadjnoun-nounheadedpp	4	4	7	1	nmod	Sie geht den Schritt in die andere Richtung.
+prepdetadjnoun-nounheadedpp	4	4	7	1	nmod	Sie schreibt den Kommentar auf der ersten Seite.
+prepdetadjnoun-nounheadedpp	4	4	7	1	nmod	Sie beschreibt den Einsatz von den internationalen Bodentruppen.
+prepdetadjnoun-nounheadedpp	4	4	7	1	nmod	Sie will die Suche nach der gemeinsamen Identität.
+prepdetadjnoun-nounheadedpp	4	4	7	1	nmod	Er bestätigt die Gründung von dem politischen Komitee.
+prepdetadjnoun-nounheadedpp	4	4	7	1	nmod	Er mag die Stimme in dem alten Schrank.
+prepdetadjnoun-nounheadedpp	4	4	7	1	nmod	Er führt die Truppe gegen den langen Befreiungskrieg.
+prepdetadjnoun-nounheadedpp	4	4	7	1	nmod	Er erklärt die Bevorzugung von den jungen Frauen.
+prepdetadjnoun-nounheadedpp	4	4	7	1	nmod	Er hält die Mehrheit in dem öffentlichen Parlament.
+prepdetadjnoun-nounheadedpp	4	4	7	1	nmod	Sie zeigen die Diskriminierung von den großen Frauen.
+prepdetadjnoun-nounheadedpp	4	4	7	1	nmod	Sie vergisst die Träne in dem eigenen Auge.
+prepdetadjnoun-nounheadedpp	4	4	7	1	nmod	Sie suchen die Familie mit dem kleinen Kind.
+prepdetadjnoun-nounheadedpp	4	4	7	1	nmod	Sie verlieren den Konflikt in der weiten Welt.
+prepdetadjnoun-nounheadedpp	4	4	7	1	nmod	Sie erhalten den Zugang zu dem freien Teil.
+pppossnp-nounheadedpp	5	4	6	1	nmod	Sie bekommt die Antwort auf die Frage des Vaters.
+pppossnp-nounheadedpp	5	4	6	1	nmod	Sie geht den Schritt in die Richtung der Mitte.
+pppossnp-nounheadedpp	5	4	6	1	nmod	Sie schreibt den Kommentar auf der Seite des Werks.
+pppossnp-nounheadedpp	5	4	6	1	nmod	Sie beschreibt den Einsatz von den Bodentruppen des Staats.
+pppossnp-nounheadedpp	5	4	6	1	nmod	Sie will die Suche nach der Identität der Partei.
+pppossnp-nounheadedpp	5	4	6	1	nmod	Er bestätigt die Gründung von dem Komitee des Präsidenten.
+pppossnp-nounheadedpp	5	4	6	1	nmod	Er mag die Stimme in dem Schrank der Wohnung.
+pppossnp-nounheadedpp	5	4	6	1	nmod	Er braucht die Truppe gegen den Befreiungskrieg des Todes.
+pppossnp-nounheadedpp	5	4	6	1	nmod	Er erklärt die Bevorzugung von den Frauen der Heimat.
+pppossnp-nounheadedpp	5	4	6	1	nmod	Er verliert die Mehrheit in dem Parlament des Landes.
+pppossnp-nounheadedpp	5	4	6	1	nmod	Sie zeigen die Diskriminierung von den Frauen der Gesellschaft.
+pppossnp-nounheadedpp	5	4	6	1	nmod	Sie vergisst die Träne in dem Auge des Sohnes.
+pppossnp-nounheadedpp	5	4	6	1	nmod	Sie suchen die Familie mit dem Kind der Mutter.
+pppossnp-nounheadedpp	5	4	6	1	nmod	Sie gewinnt den Konflikt in der Welt der Arbeit.
+pppossnp-nounheadedpp	5	4	6	1	nmod	Sie erhalten den Zugang zu dem Teil des Hauses.
+pppp-nounheadedpp	3	4	6	1	nmod	Sie bekommt die Antwort auf die Frage nach dem Sinn.
+pppp-nounheadedpp	3	4	6	1	nmod	Sie geht den Schritt an die Grenze mit dem Zaun.
+pppp-nounheadedpp	3	4	6	1	nmod	Sie schreibt den Kommentar in dem Film über den Krieg.
+pppp-nounheadedpp	3	4	6	1	nmod	Sie beschreibt den Einsatz von den Bodentruppen aus dem Nachbarland.
+pppp-nounheadedpp	3	4	6	1	nmod	Sie will die Suche nach der Identität in dem Viertel.
+pppp-nounheadedpp	3	4	6	1	nmod	Er bestätigt die Gründung von dem Komitee für die Gerechtigkeit.
+pppp-nounheadedpp	3	4	6	1	nmod	Er mag die Stimme in dem Schrank mit der Puppe.
+pppp-nounheadedpp	3	4	6	1	nmod	Er führt die Truppe gegen den Befreiungskrieg gegen die Truppe.
+pppp-nounheadedpp	3	4	6	1	nmod	Er erklärt die Bevorzugung von den Frauen mit dem Kind.
+pppp-nounheadedpp	3	4	6	1	nmod	Er hält die Mehrheit in dem Parlament an der Ecke.
+pppp-nounheadedpp	3	4	6	1	nmod	Sie zeigen die Diskriminierung von den Frauen aus der Reihe.
+pppp-nounheadedpp	3	4	6	1	nmod	Sie vergisst die Träne in dem Auge von dem Verhungernden.
+pppp-nounheadedpp	3	4	6	1	nmod	Sie suchen die Familie mit dem Kind an der Hand.
+pppp-nounheadedpp	3	4	6	1	nmod	Sie verlieren den Konflikt in der Welt außerhalb des Freizeitzentrums.
+pppp-nounheadedpp	3	4	6	1	nmod	Sie erhalten den Zugang zu der Straße in dem Berg.
