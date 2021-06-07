@@ -3,8 +3,6 @@ import sys
 
 
 def testsuite_to_conll(testsuite_file, conll_file):
-    sentences = []
-
     with open(testsuite_file) as testsuite, open(conll_file, "w") as conll:
         reader = csv.reader(testsuite, delimiter="\t")
         writer = csv.writer(conll, delimiter= "\t")
