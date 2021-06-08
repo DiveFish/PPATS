@@ -29,7 +29,7 @@ def testsuite_to_conll(testsuite_file, conll_file):
                     current_deprel = "case"
                 elif str(position) == prep_obj_position:
                     head = int(head_pos) + 1
-                    current_deprel = "_"
+                    current_deprel = deprel
                 else:
                     head = "_"
                     current_deprel = "_"
