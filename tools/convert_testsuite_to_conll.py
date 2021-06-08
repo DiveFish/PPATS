@@ -17,11 +17,6 @@ def testsuite_to_conll(testsuite_file, conll_file):
             head_pos = line[4]
             deprel = line[5]
             sentence = line[6].split()
-            # TODO: Following 4 lines can be removed once a space is added before the dot in the suite.
-            last_token = sentence.pop(-1)
-            last_word = last_token[:-1]
-            dot = last_token[-1]
-            sentence.extend([last_word, dot])
 
             for position, token in enumerate(sentence, start=0):
                 # Note that an offset of 1 is added to the ID because Conll IDs start at 1.
