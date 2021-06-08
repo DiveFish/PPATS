@@ -8320,105 +8320,105 @@
 2	Antwort	_	_	_	props:1head-nounheadedpp	_	_	_	_
 3	auf	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	die	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Frage	_	_	_	props:1head-nounheadedpp	0	root	_	_
+5	Frage	_	_	_	props:1head-nounheadedpp	2	_	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Der	_	_	_	props:1head-nounheadedpp	_	_	_	_
 2	Schritt	_	_	_	props:1head-nounheadedpp	_	_	_	_
 3	in	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	die	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Richtung	_	_	_	props:1head-nounheadedpp	0	root	_	_
+5	Richtung	_	_	_	props:1head-nounheadedpp	2	_	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Der	_	_	_	props:1head-nounheadedpp	_	_	_	_
 2	Kommentar	_	_	_	props:1head-nounheadedpp	_	_	_	_
 3	auf	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	der	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Seite	_	_	_	props:1head-nounheadedpp	0	root	_	_
+5	Seite	_	_	_	props:1head-nounheadedpp	2	_	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Der	_	_	_	props:1head-nounheadedpp	_	_	_	_
 2	Einsatz	_	_	_	props:1head-nounheadedpp	_	_	_	_
 3	von	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	den	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Bodentruppen	_	_	_	props:1head-nounheadedpp	0	root	_	_
+5	Bodentruppen	_	_	_	props:1head-nounheadedpp	2	_	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Die	_	_	_	props:1head-nounheadedpp	_	_	_	_
 2	Suche	_	_	_	props:1head-nounheadedpp	_	_	_	_
 3	nach	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	der	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Identität	_	_	_	props:1head-nounheadedpp	0	root	_	_
+5	Identität	_	_	_	props:1head-nounheadedpp	2	_	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Die	_	_	_	props:1head-nounheadedpp	_	_	_	_
 2	Gründung	_	_	_	props:1head-nounheadedpp	_	_	_	_
 3	von	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	dem	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Komitee	_	_	_	props:1head-nounheadedpp	0	root	_	_
+5	Komitee	_	_	_	props:1head-nounheadedpp	2	_	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Die	_	_	_	props:1head-nounheadedpp	_	_	_	_
 2	Stimme	_	_	_	props:1head-nounheadedpp	_	_	_	_
 3	in	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	dem	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Schrank	_	_	_	props:1head-nounheadedpp	0	root	_	_
+5	Schrank	_	_	_	props:1head-nounheadedpp	2	_	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Die	_	_	_	props:1head-nounheadedpp	_	_	_	_
 2	Truppe	_	_	_	props:1head-nounheadedpp	_	_	_	_
 3	gegen	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	den	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Befreiungskrieg	_	_	_	props:1head-nounheadedpp	0	root	_	_
+5	Befreiungskrieg	_	_	_	props:1head-nounheadedpp	2	_	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Die	_	_	_	props:1head-nounheadedpp	_	_	_	_
 2	Bevorzugung	_	_	_	props:1head-nounheadedpp	_	_	_	_
 3	von	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	den	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Frauen	_	_	_	props:1head-nounheadedpp	0	root	_	_
+5	Frauen	_	_	_	props:1head-nounheadedpp	2	_	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Die	_	_	_	props:1head-nounheadedpp	_	_	_	_
 2	Mehrheit	_	_	_	props:1head-nounheadedpp	_	_	_	_
 3	in	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	dem	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Parlament	_	_	_	props:1head-nounheadedpp	0	root	_	_
+5	Parlament	_	_	_	props:1head-nounheadedpp	2	_	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Die	_	_	_	props:1head-nounheadedpp	_	_	_	_
 2	Diskriminierung	_	_	_	props:1head-nounheadedpp	_	_	_	_
 3	von	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	den	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Frauen	_	_	_	props:1head-nounheadedpp	0	root	_	_
+5	Frauen	_	_	_	props:1head-nounheadedpp	2	_	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Die	_	_	_	props:1head-nounheadedpp	_	_	_	_
 2	Träne	_	_	_	props:1head-nounheadedpp	_	_	_	_
 3	in	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	dem	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Auge	_	_	_	props:1head-nounheadedpp	0	root	_	_
+5	Auge	_	_	_	props:1head-nounheadedpp	2	_	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Die	_	_	_	props:1head-nounheadedpp	_	_	_	_
 2	Familie	_	_	_	props:1head-nounheadedpp	_	_	_	_
 3	mit	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	dem	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Kind	_	_	_	props:1head-nounheadedpp	0	root	_	_
+5	Kind	_	_	_	props:1head-nounheadedpp	2	_	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Der	_	_	_	props:1head-nounheadedpp	_	_	_	_
 2	Konflikt	_	_	_	props:1head-nounheadedpp	_	_	_	_
 3	in	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	der	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Welt	_	_	_	props:1head-nounheadedpp	0	root	_	_
+5	Welt	_	_	_	props:1head-nounheadedpp	2	_	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Der	_	_	_	props:1head-nounheadedpp	_	_	_	_
 2	Zugang	_	_	_	props:1head-nounheadedpp	_	_	_	_
 3	zu	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	dem	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Teil	_	_	_	props:1head-nounheadedpp	0	root	_	_
+5	Teil	_	_	_	props:1head-nounheadedpp	2	_	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-nounheadedpp	_	_	_	_

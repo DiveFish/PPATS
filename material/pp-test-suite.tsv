@@ -749,21 +749,21 @@ ppbeforehead-verbheadedobjp	1	0	2	3	obl	Zu der Spekulation zwingen sie die Frau 
 ppbeforehead-verbheadedobjp	1	0	2	3	obl	Mit dem Leben vergleichen sie den Film .
 ppbeforehead-verbheadedobjp	1	0	2	3	obl	In den Mund legen sie das Wort .
 ppbeforehead-verbheadedobjp	1	0	2	3	obl	Aus dem Staat ziehen sie die Million .
-1head-nounheadedpp	3	2	4	-	nmod	Die Antwort auf die Frage .
-1head-nounheadedpp	3	2	4	-	nmod	Der Schritt in die Richtung .
-1head-nounheadedpp	3	2	4	-	nmod	Der Kommentar auf der Seite .
-1head-nounheadedpp	3	2	4	-	nmod	Der Einsatz von den Bodentruppen .
-1head-nounheadedpp	3	2	4	-	nmod	Die Suche nach der Identität .
-1head-nounheadedpp	3	2	4	-	nmod	Die Gründung von dem Komitee .
-1head-nounheadedpp	3	2	4	-	nmod	Die Stimme in dem Schrank .
-1head-nounheadedpp	3	2	4	-	nmod	Die Truppe gegen den Befreiungskrieg .
-1head-nounheadedpp	3	2	4	-	nmod	Die Bevorzugung von den Frauen .
-1head-nounheadedpp	3	2	4	-	nmod	Die Mehrheit in dem Parlament .
-1head-nounheadedpp	3	2	4	-	nmod	Die Diskriminierung von den Frauen .
-1head-nounheadedpp	3	2	4	-	nmod	Die Träne in dem Auge .
-1head-nounheadedpp	3	2	4	-	nmod	Die Familie mit dem Kind .
-1head-nounheadedpp	3	2	4	-	nmod	Der Konflikt in der Welt .
-1head-nounheadedpp	3	2	4	-	nmod	Der Zugang zu dem Teil .
+1head-nounheadedpp	3	2	4	1	nmod	Die Antwort auf die Frage .
+1head-nounheadedpp	3	2	4	1	nmod	Der Schritt in die Richtung .
+1head-nounheadedpp	3	2	4	1	nmod	Der Kommentar auf der Seite .
+1head-nounheadedpp	3	2	4	1	nmod	Der Einsatz von den Bodentruppen .
+1head-nounheadedpp	3	2	4	1	nmod	Die Suche nach der Identität .
+1head-nounheadedpp	3	2	4	1	nmod	Die Gründung von dem Komitee .
+1head-nounheadedpp	3	2	4	1	nmod	Die Stimme in dem Schrank .
+1head-nounheadedpp	3	2	4	1	nmod	Die Truppe gegen den Befreiungskrieg .
+1head-nounheadedpp	3	2	4	1	nmod	Die Bevorzugung von den Frauen .
+1head-nounheadedpp	3	2	4	1	nmod	Die Mehrheit in dem Parlament .
+1head-nounheadedpp	3	2	4	1	nmod	Die Diskriminierung von den Frauen .
+1head-nounheadedpp	3	2	4	1	nmod	Die Träne in dem Auge .
+1head-nounheadedpp	3	2	4	1	nmod	Die Familie mit dem Kind .
+1head-nounheadedpp	3	2	4	1	nmod	Der Konflikt in der Welt .
+1head-nounheadedpp	3	2	4	1	nmod	Der Zugang zu dem Teil .
 3head-nounheadedpp	3	2	4	1	nmod	Sie gibt der Frau die Antwort auf die Frage .
 3head-nounheadedpp	3	6	8	1	nmod	Sie erklärt den Leuten den Schritt in die Richtung .
 3head-nounheadedpp	3	6	8	1	nmod	Sie schreibt dem Gast den Kommentar auf der Seite .
