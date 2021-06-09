@@ -62,6 +62,29 @@ Here is a list of what the 4 arguments to the script must contain:
 3. The table that lists the top meanings per preposition (and the overall frequency of the prepositions).
 4. The table that lists the top prepositions per meaning (and the overall frequency of the meanings).
 
+## Convert Test Suite to Conll
+
+To convert the test suite to a Conll-X file, use the following command (exchange filenames):
+
+    python3 tools/convert_testsuite_to_conll.py material/pp-test-suite.tsv pp-test-suite.conll
+
+
+To convert the test suite to a Conll-U file, use the following command (exchange filenames):
+
+    python3 tools/convert_testsuite_to_conll.py material/pp-test-suite.tsv pp-test-suite_u.conll -t u
+  
+**Note:** The basename of the file must end in "_u" (`filename_u.conll`).
+
+## Convert Conll Formats Between Each Other
+
+To convert a conll-X file to a conll-U file, use the following command:
+
+    python3 tools/change-conll-format.py material/test.conll -u
+
+To convert a conll-U file to a conll-X file, use the following command:
+
+    python3 tools/change-conll-format.py material/test.conll -x
+
 ## Sources
 
 For data collection the following resources have been used.
