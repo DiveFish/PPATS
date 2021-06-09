@@ -8423,13 +8423,13 @@
 
 1	Sie	_	_	_	props:3head-nounheadedpp	_	_	_	_
 2	gibt	_	_	_	props:3head-nounheadedpp	_	_	_	_
-3	der	_	_	_	props:3head-nounheadedpp	5	case	_	_
+3	der	_	_	_	props:3head-nounheadedpp	_	_	_	_
 4	Frau	_	_	_	props:3head-nounheadedpp	_	_	_	_
-5	die	_	_	_	props:3head-nounheadedpp	6	nmod	_	_
+5	die	_	_	_	props:3head-nounheadedpp	_	_	_	_
 6	Antwort	_	_	_	props:3head-nounheadedpp	_	_	_	_
-7	auf	_	_	_	props:3head-nounheadedpp	_	_	_	_
+7	auf	_	_	_	props:3head-nounheadedpp	9	case	_	_
 8	die	_	_	_	props:3head-nounheadedpp	_	_	_	_
-9	Frage	_	_	_	props:3head-nounheadedpp	_	_	_	_
+9	Frage	_	_	_	props:3head-nounheadedpp	6	nmod	_	_
 10	.	_	_	_	props:3head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-nounheadedpp	_	_	_	_
