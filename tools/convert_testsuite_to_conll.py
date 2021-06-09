@@ -1,8 +1,8 @@
+import argparse
 import csv
-import sys
 
 
-def testsuite_to_conll(testsuite_file, conll_file):
+def testsuite_to_conll(testsuite_file, conll_file, conll_type):
     with open(testsuite_file) as testsuite, open(conll_file, "w") as conll:
         reader = csv.reader(testsuite, delimiter="\t")
         writer = csv.writer(conll, delimiter= "\t")
@@ -21,7 +21,8 @@ def testsuite_to_conll(testsuite_file, conll_file):
             for position, token in enumerate(sentence, start=0):
                 # Note that an offset of 1 is added to the ID because Conll IDs start at 1.
                 idx = str(position + 1)
-                feats = "props:{}".format(features)
+                feature_delimiter = ":" if conll_type == "x" else "="
+                feats = "props{}{}".format(feature_delimiter, features)
 
                 # Note that here 0 is the starting point like in the test suite.
                 if str(position) == prep_position:
@@ -41,7 +42,13 @@ def testsuite_to_conll(testsuite_file, conll_file):
 
 
 if __name__ == "__main__":
-    testsuite_file = sys.argv[1]
-    conll_file = sys.argv[2]
+    argparser = argparse.ArgumentParser()
+    argparser.add_argument("testsuite_file", type=str)
+    argparser.add_argument("conll_file", type=str)
+    argparser.add_argument("--conll_type", "-t", default="x", choices=["x", "u"])
+    args = argparser.parse_args()
 
-    testsuite_to_conll(testsuite_file, conll_file)
+    if args.conll_type == "u" and "_u" not in args.conll_file:
+        raise ValueError("A conll-U file must have '_u' as its basename ending.")
+
+    testsuite_to_conll(args.testsuite_file, args.conll_file, args.conll_type)
