@@ -8,9 +8,11 @@ This test suite provides sample sentences with prepositional phrases that exhibi
 |Property | Annotation |
 |:------------- |:-------------|
 |Base case|`base`|
-|1 head candidate|`1headcandidate`|
-|2 head candidates|`2headcandidates`|
-|3 head candidates|`3headcandidates`|
+|1 head candidate|`1head`|
+|2 head candidates|`2head`|
+|3 head candidates|`3head`|
+|4 head candidates|`4head`|
+|5 head candidates|`5head`|
 |PP = P + N |`prepnoun`|
 |PP = P + D + A + N|`prepdetadjnoun`|
 |Pp = P + D + N + genitive NP|`pppossnp`|
