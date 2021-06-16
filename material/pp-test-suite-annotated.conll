@@ -122,7 +122,7 @@
 8	.	.	PUNCT	$.	Morph:null|NE:O|props:base-2head|tf:UNK
 
 1	Sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:base-2head|tf:VF
-2	lässt	lässen	VERB	VVFIN	Morph:3sis|NE:O|props:base-2head|tf:LK
+2	lässt	lassen	VERB	VVFIN	Morph:3sis|NE:O|props:base-2head|tf:LK
 3	den	der	DET	ART	Morph:asm|NE:O|props:base-2head|tf:MF
 4	Mann	Mann	NOUN	NN	Morph:asm|NE:O|props:base-2head|tf:MF
 5	auf	auf	ADP	APPR	Morph:d|NE:O|props:base-2head|tf:MF
@@ -965,7 +965,7 @@
 2	spielt	spielen	VERB	VVFIN	Morph:3sis|NE:O|props:1head-prepdetadjnoun|tf:LK
 3	in	in	ADP	APPR	Morph:d|NE:O|props:1head-prepdetadjnoun|tf:MF
 4	der	die	DET	ART	Morph:dsf|NE:O|props:1head-prepdetadjnoun|tf:MF
-5	anderen	ander	ADJ	ADJA	Morph:dsf|NE:O|props:1head-prepdetadjnoun|tf:MF
+5	anderen	andere	ADJ	ADJA	Morph:dsf|NE:O|props:1head-prepdetadjnoun|tf:MF
 6	Stadt	Stadt	NOUN	NN	Morph:dsf|NE:O|props:1head-prepdetadjnoun|tf:MF
 7	.	.	PUNCT	$.	Morph:null|NE:O|props:1head-prepdetadjnoun|tf:UNK
 
@@ -1673,7 +1673,7 @@
 8	.	.	PUNCT	$.	Morph:null|NE:O|props:base-nounheadedpp|tf:UNK
 
 1	Er	er	PRON	PPER	Morph:nsm3|NE:O|props:base-nounheadedpp|tf:VF
-2	mag	mögen	VERB	VMFIN	Morph:3sis|NE:O|props:base-nounheadedpp|tf:LK
+2	mag	mögen	VERB	VVFIN	Morph:3sis|NE:O|props:base-nounheadedpp|tf:LK
 3	die	die	DET	ART	Morph:asf|NE:O|props:base-nounheadedpp|tf:MF
 4	Stimme	Stimme	NOUN	NN	Morph:asf|NE:O|props:base-nounheadedpp|tf:MF
 5	in	in	ADP	APPR	Morph:d|NE:O|props:base-nounheadedpp|tf:MF
@@ -1718,7 +1718,7 @@
 8	.	.	PUNCT	$.	Morph:null|NE:O|props:base-nounheadedpp|tf:UNK
 
 1	Sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:base-nounheadedpp|tf:VF
-2	vergisst	vergisst	VERB	VVFIN	Morph:3sis|NE:O|props:base-nounheadedpp|tf:LK
+2	vergisst	vergessen	VERB	VVFIN	Morph:3sis|NE:O|props:base-nounheadedpp|tf:LK
 3	die	die	DET	ART	Morph:asf|NE:O|props:base-nounheadedpp|tf:MF
 4	Träne	Träne	NOUN	NN	Morph:asf|NE:O|props:base-nounheadedpp|tf:MF
 5	in	in	ADP	APPR	Morph:d|NE:O|props:base-nounheadedpp|tf:MF
@@ -1770,7 +1770,7 @@
 7	.	.	PUNCT	$.	Morph:null|NE:O|props:base-prepnoun|tf:UNK
 
 1	Sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:base-prepnoun|tf:VF
-2	lässt	lässen	VERB	VVFIN	Morph:3sis|NE:O|props:base-prepnoun|tf:LK
+2	lässt	lassen	VERB	VVFIN	Morph:3sis|NE:O|props:base-prepnoun|tf:LK
 3	den	der	DET	ART	Morph:asm|NE:O|props:base-prepnoun|tf:MF
 4	Mann	Mann	NOUN	NN	Morph:asm|NE:O|props:base-prepnoun|tf:MF
 5	nach	nach	ADP	APPR	Morph:d|NE:O|props:base-prepnoun|tf:MF
@@ -2434,7 +2434,7 @@
 9	.	.	PUNCT	$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
 
 1	Sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:base-prepdetadjnoun|tf:VF
-2	lässt	lässen	VERB	VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
+2	lässt	lassen	VERB	VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
 3	den	der	DET	ART	Morph:asm|NE:O|props:base-prepdetadjnoun|tf:MF
 4	Mann	Mann	NOUN	NN	Morph:asm|NE:O|props:base-prepdetadjnoun|tf:MF
 5	an	an	ADP	APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
@@ -2767,7 +2767,7 @@
 8	Frau	Frau	NOUN	NN	Morph:gsf|NE:O|props:4head-prepdetadjnoun|tf:MF
 9	mit	mit	ADP	APPR	Morph:d|NE:O|props:4head-prepdetadjnoun|tf:MF
 10	der	die	DET	ART	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
-11	anderen	ander	ADJ	ADJA	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
+11	anderen	andere	ADJ	ADJA	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
 12	Hand	Hand	NOUN	NN	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
 13	.	.	PUNCT	$.	Morph:null|NE:O|props:4head-prepdetadjnoun|tf:UNK
 
@@ -2981,7 +2981,7 @@
 10	Frau	Frau	NOUN	NN	Morph:gsf|NE:O|props:5head-prepdetadjnoun|tf:MF
 11	mit	mit	ADP	APPR	Morph:d|NE:O|props:5head-prepdetadjnoun|tf:MF
 12	der	die	DET	ART	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
-13	anderen	ander	ADJ	ADJA	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
+13	anderen	andere	ADJ	ADJA	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
 14	Hand	Hand	NOUN	NN	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
 15	.	.	PUNCT	$.	Morph:null|NE:O|props:5head-prepdetadjnoun|tf:UNK
 
@@ -3284,7 +3284,7 @@
 9	.	.	PUNCT	$.	Morph:null|NE:O|props:base-pppossnp|tf:UNK
 
 1	Er	er	PRON	PPER	Morph:nsm3|NE:O|props:base-pppossnp|tf:VF
-2	mag	mögen	VERB	VMFIN	Morph:3sis|NE:O|props:base-pppossnp|tf:LK
+2	mag	mögen	VERB	VVFIN	Morph:3sis|NE:O|props:base-pppossnp|tf:LK
 3	den	der	DET	ART	Morph:asm|NE:O|props:base-pppossnp|tf:MF
 4	Mann	Mann	NOUN	NN	Morph:asm|NE:O|props:base-pppossnp|tf:MF
 5	seit	seit	ADP	APPR	Morph:d|NE:O|props:base-pppossnp|tf:MF
@@ -5057,7 +5057,7 @@
 4	Mann	Mann	NOUN	NN	Morph:asm|NE:O|props:prepdetadjnoun-pppp|tf:MF
 5	in	in	ADP	APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
 6	dem	der	DET	ART	Morph:dsm|NE:O|props:prepdetadjnoun-pppp|tf:MF
-7	anderen	ander	ADJ	ADJA	Morph:dsm|NE:O|props:prepdetadjnoun-pppp|tf:MF
+7	anderen	anderer	ADJ	ADJA	Morph:dsm|NE:O|props:prepdetadjnoun-pppp|tf:MF
 8	Bereich	Bereich	NOUN	NN	Morph:dsm|NE:O|props:prepdetadjnoun-pppp|tf:MF
 9	in	in	ADP	APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
 10	der	die	DET	ART	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
@@ -5182,7 +5182,7 @@
 12	.	.	PUNCT	$.	Morph:null|NE:O|props:pppossnp-pp|tf:UNK
 
 1	Er	er	PRON	PPER	Morph:nsm3|NE:O|props:pppossnp-pp|tf:VF
-2	mag	mögen	VERB	VMFIN	Morph:3sis|NE:O|props:pppossnp-pp|tf:LK
+2	mag	mögen	VERB	VVFIN	Morph:3sis|NE:O|props:pppossnp-pp|tf:LK
 3	den	der	DET	ART	Morph:asm|NE:O|props:pppossnp-pp|tf:MF
 4	Mann	Mann	NOUN	NN	Morph:asm|NE:O|props:pppossnp-pp|tf:MF
 5	seit	seit	ADP	APPR	Morph:d|NE:O|props:pppossnp-pp|tf:MF
@@ -5280,7 +5280,7 @@
 1	Auf	auf	ADP	APPR	Morph:d|NE:O|props:base-ppbeforehead|tf:VF
 2	der	die	DET	ART	Morph:dsf|NE:O|props:base-ppbeforehead|tf:VF
 3	Straße	Straße	NOUN	NN	Morph:dsf|NE:O|props:base-ppbeforehead|tf:VF
-4	lässt	lässen	VERB	VVFIN	Morph:3sis|NE:O|props:base-ppbeforehead|tf:LK
+4	lässt	lassen	VERB	VVFIN	Morph:3sis|NE:O|props:base-ppbeforehead|tf:LK
 5	sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:base-ppbeforehead|tf:MF
 6	den	der	DET	ART	Morph:asm|NE:O|props:base-ppbeforehead|tf:MF
 7	Mann	Mann	NOUN	NN	Morph:asm|NE:O|props:base-ppbeforehead|tf:MF
@@ -5997,7 +5997,7 @@
 
 1	Nach	nach	ADP	APPR	Morph:d|NE:O|props:ppbeforehead-prepnoun|tf:VF
 2	Hause	Haus	NOUN	NN	Morph:dsn|NE:O|props:ppbeforehead-prepnoun|tf:VF
-3	lässt	lässen	VERB	VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepnoun|tf:LK
+3	lässt	lassen	VERB	VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepnoun|tf:LK
 4	sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:ppbeforehead-prepnoun|tf:MF
 5	den	der	DET	ART	Morph:asm|NE:O|props:ppbeforehead-prepnoun|tf:MF
 6	Mann	Mann	NOUN	NN	Morph:asm|NE:O|props:ppbeforehead-prepnoun|tf:MF
@@ -6123,7 +6123,7 @@
 2	der	die	DET	ART	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 3	internationalen	international	ADJ	ADJA	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 4	Grenze	Grenze	NOUN	NN	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-5	lässt	lässen	VERB	VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
+5	lässt	lassen	VERB	VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
 6	sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 7	den	der	DET	ART	Morph:asm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 8	Mann	Mann	NOUN	NN	Morph:asm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
@@ -6343,7 +6343,7 @@
 2	Anfang	Anfang	NOUN	NN	Morph:dsm|NE:O|props:ppbeforehead-pppossnp|tf:VF
 3	des	das	DET	ART	Morph:gsn|NE:O|props:ppbeforehead-pppossnp|tf:VF
 4	Lebens	Leben	NOUN	NN	Morph:gsn|NE:O|props:ppbeforehead-pppossnp|tf:VF
-5	mag	mögen	VERB	VMFIN	Morph:3sis|NE:O|props:ppbeforehead-pppossnp|tf:LK
+5	mag	mögen	VERB	VVFIN	Morph:3sis|NE:O|props:ppbeforehead-pppossnp|tf:LK
 6	er	er	PRON	PPER	Morph:nsm3|NE:O|props:ppbeforehead-pppossnp|tf:MF
 7	den	der	DET	ART	Morph:asm|NE:O|props:ppbeforehead-pppossnp|tf:MF
 8	Mann	Mann	NOUN	NN	Morph:asm|NE:O|props:ppbeforehead-pppossnp|tf:MF
@@ -6589,7 +6589,7 @@
 8	.	.	PUNCT	$.	Morph:null|NE:O|props:base-idiom|tf:UNK
 
 1	Sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:base-idiom|tf:VF
-2	lässt	lässen	VERB	VVFIN	Morph:3sis|NE:O|props:base-idiom|tf:LK
+2	lässt	lassen	VERB	VVFIN	Morph:3sis|NE:O|props:base-idiom|tf:LK
 3	die	die	DET	ART	Morph:asf|NE:O|props:base-idiom|tf:MF
 4	Katze	Katze	NOUN	NN	Morph:asf|NE:O|props:base-idiom|tf:MF
 5	aus	aus	ADP	APPR	Morph:d|NE:O|props:base-idiom|tf:MF
@@ -6726,7 +6726,7 @@
 1	Aus	aus	ADP	APPR	Morph:d|NE:O|props:ppbeforehead-idiom|tf:VF
 2	dem	der	DET	ART	Morph:dsm|NE:O|props:ppbeforehead-idiom|tf:VF
 3	Sack	Sack	NOUN	NN	Morph:dsm|NE:O|props:ppbeforehead-idiom|tf:VF
-4	lässt	lässen	VERB	VVFIN	Morph:3sis|NE:O|props:ppbeforehead-idiom|tf:LK
+4	lässt	lassen	VERB	VVFIN	Morph:3sis|NE:O|props:ppbeforehead-idiom|tf:LK
 5	sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:ppbeforehead-idiom|tf:MF
 6	die	die	DET	ART	Morph:asf|NE:O|props:ppbeforehead-idiom|tf:MF
 7	Katze	Katze	NOUN	NN	Morph:asf|NE:O|props:ppbeforehead-idiom|tf:MF
@@ -7888,7 +7888,7 @@
 6	die	die	DET	ART	Morph:asf|NE:O|props:pppossnp-verbheadedobjp|tf:MF
 7	Sache	Sache	NOUN	NN	Morph:asf|NE:O|props:pppossnp-verbheadedobjp|tf:MF
 8	des	der	DET	ART	Morph:gsm|NE:O|props:pppossnp-verbheadedobjp|tf:MF
-9	Bosses	Boß	NOUN	NN	Morph:gsm|NE:O|props:pppossnp-verbheadedobjp|tf:MF
+9	Bosses	Boss	NOUN	NN	Morph:gsm|NE:O|props:pppossnp-verbheadedobjp|tf:MF
 10	.	.	PUNCT	$.	Morph:null|NE:O|props:pppossnp-verbheadedobjp|tf:UNK
 
 1	Er	er	PRON	PPER	Morph:nsm3|NE:O|props:pppossnp-verbheadedobjp|tf:VF
@@ -7998,7 +7998,7 @@
 6	dem	der	DET	ART	Morph:dsm|NE:O|props:pppossnp-verbheadedobjp|tf:MF
 7	Staat	Staat	NOUN	NN	Morph:dsm|NE:O|props:pppossnp-verbheadedobjp|tf:MF
 8	der	die	DET	ART	Morph:gsf|NE:O|props:pppossnp-verbheadedobjp|tf:MF
-9	Union	Union	PROPN	NE	Morph:gsf|NE:B-ORG|props:pppossnp-verbheadedobjp|tf:MF
+9	Union	Union	NOUN	NN	Morph:gsf|NE:B-ORG|props:pppossnp-verbheadedobjp|tf:MF
 10	.	.	PUNCT	$.	Morph:null|NE:O|props:pppossnp-verbheadedobjp|tf:UNK
 
 1	Sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:pppp-verbheadedobjp|tf:VF
@@ -9022,7 +9022,7 @@
 4	Schritt	Schritt	NOUN	NN	Morph:asm|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 5	in	in	ADP	APPR	Morph:a|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 6	die	die	DET	ART	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
-7	andere	ander	ADJ	ADJA	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
+7	andere	andere	ADJ	ADJA	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 8	Richtung	Richtung	NOUN	NN	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 9	.	.	PUNCT	$.	Morph:null|NE:O|props:prepdetadjnoun-nounheadedpp|tf:UNK
 
@@ -9047,7 +9047,7 @@
 9	.	.	PUNCT	$.	Morph:null|NE:O|props:prepdetadjnoun-nounheadedpp|tf:UNK
 
 1	Sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:prepdetadjnoun-nounheadedpp|tf:VF
-2	will	wollen	VERB	VMFIN	Morph:3sis|NE:O|props:prepdetadjnoun-nounheadedpp|tf:LK
+2	will	wollen	VERB	VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-nounheadedpp|tf:LK
 3	die	die	DET	ART	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 4	Suche	Suche	NOUN	NN	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 5	nach	nach	ADP	APPR	Morph:d|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
@@ -9067,7 +9067,7 @@
 9	.	.	PUNCT	$.	Morph:null|NE:O|props:prepdetadjnoun-nounheadedpp|tf:UNK
 
 1	Er	er	PRON	PPER	Morph:nsm3|NE:O|props:prepdetadjnoun-nounheadedpp|tf:VF
-2	mag	mögen	VERB	VMFIN	Morph:3sis|NE:O|props:prepdetadjnoun-nounheadedpp|tf:LK
+2	mag	mögen	VERB	VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-nounheadedpp|tf:LK
 3	die	die	DET	ART	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 4	Stimme	Stimme	NOUN	NN	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 5	in	in	ADP	APPR	Morph:d|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
@@ -9117,7 +9117,7 @@
 9	.	.	PUNCT	$.	Morph:null|NE:O|props:prepdetadjnoun-nounheadedpp|tf:UNK
 
 1	Sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:prepdetadjnoun-nounheadedpp|tf:VF
-2	vergisst	vergisst	VERB	VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-nounheadedpp|tf:LK
+2	vergisst	vergessen	VERB	VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-nounheadedpp|tf:LK
 3	die	die	DET	ART	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 4	Träne	Träne	NOUN	NN	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 5	in	in	ADP	APPR	Morph:d|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
@@ -9201,7 +9201,7 @@
 10	.	.	PUNCT	$.	Morph:null|NE:O|props:pppossnp-nounheadedpp|tf:UNK
 
 1	Sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:pppossnp-nounheadedpp|tf:VF
-2	will	wollen	VERB	VMFIN	Morph:3sis|NE:O|props:pppossnp-nounheadedpp|tf:LK
+2	will	wollen	VERB	VVFIN	Morph:3sis|NE:O|props:pppossnp-nounheadedpp|tf:LK
 3	die	die	DET	ART	Morph:asf|NE:O|props:pppossnp-nounheadedpp|tf:MF
 4	Suche	Suche	NOUN	NN	Morph:asf|NE:O|props:pppossnp-nounheadedpp|tf:MF
 5	nach	nach	ADP	APPR	Morph:d|NE:O|props:pppossnp-nounheadedpp|tf:MF
@@ -9223,7 +9223,7 @@
 10	.	.	PUNCT	$.	Morph:null|NE:O|props:pppossnp-nounheadedpp|tf:UNK
 
 1	Er	er	PRON	PPER	Morph:nsm3|NE:O|props:pppossnp-nounheadedpp|tf:VF
-2	mag	mögen	VERB	VMFIN	Morph:3sis|NE:O|props:pppossnp-nounheadedpp|tf:LK
+2	mag	mögen	VERB	VVFIN	Morph:3sis|NE:O|props:pppossnp-nounheadedpp|tf:LK
 3	die	die	DET	ART	Morph:asf|NE:O|props:pppossnp-nounheadedpp|tf:MF
 4	Stimme	Stimme	NOUN	NN	Morph:asf|NE:O|props:pppossnp-nounheadedpp|tf:MF
 5	in	in	ADP	APPR	Morph:d|NE:O|props:pppossnp-nounheadedpp|tf:MF
@@ -9278,7 +9278,7 @@
 10	.	.	PUNCT	$.	Morph:null|NE:O|props:pppossnp-nounheadedpp|tf:UNK
 
 1	Sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:pppossnp-nounheadedpp|tf:VF
-2	vergisst	vergisst	VERB	VVFIN	Morph:3sis|NE:O|props:pppossnp-nounheadedpp|tf:LK
+2	vergisst	vergessen	VERB	VVFIN	Morph:3sis|NE:O|props:pppossnp-nounheadedpp|tf:LK
 3	die	die	DET	ART	Morph:asf|NE:O|props:pppossnp-nounheadedpp|tf:MF
 4	Träne	Träne	NOUN	NN	Morph:asf|NE:O|props:pppossnp-nounheadedpp|tf:MF
 5	in	in	ADP	APPR	Morph:d|NE:O|props:pppossnp-nounheadedpp|tf:MF
@@ -9454,7 +9454,7 @@
 11	.	.	PUNCT	$.	Morph:null|NE:O|props:pppp-nounheadedpp|tf:UNK
 
 1	Sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:pppp-nounheadedpp|tf:VF
-2	vergisst	vergisst	VERB	VVFIN	Morph:3sis|NE:O|props:pppp-nounheadedpp|tf:LK
+2	vergisst	vergessen	VERB	VVFIN	Morph:3sis|NE:O|props:pppp-nounheadedpp|tf:LK
 3	die	die	DET	ART	Morph:asf|NE:O|props:pppp-nounheadedpp|tf:MF
 4	Träne	Träne	NOUN	NN	Morph:asf|NE:O|props:pppp-nounheadedpp|tf:MF
 5	in	in	ADP	APPR	Morph:d|NE:O|props:pppp-nounheadedpp|tf:MF
