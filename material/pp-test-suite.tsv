@@ -119,36 +119,36 @@ base-5head	11	10	12	1	obl	Sie verkaufen dem Land des Sohnes den Film der Partei 
 1head-pppossnp	2	2	3	1	obl	Sie zeichnen aus Sicht der Mutter .
 1head-pppossnp	2	2	3	1	obl	Sie trinken auf Kosten der Frau .
 1head-pppossnp	2	2	3	1	obl	Sie beginnen in Zeiten der Rückkehr .
-1head-pppp	3	2	3	1	obl	Sie kommt an die Grenze mit dem Zaun .
-1head-pppp	3	2	3	1	obl	Sie geht auf dem Weg in die Zukunft .
-1head-pppp	3	2	3	1	obl	Sie steht auf der Bühne in dem Schauspielhaus .
-1head-pppp	3	2	3	1	obl	Sie bleibt dank der Frau in der Kneipe .
-1head-pppp	3	2	3	1	obl	Sie sucht auf der Straße in dem Berg .
-1head-pppp	3	2	3	1	obl	Er liegt in dem Haus in der Straße .
-1head-pppp	3	2	3	1	obl	Er baut in der Stadt mit dem Fluss .
-1head-pppp	3	2	3	1	obl	Er spielt in dem Film über den Krieg .
-1head-pppp	3	2	3	1	obl	Er beginnt in der Nacht vor dem Tod .
-1head-pppp	3	2	3	1	obl	Er lebt in dem Land mit der Insel .
-1head-pppp	3	2	3	1	obl	Sie gelten in dem Monat mit den Feiertagen .
-1head-pppp	3	2	3	1	obl	Sie schreiben in die Hand von dem Großgrundbesitzer .
-1head-pppp	3	2	3	1	obl	Sie erscheinen in dem Staat mit dem Einparteisystem .
-1head-pppp	3	2	3	1	obl	Sie trinken in der Bar an der Ecke .
-1head-pppp	3	2	3	1	obl	Sie arbeiten in dem Bereich in der Musikindustrie .
-1head-ppbeforehead	1	0	4	1	obl	Auf den Tisch kommt sie .
-1head-ppbeforehead	1	0	4	1	obl	Auf dem Weg geht sie .
-1head-ppbeforehead	1	0	4	1	obl	Auf der Bühne steht sie .
-1head-ppbeforehead	1	0	4	1	obl	In der Bundesrepublik bleibt sie .
-1head-ppbeforehead	1	0	4	1	obl	Auf die Straße zeigt sie .
-1head-ppbeforehead	1	0	4	1	obl	In dem Haus liegt er .
-1head-ppbeforehead	1	0	4	1	obl	In der Stadt spielt er .
-1head-ppbeforehead	1	0	4	1	obl	Zu dem Thema spricht er .
-1head-ppbeforehead	1	0	4	1	obl	In der Nacht beginnt er .
-1head-ppbeforehead	1	0	4	1	obl	In dem Jahr lebt er .
-1head-ppbeforehead	1	0	4	1	obl	In der Woche gelten sie .
-1head-ppbeforehead	1	0	4	1	obl	In die Hand schreiben sie .
-1head-ppbeforehead	1	0	4	1	obl	In der Welt erscheinen sie .
-1head-ppbeforehead	1	0	4	1	obl	An das Ende glauben sie .
-1head-ppbeforehead	1	0	4	1	obl	In dem Bereich arbeiten sie .
+1head-pppp	3	2	4	1	obl	Sie kommt an die Grenze mit dem Zaun .
+1head-pppp	3	2	4	1	obl	Sie geht auf dem Weg in die Zukunft .
+1head-pppp	3	2	4	1	obl	Sie steht auf der Bühne in dem Schauspielhaus .
+1head-pppp	3	2	4	1	obl	Sie bleibt dank der Frau in der Kneipe .
+1head-pppp	3	2	4	1	obl	Sie sucht auf der Straße in dem Berg .
+1head-pppp	3	2	4	1	obl	Er liegt in dem Haus in der Straße .
+1head-pppp	3	2	4	1	obl	Er baut in der Stadt mit dem Fluss .
+1head-pppp	3	2	4	1	obl	Er spielt in dem Film über den Krieg .
+1head-pppp	3	2	4	1	obl	Er beginnt in der Nacht vor dem Tod .
+1head-pppp	3	2	4	1	obl	Er lebt in dem Land mit der Insel .
+1head-pppp	3	2	4	1	obl	Sie gelten in dem Monat mit den Feiertagen .
+1head-pppp	3	2	4	1	obl	Sie schreiben in die Hand von dem Großgrundbesitzer .
+1head-pppp	3	2	4	1	obl	Sie erscheinen in dem Staat mit dem Einparteisystem .
+1head-pppp	3	2	4	1	obl	Sie trinken in der Bar an der Ecke .
+1head-pppp	3	2	4	1	obl	Sie arbeiten in dem Bereich in der Musikindustrie .
+1head-ppbeforehead	1	0	2	3	obl	Auf den Tisch kommt sie .
+1head-ppbeforehead	1	0	2	3	obl	Auf dem Weg geht sie .
+1head-ppbeforehead	1	0	2	3	obl	Auf der Bühne steht sie .
+1head-ppbeforehead	1	0	2	3	obl	In der Bundesrepublik bleibt sie .
+1head-ppbeforehead	1	0	2	3	obl	Auf die Straße zeigt sie .
+1head-ppbeforehead	1	0	2	3	obl	In dem Haus liegt er .
+1head-ppbeforehead	1	0	2	3	obl	In der Stadt spielt er .
+1head-ppbeforehead	1	0	2	3	obl	Zu dem Thema spricht er .
+1head-ppbeforehead	1	0	2	3	obl	In der Nacht beginnt er .
+1head-ppbeforehead	1	0	2	3	obl	In dem Jahr lebt er .
+1head-ppbeforehead	1	0	2	3	obl	In der Woche gelten sie .
+1head-ppbeforehead	1	0	2	3	obl	In die Hand schreiben sie .
+1head-ppbeforehead	1	0	2	3	obl	In der Welt erscheinen sie .
+1head-ppbeforehead	1	0	2	3	obl	An das Ende glauben sie .
+1head-ppbeforehead	1	0	2	3	obl	In dem Bereich arbeiten sie .
 1head-verbheadedobjp	3	2	4	1	obl	Sie kommt zu der Forderung .
 1head-verbheadedobjp	3	2	4	1	obl	Sie gehört zu dem Kind .
 1head-verbheadedobjp	3	2	4	1	obl	Sie sorgt für den Flüchtling .
@@ -449,21 +449,21 @@ prepdetadjnoun-pppp	6	4	7	1	obl	Sie legen das Bild in die alte Hand von dem Gro�
 prepdetadjnoun-pppp	6	4	7	1	obl	Sie fordern das Recht in dem freien Staat mit dem Einparteisystem .
 prepdetadjnoun-pppp	6	4	7	1	obl	Sie führt die Frau in der kleinen Bar an der Ecke .
 prepdetadjnoun-pppp	6	4	7	1	obl	Sie finden den Mann in dem anderen Bereich in der Musikindustrie .
-pppossnp-pp	4	4	5	1	obl	Sie sagt das Wort auf Frage des Vaters von dem Mitschüler .
-pppossnp-pp	4	4	5	1	obl	Sie zeigt das Problem auf Seiten der Bundesrepublik an der Peripherie .
-pppossnp-pp	4	4	5	1	obl	Sie schreibt das Buch nach Angabe der Regierung von dem Präsidenten .
-pppossnp-pp	4	4	5	1	obl	Sie führt die Frau in Richtung des Gegners aus der Partei .
-pppossnp-pp	4	4	5	1	obl	Sie bekommt die Chance mit Hilfe des Kollegen von der Tagespresse .
-pppossnp-pp	4	4	5	1	obl	Er fordert das Recht in Sache der Partei mit der Führungsstruktur .
-pppossnp-pp	4	4	5	1	obl	Er hat die Zeit nach Ansicht des Staats mit dem Einparteisystem .
-pppossnp-pp	4	4	5	1	obl	Er verliert das Interesse auf Basis der Forderung nach der Aufhebung .
-pppossnp-pp	4	4	5	1	obl	Er hält den Gast seit Beginn der Kontrolle an der Westgrenze .
-pppossnp-pp	4	4	5	1	obl	Er mag den Mann seit Anfang des Lebens auf dem Land .
-pppossnp-pp	4	4	5	1	obl	Sie erhalten die Rolle bis Ende des Jahres nach der Abschaffung .
-pppossnp-pp	4	4	5	1	obl	Sie erhalten den Film von Seiten des Präsidenten von dem Verwaltungsrat .
-pppossnp-pp	4	4	5	1	obl	Sie setzen das Kind an Bord des Schiffs mit der Besatzung .
-pppossnp-pp	4	4	5	1	obl	Sie verlieren das Geld auf Kosten der Bevölkerung in dem Sendegebiet .
-pppossnp-pp	4	4	5	1	obl	Sie erzählen die Geschichte in Zeiten der Spekulation über den Rücktritt .
+pppossnp-pppp	4	4	5	1	obl	Sie sagt das Wort auf Frage des Vaters von dem Mitschüler .
+pppossnp-pppp	4	4	5	1	obl	Sie zeigt das Problem auf Seiten der Bundesrepublik an der Peripherie .
+pppossnp-pppp	4	4	5	1	obl	Sie schreibt das Buch nach Angabe der Regierung von dem Präsidenten .
+pppossnp-pppp	4	4	5	1	obl	Sie führt die Frau in Richtung des Gegners aus der Partei .
+pppossnp-pppp	4	4	5	1	obl	Sie bekommt die Chance mit Hilfe des Kollegen von der Tagespresse .
+pppossnp-pppp	4	4	5	1	obl	Er fordert das Recht in Sache der Partei mit der Führungsstruktur .
+pppossnp-pppp	4	4	5	1	obl	Er hat die Zeit nach Ansicht des Staats mit dem Einparteisystem .
+pppossnp-pppp	4	4	5	1	obl	Er verliert das Interesse auf Basis der Forderung nach der Aufhebung .
+pppossnp-pppp	4	4	5	1	obl	Er hält den Gast seit Beginn der Kontrolle an der Westgrenze .
+pppossnp-pppp	4	4	5	1	obl	Er mag den Mann seit Anfang des Lebens auf dem Land .
+pppossnp-pppp	4	4	5	1	obl	Sie erhalten die Rolle bis Ende des Jahres nach der Abschaffung .
+pppossnp-pppp	4	4	5	1	obl	Sie erhalten den Film von Seiten des Präsidenten von dem Verwaltungsrat .
+pppossnp-pppp	4	4	5	1	obl	Sie setzen das Kind an Bord des Schiffs mit der Besatzung .
+pppossnp-pppp	4	4	5	1	obl	Sie verlieren das Geld auf Kosten der Bevölkerung in dem Sendegebiet .
+pppossnp-pppp	4	4	5	1	obl	Sie erzählen die Geschichte in Zeiten der Spekulation über den Rücktritt .
 base-ppbeforehead	1	0	2	3	obl	In der Hand hat sie das Geld .
 base-ppbeforehead	1	0	2	3	obl	Zu dem Thema sagt sie das Wort .
 base-ppbeforehead	1	0	2	3	obl	Auf der Straße lässt sie den Mann .
