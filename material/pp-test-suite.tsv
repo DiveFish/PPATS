@@ -41,7 +41,7 @@ base-3head	7	6	8	1	obl	Er sucht dem Präsidenten die Chance an dem Tag .
 base-3head	7	6	8	1	obl	Er trägt dem Mann das Kind auf dem Weg .
 base-3head	7	6	8	1	obl	Sie bauen dem Publikum den Platz in dem Jahr .
 base-3head	7	6	8	1	obl	Sie schicken dem Kollegen das Bild in der Woche .
-base-3head	7	6	8	1	obl	Sie bestätigen der Partei das Recht in zu der Zeit .
+base-3head	7	6	8	1	obl	Sie bestätigen der Partei das Recht zu der Zeit .
 base-3head	7	6	8	1	obl	Sie legen dem Menschen das Buch auf den Tisch .
 base-3head	7	6	8	1	obl	Sie verkaufen dem Land den Film an der Grenze .
 base-4head	9	8	10	1	obl	Sie gibt der Frau das Geld des Kollegen in die Hand .
@@ -51,8 +51,8 @@ base-4head	9	8	10	1	obl	Sie bringt dem Herren die Million des Mannes in das Haus
 base-4head	9	8	10	1	obl	Sie stellt dem Kind die Frage des Sohnes in dem Interview .
 base-4head	9	8	10	1	obl	Er setzt dem Gegner die Frau des Vaters auf die Bühne .
 base-4head	9	8	10	1	obl	Er nennt der Bevölkerung den Namen des Freundes in der Stadt .
-base-4head	9	8	10	1	obl	Er erzählt der Welt die Geschichte des Hauses in der Nacht .
-base-4head	9	8	10	1	obl	Er sucht dem Präsidenten die Chance des Lebens an dem Tag .
+base-4head	9	8	10	1	obl	Er erzählt dem Flüchtling die Geschichte des Hauses in der Nacht .
+base-4head	9	8	10	1	obl	Er sucht dem Präsidenten die Chance des Lebens in dem Monat .
 base-4head	9	8	10	1	obl	Er trägt dem Mann das Kind der Familie auf dem Weg .
 base-4head	9	8	10	1	obl	Sie bauen dem Land den Platz der Heimat in dem Jahr .
 base-4head	9	8	10	1	obl	Sie schicken dem Kollegen das Bild der Wohnung in der Woche .
@@ -67,7 +67,7 @@ base-5head	11	10	12	1	obl	Sie stellt dem Kind des Vaters die Frage des Sohnes in
 base-5head	11	10	12	1	obl	Er setzt dem Publikum des Films die Frau des Vaters auf die Bühne .
 base-5head	11	10	12	1	obl	Er nennt der Bevölkerung des Landes den Namen des Freundes in der Stadt .
 base-5head	11	10	12	1	obl	Er erzählt dem Flüchtling der Gesellschaft die Geschichte des Hauses in der Nacht .
-base-5head	11	10	12	1	obl	Er sucht dem Präsidenten des Amts die Chance des Lebens an dem Tag .
+base-5head	11	10	12	1	obl	Er sucht dem Präsidenten des Amts die Chance des Lebens in dem Monat .
 base-5head	11	10	12	1	obl	Er trägt dem Mann des Lebens das Kind der Familie auf dem Weg .
 base-5head	11	10	12	1	obl	Sie bauen dem Land des Freundes den Platz der Heimat in dem Jahr .
 base-5head	11	10	12	1	obl	Sie schicken dem Kollegen der Frau das Bild der Wohnung in der Woche .
@@ -116,7 +116,7 @@ base-5head	11	10	12	1	obl	Sie verkaufen dem Land des Sohnes den Film der Partei 
 1head-pppossnp	2	2	3	1	obl	Er liegt seit Anfang des Lebens .
 1head-pppossnp	2	2	3	1	obl	Sie gelten bis Ende des Buchs .
 1head-pppossnp	2	2	3	1	obl	Sie kommen von Seiten des Sohnes .
-1head-pppossnp	2	2	3	1	obl	Sie zeichnen aus Sicht der Mutter .
+1head-pppossnp	2	2	3	1	obl	Sie zeichnen auf Forderung der Mutter .
 1head-pppossnp	2	2	3	1	obl	Sie trinken auf Kosten der Frau .
 1head-pppossnp	2	2	3	1	obl	Sie beginnen in Zeiten der Rückkehr .
 1head-pppp	3	2	4	1	obl	Sie kommt an die Grenze mit dem Zaun .
@@ -235,9 +235,9 @@ base-prepnoun	4	4	5	1	obl	Sie erzählen die Geschichte mit Sicherheit .
 4head-prepnoun	8	8	9	1	obl	Er verkauft dem Land den Film der Partei zu Recht .
 4head-prepnoun	8	8	9	1	obl	Er sagt der Bevölkerung den Namen der Mutter aus Angst .
 4head-prepnoun	8	8	9	1	obl	Sie bestätigen der Partei das Recht der Meinung seit Wochen .
-4head-prepnoun	8	8	9	1	obl	Sie nennen dem Präsidenten die Forderung der Gesellschaft seit Anfang .
+4head-prepnoun	8	8	9	1	obl	Sie nennen dem Flüchtling die Forderung der Gesellschaft seit Anfang .
 4head-prepnoun	8	8	9	1	obl	Sie schicken dem Kollegen das Bild der Freundin in Zukunft .
-4head-prepnoun	8	8	9	1	obl	Sie suchen dem Flüchtling die Chance des Lebens auf Dauer .
+4head-prepnoun	8	8	9	1	obl	Sie suchen dem Präsidenten die Chance des Lebens auf Dauer .
 4head-prepnoun	8	8	9	1	obl	Sie erzählen dem Menschen die Geschichte des Kindes mit Sicherheit .
 5head-prepnoun	10	10	11	1	obl	Sie gibt der Frau des Mannes das Geld des Kollegen zu Hause .
 5head-prepnoun	10	10	11	1	obl	Sie zeigt dem Gast des Kollegen das Haus der Frau zu Beginn .
@@ -290,14 +290,14 @@ base-prepdetadjnoun	6	4	7	1	obl	Sie erzählen die Geschichte in der ganzen Welt 
 4head-prepdetadjnoun	10	8	11	1	obl	Sie bringt dem Herren die Million des Mannes in das große Haus .
 4head-prepdetadjnoun	10	8	11	1	obl	Sie stellt dem Kind die Frage des Sohnes in dem schweren Moment .
 4head-prepdetadjnoun	10	8	11	1	obl	Er setzt dem Gegner die Frau des Vaters auf die neue Bühne .
-4head-prepdetadjnoun	10	8	11	1	obl	Er nennt der Bevölkerung den Namen der Mutter an dem kurzen Tag .
+4head-prepdetadjnoun	10	8	11	1	obl	Er nennt der Bevölkerung den Namen der Mutter an dem langen Tag .
 4head-prepdetadjnoun	10	8	11	1	obl	Er erzählt der Welt die Geschichte des Kindes in der ersten Nacht .
 4head-prepdetadjnoun	10	8	11	1	obl	Er sucht dem Präsidenten die Chance des Lebens in dem anderen Monat .
-4head-prepdetadjnoun	10	8	11	1	obl	Er trägt dem Mann das Kind der Familie auf dem langen Weg .
+4head-prepdetadjnoun	10	8	11	1	obl	Er trägt dem Mann das Kind der Familie auf dem alten Weg .
 4head-prepdetadjnoun	10	8	11	1	obl	Sie bauen dem Land den Platz der Heimat in dem nächsten Jahr .
 4head-prepdetadjnoun	10	8	11	1	obl	Sie schicken dem Kollegen das Bild der Freundin in der nächsten Woche .
 4head-prepdetadjnoun	10	8	11	1	obl	Sie bestätigen der Partei das Recht der Rückkehr in der deutschen Bundesrepublik .
-4head-prepdetadjnoun	10	8	11	1	obl	Sie legen dem Menschen das Buch des Sohns auf den alten Tisch .
+4head-prepdetadjnoun	10	8	11	1	obl	Sie legen dem Menschen das Buch des Sohns auf den kurzen Tisch .
 4head-prepdetadjnoun	10	8	11	1	obl	Sie verkaufen dem Land den Film der Partei an der gemeinsamen Grenze .
 5head-prepdetadjnoun	12	10	13	1	obl	Sie gibt der Frau des Mannes das Geld des Kunden in die freie Hand .
 5head-prepdetadjnoun	12	10	13	1	obl	Sie zeigt dem Gast des Kollegen das Haus der Frau an dem typischen Beispiel .
@@ -305,14 +305,14 @@ base-prepdetadjnoun	6	4	7	1	obl	Sie erzählen die Geschichte in der ganzen Welt 
 5head-prepdetadjnoun	12	10	13	1	obl	Sie bringt dem Herren des Werks die Million des Staates in das große Haus .
 5head-prepdetadjnoun	12	10	13	1	obl	Sie stellt dem Kind des Vaters die Frage des Publikums in dem schweren Moment .
 5head-prepdetadjnoun	12	10	13	1	obl	Er setzt dem Publikum des Films die Frau des Präsidenten auf die neue Bühne .
-5head-prepdetadjnoun	12	10	13	1	obl	Er nennt der Bevölkerung des Landes den Namen des Gegners an dem kurzen Tag .
+5head-prepdetadjnoun	12	10	13	1	obl	Er nennt der Bevölkerung des Landes den Namen des Gegners an dem langen Tag .
 5head-prepdetadjnoun	12	10	13	1	obl	Er erzählt dem Flüchtling der Gesellschaft die Geschichte der Stadt in der ersten Nacht .
 5head-prepdetadjnoun	12	10	13	1	obl	Er sucht dem Präsidenten des Amts die Chance des Lebens in dem anderen Monat .
-5head-prepdetadjnoun	12	10	13	1	obl	Er trägt dem Mann des Lebens das Kind des Kollegen auf dem langen Weg .
+5head-prepdetadjnoun	12	10	13	1	obl	Er trägt dem Mann des Lebens das Kind des Kollegen auf dem alten Weg .
 5head-prepdetadjnoun	12	10	13	1	obl	Sie bauen dem Land des Freundes den Platz der Regierung in dem nächsten Jahr .
 5head-prepdetadjnoun	12	10	13	1	obl	Sie schicken dem Kollegen der Frau das Bild des Schiffs in der vergangenen Woche .
 5head-prepdetadjnoun	12	10	13	1	obl	Sie bestätigen der Partei der Heimat das Recht der Kontrolle zu der richtigen Zeit .
-5head-prepdetadjnoun	12	10	13	1	obl	Sie legen dem Gegner der Mutter das Buch des Kindes auf den alten Tisch .
+5head-prepdetadjnoun	12	10	13	1	obl	Sie legen dem Gegner der Mutter das Buch des Kindes auf den kurzen Tisch .
 5head-prepdetadjnoun	12	10	13	1	obl	Sie verkaufen dem Kunden der Freundin den Film der Partei an der gemeinsamen Grenze .
 base-pppossnp	4	4	5	1	obl	Sie sagt das Wort auf Frage des Vaters .
 base-pppossnp	4	4	5	1	obl	Sie zeigt das Haus an dem Beispiel des Ausschusses .
@@ -341,7 +341,7 @@ base-pppossnp	4	4	5	1	obl	Sie erzählen die Geschichte in Zeiten der Spekulation
 3head-pppossnp	6	6	7	1	obl	Er trägt dem Mann das Kind seit Anfang des Lebens .
 3head-pppossnp	6	6	7	1	obl	Sie bauen dem Publikum den Platz bis Ende des Jahres .
 3head-pppossnp	6	6	7	1	obl	Sie erklären den Leuten den Grund von Seiten des Gasts .
-3head-pppossnp	6	6	7	1	obl	Sie verkaufen dem Land den Film im Auftrag des Mannes .
+3head-pppossnp	6	6	7	1	obl	Sie verkaufen dem Land den Film an Stelle des Mannes .
 3head-pppossnp	6	6	7	1	obl	Sie senden dem Präsidenten den Brief auf Kosten der Bevölkerung .
 3head-pppossnp	6	6	7	1	obl	Sie stellen dem Kind die Frage in Zeiten der Spekulation .
 4head-pppossnp	8	8	9	1	obl	Sie schicken dem Kollegen das Bild der Freundin im Rahmen des Films .
@@ -352,12 +352,12 @@ base-pppossnp	4	4	5	1	obl	Sie erzählen die Geschichte in Zeiten der Spekulation
 4head-pppossnp	8	8	9	1	obl	Er gibt der Frau das Geld des Kollegen in Sache der Partei .
 4head-pppossnp	8	8	9	1	obl	Er sagt der Bevölkerung den Namen des Freundes nach Ansicht des Staats .
 4head-pppossnp	8	8	9	1	obl	Er zeigt dem Gast der Fragerunde das Haus an dem Beispiel des Ausschusses .
-4head-pppossnp	8	8	9	1	obl	Er sucht dem Flüchtling die Chance des Lebens seit Beginn der Kontrolle .
+4head-pppossnp	8	8	9	1	obl	Er sucht dem Präsidenten die Chance des Lebens seit Beginn der Kontrolle .
 4head-pppossnp	8	8	9	1	obl	Er trägt dem Mann das Kind der Familie seit Anfang des Lebens .
 4head-pppossnp	8	8	9	1	obl	Sie bauen dem Publikum den Platz der Heimat bis Ende des Jahres .
 4head-pppossnp	8	8	9	1	obl	Sie erklären den Leuten das Buch der Mutter von Seiten des Gasts .
-4head-pppossnp	8	8	9	1	obl	Sie verkaufen dem Land den Film der Frau im Auftrag des Mannes .
-4head-pppossnp	8	8	9	1	obl	Sie nennen dem Präsidenten die Forderung der Gesellschaft im Vorfeld der Sache .
+4head-pppossnp	8	8	9	1	obl	Sie verkaufen dem Land den Film der Frau an Stelle des Mannes .
+4head-pppossnp	8	8	9	1	obl	Sie nennen dem Flüchtling die Forderung der Gesellschaft im Vorfeld der Sache .
 4head-pppossnp	8	8	9	1	obl	Sie stellen dem Kind die Frage des Sohnes in Zeiten der Spekulation .
 5head-pppossnp	10	10	11	1	obl	Sie schickt dem Kollegen der Frau das Bild der Freundin auf Frage des Vaters .
 5head-pppossnp	10	10	11	1	obl	Sie bestätigt der Partei der Mitte das Recht der Meinung auf Anfrage des Präsidenten .
@@ -367,18 +367,18 @@ base-pppossnp	4	4	5	1	obl	Sie erzählen die Geschichte in Zeiten der Spekulation
 5head-pppossnp	10	10	11	1	obl	Er gibt der Frau des Kollegen das Geld des Kollegen in Sache der Partei .
 5head-pppossnp	10	10	11	1	obl	Er sagt der Bevölkerung des Landes den Namen des Freundes nach Ansicht des Staats .
 5head-pppossnp	10	10	11	1	obl	Er zeigt dem Gast der Fragerunde das Haus der Kunst an dem Beispiel des Ausschusses .
-5head-pppossnp	10	10	11	1	obl	Er sucht dem Flüchtling der Gesellschaft die Chance des Lebens seit Beginn der Kontrolle .
+5head-pppossnp	10	10	11	1	obl	Er sucht dem Präsidenten der Gesellschaft die Chance des Lebens seit Beginn der Kontrolle .
 5head-pppossnp	10	10	11	1	obl	Er trägt dem Mann des Lebens das Kind der Familie seit Anfang des Lebens .
 5head-pppossnp	10	10	11	1	obl	Sie bauen dem Publikum des Films den Platz der Heimat bis Ende des Jahres .
 5head-pppossnp	10	10	11	1	obl	Sie erklären den Leuten des Amts das Buch des Kindes von Seiten des Gasts .
-5head-pppossnp	10	10	11	1	obl	Sie verkaufen dem Kapitän des Schiffs den Film der Frau im Auftrag des Mannes .
-5head-pppossnp	10	10	11	1	obl	Sie nennen dem Präsidenten der Heimat die Forderung der Gesellschaft nach Meinung der Mutter .
+5head-pppossnp	10	10	11	1	obl	Sie verkaufen dem Kapitän des Schiffs den Film der Frau an Stelle des Mannes .
+5head-pppossnp	10	10	11	1	obl	Sie nennen dem Flüchtling der Heimat die Forderung der Gesellschaft nach Meinung der Mutter .
 5head-pppossnp	10	10	11	1	obl	Sie stellen dem Kind des Vaters die Frage des Sohnes in Zeiten der Spekulation .
 base-pppp	5	4	6	1	obl	Sie bringt das Kind an die Grenze mit dem Zaun .
 base-pppp	5	4	6	1	obl	Sie sagt das Wort in dem Interview mit der Zeitung .
 base-pppp	5	4	6	1	obl	Sie zeigt das Haus an dem Beispiel aus der Vergangenheit .
 base-pppp	5	4	6	1	obl	Sie schreibt das Buch dank der Frau in der Kneipe .
-base-pppp	5	4	6	1	obl	Sie verliert das Geld auf der Straße in dem Berg .
+base-pppp	5	4	6	1	obl	Sie verliert das Geld an dem Tag mit der Sonne .
 base-pppp	5	4	6	1	obl	Er hält den Gast in dem Haus in der Straße .
 base-pppp	5	4	6	1	obl	Er sieht den Film in der Stadt mit dem Fluss .
 base-pppp	5	4	6	1	obl	Er stellt die Rolle auf den Tisch in der Küche .
@@ -398,7 +398,7 @@ base-pppp	5	4	6	1	obl	Sie finden den Mann in dem Bereich in der Musikindustrie .
 3head-pppp	7	6	8	1	obl	Er erklärt dem Gegner den Grund in der Stadt mit dem Fluss .
 3head-pppp	7	6	8	1	obl	Er nennt dem Präsidenten die Forderung in dem Film über den Krieg .
 3head-pppp	7	6	8	1	obl	Er erzählt dem Menschen die Geschichte in der Nacht vor dem Tod .
-3head-pppp	7	6	8	1	obl	Er beweist dem Publikum die Gleichung in dem Land mit der Insel .
+3head-pppp	7	6	8	1	obl	Er baut dem Publikum den Platz in dem Jahr mit der Pandemie .
 3head-pppp	7	6	8	1	obl	Sie suchen dem Flüchtling die Chance in dem Monat mit den Feiertagen .
 3head-pppp	7	6	8	1	obl	Sie zeigen dem Kunden die Rolle in der Woche in dem Haus .
 3head-pppp	7	6	8	1	obl	Sie beschreiben dem Herren den Film für den Staat mit dem Einparteisystem .
@@ -413,7 +413,7 @@ base-pppp	5	4	6	1	obl	Sie finden den Mann in dem Bereich in der Musikindustrie .
 4head-pppp	9	8	10	1	obl	Er erklärt dem Gegner der Forderung den Grund in der Stadt mit dem Fluss .
 4head-pppp	9	8	10	1	obl	Er nennt dem Präsidenten der Heimat die Forderung in dem Film über den Krieg .
 4head-pppp	9	8	10	1	obl	Er erzählt dem Gast der Mutter die Geschichte in der Nacht vor dem Tod .
-4head-pppp	9	8	10	1	obl	Er baut dem Publikum des Films den Platz in das Land mit der Insel .
+4head-pppp	9	8	10	1	obl	Er baut dem Publikum des Films den Platz in dem Jahr mit der Pande .
 4head-pppp	9	8	10	1	obl	Sie suchen dem Flüchtling der Gesellschaft die Chance in dem Monat mit den Feiertagen .
 4head-pppp	9	8	10	1	obl	Sie zeigen dem Kunden der Familie die Rolle in der Hand von dem Großgrundbesitzer .
 4head-pppp	9	8	10	1	obl	Sie verkaufen dem Herren der Partei den Film in dem Staat mit dem Einparteisystem .
@@ -423,16 +423,16 @@ base-pppp	5	4	6	1	obl	Sie finden den Mann in dem Bereich in der Musikindustrie .
 5head-pppp	11	10	12	1	obl	Sie sagt der Bevölkerung des Landes den Namen des Freundes auf dem Weg in die Zukunft .
 5head-pppp	11	10	12	1	obl	Sie zeigt dem Gast der Fragerunde das Haus der Kunst an dem Beispiel aus der Vergangenheit .
 5head-pppp	11	10	12	1	obl	Sie beschreibt der Stadt des Freundes das Buch des Kindes dank der Frau in der Kneipe .
-5head-pppp	11	10	12	1	obl	Sie bringt der Frau des Kollegen das Geld des Kollegen auf der Straße in dem Berg .
+5head-pppp	11	10	12	1	obl	Sie bringt der Frau des Kollegen das Geld des Kollegen an dem Tag mit der Sonne .
 5head-pppp	11	10	12	1	obl	Er trägt dem Mann des Lebens das Kind der Familie in das Haus in der Straße .
 5head-pppp	11	10	12	1	obl	Er erklärt dem Gegner der Forderung den Grund des Endes vor der Frau mit dem Kind .
-5head-pppp	11	10	12	1	obl	Er nennt dem Präsidenten der Heimat die Forderung der Gesellschaft an dem Tag mit der Sonne .
+5head-pppp	11	10	12	1	obl	Er nennt dem Flüchtling der Heimat die Forderung der Gesellschaft an dem Tag mit der Sonne .
 5head-pppp	11	10	12	1	obl	Er erzählt dem Gast der Mutter die Geschichte der Rückkehr vor der Gruppe mit dem Chef .
 5head-pppp	11	10	12	1	obl	Er baut dem Publikum des Films den Platz der Heimat in dem Jahr mit der Pandemie .
-5head-pppp	11	10	12	1	obl	Sie suchen dem Flüchtling der Gesellschaft die Chance des Lebens in dem Monat mit den Feiertagen .
+5head-pppp	11	10	12	1	obl	Sie suchen dem Präsidenten der Gesellschaft die Chance des Lebens in dem Monat mit den Feiertagen .
 5head-pppp	11	10	12	1	obl	Sie zeigen dem Kunden der Familie die Rolle des Vaters in der Woche in dem Haus .
 5head-pppp	11	10	12	1	obl	Sie verkaufen dem Herren der Partei den Film der Frau in dem Staat mit dem Einparteisystem .
-5head-pppp	11	10	12	1	obl	Sie beweisen dem Kind des Vaters den Sinn des Forderung in der Bar an der Ecke .
+5head-pppp	11	10	12	1	obl	Sie beweisen dem Kind des Vaters den Sinn der Forderung in der Bar an der Ecke .
 5head-pppp	11	10	12	1	obl	Sie geben der Regierung der Gesellschaft das Recht der Meinung in der Nacht vor der Wahl .
 prepdetadjnoun-pppp	6	4	7	1	obl	Sie bringt das Kind an die internationale Grenze mit dem Zaun .
 prepdetadjnoun-pppp	6	4	7	1	obl	Sie sagt das Wort in dem fingierten Interview mit der Zeitung .
@@ -441,7 +441,7 @@ prepdetadjnoun-pppp	6	4	7	1	obl	Sie schreibt das Buch dank der alten Frau in der
 prepdetadjnoun-pppp	6	4	7	1	obl	Sie verliert das Geld auf der ersten Straße in dem Berg .
 prepdetadjnoun-pppp	6	4	7	1	obl	Er fragt den Gast nach der verlorenen Identität in dem Viertel .
 prepdetadjnoun-pppp	6	4	7	1	obl	Er sieht den Film in der deutschen Stadt mit dem Fluss .
-prepdetadjnoun-pppp	6	4	7	1	obl	Er legt die Rolle auf den langen Tisch in der Küche .
+prepdetadjnoun-pppp	6	4	7	1	obl	Er legt die Rolle auf den kurzen Tisch in der Küche .
 prepdetadjnoun-pppp	6	4	7	1	obl	Er verliert das Interesse in der späten Nacht vor dem Tod .
 prepdetadjnoun-pppp	6	4	7	1	obl	Er bekommt die Chance in dem großen Land mit der Insel .
 prepdetadjnoun-pppp	6	4	7	1	obl	Sie zeigen das Kind in dem nächsten Monat mit den Feiertagen .
@@ -450,7 +450,7 @@ prepdetadjnoun-pppp	6	4	7	1	obl	Sie fordern das Recht in dem freien Staat mit de
 prepdetadjnoun-pppp	6	4	7	1	obl	Sie führt die Frau in die kleine Bar an der Ecke .
 prepdetadjnoun-pppp	6	4	7	1	obl	Sie finden den Mann in dem anderen Bereich in der Musikindustrie .
 pppossnp-pppp	4	4	5	1	obl	Sie sagt das Wort auf Frage des Vaters von dem Mitschüler .
-pppossnp-pppp	4	4	5	1	obl	Sie zeigt das Problem im Auftrag der Bundesrepublik an der Peripherie .
+pppossnp-pppp	4	4	5	1	obl	Sie zeigt das Problem aus Sicht der Bundesrepublik an der Peripherie .
 pppossnp-pppp	4	4	5	1	obl	Sie schreibt das Buch nach Angabe der Regierung von dem Präsidenten .
 pppossnp-pppp	4	4	5	1	obl	Sie führt die Frau in Richtung des Gegners aus der Partei .
 pppossnp-pppp	4	4	5	1	obl	Sie bekommt die Chance mit Hilfe des Kollegen von der Tagespresse .
@@ -466,7 +466,7 @@ pppossnp-pppp	4	4	5	1	obl	Sie verlieren das Geld auf Kosten der Bevölkerung in 
 pppossnp-pppp	4	4	5	1	obl	Sie erzählen die Geschichte in Zeiten der Spekulation über den Rücktritt .
 base-ppbeforehead	1	0	2	3	obl	In der Hand hat sie das Geld .
 base-ppbeforehead	1	0	2	3	obl	In dem Interview sagt sie das Wort .
-base-ppbeforehead	1	0	2	3	obl	Auf der Straße lässt sie den Mann .
+base-ppbeforehead	1	0	2	3	obl	An dem Tag lässt sie den Mann .
 base-ppbeforehead	1	0	2	3	obl	An dem Abend sieht sie den Weg .
 base-ppbeforehead	1	0	2	3	obl	In dem Monat findet sie den Platz .
 base-ppbeforehead	1	0	2	3	obl	Für das Publikum zeigt er das Problem .
@@ -502,7 +502,7 @@ base-ppbeforehead	1	0	2	3	obl	Dank der Frau erhalten sie die Zeit .
 4head-ppbeforehead	1	0	2	3	obl	Auf die Bühne setzt er dem Gegner die Frau des Vaters .
 4head-ppbeforehead	1	0	2	3	obl	In dem Film nennt er der Bevölkerung den Namen des Freundes .
 4head-ppbeforehead	1	0	2	3	obl	In der Nacht erzählt er der Welt die Geschichte des Hauses .
-4head-ppbeforehead	1	0	2	3	obl	In dem Bereich sucht er dem Präsidenten die Chance des Lebens .
+4head-ppbeforehead	1	0	2	3	obl	In dem Monat sucht er dem Präsidenten die Chance des Lebens .
 4head-ppbeforehead	1	0	2	3	obl	Auf dem Weg trägt er dem Mann das Kind der Familie .
 4head-ppbeforehead	1	0	2	3	obl	In dem Jahr bauen sie dem Publikum den Platz der Heimat .
 4head-ppbeforehead	1	0	2	3	obl	In der Woche schicken sie dem Kollegen das Bild der Wohnung .
@@ -517,7 +517,7 @@ base-ppbeforehead	1	0	2	3	obl	Dank der Frau erhalten sie die Zeit .
 5head-ppbeforehead	1	0	2	3	obl	Auf die Bühne setzt er dem Gegner der Mutter die Frau des Vaters .
 5head-ppbeforehead	1	0	2	3	obl	In dem Film nennt er der Bevölkerung des Landes den Namen des Freundes .
 5head-ppbeforehead	1	0	2	3	obl	In der Nacht erzählt er dem Flüchtling der Gesellschaft die Geschichte des Hauses .
-5head-ppbeforehead	1	0	2	3	obl	In dem Bereich sucht er dem Präsidenten des Amts die Chance des Lebens .
+5head-ppbeforehead	1	0	2	3	obl	In dem Monat sucht er dem Präsidenten des Amts die Chance des Lebens .
 5head-ppbeforehead	1	0	2	3	obl	Auf dem Weg trägt er dem Mann des Lebens das Kind der Familie .
 5head-ppbeforehead	1	0	2	3	obl	In dem Jahr bauen sie dem Publikum des Films den Platz der Heimat .
 5head-ppbeforehead	1	0	2	3	obl	In der Woche schicken sie dem Kollegen der Frau das Bild der Wohnung .
@@ -573,7 +573,7 @@ ppbeforehead-pppp	4	0	2	6	obl	An die Grenze mit dem Zaun bringt sie das Kind .
 ppbeforehead-pppp	4	0	2	6	obl	In dem Interview mit der Zeitung sagt sie das Wort .
 ppbeforehead-pppp	4	0	2	6	obl	Auf der Bühne in dem Schauspielhaus zeigt sie das Problem .
 ppbeforehead-pppp	4	0	2	6	obl	Dank der Frau in der Kneipe schreibt sie das Buch .
-ppbeforehead-pppp	4	0	2	6	obl	Auf der Straße in dem Berg verliert sie das Geld .
+ppbeforehead-pppp	4	0	2	6	obl	An dem Tag mit der Sonne verliert sie das Geld .
 ppbeforehead-pppp	4	0	2	6	obl	In dem Haus in der Straße hält sie den Gast .
 ppbeforehead-pppp	4	0	2	6	obl	In der Stadt mit dem Fluss sieht er den Film .
 ppbeforehead-pppp	4	0	2	6	obl	Dank der Frau mit dem Kind erhält er die Rolle .
@@ -766,7 +766,7 @@ ppbeforehead-verbheadedobjp	1	0	2	3	obl	Aus dem Staat ziehen sie die Million .
 1head-nounheadedpp	3	2	4	1	nmod	Der Zugang zu dem Teil .
 3head-nounheadedpp	3	6	8	5	nmod	Sie gibt der Frau die Antwort auf die Frage .
 3head-nounheadedpp	3	6	8	5	nmod	Sie erklärt den Leuten den Schritt in die Richtung .
-3head-nounheadedpp	3	6	8	5	nmod	Sie verschreibt dem Patienten die Pille in der Packung .
+3head-nounheadedpp	3	6	8	5	nmod	Sie verschreibt dem Patienten die Pille von dem Beruhigungsmittel .
 3head-nounheadedpp	3	6	8	5	nmod	Sie beschreibt dem Herren den Einsatz von den Bodentruppen .
 3head-nounheadedpp	3	6	8	5	nmod	Sie berichtet dem Staat die Suche nach der Identität .
 3head-nounheadedpp	3	6	8	5	nmod	Er bestätigt dem Gegner die Auseinandersetzung mit der Polizei .
@@ -796,7 +796,7 @@ ppbeforehead-verbheadedobjp	1	0	2	3	obl	Aus dem Staat ziehen sie die Million .
 4head-nounheadedpp	5	8	10	5	nmod	Sie bauen der Regierung des Staats den Zugang zu dem Teil .
 5head-nounheadedpp	5	10	12	7	nmod	Sie gibt der Frau des Mannes die Antwort des Amts auf die Frage .
 5head-nounheadedpp	5	10	12	7	nmod	Sie erklärt den Leuten der Partei den Schritt der Frau in die Richtung .
-5head-nounheadedpp	5	10	12	7	nmod	Sie verschreibt dem Gast des Kollegen die Pillen des Mannes in der Packung .
+5head-nounheadedpp	5	10	12	7	nmod	Sie verschreibt dem Gast des Kollegen die Pillen des Mannes von dem Beruhigungsmittel .
 5head-nounheadedpp	5	10	12	7	nmod	Sie beschreibt dem Herren des Hauses den Einsatz des Lebens von den Bodentruppen .
 5head-nounheadedpp	5	10	12	7	nmod	Sie berichtet dem Staat des Vaters die Suche des Präsidenten nach der Identität .
 5head-nounheadedpp	5	10	12	7	nmod	Er bestätigt dem Gegner der Mutter die Auseinandersetzung des Sohnes mit der Polizei .
@@ -806,7 +806,7 @@ ppbeforehead-verbheadedobjp	1	0	2	3	obl	Aus dem Staat ziehen sie die Million .
 5head-nounheadedpp	5	10	12	7	nmod	Er verliert der Partei der Heimat die Mehrheit des Anfangs in dem Parlament .
 5head-nounheadedpp	5	10	12	7	nmod	Sie glauben der Bevölkerung des Landes den Beschuss der Partei auf den Vorort .
 5head-nounheadedpp	5	10	12	7	nmod	Sie erklären dem Flüchtling der Gesellschaft die Träne des Freundes in dem Auge .
-5head-nounheadedpp	5	10	12	7	nmod	Sie suchen dem Mann des Lebens die Familie der Hoffnung mit dem Kind .
+5head-nounheadedpp	5	10	12	7	nmod	Sie verkaufen dem Mann des Lebens das Schiff der Familie mit der Besatzung .
 5head-nounheadedpp	5	10	12	7	nmod	Sie schildern dem Präsidenten des Films den Konflikt des Sohnes in der Welt .
 5head-nounheadedpp	5	10	12	7	nmod	Sie bauen der Regierung des Staats den Zugang des Kollegen zu dem Teil .
 prepdetadjnoun-nounheadedpp	4	4	7	3	nmod	Sie bekommt die Antwort auf die letzte Frage .
@@ -846,7 +846,7 @@ pppp-nounheadedpp	3	4	6	3	nmod	Sie beschreibt den Einsatz von den Bodentruppen a
 pppp-nounheadedpp	3	4	6	3	nmod	Sie berichtet die Suche nach der Identität in dem Viertel .
 pppp-nounheadedpp	3	4	6	3	nmod	Er bestätigt die Gründung von dem Komitee für die Gerechtigkeit .
 pppp-nounheadedpp	3	4	6	3	nmod	Er mag die Stimme aus dem Off in der Höhe .
-pppp-nounheadedpp	3	4	6	3	nmod	Er braucht die Truppe gegen den Befreiungskrieg aus dem Land .
+pppp-nounheadedpp	3	4	6	3	nmod	Er führt die Truppe gegen den Befreiungskrieg auf dem Balkan .
 pppp-nounheadedpp	3	4	6	3	nmod	Er erklärt die Bevorzugung von den Frauen mit dem Kind .
 pppp-nounheadedpp	3	4	6	3	nmod	Er hält die Mehrheit in dem Parlament an der Ecke .
 pppp-nounheadedpp	3	4	6	3	nmod	Sie zeigen die Diskriminierung von den Frauen aus der Reihe .
