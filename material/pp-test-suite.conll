@@ -49,9 +49,9 @@
 
 1	Er	_	_	_	props:base-1head	_	_	_	_
 2	spricht	_	_	_	props:base-1head	_	_	_	_
-3	zu	_	_	_	props:base-1head	5	case	_	_
+3	in	_	_	_	props:base-1head	5	case	_	_
 4	dem	_	_	_	props:base-1head	_	_	_	_
-5	Thema	_	_	_	props:base-1head	2	obl	_	_
+5	Interview	_	_	_	props:base-1head	2	obl	_	_
 6	.	_	_	_	props:base-1head	_	_	_	_
 
 1	Er	_	_	_	props:base-1head	_	_	_	_
@@ -104,21 +104,21 @@
 6	.	_	_	_	props:base-1head	_	_	_	_
 
 1	Sie	_	_	_	props:base-2head	_	_	_	_
-2	hat	_	_	_	props:base-2head	_	_	_	_
+2	verliert	_	_	_	props:base-2head	_	_	_	_
 3	das	_	_	_	props:base-2head	_	_	_	_
 4	Geld	_	_	_	props:base-2head	_	_	_	_
 5	in	_	_	_	props:base-2head	7	case	_	_
 6	der	_	_	_	props:base-2head	_	_	_	_
-7	Hand	_	_	_	props:base-2head	2	obl	_	_
+7	Nacht	_	_	_	props:base-2head	2	obl	_	_
 8	.	_	_	_	props:base-2head	_	_	_	_
 
 1	Sie	_	_	_	props:base-2head	_	_	_	_
 2	sagt	_	_	_	props:base-2head	_	_	_	_
 3	das	_	_	_	props:base-2head	_	_	_	_
 4	Wort	_	_	_	props:base-2head	_	_	_	_
-5	zu	_	_	_	props:base-2head	7	case	_	_
+5	in	_	_	_	props:base-2head	7	case	_	_
 6	dem	_	_	_	props:base-2head	_	_	_	_
-7	Thema	_	_	_	props:base-2head	2	obl	_	_
+7	Interview	_	_	_	props:base-2head	2	obl	_	_
 8	.	_	_	_	props:base-2head	_	_	_	_
 
 1	Sie	_	_	_	props:base-2head	_	_	_	_
@@ -134,9 +134,9 @@
 2	sieht	_	_	_	props:base-2head	_	_	_	_
 3	den	_	_	_	props:base-2head	_	_	_	_
 4	Weg	_	_	_	props:base-2head	_	_	_	_
-5	in	_	_	_	props:base-2head	7	case	_	_
-6	das	_	_	_	props:base-2head	_	_	_	_
-7	Haus	_	_	_	props:base-2head	2	obl	_	_
+5	an	_	_	_	props:base-2head	7	case	_	_
+6	dem	_	_	_	props:base-2head	_	_	_	_
+7	Abend	_	_	_	props:base-2head	2	obl	_	_
 8	.	_	_	_	props:base-2head	_	_	_	_
 
 1	Sie	_	_	_	props:base-2head	_	_	_	_
@@ -152,27 +152,18 @@
 2	zeigt	_	_	_	props:base-2head	_	_	_	_
 3	das	_	_	_	props:base-2head	_	_	_	_
 4	Problem	_	_	_	props:base-2head	_	_	_	_
-5	in	_	_	_	props:base-2head	7	case	_	_
-6	dem	_	_	_	props:base-2head	_	_	_	_
-7	Bereich	_	_	_	props:base-2head	2	obl	_	_
+5	für	_	_	_	props:base-2head	7	case	_	_
+6	das	_	_	_	props:base-2head	_	_	_	_
+7	Publikum	_	_	_	props:base-2head	2	obl	_	_
 8	.	_	_	_	props:base-2head	_	_	_	_
 
 1	Er	_	_	_	props:base-2head	_	_	_	_
 2	hält	_	_	_	props:base-2head	_	_	_	_
 3	das	_	_	_	props:base-2head	_	_	_	_
 4	Bild	_	_	_	props:base-2head	_	_	_	_
-5	in	_	_	_	props:base-2head	7	case	_	_
+5	mit	_	_	_	props:base-2head	7	case	_	_
 6	der	_	_	_	props:base-2head	_	_	_	_
 7	Hand	_	_	_	props:base-2head	2	obl	_	_
-8	.	_	_	_	props:base-2head	_	_	_	_
-
-1	Er	_	_	_	props:base-2head	_	_	_	_
-2	nimmt	_	_	_	props:base-2head	_	_	_	_
-3	das	_	_	_	props:base-2head	_	_	_	_
-4	Kind	_	_	_	props:base-2head	_	_	_	_
-5	auf	_	_	_	props:base-2head	7	case	_	_
-6	die	_	_	_	props:base-2head	_	_	_	_
-7	Bühne	_	_	_	props:base-2head	2	obl	_	_
 8	.	_	_	_	props:base-2head	_	_	_	_
 
 1	Er	_	_	_	props:base-2head	_	_	_	_
@@ -182,6 +173,15 @@
 5	an	_	_	_	props:base-2head	7	case	_	_
 6	das	_	_	_	props:base-2head	_	_	_	_
 7	Ende	_	_	_	props:base-2head	2	obl	_	_
+8	.	_	_	_	props:base-2head	_	_	_	_
+
+1	Er	_	_	_	props:base-2head	_	_	_	_
+2	legt	_	_	_	props:base-2head	_	_	_	_
+3	die	_	_	_	props:base-2head	_	_	_	_
+4	Rolle	_	_	_	props:base-2head	_	_	_	_
+5	auf	_	_	_	props:base-2head	7	case	_	_
+6	den	_	_	_	props:base-2head	_	_	_	_
+7	Tisch	_	_	_	props:base-2head	2	obl	_	_
 8	.	_	_	_	props:base-2head	_	_	_	_
 
 1	Er	_	_	_	props:base-2head	_	_	_	_
@@ -199,7 +199,7 @@
 4	Recht	_	_	_	props:base-2head	_	_	_	_
 5	in	_	_	_	props:base-2head	7	case	_	_
 6	der	_	_	_	props:base-2head	_	_	_	_
-7	Bundesrepublik	_	_	_	props:base-2head	2	obl	_	_
+7	Woche	_	_	_	props:base-2head	2	obl	_	_
 8	.	_	_	_	props:base-2head	_	_	_	_
 
 1	Sie	_	_	_	props:base-2head	_	_	_	_
@@ -212,21 +212,21 @@
 8	.	_	_	_	props:base-2head	_	_	_	_
 
 1	Sie	_	_	_	props:base-2head	_	_	_	_
-2	wollen	_	_	_	props:base-2head	_	_	_	_
+2	beginnen	_	_	_	props:base-2head	_	_	_	_
 3	die	_	_	_	props:base-2head	_	_	_	_
 4	Arbeit	_	_	_	props:base-2head	_	_	_	_
 5	in	_	_	_	props:base-2head	7	case	_	_
 6	der	_	_	_	props:base-2head	_	_	_	_
-7	Stadt	_	_	_	props:base-2head	2	obl	_	_
+7	Woche	_	_	_	props:base-2head	2	obl	_	_
 8	.	_	_	_	props:base-2head	_	_	_	_
 
 1	Sie	_	_	_	props:base-2head	_	_	_	_
-2	erhalten	_	_	_	props:base-2head	_	_	_	_
-3	die	_	_	_	props:base-2head	_	_	_	_
-4	Rolle	_	_	_	props:base-2head	_	_	_	_
-5	in	_	_	_	props:base-2head	7	case	_	_
+2	vergessen	_	_	_	props:base-2head	_	_	_	_
+3	das	_	_	_	props:base-2head	_	_	_	_
+4	Buch	_	_	_	props:base-2head	_	_	_	_
+5	an	_	_	_	props:base-2head	7	case	_	_
 6	dem	_	_	_	props:base-2head	_	_	_	_
-7	Film	_	_	_	props:base-2head	2	obl	_	_
+7	Tag	_	_	_	props:base-2head	2	obl	_	_
 8	.	_	_	_	props:base-2head	_	_	_	_
 
 1	Sie	_	_	_	props:base-2head	_	_	_	_
@@ -268,7 +268,7 @@
 6	Grund	_	_	_	props:base-3head	_	_	_	_
 7	auf	_	_	_	props:base-3head	9	case	_	_
 8	der	_	_	_	props:base-3head	_	_	_	_
-9	Straße	_	_	_	props:base-3head	2	obl	_	_
+9	Pressekonferenz	_	_	_	props:base-3head	2	obl	_	_
 10	.	_	_	_	props:base-3head	_	_	_	_
 
 1	Sie	_	_	_	props:base-3head	_	_	_	_
@@ -288,9 +288,9 @@
 4	Kind	_	_	_	props:base-3head	_	_	_	_
 5	die	_	_	_	props:base-3head	_	_	_	_
 6	Frage	_	_	_	props:base-3head	_	_	_	_
-7	zu	_	_	_	props:base-3head	9	case	_	_
+7	in	_	_	_	props:base-3head	9	case	_	_
 8	dem	_	_	_	props:base-3head	_	_	_	_
-9	Thema	_	_	_	props:base-3head	2	obl	_	_
+9	Interview	_	_	_	props:base-3head	2	obl	_	_
 10	.	_	_	_	props:base-3head	_	_	_	_
 
 1	Er	_	_	_	props:base-3head	_	_	_	_
@@ -311,8 +311,8 @@
 5	den	_	_	_	props:base-3head	_	_	_	_
 6	Namen	_	_	_	props:base-3head	_	_	_	_
 7	in	_	_	_	props:base-3head	9	case	_	_
-8	dem	_	_	_	props:base-3head	_	_	_	_
-9	Film	_	_	_	props:base-3head	2	obl	_	_
+8	der	_	_	_	props:base-3head	_	_	_	_
+9	Stadt	_	_	_	props:base-3head	2	obl	_	_
 10	.	_	_	_	props:base-3head	_	_	_	_
 
 1	Er	_	_	_	props:base-3head	_	_	_	_
@@ -332,9 +332,9 @@
 4	Präsidenten	_	_	_	props:base-3head	_	_	_	_
 5	die	_	_	_	props:base-3head	_	_	_	_
 6	Chance	_	_	_	props:base-3head	_	_	_	_
-7	in	_	_	_	props:base-3head	9	case	_	_
+7	an	_	_	_	props:base-3head	9	case	_	_
 8	dem	_	_	_	props:base-3head	_	_	_	_
-9	Bereich	_	_	_	props:base-3head	2	obl	_	_
+9	Tag	_	_	_	props:base-3head	2	obl	_	_
 10	.	_	_	_	props:base-3head	_	_	_	_
 
 1	Er	_	_	_	props:base-3head	_	_	_	_
@@ -376,9 +376,9 @@
 4	Partei	_	_	_	props:base-3head	_	_	_	_
 5	das	_	_	_	props:base-3head	_	_	_	_
 6	Recht	_	_	_	props:base-3head	_	_	_	_
-7	in	_	_	_	props:base-3head	9	case	_	_
+7	zu	_	_	_	props:base-3head	9	case	_	_
 8	der	_	_	_	props:base-3head	_	_	_	_
-9	Bundesrepublik	_	_	_	props:base-3head	2	obl	_	_
+9	Zeit	_	_	_	props:base-3head	2	obl	_	_
 10	.	_	_	_	props:base-3head	_	_	_	_
 
 1	Sie	_	_	_	props:base-3head	_	_	_	_
@@ -424,9 +424,9 @@
 6	Haus	_	_	_	props:base-4head	_	_	_	_
 7	der	_	_	_	props:base-4head	_	_	_	_
 8	Frau	_	_	_	props:base-4head	_	_	_	_
-9	mit	_	_	_	props:base-4head	11	case	_	_
-10	der	_	_	_	props:base-4head	_	_	_	_
-11	Hand	_	_	_	props:base-4head	2	obl	_	_
+9	an	_	_	_	props:base-4head	11	case	_	_
+10	dem	_	_	_	props:base-4head	_	_	_	_
+11	Beispiel	_	_	_	props:base-4head	2	obl	_	_
 12	.	_	_	_	props:base-4head	_	_	_	_
 
 1	Sie	_	_	_	props:base-4head	_	_	_	_
@@ -439,7 +439,7 @@
 8	Endes	_	_	_	props:base-4head	_	_	_	_
 9	auf	_	_	_	props:base-4head	11	case	_	_
 10	der	_	_	_	props:base-4head	_	_	_	_
-11	Straße	_	_	_	props:base-4head	2	obl	_	_
+11	Pressekonferenz	_	_	_	props:base-4head	2	obl	_	_
 12	.	_	_	_	props:base-4head	_	_	_	_
 
 1	Sie	_	_	_	props:base-4head	_	_	_	_
@@ -463,9 +463,9 @@
 6	Frage	_	_	_	props:base-4head	_	_	_	_
 7	des	_	_	_	props:base-4head	_	_	_	_
 8	Sohnes	_	_	_	props:base-4head	_	_	_	_
-9	zu	_	_	_	props:base-4head	11	case	_	_
+9	in	_	_	_	props:base-4head	11	case	_	_
 10	dem	_	_	_	props:base-4head	_	_	_	_
-11	Thema	_	_	_	props:base-4head	2	obl	_	_
+11	Interview	_	_	_	props:base-4head	2	obl	_	_
 12	.	_	_	_	props:base-4head	_	_	_	_
 
 1	Er	_	_	_	props:base-4head	_	_	_	_
@@ -490,14 +490,14 @@
 7	des	_	_	_	props:base-4head	_	_	_	_
 8	Freundes	_	_	_	props:base-4head	_	_	_	_
 9	in	_	_	_	props:base-4head	11	case	_	_
-10	dem	_	_	_	props:base-4head	_	_	_	_
-11	Film	_	_	_	props:base-4head	2	obl	_	_
+10	der	_	_	_	props:base-4head	_	_	_	_
+11	Stadt	_	_	_	props:base-4head	2	obl	_	_
 12	.	_	_	_	props:base-4head	_	_	_	_
 
 1	Er	_	_	_	props:base-4head	_	_	_	_
 2	erzählt	_	_	_	props:base-4head	_	_	_	_
-3	der	_	_	_	props:base-4head	_	_	_	_
-4	Welt	_	_	_	props:base-4head	_	_	_	_
+3	dem	_	_	_	props:base-4head	_	_	_	_
+4	Flüchtling	_	_	_	props:base-4head	_	_	_	_
 5	die	_	_	_	props:base-4head	_	_	_	_
 6	Geschichte	_	_	_	props:base-4head	_	_	_	_
 7	des	_	_	_	props:base-4head	_	_	_	_
@@ -517,7 +517,7 @@
 8	Lebens	_	_	_	props:base-4head	_	_	_	_
 9	in	_	_	_	props:base-4head	11	case	_	_
 10	dem	_	_	_	props:base-4head	_	_	_	_
-11	Bereich	_	_	_	props:base-4head	2	obl	_	_
+11	Monat	_	_	_	props:base-4head	2	obl	_	_
 12	.	_	_	_	props:base-4head	_	_	_	_
 
 1	Er	_	_	_	props:base-4head	_	_	_	_
@@ -623,9 +623,9 @@
 8	Haus	_	_	_	props:base-5head	_	_	_	_
 9	der	_	_	_	props:base-5head	_	_	_	_
 10	Frau	_	_	_	props:base-5head	_	_	_	_
-11	mit	_	_	_	props:base-5head	13	case	_	_
-12	der	_	_	_	props:base-5head	_	_	_	_
-13	Hand	_	_	_	props:base-5head	2	obl	_	_
+11	an	_	_	_	props:base-5head	13	case	_	_
+12	dem	_	_	_	props:base-5head	_	_	_	_
+13	Beispiel	_	_	_	props:base-5head	2	obl	_	_
 14	.	_	_	_	props:base-5head	_	_	_	_
 
 1	Sie	_	_	_	props:base-5head	_	_	_	_
@@ -640,7 +640,7 @@
 10	Endes	_	_	_	props:base-5head	_	_	_	_
 11	auf	_	_	_	props:base-5head	13	case	_	_
 12	der	_	_	_	props:base-5head	_	_	_	_
-13	Straße	_	_	_	props:base-5head	2	obl	_	_
+13	Pressekonferenz	_	_	_	props:base-5head	2	obl	_	_
 14	.	_	_	_	props:base-5head	_	_	_	_
 
 1	Sie	_	_	_	props:base-5head	_	_	_	_
@@ -668,9 +668,9 @@
 8	Frage	_	_	_	props:base-5head	_	_	_	_
 9	des	_	_	_	props:base-5head	_	_	_	_
 10	Sohnes	_	_	_	props:base-5head	_	_	_	_
-11	zu	_	_	_	props:base-5head	13	case	_	_
+11	in	_	_	_	props:base-5head	13	case	_	_
 12	dem	_	_	_	props:base-5head	_	_	_	_
-13	Thema	_	_	_	props:base-5head	2	obl	_	_
+13	Interview	_	_	_	props:base-5head	2	obl	_	_
 14	.	_	_	_	props:base-5head	_	_	_	_
 
 1	Er	_	_	_	props:base-5head	_	_	_	_
@@ -699,8 +699,8 @@
 9	des	_	_	_	props:base-5head	_	_	_	_
 10	Freundes	_	_	_	props:base-5head	_	_	_	_
 11	in	_	_	_	props:base-5head	13	case	_	_
-12	dem	_	_	_	props:base-5head	_	_	_	_
-13	Film	_	_	_	props:base-5head	2	obl	_	_
+12	der	_	_	_	props:base-5head	_	_	_	_
+13	Stadt	_	_	_	props:base-5head	2	obl	_	_
 14	.	_	_	_	props:base-5head	_	_	_	_
 
 1	Er	_	_	_	props:base-5head	_	_	_	_
@@ -730,7 +730,7 @@
 10	Lebens	_	_	_	props:base-5head	_	_	_	_
 11	in	_	_	_	props:base-5head	13	case	_	_
 12	dem	_	_	_	props:base-5head	_	_	_	_
-13	Bereich	_	_	_	props:base-5head	2	obl	_	_
+13	Monat	_	_	_	props:base-5head	2	obl	_	_
 14	.	_	_	_	props:base-5head	_	_	_	_
 
 1	Er	_	_	_	props:base-5head	_	_	_	_
@@ -1131,8 +1131,8 @@
 
 1	Sie	_	_	_	props:1head-pppossnp	_	_	_	_
 2	zeichnen	_	_	_	props:1head-pppossnp	_	_	_	_
-3	aus	_	_	_	props:1head-pppossnp	4	case	_	_
-4	Sicht	_	_	_	props:1head-pppossnp	2	obl	_	_
+3	auf	_	_	_	props:1head-pppossnp	4	case	_	_
+4	Forderung	_	_	_	props:1head-pppossnp	2	obl	_	_
 5	der	_	_	_	props:1head-pppossnp	_	_	_	_
 6	Mutter	_	_	_	props:1head-pppossnp	_	_	_	_
 7	.	_	_	_	props:1head-pppossnp	_	_	_	_
@@ -1352,9 +1352,9 @@
 5	er	_	_	_	props:1head-ppbeforehead	_	_	_	_
 6	.	_	_	_	props:1head-ppbeforehead	_	_	_	_
 
-1	Zu	_	_	_	props:1head-ppbeforehead	3	case	_	_
+1	In	_	_	_	props:1head-ppbeforehead	3	case	_	_
 2	dem	_	_	_	props:1head-ppbeforehead	_	_	_	_
-3	Thema	_	_	_	props:1head-ppbeforehead	4	obl	_	_
+3	Interview	_	_	_	props:1head-ppbeforehead	4	obl	_	_
 4	spricht	_	_	_	props:1head-ppbeforehead	_	_	_	_
 5	er	_	_	_	props:1head-ppbeforehead	_	_	_	_
 6	.	_	_	_	props:1head-ppbeforehead	_	_	_	_
@@ -1655,7 +1655,7 @@
 8	.	_	_	_	props:base-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:base-nounheadedpp	_	_	_	_
-2	will	_	_	_	props:base-nounheadedpp	_	_	_	_
+2	beendet	_	_	_	props:base-nounheadedpp	_	_	_	_
 3	die	_	_	_	props:base-nounheadedpp	_	_	_	_
 4	Suche	_	_	_	props:base-nounheadedpp	_	_	_	_
 5	nach	_	_	_	props:base-nounheadedpp	7	case	_	_
@@ -1676,9 +1676,9 @@
 2	mag	_	_	_	props:base-nounheadedpp	_	_	_	_
 3	die	_	_	_	props:base-nounheadedpp	_	_	_	_
 4	Stimme	_	_	_	props:base-nounheadedpp	_	_	_	_
-5	in	_	_	_	props:base-nounheadedpp	7	case	_	_
+5	aus	_	_	_	props:base-nounheadedpp	7	case	_	_
 6	dem	_	_	_	props:base-nounheadedpp	_	_	_	_
-7	Schrank	_	_	_	props:base-nounheadedpp	4	nmod	_	_
+7	Off	_	_	_	props:base-nounheadedpp	4	nmod	_	_
 8	.	_	_	_	props:base-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props:base-nounheadedpp	_	_	_	_
@@ -2065,7 +2065,7 @@
 4	Leuten	_	_	_	props:4head-prepnoun	_	_	_	_
 5	den	_	_	_	props:4head-prepnoun	_	_	_	_
 6	Grund	_	_	_	props:4head-prepnoun	_	_	_	_
-7	der	_	_	_	props:4head-prepnoun	_	_	_	_
+7	des	_	_	_	props:4head-prepnoun	_	_	_	_
 8	Endes	_	_	_	props:4head-prepnoun	_	_	_	_
 9	seit	_	_	_	props:4head-prepnoun	10	case	_	_
 10	Jahren	_	_	_	props:4head-prepnoun	2	obl	_	_
@@ -2158,7 +2158,7 @@
 1	Sie	_	_	_	props:4head-prepnoun	_	_	_	_
 2	nennen	_	_	_	props:4head-prepnoun	_	_	_	_
 3	dem	_	_	_	props:4head-prepnoun	_	_	_	_
-4	Präsidenten	_	_	_	props:4head-prepnoun	_	_	_	_
+4	Flüchtling	_	_	_	props:4head-prepnoun	_	_	_	_
 5	die	_	_	_	props:4head-prepnoun	_	_	_	_
 6	Forderung	_	_	_	props:4head-prepnoun	_	_	_	_
 7	der	_	_	_	props:4head-prepnoun	_	_	_	_
@@ -2182,7 +2182,7 @@
 1	Sie	_	_	_	props:4head-prepnoun	_	_	_	_
 2	suchen	_	_	_	props:4head-prepnoun	_	_	_	_
 3	dem	_	_	_	props:4head-prepnoun	_	_	_	_
-4	Flüchtling	_	_	_	props:4head-prepnoun	_	_	_	_
+4	Präsidenten	_	_	_	props:4head-prepnoun	_	_	_	_
 5	die	_	_	_	props:4head-prepnoun	_	_	_	_
 6	Chance	_	_	_	props:4head-prepnoun	_	_	_	_
 7	des	_	_	_	props:4head-prepnoun	_	_	_	_
@@ -2427,56 +2427,55 @@
 2	sagt	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 3	das	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 4	Wort	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-5	zu	_	_	_	props:base-prepdetadjnoun	8	case	_	_
+5	in	_	_	_	props:base-prepdetadjnoun	8	case	_	_
 6	dem	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-7	möglichen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-8	Thema	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
+7	fingierten	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+8	Interview	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
 9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 
 1	Sie	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 2	lässt	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 3	den	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 4	Mann	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-5	an	_	_	_	props:base-prepdetadjnoun	8	case	_	_
-6	der	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-7	internationalen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-8	Grenze	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
-9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-
-1	Sie	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-2	sieht	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-3	den	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-4	Weg	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-5	in	_	_	_	props:base-prepdetadjnoun	8	case	_	_
-6	das	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-7	große	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-8	Haus	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
-9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-
-1	Sie	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-2	findet	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-3	das	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-4	Bild	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 5	auf	_	_	_	props:base-prepdetadjnoun	8	case	_	_
 6	der	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 7	langen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 8	Straße	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
 9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 
+1	Sie	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+2	sieht	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+3	den	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+4	Weg	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+5	an	_	_	_	props:base-prepdetadjnoun	8	case	_	_
+6	dem	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+7	großen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+8	Abend	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
+9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+
+1	Sie	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+2	findet	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+3	den	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+4	Platz	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+5	in	_	_	_	props:base-prepdetadjnoun	8	case	_	_
+6	der	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+7	internationalen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+8	Welt.	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
+
 1	Er	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-2	fordert	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+2	zeigt	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 3	das	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-4	Recht	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+4	Problem	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 5	für	_	_	_	props:base-prepdetadjnoun	8	case	_	_
-6	die	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-7	junge	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-8	Frau	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
+6	das	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+7	politische	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+8	Publikum	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
 9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 
 1	Er	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 2	hält	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 3	das	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-4	Kind	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+4	Bild	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 5	mit	_	_	_	props:base-prepdetadjnoun	8	case	_	_
 6	der	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 7	freien	_	_	_	props:base-prepdetadjnoun	_	_	_	_
@@ -2484,59 +2483,58 @@
 9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 
 1	Er	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-2	schreibt	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-3	das	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-4	Buch	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-5	in	_	_	_	props:base-prepdetadjnoun	8	case	_	_
-6	dem	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-7	politischen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-8	Bereich	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
-9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-
-1	Er	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-2	erhält	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+2	führt	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 3	die	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-4	Rolle	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-5	in	_	_	_	props:base-prepdetadjnoun	8	case	_	_
-6	dem	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-7	kurzen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-8	Film	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
-9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-
-1	Er	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-2	baut	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-3	den	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-4	Platz	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+4	Frau	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 5	an	_	_	_	props:base-prepdetadjnoun	8	case	_	_
 6	das	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 7	letzte	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-8	Ende	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
-9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+8	Ende.	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
 
-1	Sie	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-2	führen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+1	Er	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+2	legt	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 3	die	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-4	Frau	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+4	Rolle	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 5	auf	_	_	_	props:base-prepdetadjnoun	8	case	_	_
-6	die	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-7	öffentliche	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-8	Bühne	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
+6	den	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+7	kurzen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+8	Tisch	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
 9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 
-1	Sie	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-2	zeigen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-3	das	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-4	Problem	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+1	Er	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+2	bekommt	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+3	die	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+4	Chance	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 5	in	_	_	_	props:base-prepdetadjnoun	8	case	_	_
 6	dem	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-7	schweren	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+7	nächsten	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 8	Jahr	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
 9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 
 1	Sie	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-2	bekommen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+2	fordern	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+3	das	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+4	Recht	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+5	in	_	_	_	props:base-prepdetadjnoun	8	case	_	_
+6	der	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+7	guten	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+8	Woche	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
+9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+
+1	Sie	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+2	schreiben	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 3	die	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-4	Chance	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+4	Geschichte	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+5	in	_	_	_	props:base-prepdetadjnoun	8	case	_	_
+6	der	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+7	dunklen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+8	Nacht	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
+9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+
+1	Sie	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+2	beginnen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+3	die	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+4	Arbeit	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 5	in	_	_	_	props:base-prepdetadjnoun	8	case	_	_
 6	der	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 7	neuen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
@@ -2544,23 +2542,23 @@
 9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 
 1	Sie	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-2	bringen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+2	vergessen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 3	das	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-4	Kind	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-5	in	_	_	_	props:base-prepdetadjnoun	8	case	_	_
-6	die	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-7	kleine	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-8	Stadt	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
+4	Buch	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+5	an	_	_	_	props:base-prepdetadjnoun	8	case	_	_
+6	dem	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+7	schweren	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+8	Tag	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
 9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 
 1	Sie	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-2	erzählen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+2	brauchen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 3	die	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-4	Geschichte	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-5	in	_	_	_	props:base-prepdetadjnoun	8	case	_	_
-6	der	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-7	ganzen	_	_	_	props:base-prepdetadjnoun	_	_	_	_
-8	Welt	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
+4	Zeit	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+5	für	_	_	_	props:base-prepdetadjnoun	8	case	_	_
+6	die	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+7	alte	_	_	_	props:base-prepdetadjnoun	_	_	_	_
+8	Frau	_	_	_	props:base-prepdetadjnoun	2	obl	_	_
 9	.	_	_	_	props:base-prepdetadjnoun	_	_	_	_
 
 1	Sie	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
@@ -2581,10 +2579,10 @@
 4	Leuten	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
 5	den	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
 6	Grund	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
-7	zu	_	_	_	props:3head-prepdetadjnoun	10	case	_	_
-8	dem	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
-9	möglichen	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
-10	Thema	_	_	_	props:3head-prepdetadjnoun	2	obl	_	_
+7	auf	_	_	_	props:3head-prepdetadjnoun	10	case	_	_
+8	der	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
+9	gestrigen	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
+10	Pressekonferenz	_	_	_	props:3head-prepdetadjnoun	2	obl	_	_
 11	.	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
 
 1	Sie	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
@@ -2641,10 +2639,10 @@
 4	Gast	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
 5	das	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
 6	Haus	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
-7	mit	_	_	_	props:3head-prepdetadjnoun	10	case	_	_
-8	der	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
-9	freien	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
-10	Hand	_	_	_	props:3head-prepdetadjnoun	2	obl	_	_
+7	an	_	_	_	props:3head-prepdetadjnoun	10	case	_	_
+8	dem	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
+9	typischen	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
+10	Beispiel	_	_	_	props:3head-prepdetadjnoun	2	obl	_	_
 11	.	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
 
 1	Er	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
@@ -2665,10 +2663,10 @@
 4	Flüchtling	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
 5	die	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
 6	Chance	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
-7	in	_	_	_	props:3head-prepdetadjnoun	10	case	_	_
+7	an	_	_	_	props:3head-prepdetadjnoun	10	case	_	_
 8	dem	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
 9	kurzen	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
-10	Film	_	_	_	props:3head-prepdetadjnoun	2	obl	_	_
+10	Tag	_	_	_	props:3head-prepdetadjnoun	2	obl	_	_
 11	.	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
 
 1	Er	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
@@ -2703,8 +2701,8 @@
 6	Namen	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
 7	in	_	_	_	props:3head-prepdetadjnoun	10	case	_	_
 8	dem	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
-9	politischen	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
-10	Bereich	_	_	_	props:3head-prepdetadjnoun	2	obl	_	_
+9	nächsten	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
+10	Jahr	_	_	_	props:3head-prepdetadjnoun	2	obl	_	_
 11	.	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
 
 1	Sie	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
@@ -2738,9 +2736,9 @@
 5	die	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
 6	Geschichte	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
 7	in	_	_	_	props:3head-prepdetadjnoun	10	case	_	_
-8	der	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
-9	ganzen	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
-10	Welt	_	_	_	props:3head-prepdetadjnoun	2	obl	_	_
+8	dem	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
+9	anderen	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
+10	Raum	_	_	_	props:3head-prepdetadjnoun	2	obl	_	_
 11	.	_	_	_	props:3head-prepdetadjnoun	_	_	_	_
 
 1	Sie	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
@@ -2765,10 +2763,10 @@
 6	Haus	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 7	der	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 8	Frau	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
-9	mit	_	_	_	props:4head-prepdetadjnoun	12	case	_	_
-10	der	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
-11	anderen	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
-12	Hand	_	_	_	props:4head-prepdetadjnoun	2	obl	_	_
+9	an	_	_	_	props:4head-prepdetadjnoun	12	case	_	_
+10	dem	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
+11	typischen	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
+12	Beispiel	_	_	_	props:4head-prepdetadjnoun	2	obl	_	_
 13	.	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 
 1	Sie	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
@@ -2781,8 +2779,8 @@
 8	Endes	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 9	auf	_	_	_	props:4head-prepdetadjnoun	12	case	_	_
 10	der	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
-11	öffentlichen	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
-12	Straße	_	_	_	props:4head-prepdetadjnoun	2	obl	_	_
+11	gestrigen	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
+12	Pressekonferenz	_	_	_	props:4head-prepdetadjnoun	2	obl	_	_
 13	.	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 
 1	Sie	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
@@ -2835,10 +2833,10 @@
 6	Namen	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 7	der	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 8	Mutter	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
-9	in	_	_	_	props:4head-prepdetadjnoun	12	case	_	_
+9	an	_	_	_	props:4head-prepdetadjnoun	12	case	_	_
 10	dem	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
-11	kurzen	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
-12	Film	_	_	_	props:4head-prepdetadjnoun	2	obl	_	_
+11	langen	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
+12	Tag	_	_	_	props:4head-prepdetadjnoun	2	obl	_	_
 13	.	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 
 1	Er	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
@@ -2865,8 +2863,8 @@
 8	Lebens	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 9	in	_	_	_	props:4head-prepdetadjnoun	12	case	_	_
 10	dem	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
-11	jungen	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
-12	Bereich	_	_	_	props:4head-prepdetadjnoun	2	obl	_	_
+11	anderen	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
+12	Monat	_	_	_	props:4head-prepdetadjnoun	2	obl	_	_
 13	.	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 
 1	Er	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
@@ -2879,7 +2877,7 @@
 8	Familie	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 9	auf	_	_	_	props:4head-prepdetadjnoun	12	case	_	_
 10	dem	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
-11	langen	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
+11	alten	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 12	Weg	_	_	_	props:4head-prepdetadjnoun	2	obl	_	_
 13	.	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 
@@ -2907,7 +2905,7 @@
 8	Freundin	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 9	in	_	_	_	props:4head-prepdetadjnoun	12	case	_	_
 10	der	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
-11	vergangenen	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
+11	nächsten	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 12	Woche	_	_	_	props:4head-prepdetadjnoun	2	obl	_	_
 13	.	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 
@@ -2935,7 +2933,7 @@
 8	Sohns	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 9	auf	_	_	_	props:4head-prepdetadjnoun	12	case	_	_
 10	den	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
-11	alten	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
+11	kurzen	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 12	Tisch	_	_	_	props:4head-prepdetadjnoun	2	obl	_	_
 13	.	_	_	_	props:4head-prepdetadjnoun	_	_	_	_
 
@@ -2979,10 +2977,10 @@
 8	Haus	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 9	der	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 10	Frau	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
-11	mit	_	_	_	props:5head-prepdetadjnoun	14	case	_	_
-12	der	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
-13	anderen	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
-14	Hand	_	_	_	props:5head-prepdetadjnoun	2	obl	_	_
+11	an	_	_	_	props:5head-prepdetadjnoun	14	case	_	_
+12	dem	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
+13	typischen	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
+14	Beispiel	_	_	_	props:5head-prepdetadjnoun	2	obl	_	_
 15	.	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 
 1	Sie	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
@@ -2997,8 +2995,8 @@
 10	Forderung	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 11	auf	_	_	_	props:5head-prepdetadjnoun	14	case	_	_
 12	der	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
-13	öffentlichen	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
-14	Straße	_	_	_	props:5head-prepdetadjnoun	2	obl	_	_
+13	gestrigen	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
+14	Pressekonferenz	_	_	_	props:5head-prepdetadjnoun	2	obl	_	_
 15	.	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 
 1	Sie	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
@@ -3059,10 +3057,10 @@
 8	Namen	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 9	des	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 10	Gegners	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
-11	in	_	_	_	props:5head-prepdetadjnoun	14	case	_	_
+11	an	_	_	_	props:5head-prepdetadjnoun	14	case	_	_
 12	dem	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
-13	kurzen	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
-14	Film	_	_	_	props:5head-prepdetadjnoun	2	obl	_	_
+13	langen	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
+14	Tag	_	_	_	props:5head-prepdetadjnoun	2	obl	_	_
 15	.	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 
 1	Er	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
@@ -3093,8 +3091,8 @@
 10	Lebens	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 11	in	_	_	_	props:5head-prepdetadjnoun	14	case	_	_
 12	dem	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
-13	jungen	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
-14	Bereich	_	_	_	props:5head-prepdetadjnoun	2	obl	_	_
+13	anderen	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
+14	Monat	_	_	_	props:5head-prepdetadjnoun	2	obl	_	_
 15	.	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 
 1	Er	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
@@ -3109,7 +3107,7 @@
 10	Kollegen	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 11	auf	_	_	_	props:5head-prepdetadjnoun	14	case	_	_
 12	dem	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
-13	langen	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
+13	alten	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 14	Weg	_	_	_	props:5head-prepdetadjnoun	2	obl	_	_
 15	.	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 
@@ -3155,10 +3153,10 @@
 8	Recht	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 9	der	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 10	Kontrolle	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
-11	in	_	_	_	props:5head-prepdetadjnoun	14	case	_	_
+11	zu	_	_	_	props:5head-prepdetadjnoun	14	case	_	_
 12	der	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
-13	deutschen	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
-14	Bundesrepublik	_	_	_	props:5head-prepdetadjnoun	2	obl	_	_
+13	richtigen	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
+14	Zeit	_	_	_	props:5head-prepdetadjnoun	2	obl	_	_
 15	.	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 
 1	Sie	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
@@ -3173,7 +3171,7 @@
 10	Kindes	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 11	auf	_	_	_	props:5head-prepdetadjnoun	14	case	_	_
 12	den	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
-13	alten	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
+13	kurzen	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 14	Tisch	_	_	_	props:5head-prepdetadjnoun	2	obl	_	_
 15	.	_	_	_	props:5head-prepdetadjnoun	_	_	_	_
 
@@ -3206,12 +3204,13 @@
 1	Sie	_	_	_	props:base-pppossnp	_	_	_	_
 2	zeigt	_	_	_	props:base-pppossnp	_	_	_	_
 3	das	_	_	_	props:base-pppossnp	_	_	_	_
-4	Problem	_	_	_	props:base-pppossnp	_	_	_	_
-5	auf	_	_	_	props:base-pppossnp	6	case	_	_
-6	Seiten	_	_	_	props:base-pppossnp	2	obl	_	_
-7	der	_	_	_	props:base-pppossnp	_	_	_	_
-8	Bundesrepublik	_	_	_	props:base-pppossnp	_	_	_	_
-9	.	_	_	_	props:base-pppossnp	_	_	_	_
+4	Haus	_	_	_	props:base-pppossnp	_	_	_	_
+5	an	_	_	_	props:base-pppossnp	6	case	_	_
+6	dem	_	_	_	props:base-pppossnp	2	obl	_	_
+7	Beispiel	_	_	_	props:base-pppossnp	_	_	_	_
+8	des	_	_	_	props:base-pppossnp	_	_	_	_
+9	Ausschusses	_	_	_	props:base-pppossnp	_	_	_	_
+10	.	_	_	_	props:base-pppossnp	_	_	_	_
 
 1	Sie	_	_	_	props:base-pppossnp	_	_	_	_
 2	schreibt	_	_	_	props:base-pppossnp	_	_	_	_
@@ -3362,9 +3361,9 @@
 5	das	_	_	_	props:3head-pppossnp	_	_	_	_
 6	Recht	_	_	_	props:3head-pppossnp	_	_	_	_
 7	auf	_	_	_	props:3head-pppossnp	8	case	_	_
-8	Seiten	_	_	_	props:3head-pppossnp	2	obl	_	_
-9	der	_	_	_	props:3head-pppossnp	_	_	_	_
-10	Bundesrepublik	_	_	_	props:3head-pppossnp	_	_	_	_
+8	Anfrage	_	_	_	props:3head-pppossnp	2	obl	_	_
+9	des	_	_	_	props:3head-pppossnp	_	_	_	_
+10	Präsidenten	_	_	_	props:3head-pppossnp	_	_	_	_
 11	.	_	_	_	props:3head-pppossnp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-pppossnp	_	_	_	_
@@ -3380,13 +3379,13 @@
 11	.	_	_	_	props:3head-pppossnp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-pppossnp	_	_	_	_
-2	erzählt	_	_	_	props:3head-pppossnp	_	_	_	_
+2	sendet	_	_	_	props:3head-pppossnp	_	_	_	_
 3	dem	_	_	_	props:3head-pppossnp	_	_	_	_
 4	Menschen	_	_	_	props:3head-pppossnp	_	_	_	_
-5	die	_	_	_	props:3head-pppossnp	_	_	_	_
-6	Geschichte	_	_	_	props:3head-pppossnp	_	_	_	_
-7	aus	_	_	_	props:3head-pppossnp	8	case	_	_
-8	Sicht	_	_	_	props:3head-pppossnp	2	obl	_	_
+5	den	_	_	_	props:3head-pppossnp	_	_	_	_
+6	Brief	_	_	_	props:3head-pppossnp	_	_	_	_
+7	auf	_	_	_	props:3head-pppossnp	8	case	_	_
+8	Forderung	_	_	_	props:3head-pppossnp	2	obl	_	_
 9	der	_	_	_	props:3head-pppossnp	_	_	_	_
 10	Mutter	_	_	_	props:3head-pppossnp	_	_	_	_
 11	.	_	_	_	props:3head-pppossnp	_	_	_	_
@@ -3430,17 +3429,18 @@
 1	Er	_	_	_	props:3head-pppossnp	_	_	_	_
 2	zeigt	_	_	_	props:3head-pppossnp	_	_	_	_
 3	dem	_	_	_	props:3head-pppossnp	_	_	_	_
-4	Staat	_	_	_	props:3head-pppossnp	_	_	_	_
-5	die	_	_	_	props:3head-pppossnp	_	_	_	_
-6	Sache	_	_	_	props:3head-pppossnp	_	_	_	_
-7	nach	_	_	_	props:3head-pppossnp	8	case	_	_
-8	Angabe	_	_	_	props:3head-pppossnp	2	obl	_	_
-9	der	_	_	_	props:3head-pppossnp	_	_	_	_
-10	Regierung	_	_	_	props:3head-pppossnp	_	_	_	_
-11	.	_	_	_	props:3head-pppossnp	_	_	_	_
+4	Gast	_	_	_	props:3head-pppossnp	_	_	_	_
+5	das	_	_	_	props:3head-pppossnp	_	_	_	_
+6	Haus	_	_	_	props:3head-pppossnp	_	_	_	_
+7	an	_	_	_	props:3head-pppossnp	8	case	_	_
+8	dem	_	_	_	props:3head-pppossnp	2	obl	_	_
+9	Beispiel	_	_	_	props:3head-pppossnp	_	_	_	_
+10	des	_	_	_	props:3head-pppossnp	_	_	_	_
+11	Ausschusses	_	_	_	props:3head-pppossnp	_	_	_	_
+12	.	_	_	_	props:3head-pppossnp	_	_	_	_
 
 1	Er	_	_	_	props:3head-pppossnp	_	_	_	_
-2	suchen	_	_	_	props:3head-pppossnp	_	_	_	_
+2	sucht	_	_	_	props:3head-pppossnp	_	_	_	_
 3	dem	_	_	_	props:3head-pppossnp	_	_	_	_
 4	Flüchtling	_	_	_	props:3head-pppossnp	_	_	_	_
 5	die	_	_	_	props:3head-pppossnp	_	_	_	_
@@ -3484,7 +3484,7 @@
 7	von	_	_	_	props:3head-pppossnp	8	case	_	_
 8	Seiten	_	_	_	props:3head-pppossnp	2	obl	_	_
 9	des	_	_	_	props:3head-pppossnp	_	_	_	_
-10	Präsidenten	_	_	_	props:3head-pppossnp	_	_	_	_
+10	Gasts	_	_	_	props:3head-pppossnp	_	_	_	_
 11	.	_	_	_	props:3head-pppossnp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-pppossnp	_	_	_	_
@@ -3494,17 +3494,17 @@
 5	den	_	_	_	props:3head-pppossnp	_	_	_	_
 6	Film	_	_	_	props:3head-pppossnp	_	_	_	_
 7	an	_	_	_	props:3head-pppossnp	8	case	_	_
-8	Bord	_	_	_	props:3head-pppossnp	2	obl	_	_
+8	Stelle	_	_	_	props:3head-pppossnp	2	obl	_	_
 9	des	_	_	_	props:3head-pppossnp	_	_	_	_
-10	Schiffs	_	_	_	props:3head-pppossnp	_	_	_	_
+10	Mannes	_	_	_	props:3head-pppossnp	_	_	_	_
 11	.	_	_	_	props:3head-pppossnp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-pppossnp	_	_	_	_
-2	nennen	_	_	_	props:3head-pppossnp	_	_	_	_
+2	senden	_	_	_	props:3head-pppossnp	_	_	_	_
 3	dem	_	_	_	props:3head-pppossnp	_	_	_	_
 4	Präsidenten	_	_	_	props:3head-pppossnp	_	_	_	_
-5	die	_	_	_	props:3head-pppossnp	_	_	_	_
-6	Forderung	_	_	_	props:3head-pppossnp	_	_	_	_
+5	den	_	_	_	props:3head-pppossnp	_	_	_	_
+6	Brief	_	_	_	props:3head-pppossnp	_	_	_	_
 7	auf	_	_	_	props:3head-pppossnp	8	case	_	_
 8	Kosten	_	_	_	props:3head-pppossnp	2	obl	_	_
 9	der	_	_	_	props:3head-pppossnp	_	_	_	_
@@ -3546,9 +3546,9 @@
 7	der	_	_	_	props:4head-pppossnp	_	_	_	_
 8	Meinung	_	_	_	props:4head-pppossnp	_	_	_	_
 9	auf	_	_	_	props:4head-pppossnp	10	case	_	_
-10	Seiten	_	_	_	props:4head-pppossnp	2	obl	_	_
-11	der	_	_	_	props:4head-pppossnp	_	_	_	_
-12	Bundesrepublik	_	_	_	props:4head-pppossnp	_	_	_	_
+10	Anfrage	_	_	_	props:4head-pppossnp	2	obl	_	_
+11	des	_	_	_	props:4head-pppossnp	_	_	_	_
+12	Präsidenten	_	_	_	props:4head-pppossnp	_	_	_	_
 13	.	_	_	_	props:4head-pppossnp	_	_	_	_
 
 1	Sie	_	_	_	props:4head-pppossnp	_	_	_	_
@@ -3624,21 +3624,22 @@
 1	Er	_	_	_	props:4head-pppossnp	_	_	_	_
 2	zeigt	_	_	_	props:4head-pppossnp	_	_	_	_
 3	dem	_	_	_	props:4head-pppossnp	_	_	_	_
-4	Staat	_	_	_	props:4head-pppossnp	_	_	_	_
-5	die	_	_	_	props:4head-pppossnp	_	_	_	_
-6	Sache	_	_	_	props:4head-pppossnp	_	_	_	_
-7	des	_	_	_	props:4head-pppossnp	_	_	_	_
-8	Kindes	_	_	_	props:4head-pppossnp	_	_	_	_
-9	nach	_	_	_	props:4head-pppossnp	10	case	_	_
-10	Angabe	_	_	_	props:4head-pppossnp	2	obl	_	_
-11	der	_	_	_	props:4head-pppossnp	_	_	_	_
-12	Regierung	_	_	_	props:4head-pppossnp	_	_	_	_
-13	.	_	_	_	props:4head-pppossnp	_	_	_	_
+4	Gast	_	_	_	props:4head-pppossnp	_	_	_	_
+5	der	_	_	_	props:4head-pppossnp	_	_	_	_
+6	Fragerunde	_	_	_	props:4head-pppossnp	_	_	_	_
+7	das	_	_	_	props:4head-pppossnp	_	_	_	_
+8	Haus	_	_	_	props:4head-pppossnp	_	_	_	_
+9	an	_	_	_	props:4head-pppossnp	10	case	_	_
+10	dem	_	_	_	props:4head-pppossnp	2	obl	_	_
+11	Beispiel	_	_	_	props:4head-pppossnp	_	_	_	_
+12	des	_	_	_	props:4head-pppossnp	_	_	_	_
+13	Ausschusses	_	_	_	props:4head-pppossnp	_	_	_	_
+14	.	_	_	_	props:4head-pppossnp	_	_	_	_
 
 1	Er	_	_	_	props:4head-pppossnp	_	_	_	_
 2	sucht	_	_	_	props:4head-pppossnp	_	_	_	_
 3	dem	_	_	_	props:4head-pppossnp	_	_	_	_
-4	Flüchtling	_	_	_	props:4head-pppossnp	_	_	_	_
+4	Präsidenten	_	_	_	props:4head-pppossnp	_	_	_	_
 5	die	_	_	_	props:4head-pppossnp	_	_	_	_
 6	Chance	_	_	_	props:4head-pppossnp	_	_	_	_
 7	des	_	_	_	props:4head-pppossnp	_	_	_	_
@@ -3688,7 +3689,7 @@
 9	von	_	_	_	props:4head-pppossnp	10	case	_	_
 10	Seiten	_	_	_	props:4head-pppossnp	2	obl	_	_
 11	des	_	_	_	props:4head-pppossnp	_	_	_	_
-12	Präsidenten	_	_	_	props:4head-pppossnp	_	_	_	_
+12	Gasts	_	_	_	props:4head-pppossnp	_	_	_	_
 13	.	_	_	_	props:4head-pppossnp	_	_	_	_
 
 1	Sie	_	_	_	props:4head-pppossnp	_	_	_	_
@@ -3700,15 +3701,15 @@
 7	der	_	_	_	props:4head-pppossnp	_	_	_	_
 8	Frau	_	_	_	props:4head-pppossnp	_	_	_	_
 9	an	_	_	_	props:4head-pppossnp	10	case	_	_
-10	Bord	_	_	_	props:4head-pppossnp	2	obl	_	_
+10	Stelle	_	_	_	props:4head-pppossnp	2	obl	_	_
 11	des	_	_	_	props:4head-pppossnp	_	_	_	_
-12	Schiffs	_	_	_	props:4head-pppossnp	_	_	_	_
+12	Mannes	_	_	_	props:4head-pppossnp	_	_	_	_
 13	.	_	_	_	props:4head-pppossnp	_	_	_	_
 
 1	Sie	_	_	_	props:4head-pppossnp	_	_	_	_
 2	nennen	_	_	_	props:4head-pppossnp	_	_	_	_
 3	dem	_	_	_	props:4head-pppossnp	_	_	_	_
-4	Präsidenten	_	_	_	props:4head-pppossnp	_	_	_	_
+4	Flüchtling	_	_	_	props:4head-pppossnp	_	_	_	_
 5	die	_	_	_	props:4head-pppossnp	_	_	_	_
 6	Forderung	_	_	_	props:4head-pppossnp	_	_	_	_
 7	der	_	_	_	props:4head-pppossnp	_	_	_	_
@@ -3760,9 +3761,9 @@
 9	der	_	_	_	props:5head-pppossnp	_	_	_	_
 10	Meinung	_	_	_	props:5head-pppossnp	_	_	_	_
 11	auf	_	_	_	props:5head-pppossnp	12	case	_	_
-12	Seiten	_	_	_	props:5head-pppossnp	2	obl	_	_
-13	der	_	_	_	props:5head-pppossnp	_	_	_	_
-14	Bundesrepublik	_	_	_	props:5head-pppossnp	_	_	_	_
+12	Anfrage	_	_	_	props:5head-pppossnp	2	obl	_	_
+13	des	_	_	_	props:5head-pppossnp	_	_	_	_
+14	Präsidenten	_	_	_	props:5head-pppossnp	_	_	_	_
 15	.	_	_	_	props:5head-pppossnp	_	_	_	_
 
 1	Sie	_	_	_	props:5head-pppossnp	_	_	_	_
@@ -3791,8 +3792,8 @@
 8	Geschichte	_	_	_	props:5head-pppossnp	_	_	_	_
 9	der	_	_	_	props:5head-pppossnp	_	_	_	_
 10	Rückkehr	_	_	_	props:5head-pppossnp	_	_	_	_
-11	aus	_	_	_	props:5head-pppossnp	12	case	_	_
-12	Sicht	_	_	_	props:5head-pppossnp	2	obl	_	_
+11	nach	_	_	_	props:5head-pppossnp	12	case	_	_
+12	Angabe	_	_	_	props:5head-pppossnp	2	obl	_	_
 13	des	_	_	_	props:5head-pppossnp	_	_	_	_
 14	Landes	_	_	_	props:5head-pppossnp	_	_	_	_
 15	.	_	_	_	props:5head-pppossnp	_	_	_	_
@@ -3848,23 +3849,24 @@
 1	Er	_	_	_	props:5head-pppossnp	_	_	_	_
 2	zeigt	_	_	_	props:5head-pppossnp	_	_	_	_
 3	dem	_	_	_	props:5head-pppossnp	_	_	_	_
-4	Staat	_	_	_	props:5head-pppossnp	_	_	_	_
-5	des	_	_	_	props:5head-pppossnp	_	_	_	_
-6	Kindes	_	_	_	props:5head-pppossnp	_	_	_	_
-7	die	_	_	_	props:5head-pppossnp	_	_	_	_
-8	Sache	_	_	_	props:5head-pppossnp	_	_	_	_
-9	des	_	_	_	props:5head-pppossnp	_	_	_	_
-10	Kindes	_	_	_	props:5head-pppossnp	_	_	_	_
-11	nach	_	_	_	props:5head-pppossnp	12	case	_	_
-12	Angabe	_	_	_	props:5head-pppossnp	2	obl	_	_
-13	der	_	_	_	props:5head-pppossnp	_	_	_	_
-14	Regierung	_	_	_	props:5head-pppossnp	_	_	_	_
-15	.	_	_	_	props:5head-pppossnp	_	_	_	_
+4	Gast	_	_	_	props:5head-pppossnp	_	_	_	_
+5	der	_	_	_	props:5head-pppossnp	_	_	_	_
+6	Fragerunde	_	_	_	props:5head-pppossnp	_	_	_	_
+7	das	_	_	_	props:5head-pppossnp	_	_	_	_
+8	Haus	_	_	_	props:5head-pppossnp	_	_	_	_
+9	der	_	_	_	props:5head-pppossnp	_	_	_	_
+10	Kunst	_	_	_	props:5head-pppossnp	_	_	_	_
+11	an	_	_	_	props:5head-pppossnp	12	case	_	_
+12	dem	_	_	_	props:5head-pppossnp	2	obl	_	_
+13	Beispiel	_	_	_	props:5head-pppossnp	_	_	_	_
+14	des	_	_	_	props:5head-pppossnp	_	_	_	_
+15	Ausschusses	_	_	_	props:5head-pppossnp	_	_	_	_
+16	.	_	_	_	props:5head-pppossnp	_	_	_	_
 
 1	Er	_	_	_	props:5head-pppossnp	_	_	_	_
 2	sucht	_	_	_	props:5head-pppossnp	_	_	_	_
 3	dem	_	_	_	props:5head-pppossnp	_	_	_	_
-4	Flüchtling	_	_	_	props:5head-pppossnp	_	_	_	_
+4	Präsidenten	_	_	_	props:5head-pppossnp	_	_	_	_
 5	der	_	_	_	props:5head-pppossnp	_	_	_	_
 6	Gesellschaft	_	_	_	props:5head-pppossnp	_	_	_	_
 7	die	_	_	_	props:5head-pppossnp	_	_	_	_
@@ -3922,29 +3924,29 @@
 11	von	_	_	_	props:5head-pppossnp	12	case	_	_
 12	Seiten	_	_	_	props:5head-pppossnp	2	obl	_	_
 13	des	_	_	_	props:5head-pppossnp	_	_	_	_
-14	Präsidenten	_	_	_	props:5head-pppossnp	_	_	_	_
+14	Gasts	_	_	_	props:5head-pppossnp	_	_	_	_
 15	.	_	_	_	props:5head-pppossnp	_	_	_	_
 
 1	Sie	_	_	_	props:5head-pppossnp	_	_	_	_
 2	verkaufen	_	_	_	props:5head-pppossnp	_	_	_	_
 3	dem	_	_	_	props:5head-pppossnp	_	_	_	_
-4	Land	_	_	_	props:5head-pppossnp	_	_	_	_
+4	Kapitän	_	_	_	props:5head-pppossnp	_	_	_	_
 5	des	_	_	_	props:5head-pppossnp	_	_	_	_
-6	Sohnes	_	_	_	props:5head-pppossnp	_	_	_	_
+6	Schiffs	_	_	_	props:5head-pppossnp	_	_	_	_
 7	den	_	_	_	props:5head-pppossnp	_	_	_	_
 8	Film	_	_	_	props:5head-pppossnp	_	_	_	_
 9	der	_	_	_	props:5head-pppossnp	_	_	_	_
 10	Frau	_	_	_	props:5head-pppossnp	_	_	_	_
 11	an	_	_	_	props:5head-pppossnp	12	case	_	_
-12	Bord	_	_	_	props:5head-pppossnp	2	obl	_	_
+12	Stelle	_	_	_	props:5head-pppossnp	2	obl	_	_
 13	des	_	_	_	props:5head-pppossnp	_	_	_	_
-14	Schiffs	_	_	_	props:5head-pppossnp	_	_	_	_
+14	Mannes	_	_	_	props:5head-pppossnp	_	_	_	_
 15	.	_	_	_	props:5head-pppossnp	_	_	_	_
 
 1	Sie	_	_	_	props:5head-pppossnp	_	_	_	_
 2	nennen	_	_	_	props:5head-pppossnp	_	_	_	_
 3	dem	_	_	_	props:5head-pppossnp	_	_	_	_
-4	Präsidenten	_	_	_	props:5head-pppossnp	_	_	_	_
+4	Flüchtling	_	_	_	props:5head-pppossnp	_	_	_	_
 5	der	_	_	_	props:5head-pppossnp	_	_	_	_
 6	Heimat	_	_	_	props:5head-pppossnp	_	_	_	_
 7	die	_	_	_	props:5head-pppossnp	_	_	_	_
@@ -3989,24 +3991,24 @@
 2	sagt	_	_	_	props:base-pppp	_	_	_	_
 3	das	_	_	_	props:base-pppp	_	_	_	_
 4	Wort	_	_	_	props:base-pppp	_	_	_	_
-5	auf	_	_	_	props:base-pppp	7	case	_	_
+5	in	_	_	_	props:base-pppp	7	case	_	_
 6	dem	_	_	_	props:base-pppp	_	_	_	_
-7	Weg	_	_	_	props:base-pppp	2	obl	_	_
-8	in	_	_	_	props:base-pppp	_	_	_	_
-9	die	_	_	_	props:base-pppp	_	_	_	_
-10	Zukunft	_	_	_	props:base-pppp	_	_	_	_
+7	Interview	_	_	_	props:base-pppp	2	obl	_	_
+8	mit	_	_	_	props:base-pppp	_	_	_	_
+9	der	_	_	_	props:base-pppp	_	_	_	_
+10	Zeitung	_	_	_	props:base-pppp	_	_	_	_
 11	.	_	_	_	props:base-pppp	_	_	_	_
 
 1	Sie	_	_	_	props:base-pppp	_	_	_	_
 2	zeigt	_	_	_	props:base-pppp	_	_	_	_
 3	das	_	_	_	props:base-pppp	_	_	_	_
-4	Problem	_	_	_	props:base-pppp	_	_	_	_
-5	auf	_	_	_	props:base-pppp	7	case	_	_
-6	der	_	_	_	props:base-pppp	_	_	_	_
-7	Bühne	_	_	_	props:base-pppp	2	obl	_	_
-8	in	_	_	_	props:base-pppp	_	_	_	_
-9	dem	_	_	_	props:base-pppp	_	_	_	_
-10	Schauspielhaus	_	_	_	props:base-pppp	_	_	_	_
+4	Haus	_	_	_	props:base-pppp	_	_	_	_
+5	an	_	_	_	props:base-pppp	7	case	_	_
+6	dem	_	_	_	props:base-pppp	_	_	_	_
+7	Beispiel	_	_	_	props:base-pppp	2	obl	_	_
+8	aus	_	_	_	props:base-pppp	_	_	_	_
+9	der	_	_	_	props:base-pppp	_	_	_	_
+10	Vergangenheit	_	_	_	props:base-pppp	_	_	_	_
 11	.	_	_	_	props:base-pppp	_	_	_	_
 
 1	Sie	_	_	_	props:base-pppp	_	_	_	_
@@ -4025,12 +4027,12 @@
 2	verliert	_	_	_	props:base-pppp	_	_	_	_
 3	das	_	_	_	props:base-pppp	_	_	_	_
 4	Geld	_	_	_	props:base-pppp	_	_	_	_
-5	auf	_	_	_	props:base-pppp	7	case	_	_
-6	der	_	_	_	props:base-pppp	_	_	_	_
-7	Straße	_	_	_	props:base-pppp	2	obl	_	_
-8	in	_	_	_	props:base-pppp	_	_	_	_
-9	dem	_	_	_	props:base-pppp	_	_	_	_
-10	Berg	_	_	_	props:base-pppp	_	_	_	_
+5	an	_	_	_	props:base-pppp	7	case	_	_
+6	dem	_	_	_	props:base-pppp	_	_	_	_
+7	Tag	_	_	_	props:base-pppp	2	obl	_	_
+8	mit	_	_	_	props:base-pppp	_	_	_	_
+9	der	_	_	_	props:base-pppp	_	_	_	_
+10	Sonne	_	_	_	props:base-pppp	_	_	_	_
 11	.	_	_	_	props:base-pppp	_	_	_	_
 
 1	Er	_	_	_	props:base-pppp	_	_	_	_
@@ -4058,15 +4060,15 @@
 11	.	_	_	_	props:base-pppp	_	_	_	_
 
 1	Er	_	_	_	props:base-pppp	_	_	_	_
-2	erhält	_	_	_	props:base-pppp	_	_	_	_
+2	stellt	_	_	_	props:base-pppp	_	_	_	_
 3	die	_	_	_	props:base-pppp	_	_	_	_
 4	Rolle	_	_	_	props:base-pppp	_	_	_	_
-5	in	_	_	_	props:base-pppp	7	case	_	_
-6	dem	_	_	_	props:base-pppp	_	_	_	_
-7	Film	_	_	_	props:base-pppp	2	obl	_	_
-8	über	_	_	_	props:base-pppp	_	_	_	_
-9	den	_	_	_	props:base-pppp	_	_	_	_
-10	Krieg	_	_	_	props:base-pppp	_	_	_	_
+5	auf	_	_	_	props:base-pppp	7	case	_	_
+6	den	_	_	_	props:base-pppp	_	_	_	_
+7	Tisch	_	_	_	props:base-pppp	2	obl	_	_
+8	in	_	_	_	props:base-pppp	_	_	_	_
+9	der	_	_	_	props:base-pppp	_	_	_	_
+10	Küche	_	_	_	props:base-pppp	_	_	_	_
 11	.	_	_	_	props:base-pppp	_	_	_	_
 
 1	Er	_	_	_	props:base-pppp	_	_	_	_
@@ -4184,19 +4186,19 @@
 1	Sie	_	_	_	props:3head-pppp	_	_	_	_
 2	zeigt	_	_	_	props:3head-pppp	_	_	_	_
 3	dem	_	_	_	props:3head-pppp	_	_	_	_
-4	Staat	_	_	_	props:3head-pppp	_	_	_	_
+4	Gast	_	_	_	props:3head-pppp	_	_	_	_
 5	das	_	_	_	props:3head-pppp	_	_	_	_
-6	Problem	_	_	_	props:3head-pppp	_	_	_	_
-7	auf	_	_	_	props:3head-pppp	9	case	_	_
-8	der	_	_	_	props:3head-pppp	_	_	_	_
-9	Bühne	_	_	_	props:3head-pppp	2	obl	_	_
-10	in	_	_	_	props:3head-pppp	_	_	_	_
-11	dem	_	_	_	props:3head-pppp	_	_	_	_
-12	Schauspielhaus	_	_	_	props:3head-pppp	_	_	_	_
+6	Haus	_	_	_	props:3head-pppp	_	_	_	_
+7	an	_	_	_	props:3head-pppp	9	case	_	_
+8	dem	_	_	_	props:3head-pppp	_	_	_	_
+9	Beispiel	_	_	_	props:3head-pppp	2	obl	_	_
+10	aus	_	_	_	props:3head-pppp	_	_	_	_
+11	der	_	_	_	props:3head-pppp	_	_	_	_
+12	Vergangenheit	_	_	_	props:3head-pppp	_	_	_	_
 13	.	_	_	_	props:3head-pppp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-pppp	_	_	_	_
-2	beschreibt	_	_	_	props:3head-pppp	_	_	_	_
+2	verkauft	_	_	_	props:3head-pppp	_	_	_	_
 3	dem	_	_	_	props:3head-pppp	_	_	_	_
 4	Kunden	_	_	_	props:3head-pppp	_	_	_	_
 5	das	_	_	_	props:3head-pppp	_	_	_	_
@@ -4215,12 +4217,12 @@
 4	Frau	_	_	_	props:3head-pppp	_	_	_	_
 5	das	_	_	_	props:3head-pppp	_	_	_	_
 6	Geld	_	_	_	props:3head-pppp	_	_	_	_
-7	auf	_	_	_	props:3head-pppp	9	case	_	_
-8	der	_	_	_	props:3head-pppp	_	_	_	_
-9	Straße	_	_	_	props:3head-pppp	2	obl	_	_
-10	in	_	_	_	props:3head-pppp	_	_	_	_
-11	dem	_	_	_	props:3head-pppp	_	_	_	_
-12	Berg	_	_	_	props:3head-pppp	_	_	_	_
+7	an	_	_	_	props:3head-pppp	9	case	_	_
+8	dem	_	_	_	props:3head-pppp	_	_	_	_
+9	Tag	_	_	_	props:3head-pppp	2	obl	_	_
+10	mit	_	_	_	props:3head-pppp	_	_	_	_
+11	der	_	_	_	props:3head-pppp	_	_	_	_
+12	Sonne	_	_	_	props:3head-pppp	_	_	_	_
 13	.	_	_	_	props:3head-pppp	_	_	_	_
 
 1	Er	_	_	_	props:3head-pppp	_	_	_	_
@@ -4239,16 +4241,16 @@
 
 1	Er	_	_	_	props:3head-pppp	_	_	_	_
 2	erklärt	_	_	_	props:3head-pppp	_	_	_	_
-3	dem	_	_	_	props:3head-pppp	_	_	_	_
-4	Gegner	_	_	_	props:3head-pppp	_	_	_	_
+3	den	_	_	_	props:3head-pppp	_	_	_	_
+4	Leuten	_	_	_	props:3head-pppp	_	_	_	_
 5	den	_	_	_	props:3head-pppp	_	_	_	_
 6	Grund	_	_	_	props:3head-pppp	_	_	_	_
-7	in	_	_	_	props:3head-pppp	9	case	_	_
+7	auf	_	_	_	props:3head-pppp	9	case	_	_
 8	der	_	_	_	props:3head-pppp	_	_	_	_
-9	Stadt	_	_	_	props:3head-pppp	2	obl	_	_
+9	Pressekonferenz	_	_	_	props:3head-pppp	2	obl	_	_
 10	mit	_	_	_	props:3head-pppp	_	_	_	_
 11	dem	_	_	_	props:3head-pppp	_	_	_	_
-12	Fluss	_	_	_	props:3head-pppp	_	_	_	_
+12	Premierminister	_	_	_	props:3head-pppp	_	_	_	_
 13	.	_	_	_	props:3head-pppp	_	_	_	_
 
 1	Er	_	_	_	props:3head-pppp	_	_	_	_
@@ -4287,10 +4289,10 @@
 6	Platz	_	_	_	props:3head-pppp	_	_	_	_
 7	in	_	_	_	props:3head-pppp	9	case	_	_
 8	dem	_	_	_	props:3head-pppp	_	_	_	_
-9	Land	_	_	_	props:3head-pppp	2	obl	_	_
+9	Jahr	_	_	_	props:3head-pppp	2	obl	_	_
 10	mit	_	_	_	props:3head-pppp	_	_	_	_
 11	der	_	_	_	props:3head-pppp	_	_	_	_
-12	Insel	_	_	_	props:3head-pppp	_	_	_	_
+12	Pandemie	_	_	_	props:3head-pppp	_	_	_	_
 13	.	_	_	_	props:3head-pppp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-pppp	_	_	_	_
@@ -4322,13 +4324,13 @@
 13	.	_	_	_	props:3head-pppp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-pppp	_	_	_	_
-2	verkaufen	_	_	_	props:3head-pppp	_	_	_	_
+2	beschreiben	_	_	_	props:3head-pppp	_	_	_	_
 3	dem	_	_	_	props:3head-pppp	_	_	_	_
 4	Herren	_	_	_	props:3head-pppp	_	_	_	_
 5	den	_	_	_	props:3head-pppp	_	_	_	_
 6	Film	_	_	_	props:3head-pppp	_	_	_	_
-7	in	_	_	_	props:3head-pppp	9	case	_	_
-8	dem	_	_	_	props:3head-pppp	_	_	_	_
+7	für	_	_	_	props:3head-pppp	9	case	_	_
+8	den	_	_	_	props:3head-pppp	_	_	_	_
 9	Staat	_	_	_	props:3head-pppp	2	obl	_	_
 10	mit	_	_	_	props:3head-pppp	_	_	_	_
 11	dem	_	_	_	props:3head-pppp	_	_	_	_
@@ -4398,17 +4400,17 @@
 1	Sie	_	_	_	props:4head-pppp	_	_	_	_
 2	zeigt	_	_	_	props:4head-pppp	_	_	_	_
 3	dem	_	_	_	props:4head-pppp	_	_	_	_
-4	Staat	_	_	_	props:4head-pppp	_	_	_	_
-5	des	_	_	_	props:4head-pppp	_	_	_	_
-6	Kindes	_	_	_	props:4head-pppp	_	_	_	_
+4	Gast	_	_	_	props:4head-pppp	_	_	_	_
+5	der	_	_	_	props:4head-pppp	_	_	_	_
+6	Fragerunde	_	_	_	props:4head-pppp	_	_	_	_
 7	das	_	_	_	props:4head-pppp	_	_	_	_
-8	Problem	_	_	_	props:4head-pppp	_	_	_	_
-9	auf	_	_	_	props:4head-pppp	11	case	_	_
-10	der	_	_	_	props:4head-pppp	_	_	_	_
-11	Bühne	_	_	_	props:4head-pppp	2	obl	_	_
-12	in	_	_	_	props:4head-pppp	_	_	_	_
-13	dem	_	_	_	props:4head-pppp	_	_	_	_
-14	Schauspielhaus	_	_	_	props:4head-pppp	_	_	_	_
+8	Haus	_	_	_	props:4head-pppp	_	_	_	_
+9	an	_	_	_	props:4head-pppp	11	case	_	_
+10	dem	_	_	_	props:4head-pppp	_	_	_	_
+11	Beispiel	_	_	_	props:4head-pppp	2	obl	_	_
+12	aus	_	_	_	props:4head-pppp	_	_	_	_
+13	der	_	_	_	props:4head-pppp	_	_	_	_
+14	Vergangenheit	_	_	_	props:4head-pppp	_	_	_	_
 15	.	_	_	_	props:4head-pppp	_	_	_	_
 
 1	Sie	_	_	_	props:4head-pppp	_	_	_	_
@@ -4435,12 +4437,12 @@
 6	Kollegen	_	_	_	props:4head-pppp	_	_	_	_
 7	das	_	_	_	props:4head-pppp	_	_	_	_
 8	Geld	_	_	_	props:4head-pppp	_	_	_	_
-9	auf	_	_	_	props:4head-pppp	11	case	_	_
-10	die	_	_	_	props:4head-pppp	_	_	_	_
-11	Straße	_	_	_	props:4head-pppp	2	obl	_	_
-12	in	_	_	_	props:4head-pppp	_	_	_	_
-13	dem	_	_	_	props:4head-pppp	_	_	_	_
-14	Berg	_	_	_	props:4head-pppp	_	_	_	_
+9	an	_	_	_	props:4head-pppp	11	case	_	_
+10	dem	_	_	_	props:4head-pppp	_	_	_	_
+11	Tag	_	_	_	props:4head-pppp	2	obl	_	_
+12	mit	_	_	_	props:4head-pppp	_	_	_	_
+13	der	_	_	_	props:4head-pppp	_	_	_	_
+14	Sonne	_	_	_	props:4head-pppp	_	_	_	_
 15	.	_	_	_	props:4head-pppp	_	_	_	_
 
 1	Er	_	_	_	props:4head-pppp	_	_	_	_
@@ -4461,18 +4463,18 @@
 
 1	Er	_	_	_	props:4head-pppp	_	_	_	_
 2	erklärt	_	_	_	props:4head-pppp	_	_	_	_
-3	dem	_	_	_	props:4head-pppp	_	_	_	_
-4	Gegner	_	_	_	props:4head-pppp	_	_	_	_
+3	den	_	_	_	props:4head-pppp	_	_	_	_
+4	Leuten	_	_	_	props:4head-pppp	_	_	_	_
 5	der	_	_	_	props:4head-pppp	_	_	_	_
-6	Forderung	_	_	_	props:4head-pppp	_	_	_	_
+6	Partei	_	_	_	props:4head-pppp	_	_	_	_
 7	den	_	_	_	props:4head-pppp	_	_	_	_
 8	Grund	_	_	_	props:4head-pppp	_	_	_	_
-9	in	_	_	_	props:4head-pppp	11	case	_	_
+9	auf	_	_	_	props:4head-pppp	11	case	_	_
 10	der	_	_	_	props:4head-pppp	_	_	_	_
-11	Stadt	_	_	_	props:4head-pppp	2	obl	_	_
+11	Pressekonferenz	_	_	_	props:4head-pppp	2	obl	_	_
 12	mit	_	_	_	props:4head-pppp	_	_	_	_
 13	dem	_	_	_	props:4head-pppp	_	_	_	_
-14	Fluss	_	_	_	props:4head-pppp	_	_	_	_
+14	Premierminister	_	_	_	props:4head-pppp	_	_	_	_
 15	.	_	_	_	props:4head-pppp	_	_	_	_
 
 1	Er	_	_	_	props:4head-pppp	_	_	_	_
@@ -4516,11 +4518,11 @@
 7	den	_	_	_	props:4head-pppp	_	_	_	_
 8	Platz	_	_	_	props:4head-pppp	_	_	_	_
 9	in	_	_	_	props:4head-pppp	11	case	_	_
-10	das	_	_	_	props:4head-pppp	_	_	_	_
-11	Land	_	_	_	props:4head-pppp	2	obl	_	_
+10	dem	_	_	_	props:4head-pppp	_	_	_	_
+11	Jahr	_	_	_	props:4head-pppp	2	obl	_	_
 12	mit	_	_	_	props:4head-pppp	_	_	_	_
 13	der	_	_	_	props:4head-pppp	_	_	_	_
-14	Insel	_	_	_	props:4head-pppp	_	_	_	_
+14	Pandemie	_	_	_	props:4head-pppp	_	_	_	_
 15	.	_	_	_	props:4head-pppp	_	_	_	_
 
 1	Sie	_	_	_	props:4head-pppp	_	_	_	_
@@ -4642,19 +4644,19 @@
 1	Sie	_	_	_	props:5head-pppp	_	_	_	_
 2	zeigt	_	_	_	props:5head-pppp	_	_	_	_
 3	dem	_	_	_	props:5head-pppp	_	_	_	_
-4	Staat	_	_	_	props:5head-pppp	_	_	_	_
-5	des	_	_	_	props:5head-pppp	_	_	_	_
-6	Kindes	_	_	_	props:5head-pppp	_	_	_	_
+4	Gast	_	_	_	props:5head-pppp	_	_	_	_
+5	der	_	_	_	props:5head-pppp	_	_	_	_
+6	Fragerunde	_	_	_	props:5head-pppp	_	_	_	_
 7	das	_	_	_	props:5head-pppp	_	_	_	_
-8	Problem	_	_	_	props:5head-pppp	_	_	_	_
+8	Haus	_	_	_	props:5head-pppp	_	_	_	_
 9	der	_	_	_	props:5head-pppp	_	_	_	_
-10	Mutter	_	_	_	props:5head-pppp	_	_	_	_
-11	auf	_	_	_	props:5head-pppp	13	case	_	_
-12	der	_	_	_	props:5head-pppp	_	_	_	_
-13	Bühne	_	_	_	props:5head-pppp	2	obl	_	_
-14	in	_	_	_	props:5head-pppp	_	_	_	_
-15	dem	_	_	_	props:5head-pppp	_	_	_	_
-16	Schauspielhaus	_	_	_	props:5head-pppp	_	_	_	_
+10	Kunst	_	_	_	props:5head-pppp	_	_	_	_
+11	an	_	_	_	props:5head-pppp	13	case	_	_
+12	dem	_	_	_	props:5head-pppp	_	_	_	_
+13	Beispiel	_	_	_	props:5head-pppp	2	obl	_	_
+14	aus	_	_	_	props:5head-pppp	_	_	_	_
+15	der	_	_	_	props:5head-pppp	_	_	_	_
+16	Vergangenheit	_	_	_	props:5head-pppp	_	_	_	_
 17	.	_	_	_	props:5head-pppp	_	_	_	_
 
 1	Sie	_	_	_	props:5head-pppp	_	_	_	_
@@ -4685,12 +4687,12 @@
 8	Geld	_	_	_	props:5head-pppp	_	_	_	_
 9	des	_	_	_	props:5head-pppp	_	_	_	_
 10	Kollegen	_	_	_	props:5head-pppp	_	_	_	_
-11	auf	_	_	_	props:5head-pppp	13	case	_	_
-12	der	_	_	_	props:5head-pppp	_	_	_	_
-13	Straße	_	_	_	props:5head-pppp	2	obl	_	_
-14	in	_	_	_	props:5head-pppp	_	_	_	_
-15	dem	_	_	_	props:5head-pppp	_	_	_	_
-16	Berg	_	_	_	props:5head-pppp	_	_	_	_
+11	an	_	_	_	props:5head-pppp	13	case	_	_
+12	dem	_	_	_	props:5head-pppp	_	_	_	_
+13	Tag	_	_	_	props:5head-pppp	2	obl	_	_
+14	mit	_	_	_	props:5head-pppp	_	_	_	_
+15	der	_	_	_	props:5head-pppp	_	_	_	_
+16	Sonne	_	_	_	props:5head-pppp	_	_	_	_
 17	.	_	_	_	props:5head-pppp	_	_	_	_
 
 1	Er	_	_	_	props:5head-pppp	_	_	_	_
@@ -4713,38 +4715,38 @@
 
 1	Er	_	_	_	props:5head-pppp	_	_	_	_
 2	erklärt	_	_	_	props:5head-pppp	_	_	_	_
-3	dem	_	_	_	props:5head-pppp	_	_	_	_
-4	Gegner	_	_	_	props:5head-pppp	_	_	_	_
+3	den	_	_	_	props:5head-pppp	_	_	_	_
+4	Leuten	_	_	_	props:5head-pppp	_	_	_	_
 5	der	_	_	_	props:5head-pppp	_	_	_	_
-6	Forderung	_	_	_	props:5head-pppp	_	_	_	_
+6	Partei	_	_	_	props:5head-pppp	_	_	_	_
 7	den	_	_	_	props:5head-pppp	_	_	_	_
 8	Grund	_	_	_	props:5head-pppp	_	_	_	_
 9	des	_	_	_	props:5head-pppp	_	_	_	_
 10	Endes	_	_	_	props:5head-pppp	_	_	_	_
-11	in	_	_	_	props:5head-pppp	13	case	_	_
+11	auf	_	_	_	props:5head-pppp	13	case	_	_
 12	der	_	_	_	props:5head-pppp	_	_	_	_
-13	Stadt	_	_	_	props:5head-pppp	2	obl	_	_
+13	Pressekonferenz	_	_	_	props:5head-pppp	2	obl	_	_
 14	mit	_	_	_	props:5head-pppp	_	_	_	_
 15	dem	_	_	_	props:5head-pppp	_	_	_	_
-16	Fluss	_	_	_	props:5head-pppp	_	_	_	_
+16	Premierminister	_	_	_	props:5head-pppp	_	_	_	_
 17	.	_	_	_	props:5head-pppp	_	_	_	_
 
 1	Er	_	_	_	props:5head-pppp	_	_	_	_
 2	nennt	_	_	_	props:5head-pppp	_	_	_	_
 3	dem	_	_	_	props:5head-pppp	_	_	_	_
-4	Präsidenten	_	_	_	props:5head-pppp	_	_	_	_
+4	Flüchtling	_	_	_	props:5head-pppp	_	_	_	_
 5	der	_	_	_	props:5head-pppp	_	_	_	_
 6	Heimat	_	_	_	props:5head-pppp	_	_	_	_
 7	die	_	_	_	props:5head-pppp	_	_	_	_
 8	Forderung	_	_	_	props:5head-pppp	_	_	_	_
 9	der	_	_	_	props:5head-pppp	_	_	_	_
 10	Gesellschaft	_	_	_	props:5head-pppp	_	_	_	_
-11	in	_	_	_	props:5head-pppp	13	case	_	_
+11	an	_	_	_	props:5head-pppp	13	case	_	_
 12	dem	_	_	_	props:5head-pppp	_	_	_	_
-13	Film	_	_	_	props:5head-pppp	2	obl	_	_
-14	über	_	_	_	props:5head-pppp	_	_	_	_
-15	den	_	_	_	props:5head-pppp	_	_	_	_
-16	Krieg	_	_	_	props:5head-pppp	_	_	_	_
+13	Tag	_	_	_	props:5head-pppp	2	obl	_	_
+14	mit	_	_	_	props:5head-pppp	_	_	_	_
+15	der	_	_	_	props:5head-pppp	_	_	_	_
+16	Sonne	_	_	_	props:5head-pppp	_	_	_	_
 17	.	_	_	_	props:5head-pppp	_	_	_	_
 
 1	Er	_	_	_	props:5head-pppp	_	_	_	_
@@ -4757,12 +4759,12 @@
 8	Geschichte	_	_	_	props:5head-pppp	_	_	_	_
 9	der	_	_	_	props:5head-pppp	_	_	_	_
 10	Rückkehr	_	_	_	props:5head-pppp	_	_	_	_
-11	in	_	_	_	props:5head-pppp	13	case	_	_
+11	vor	_	_	_	props:5head-pppp	13	case	_	_
 12	der	_	_	_	props:5head-pppp	_	_	_	_
-13	Nacht	_	_	_	props:5head-pppp	2	obl	_	_
-14	vor	_	_	_	props:5head-pppp	_	_	_	_
+13	Gruppe	_	_	_	props:5head-pppp	2	obl	_	_
+14	mit	_	_	_	props:5head-pppp	_	_	_	_
 15	dem	_	_	_	props:5head-pppp	_	_	_	_
-16	Tod	_	_	_	props:5head-pppp	_	_	_	_
+16	Chef	_	_	_	props:5head-pppp	_	_	_	_
 17	.	_	_	_	props:5head-pppp	_	_	_	_
 
 1	Er	_	_	_	props:5head-pppp	_	_	_	_
@@ -4777,16 +4779,16 @@
 10	Heimat	_	_	_	props:5head-pppp	_	_	_	_
 11	in	_	_	_	props:5head-pppp	13	case	_	_
 12	dem	_	_	_	props:5head-pppp	_	_	_	_
-13	Land	_	_	_	props:5head-pppp	2	obl	_	_
+13	Jahr	_	_	_	props:5head-pppp	2	obl	_	_
 14	mit	_	_	_	props:5head-pppp	_	_	_	_
 15	der	_	_	_	props:5head-pppp	_	_	_	_
-16	Insel	_	_	_	props:5head-pppp	_	_	_	_
+16	Pandemie	_	_	_	props:5head-pppp	_	_	_	_
 17	.	_	_	_	props:5head-pppp	_	_	_	_
 
 1	Sie	_	_	_	props:5head-pppp	_	_	_	_
 2	suchen	_	_	_	props:5head-pppp	_	_	_	_
 3	dem	_	_	_	props:5head-pppp	_	_	_	_
-4	Flüchtling	_	_	_	props:5head-pppp	_	_	_	_
+4	Präsidenten	_	_	_	props:5head-pppp	_	_	_	_
 5	der	_	_	_	props:5head-pppp	_	_	_	_
 6	Gesellschaft	_	_	_	props:5head-pppp	_	_	_	_
 7	die	_	_	_	props:5head-pppp	_	_	_	_
@@ -4838,15 +4840,15 @@
 17	.	_	_	_	props:5head-pppp	_	_	_	_
 
 1	Sie	_	_	_	props:5head-pppp	_	_	_	_
-2	stellen	_	_	_	props:5head-pppp	_	_	_	_
+2	beweisen	_	_	_	props:5head-pppp	_	_	_	_
 3	dem	_	_	_	props:5head-pppp	_	_	_	_
 4	Kind	_	_	_	props:5head-pppp	_	_	_	_
 5	des	_	_	_	props:5head-pppp	_	_	_	_
 6	Vaters	_	_	_	props:5head-pppp	_	_	_	_
-7	die	_	_	_	props:5head-pppp	_	_	_	_
-8	Frage	_	_	_	props:5head-pppp	_	_	_	_
-9	des	_	_	_	props:5head-pppp	_	_	_	_
-10	Sohnes	_	_	_	props:5head-pppp	_	_	_	_
+7	den	_	_	_	props:5head-pppp	_	_	_	_
+8	Sinn	_	_	_	props:5head-pppp	_	_	_	_
+9	der	_	_	_	props:5head-pppp	_	_	_	_
+10	Forderung	_	_	_	props:5head-pppp	_	_	_	_
 11	in	_	_	_	props:5head-pppp	13	case	_	_
 12	der	_	_	_	props:5head-pppp	_	_	_	_
 13	Bar	_	_	_	props:5head-pppp	2	obl	_	_
@@ -4866,11 +4868,11 @@
 9	der	_	_	_	props:5head-pppp	_	_	_	_
 10	Meinung	_	_	_	props:5head-pppp	_	_	_	_
 11	in	_	_	_	props:5head-pppp	13	case	_	_
-12	dem	_	_	_	props:5head-pppp	_	_	_	_
-13	Bereich	_	_	_	props:5head-pppp	2	obl	_	_
-14	in	_	_	_	props:5head-pppp	_	_	_	_
+12	der	_	_	_	props:5head-pppp	_	_	_	_
+13	Nacht	_	_	_	props:5head-pppp	2	obl	_	_
+14	vor	_	_	_	props:5head-pppp	_	_	_	_
 15	der	_	_	_	props:5head-pppp	_	_	_	_
-16	Musikindustrie	_	_	_	props:5head-pppp	_	_	_	_
+16	Wahl	_	_	_	props:5head-pppp	_	_	_	_
 17	.	_	_	_	props:5head-pppp	_	_	_	_
 
 1	Sie	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
@@ -4890,26 +4892,26 @@
 2	sagt	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 3	das	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 4	Wort	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-5	auf	_	_	_	props:prepdetadjnoun-pppp	8	case	_	_
+5	in	_	_	_	props:prepdetadjnoun-pppp	8	case	_	_
 6	dem	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-7	langen	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-8	Weg	_	_	_	props:prepdetadjnoun-pppp	2	obl	_	_
-9	in	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-10	die	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-11	Zukunft	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+7	fingierten	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+8	Interview	_	_	_	props:prepdetadjnoun-pppp	2	obl	_	_
+9	mit	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+10	der	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+11	Zeitung	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 12	.	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 
 1	Sie	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 2	zeigt	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 3	das	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 4	Problem	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-5	auf	_	_	_	props:prepdetadjnoun-pppp	8	case	_	_
+5	in	_	_	_	props:prepdetadjnoun-pppp	8	case	_	_
 6	der	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-7	öffentlichen	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-8	Bühne	_	_	_	props:prepdetadjnoun-pppp	2	obl	_	_
-9	in	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-10	dem	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-11	Schauspielhaus	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+7	letzten	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+8	Woche	_	_	_	props:prepdetadjnoun-pppp	2	obl	_	_
+9	mit	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+10	der	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+11	Wahl	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 12	.	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 
 1	Sie	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
@@ -4939,16 +4941,16 @@
 12	.	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 
 1	Er	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-2	hält	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+2	fragt	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 3	den	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 4	Gast	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-5	in	_	_	_	props:prepdetadjnoun-pppp	8	case	_	_
-6	dem	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-7	letzten	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-8	Haus	_	_	_	props:prepdetadjnoun-pppp	2	obl	_	_
+5	nach	_	_	_	props:prepdetadjnoun-pppp	8	case	_	_
+6	der	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+7	verlorenen	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+8	Identität	_	_	_	props:prepdetadjnoun-pppp	2	obl	_	_
 9	in	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-10	der	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-11	Straße	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+10	dem	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+11	Viertel	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 12	.	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 
 1	Er	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
@@ -4965,16 +4967,16 @@
 12	.	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 
 1	Er	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-2	erhält	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+2	legt	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 3	die	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 4	Rolle	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-5	in	_	_	_	props:prepdetadjnoun-pppp	8	case	_	_
-6	dem	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-7	neuen	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-8	Film	_	_	_	props:prepdetadjnoun-pppp	2	obl	_	_
-9	über	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-10	den	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-11	Krieg	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+5	auf	_	_	_	props:prepdetadjnoun-pppp	8	case	_	_
+6	den	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+7	kurzen	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+8	Tisch	_	_	_	props:prepdetadjnoun-pppp	2	obl	_	_
+9	in	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+10	der	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+11	Küche	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 12	.	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 
 1	Er	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
@@ -5047,8 +5049,8 @@
 3	die	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 4	Frau	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 5	in	_	_	_	props:prepdetadjnoun-pppp	8	case	_	_
-6	der	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
-7	kleinen	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+6	die	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
+7	kleine	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 8	Bar	_	_	_	props:prepdetadjnoun-pppp	2	obl	_	_
 9	an	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
 10	der	_	_	_	props:prepdetadjnoun-pppp	_	_	_	_
@@ -5085,8 +5087,8 @@
 2	zeigt	_	_	_	props:pppossnp-pppp	_	_	_	_
 3	das	_	_	_	props:pppossnp-pppp	_	_	_	_
 4	Problem	_	_	_	props:pppossnp-pppp	_	_	_	_
-5	auf	_	_	_	props:pppossnp-pppp	6	case	_	_
-6	Seiten	_	_	_	props:pppossnp-pppp	2	obl	_	_
+5	aus	_	_	_	props:pppossnp-pppp	6	case	_	_
+6	Sicht	_	_	_	props:pppossnp-pppp	2	obl	_	_
 7	der	_	_	_	props:pppossnp-pppp	_	_	_	_
 8	Bundesrepublik	_	_	_	props:pppossnp-pppp	_	_	_	_
 9	an	_	_	_	props:pppossnp-pppp	_	_	_	_
@@ -5265,16 +5267,16 @@
 
 1	In	_	_	_	props:base-ppbeforehead	3	case	_	_
 2	der	_	_	_	props:base-ppbeforehead	_	_	_	_
-3	Hand	_	_	_	props:base-ppbeforehead	4	obl	_	_
-4	hat	_	_	_	props:base-ppbeforehead	_	_	_	_
+3	Nacht	_	_	_	props:base-ppbeforehead	4	obl	_	_
+4	verliert	_	_	_	props:base-ppbeforehead	_	_	_	_
 5	sie	_	_	_	props:base-ppbeforehead	_	_	_	_
 6	das	_	_	_	props:base-ppbeforehead	_	_	_	_
 7	Geld	_	_	_	props:base-ppbeforehead	_	_	_	_
 8	.	_	_	_	props:base-ppbeforehead	_	_	_	_
 
-1	Zu	_	_	_	props:base-ppbeforehead	3	case	_	_
+1	In	_	_	_	props:base-ppbeforehead	3	case	_	_
 2	dem	_	_	_	props:base-ppbeforehead	_	_	_	_
-3	Thema	_	_	_	props:base-ppbeforehead	4	obl	_	_
+3	Interview	_	_	_	props:base-ppbeforehead	4	obl	_	_
 4	sagt	_	_	_	props:base-ppbeforehead	_	_	_	_
 5	sie	_	_	_	props:base-ppbeforehead	_	_	_	_
 6	das	_	_	_	props:base-ppbeforehead	_	_	_	_
@@ -5290,9 +5292,9 @@
 7	Mann	_	_	_	props:base-ppbeforehead	_	_	_	_
 8	.	_	_	_	props:base-ppbeforehead	_	_	_	_
 
-1	In	_	_	_	props:base-ppbeforehead	3	case	_	_
-2	das	_	_	_	props:base-ppbeforehead	_	_	_	_
-3	Haus	_	_	_	props:base-ppbeforehead	4	obl	_	_
+1	An	_	_	_	props:base-ppbeforehead	3	case	_	_
+2	dem	_	_	_	props:base-ppbeforehead	_	_	_	_
+3	Abend	_	_	_	props:base-ppbeforehead	4	obl	_	_
 4	sieht	_	_	_	props:base-ppbeforehead	_	_	_	_
 5	sie	_	_	_	props:base-ppbeforehead	_	_	_	_
 6	den	_	_	_	props:base-ppbeforehead	_	_	_	_
@@ -5308,31 +5310,22 @@
 7	Platz	_	_	_	props:base-ppbeforehead	_	_	_	_
 8	.	_	_	_	props:base-ppbeforehead	_	_	_	_
 
-1	In	_	_	_	props:base-ppbeforehead	3	case	_	_
-2	dem	_	_	_	props:base-ppbeforehead	_	_	_	_
-3	Bereich	_	_	_	props:base-ppbeforehead	4	obl	_	_
+1	Für	_	_	_	props:base-ppbeforehead	3	case	_	_
+2	das	_	_	_	props:base-ppbeforehead	_	_	_	_
+3	Publikum	_	_	_	props:base-ppbeforehead	4	obl	_	_
 4	zeigt	_	_	_	props:base-ppbeforehead	_	_	_	_
 5	er	_	_	_	props:base-ppbeforehead	_	_	_	_
 6	das	_	_	_	props:base-ppbeforehead	_	_	_	_
 7	Problem	_	_	_	props:base-ppbeforehead	_	_	_	_
 8	.	_	_	_	props:base-ppbeforehead	_	_	_	_
 
-1	In	_	_	_	props:base-ppbeforehead	3	case	_	_
+1	Mit	_	_	_	props:base-ppbeforehead	3	case	_	_
 2	der	_	_	_	props:base-ppbeforehead	_	_	_	_
 3	Hand	_	_	_	props:base-ppbeforehead	4	obl	_	_
 4	hält	_	_	_	props:base-ppbeforehead	_	_	_	_
 5	er	_	_	_	props:base-ppbeforehead	_	_	_	_
 6	das	_	_	_	props:base-ppbeforehead	_	_	_	_
 7	Bild	_	_	_	props:base-ppbeforehead	_	_	_	_
-8	.	_	_	_	props:base-ppbeforehead	_	_	_	_
-
-1	Auf	_	_	_	props:base-ppbeforehead	3	case	_	_
-2	die	_	_	_	props:base-ppbeforehead	_	_	_	_
-3	Bühne	_	_	_	props:base-ppbeforehead	4	obl	_	_
-4	nimmt	_	_	_	props:base-ppbeforehead	_	_	_	_
-5	er	_	_	_	props:base-ppbeforehead	_	_	_	_
-6	das	_	_	_	props:base-ppbeforehead	_	_	_	_
-7	Kind	_	_	_	props:base-ppbeforehead	_	_	_	_
 8	.	_	_	_	props:base-ppbeforehead	_	_	_	_
 
 1	An	_	_	_	props:base-ppbeforehead	3	case	_	_
@@ -5342,6 +5335,15 @@
 5	er	_	_	_	props:base-ppbeforehead	_	_	_	_
 6	die	_	_	_	props:base-ppbeforehead	_	_	_	_
 7	Frau	_	_	_	props:base-ppbeforehead	_	_	_	_
+8	.	_	_	_	props:base-ppbeforehead	_	_	_	_
+
+1	Auf	_	_	_	props:base-ppbeforehead	3	case	_	_
+2	den	_	_	_	props:base-ppbeforehead	_	_	_	_
+3	Tisch	_	_	_	props:base-ppbeforehead	4	obl	_	_
+4	legt	_	_	_	props:base-ppbeforehead	_	_	_	_
+5	er	_	_	_	props:base-ppbeforehead	_	_	_	_
+6	die	_	_	_	props:base-ppbeforehead	_	_	_	_
+7	Rolle	_	_	_	props:base-ppbeforehead	_	_	_	_
 8	.	_	_	_	props:base-ppbeforehead	_	_	_	_
 
 1	In	_	_	_	props:base-ppbeforehead	3	case	_	_
@@ -5355,7 +5357,7 @@
 
 1	In	_	_	_	props:base-ppbeforehead	3	case	_	_
 2	der	_	_	_	props:base-ppbeforehead	_	_	_	_
-3	Bundesrepublik	_	_	_	props:base-ppbeforehead	4	obl	_	_
+3	Woche	_	_	_	props:base-ppbeforehead	4	obl	_	_
 4	fordern	_	_	_	props:base-ppbeforehead	_	_	_	_
 5	sie	_	_	_	props:base-ppbeforehead	_	_	_	_
 6	das	_	_	_	props:base-ppbeforehead	_	_	_	_
@@ -5373,20 +5375,20 @@
 
 1	In	_	_	_	props:base-ppbeforehead	3	case	_	_
 2	der	_	_	_	props:base-ppbeforehead	_	_	_	_
-3	Stadt	_	_	_	props:base-ppbeforehead	4	obl	_	_
-4	wollen	_	_	_	props:base-ppbeforehead	_	_	_	_
+3	Woche	_	_	_	props:base-ppbeforehead	4	obl	_	_
+4	beginnen	_	_	_	props:base-ppbeforehead	_	_	_	_
 5	sie	_	_	_	props:base-ppbeforehead	_	_	_	_
 6	die	_	_	_	props:base-ppbeforehead	_	_	_	_
 7	Arbeit	_	_	_	props:base-ppbeforehead	_	_	_	_
 8	.	_	_	_	props:base-ppbeforehead	_	_	_	_
 
-1	In	_	_	_	props:base-ppbeforehead	3	case	_	_
+1	An	_	_	_	props:base-ppbeforehead	3	case	_	_
 2	dem	_	_	_	props:base-ppbeforehead	_	_	_	_
-3	Film	_	_	_	props:base-ppbeforehead	4	obl	_	_
-4	erhalten	_	_	_	props:base-ppbeforehead	_	_	_	_
+3	Tag	_	_	_	props:base-ppbeforehead	4	obl	_	_
+4	vergessen	_	_	_	props:base-ppbeforehead	_	_	_	_
 5	sie	_	_	_	props:base-ppbeforehead	_	_	_	_
-6	die	_	_	_	props:base-ppbeforehead	_	_	_	_
-7	Rolle	_	_	_	props:base-ppbeforehead	_	_	_	_
+6	das	_	_	_	props:base-ppbeforehead	_	_	_	_
+7	Buch	_	_	_	props:base-ppbeforehead	_	_	_	_
 8	.	_	_	_	props:base-ppbeforehead	_	_	_	_
 
 1	Für	_	_	_	props:base-ppbeforehead	3	case	_	_
@@ -5409,9 +5411,9 @@
 9	Geld	_	_	_	props:3head-ppbeforehead	_	_	_	_
 10	.	_	_	_	props:3head-ppbeforehead	_	_	_	_
 
-1	Mit	_	_	_	props:3head-ppbeforehead	3	case	_	_
-2	der	_	_	_	props:3head-ppbeforehead	_	_	_	_
-3	Hand	_	_	_	props:3head-ppbeforehead	4	obl	_	_
+1	An	_	_	_	props:3head-ppbeforehead	3	case	_	_
+2	dem	_	_	_	props:3head-ppbeforehead	_	_	_	_
+3	Beispiel	_	_	_	props:3head-ppbeforehead	4	obl	_	_
 4	zeigt	_	_	_	props:3head-ppbeforehead	_	_	_	_
 5	sie	_	_	_	props:3head-ppbeforehead	_	_	_	_
 6	dem	_	_	_	props:3head-ppbeforehead	_	_	_	_
@@ -5422,7 +5424,7 @@
 
 1	Auf	_	_	_	props:3head-ppbeforehead	3	case	_	_
 2	der	_	_	_	props:3head-ppbeforehead	_	_	_	_
-3	Straße	_	_	_	props:3head-ppbeforehead	4	obl	_	_
+3	Pressekonferenz	_	_	_	props:3head-ppbeforehead	4	obl	_	_
 4	erkärt	_	_	_	props:3head-ppbeforehead	_	_	_	_
 5	sie	_	_	_	props:3head-ppbeforehead	_	_	_	_
 6	den	_	_	_	props:3head-ppbeforehead	_	_	_	_
@@ -5442,9 +5444,9 @@
 9	Million	_	_	_	props:3head-ppbeforehead	_	_	_	_
 10	.	_	_	_	props:3head-ppbeforehead	_	_	_	_
 
-1	Zu	_	_	_	props:3head-ppbeforehead	3	case	_	_
+1	In	_	_	_	props:3head-ppbeforehead	3	case	_	_
 2	dem	_	_	_	props:3head-ppbeforehead	_	_	_	_
-3	Thema	_	_	_	props:3head-ppbeforehead	4	obl	_	_
+3	Interview	_	_	_	props:3head-ppbeforehead	4	obl	_	_
 4	stellt	_	_	_	props:3head-ppbeforehead	_	_	_	_
 5	sie	_	_	_	props:3head-ppbeforehead	_	_	_	_
 6	dem	_	_	_	props:3head-ppbeforehead	_	_	_	_
@@ -5466,7 +5468,7 @@
 
 1	In	_	_	_	props:3head-ppbeforehead	3	case	_	_
 2	dem	_	_	_	props:3head-ppbeforehead	_	_	_	_
-3	Film	_	_	_	props:3head-ppbeforehead	4	obl	_	_
+3	Monat	_	_	_	props:3head-ppbeforehead	4	obl	_	_
 4	nennt	_	_	_	props:3head-ppbeforehead	_	_	_	_
 5	er	_	_	_	props:3head-ppbeforehead	_	_	_	_
 6	der	_	_	_	props:3head-ppbeforehead	_	_	_	_
@@ -5486,9 +5488,9 @@
 9	Geschichte	_	_	_	props:3head-ppbeforehead	_	_	_	_
 10	.	_	_	_	props:3head-ppbeforehead	_	_	_	_
 
-1	In	_	_	_	props:3head-ppbeforehead	3	case	_	_
-2	dem	_	_	_	props:3head-ppbeforehead	_	_	_	_
-3	Bereich	_	_	_	props:3head-ppbeforehead	4	obl	_	_
+1	Mit	_	_	_	props:3head-ppbeforehead	3	case	_	_
+2	der	_	_	_	props:3head-ppbeforehead	_	_	_	_
+3	Frau	_	_	_	props:3head-ppbeforehead	4	obl	_	_
 4	sucht	_	_	_	props:3head-ppbeforehead	_	_	_	_
 5	er	_	_	_	props:3head-ppbeforehead	_	_	_	_
 6	dem	_	_	_	props:3head-ppbeforehead	_	_	_	_
@@ -5576,9 +5578,9 @@
 11	Kollegen	_	_	_	props:4head-ppbeforehead	_	_	_	_
 12	.	_	_	_	props:4head-ppbeforehead	_	_	_	_
 
-1	Mit	_	_	_	props:4head-ppbeforehead	3	case	_	_
-2	der	_	_	_	props:4head-ppbeforehead	_	_	_	_
-3	Hand	_	_	_	props:4head-ppbeforehead	4	obl	_	_
+1	An	_	_	_	props:4head-ppbeforehead	3	case	_	_
+2	dem	_	_	_	props:4head-ppbeforehead	_	_	_	_
+3	Beispiel	_	_	_	props:4head-ppbeforehead	4	obl	_	_
 4	zeigt	_	_	_	props:4head-ppbeforehead	_	_	_	_
 5	sie	_	_	_	props:4head-ppbeforehead	_	_	_	_
 6	dem	_	_	_	props:4head-ppbeforehead	_	_	_	_
@@ -5591,7 +5593,7 @@
 
 1	Auf	_	_	_	props:4head-ppbeforehead	3	case	_	_
 2	der	_	_	_	props:4head-ppbeforehead	_	_	_	_
-3	Straße	_	_	_	props:4head-ppbeforehead	4	obl	_	_
+3	Pressekonferenz	_	_	_	props:4head-ppbeforehead	4	obl	_	_
 4	erkärt	_	_	_	props:4head-ppbeforehead	_	_	_	_
 5	sie	_	_	_	props:4head-ppbeforehead	_	_	_	_
 6	den	_	_	_	props:4head-ppbeforehead	_	_	_	_
@@ -5615,9 +5617,9 @@
 11	Mannes	_	_	_	props:4head-ppbeforehead	_	_	_	_
 12	.	_	_	_	props:4head-ppbeforehead	_	_	_	_
 
-1	Zu	_	_	_	props:4head-ppbeforehead	3	case	_	_
+1	In	_	_	_	props:4head-ppbeforehead	3	case	_	_
 2	dem	_	_	_	props:4head-ppbeforehead	_	_	_	_
-3	Thema	_	_	_	props:4head-ppbeforehead	4	obl	_	_
+3	Interview	_	_	_	props:4head-ppbeforehead	4	obl	_	_
 4	stellt	_	_	_	props:4head-ppbeforehead	_	_	_	_
 5	sie	_	_	_	props:4head-ppbeforehead	_	_	_	_
 6	dem	_	_	_	props:4head-ppbeforehead	_	_	_	_
@@ -5669,7 +5671,7 @@
 
 1	In	_	_	_	props:4head-ppbeforehead	3	case	_	_
 2	dem	_	_	_	props:4head-ppbeforehead	_	_	_	_
-3	Bereich	_	_	_	props:4head-ppbeforehead	4	obl	_	_
+3	Monat	_	_	_	props:4head-ppbeforehead	4	obl	_	_
 4	sucht	_	_	_	props:4head-ppbeforehead	_	_	_	_
 5	er	_	_	_	props:4head-ppbeforehead	_	_	_	_
 6	dem	_	_	_	props:4head-ppbeforehead	_	_	_	_
@@ -5773,9 +5775,9 @@
 13	Kollegen	_	_	_	props:5head-ppbeforehead	_	_	_	_
 14	.	_	_	_	props:5head-ppbeforehead	_	_	_	_
 
-1	Mit	_	_	_	props:5head-ppbeforehead	3	case	_	_
-2	der	_	_	_	props:5head-ppbeforehead	_	_	_	_
-3	Hand	_	_	_	props:5head-ppbeforehead	4	obl	_	_
+1	An	_	_	_	props:5head-ppbeforehead	3	case	_	_
+2	dem	_	_	_	props:5head-ppbeforehead	_	_	_	_
+3	Beispiel	_	_	_	props:5head-ppbeforehead	4	obl	_	_
 4	zeigt	_	_	_	props:5head-ppbeforehead	_	_	_	_
 5	sie	_	_	_	props:5head-ppbeforehead	_	_	_	_
 6	dem	_	_	_	props:5head-ppbeforehead	_	_	_	_
@@ -5790,7 +5792,7 @@
 
 1	Auf	_	_	_	props:5head-ppbeforehead	3	case	_	_
 2	der	_	_	_	props:5head-ppbeforehead	_	_	_	_
-3	Straße	_	_	_	props:5head-ppbeforehead	4	obl	_	_
+3	Pressekonferenz	_	_	_	props:5head-ppbeforehead	4	obl	_	_
 4	erkärt	_	_	_	props:5head-ppbeforehead	_	_	_	_
 5	sie	_	_	_	props:5head-ppbeforehead	_	_	_	_
 6	den	_	_	_	props:5head-ppbeforehead	_	_	_	_
@@ -5818,9 +5820,9 @@
 13	Mannes	_	_	_	props:5head-ppbeforehead	_	_	_	_
 14	.	_	_	_	props:5head-ppbeforehead	_	_	_	_
 
-1	Zu	_	_	_	props:5head-ppbeforehead	3	case	_	_
+1	In	_	_	_	props:5head-ppbeforehead	3	case	_	_
 2	dem	_	_	_	props:5head-ppbeforehead	_	_	_	_
-3	Thema	_	_	_	props:5head-ppbeforehead	4	obl	_	_
+3	Interview	_	_	_	props:5head-ppbeforehead	4	obl	_	_
 4	stellt	_	_	_	props:5head-ppbeforehead	_	_	_	_
 5	sie	_	_	_	props:5head-ppbeforehead	_	_	_	_
 6	dem	_	_	_	props:5head-ppbeforehead	_	_	_	_
@@ -5880,7 +5882,7 @@
 
 1	In	_	_	_	props:5head-ppbeforehead	3	case	_	_
 2	dem	_	_	_	props:5head-ppbeforehead	_	_	_	_
-3	Bereich	_	_	_	props:5head-ppbeforehead	4	obl	_	_
+3	Monat	_	_	_	props:5head-ppbeforehead	4	obl	_	_
 4	sucht	_	_	_	props:5head-ppbeforehead	_	_	_	_
 5	er	_	_	_	props:5head-ppbeforehead	_	_	_	_
 6	dem	_	_	_	props:5head-ppbeforehead	_	_	_	_
@@ -6113,54 +6115,54 @@
 8	Geld	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 
-1	Zu	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
+1	In	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
 2	dem	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-3	möglichen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-4	Thema	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
+3	fingierten	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+4	Interview	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
 5	sagt	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 6	sie	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 7	das	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 8	Wort	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 
-1	An	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
+1	Auf	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
 2	der	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-3	internationalen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-4	Grenze	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
+3	langen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+4	Straße	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
 5	lässt	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 6	sie	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 7	den	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 8	Mann	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 
-1	In	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
-2	das	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-3	große	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-4	Haus	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
+1	An	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
+2	dem	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+3	großen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+4	Abend	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
 5	sieht	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 6	sie	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 7	den	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 8	Weg	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 
-1	Auf	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
+1	In	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
 2	der	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-3	langen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-4	Straße	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
+3	internationalen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+4	Welt	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
 5	findet	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 6	sie	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-7	das	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-8	Bild	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+7	den	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+8	Platz	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 
 1	Für	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
-2	die	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-3	junge	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-4	Frau	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
-5	fordert	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+2	das	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+3	politische	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+4	Publikum	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
+5	zeigt	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 6	er	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 7	das	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-8	Recht	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+8	Problem	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 
 1	Mit	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
@@ -6170,93 +6172,93 @@
 5	hält	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 6	er	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 7	das	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-8	Kind	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-
-1	In	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
-2	dem	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-3	politischen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-4	Bereich	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
-5	schreibt	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-6	er	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-7	das	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-8	Buch	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-
-1	In	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
-2	dem	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-3	kurzen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-4	Film	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
-5	erhält	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-6	er	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-7	die	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-8	Rolle	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+8	Bild	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 
 1	An	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
 2	das	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 3	letzte	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 4	Ende	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
-5	baut	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+5	führt	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 6	er	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-7	den	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-8	Platz	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-
-1	Auf	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
-2	die	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-3	öffentliche	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-4	Bühne	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
-5	führen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-6	sie	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 7	die	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 8	Frau	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 
+1	Auf	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
+2	den	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+3	kurzen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+4	Tisch	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
+5	legt	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+6	er	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+7	die	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+8	Rolle	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+
 1	In	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
 2	dem	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-3	schweren	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+3	nächsten	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 4	Jahr	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
-5	zeigen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+5	bekommt	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+6	er	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+7	die	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+8	Chance	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+
+1	In	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
+2	der	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+3	guten	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+4	Woche	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
+5	fordern	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 6	sie	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 7	das	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-8	Problem	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+8	Recht	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+
+1	In	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
+2	der	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+3	dunklen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+4	Nacht	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
+5	schreiben	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+6	sie	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+7	die	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+8	Geschichte	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 
 1	In	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
 2	der	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 3	neuen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 4	Woche	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
-5	bekommen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+5	beginnen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 6	sie	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 7	die	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-8	Chance	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+8	Arbeit	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 
-1	In	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
-2	die	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-3	kleine	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-4	Stadt	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
-5	bringen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+1	An	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
+2	dem	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+3	schweren	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+4	Tag	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
+5	vergessen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 6	sie	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 7	das	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-8	Kind	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+8	Buch	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 
-1	In	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
-2	der	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-3	ganzen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-4	Welt	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
-5	erzählen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+1	Für	_	_	_	props:ppbeforehead-prepdetadjnoun	4	case	_	_
+2	die	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+3	alte	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+4	Frau	_	_	_	props:ppbeforehead-prepdetadjnoun	5	obl	_	_
+5	brauchen	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 6	sie	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 7	die	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
-8	Geschichte	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
+8	Zeit	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 9	.	_	_	_	props:ppbeforehead-prepdetadjnoun	_	_	_	_
 
-1	Im	_	_	_	props:ppbeforehead-pppossnp	2	case	_	_
-2	Rahmen	_	_	_	props:ppbeforehead-pppossnp	5	obl	_	_
+1	Auf	_	_	_	props:ppbeforehead-pppossnp	2	case	_	_
+2	Frage	_	_	_	props:ppbeforehead-pppossnp	5	obl	_	_
 3	des	_	_	_	props:ppbeforehead-pppossnp	_	_	_	_
-4	Films	_	_	_	props:ppbeforehead-pppossnp	_	_	_	_
+4	Vaters	_	_	_	props:ppbeforehead-pppossnp	_	_	_	_
 5	sagt	_	_	_	props:ppbeforehead-pppossnp	_	_	_	_
 6	sie	_	_	_	props:ppbeforehead-pppossnp	_	_	_	_
 7	das	_	_	_	props:ppbeforehead-pppossnp	_	_	_	_
@@ -6415,12 +6417,12 @@
 10	Kind	_	_	_	props:ppbeforehead-pppp	_	_	_	_
 11	.	_	_	_	props:ppbeforehead-pppp	_	_	_	_
 
-1	Auf	_	_	_	props:ppbeforehead-pppp	3	case	_	_
+1	In	_	_	_	props:ppbeforehead-pppp	3	case	_	_
 2	dem	_	_	_	props:ppbeforehead-pppp	_	_	_	_
-3	Weg	_	_	_	props:ppbeforehead-pppp	7	obl	_	_
-4	in	_	_	_	props:ppbeforehead-pppp	_	_	_	_
-5	die	_	_	_	props:ppbeforehead-pppp	_	_	_	_
-6	Zukunft	_	_	_	props:ppbeforehead-pppp	_	_	_	_
+3	Interview	_	_	_	props:ppbeforehead-pppp	7	obl	_	_
+4	mit	_	_	_	props:ppbeforehead-pppp	_	_	_	_
+5	der	_	_	_	props:ppbeforehead-pppp	_	_	_	_
+6	Zeitung	_	_	_	props:ppbeforehead-pppp	_	_	_	_
 7	sagt	_	_	_	props:ppbeforehead-pppp	_	_	_	_
 8	sie	_	_	_	props:ppbeforehead-pppp	_	_	_	_
 9	das	_	_	_	props:ppbeforehead-pppp	_	_	_	_
@@ -6451,12 +6453,12 @@
 10	Buch	_	_	_	props:ppbeforehead-pppp	_	_	_	_
 11	.	_	_	_	props:ppbeforehead-pppp	_	_	_	_
 
-1	Auf	_	_	_	props:ppbeforehead-pppp	3	case	_	_
-2	der	_	_	_	props:ppbeforehead-pppp	_	_	_	_
-3	Straße	_	_	_	props:ppbeforehead-pppp	7	obl	_	_
-4	in	_	_	_	props:ppbeforehead-pppp	_	_	_	_
-5	dem	_	_	_	props:ppbeforehead-pppp	_	_	_	_
-6	Berg	_	_	_	props:ppbeforehead-pppp	_	_	_	_
+1	An	_	_	_	props:ppbeforehead-pppp	3	case	_	_
+2	dem	_	_	_	props:ppbeforehead-pppp	_	_	_	_
+3	Tag	_	_	_	props:ppbeforehead-pppp	7	obl	_	_
+4	mit	_	_	_	props:ppbeforehead-pppp	_	_	_	_
+5	der	_	_	_	props:ppbeforehead-pppp	_	_	_	_
+6	Sonne	_	_	_	props:ppbeforehead-pppp	_	_	_	_
 7	verliert	_	_	_	props:ppbeforehead-pppp	_	_	_	_
 8	sie	_	_	_	props:ppbeforehead-pppp	_	_	_	_
 9	das	_	_	_	props:ppbeforehead-pppp	_	_	_	_
@@ -6487,12 +6489,12 @@
 10	Film	_	_	_	props:ppbeforehead-pppp	_	_	_	_
 11	.	_	_	_	props:ppbeforehead-pppp	_	_	_	_
 
-1	In	_	_	_	props:ppbeforehead-pppp	3	case	_	_
-2	dem	_	_	_	props:ppbeforehead-pppp	_	_	_	_
-3	Film	_	_	_	props:ppbeforehead-pppp	7	obl	_	_
-4	über	_	_	_	props:ppbeforehead-pppp	_	_	_	_
-5	den	_	_	_	props:ppbeforehead-pppp	_	_	_	_
-6	Krieg	_	_	_	props:ppbeforehead-pppp	_	_	_	_
+1	Dank	_	_	_	props:ppbeforehead-pppp	3	case	_	_
+2	der	_	_	_	props:ppbeforehead-pppp	_	_	_	_
+3	Frau	_	_	_	props:ppbeforehead-pppp	7	obl	_	_
+4	mit	_	_	_	props:ppbeforehead-pppp	_	_	_	_
+5	dem	_	_	_	props:ppbeforehead-pppp	_	_	_	_
+6	Kind	_	_	_	props:ppbeforehead-pppp	_	_	_	_
 7	erhält	_	_	_	props:ppbeforehead-pppp	_	_	_	_
 8	er	_	_	_	props:ppbeforehead-pppp	_	_	_	_
 9	die	_	_	_	props:ppbeforehead-pppp	_	_	_	_
@@ -6989,7 +6991,7 @@
 8	.	_	_	_	props:base-verbheadedobjp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-2	räumen	_	_	_	props:3head-verbheadedobjp	_	_	_	_
+2	räumt	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 3	dem	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 4	Kollegen	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 5	das	_	_	_	props:3head-verbheadedobjp	_	_	_	_
@@ -7000,7 +7002,7 @@
 10	.	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-2	legen	_	_	_	props:3head-verbheadedobjp	_	_	_	_
+2	legt	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 3	dem	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 4	Flüchtling	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 5	das	_	_	_	props:3head-verbheadedobjp	_	_	_	_
@@ -7011,7 +7013,7 @@
 10	.	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-2	schaffen	_	_	_	props:3head-verbheadedobjp	_	_	_	_
+2	schafft	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 3	dem	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 4	Kunden	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 5	das	_	_	_	props:3head-verbheadedobjp	_	_	_	_
@@ -7033,14 +7035,15 @@
 10	.	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-2	bringt	_	_	_	props:3head-verbheadedobjp	_	_	_	_
+2	stellt	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 3	dem	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 4	Herren	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 5	die	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-6	Menschen	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-7	zum	_	_	_	props:3head-verbheadedobjp	9	case	_	_
-8	Tanzen	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-9	.	_	_	_	props:3head-verbheadedobjp	2	obl	_	_
+6	Pflanze	_	_	_	props:3head-verbheadedobjp	_	_	_	_
+7	auf	_	_	_	props:3head-verbheadedobjp	9	case	_	_
+8	die	_	_	_	props:3head-verbheadedobjp	_	_	_	_
+9	Terrasse	_	_	_	props:3head-verbheadedobjp	2	obl	_	_
+10	.	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 
 1	Er	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 2	setzt	_	_	_	props:3head-verbheadedobjp	_	_	_	_
@@ -7054,14 +7057,14 @@
 10	.	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 
 1	Er	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-2	stellt	_	_	_	props:3head-verbheadedobjp	_	_	_	_
+2	erfüllt	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 3	dem	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 4	Kollegen	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-5	die	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-6	Frage	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-7	zu	_	_	_	props:3head-verbheadedobjp	9	case	_	_
-8	der	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-9	Verfügung	_	_	_	props:3head-verbheadedobjp	2	obl	_	_
+5	den	_	_	_	props:3head-verbheadedobjp	_	_	_	_
+6	Wunsch	_	_	_	props:3head-verbheadedobjp	_	_	_	_
+7	mit	_	_	_	props:3head-verbheadedobjp	9	case	_	_
+8	dem	_	_	_	props:3head-verbheadedobjp	_	_	_	_
+9	Geschenk	_	_	_	props:3head-verbheadedobjp	2	obl	_	_
 10	.	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 
 1	Er	_	_	_	props:3head-verbheadedobjp	_	_	_	_
@@ -7142,14 +7145,14 @@
 10	.	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-2	bringen	_	_	_	props:3head-verbheadedobjp	_	_	_	_
+2	stecken	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 3	dem	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 4	Gast	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 5	den	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-6	Unmut	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-7	zu	_	_	_	props:3head-verbheadedobjp	9	case	_	_
-8	dem	_	_	_	props:3head-verbheadedobjp	_	_	_	_
-9	Ausdruck	_	_	_	props:3head-verbheadedobjp	2	obl	_	_
+6	Brief	_	_	_	props:3head-verbheadedobjp	_	_	_	_
+7	in	_	_	_	props:3head-verbheadedobjp	9	case	_	_
+8	die	_	_	_	props:3head-verbheadedobjp	_	_	_	_
+9	Tasche	_	_	_	props:3head-verbheadedobjp	2	obl	_	_
 10	.	_	_	_	props:3head-verbheadedobjp	_	_	_	_
 
 1	Sie	_	_	_	props:4head-verbheadedobjp	_	_	_	_
@@ -7205,16 +7208,17 @@
 12	.	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 
 1	Sie	_	_	_	props:4head-verbheadedobjp	_	_	_	_
-2	bringt	_	_	_	props:4head-verbheadedobjp	_	_	_	_
+2	stellt	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 3	dem	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 4	Herren	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 5	des	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 6	Hauses	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 7	die	_	_	_	props:4head-verbheadedobjp	_	_	_	_
-8	Menschen	_	_	_	props:4head-verbheadedobjp	_	_	_	_
-9	zum	_	_	_	props:4head-verbheadedobjp	11	case	_	_
-10	Tanzen	_	_	_	props:4head-verbheadedobjp	_	_	_	_
-11	.	_	_	_	props:4head-verbheadedobjp	2	obl	_	_
+8	Pflanze	_	_	_	props:4head-verbheadedobjp	_	_	_	_
+9	auf	_	_	_	props:4head-verbheadedobjp	11	case	_	_
+10	die	_	_	_	props:4head-verbheadedobjp	_	_	_	_
+11	Terrasse	_	_	_	props:4head-verbheadedobjp	2	obl	_	_
+12	.	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 
 1	Er	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 2	setzt	_	_	_	props:4head-verbheadedobjp	_	_	_	_
@@ -7230,16 +7234,16 @@
 12	.	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 
 1	Er	_	_	_	props:4head-verbheadedobjp	_	_	_	_
-2	stellt	_	_	_	props:4head-verbheadedobjp	_	_	_	_
+2	erfüllt	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 3	den	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 4	Leuten	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 5	der	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 6	Partei	_	_	_	props:4head-verbheadedobjp	_	_	_	_
-7	die	_	_	_	props:4head-verbheadedobjp	_	_	_	_
-8	Frage	_	_	_	props:4head-verbheadedobjp	_	_	_	_
-9	zu	_	_	_	props:4head-verbheadedobjp	11	case	_	_
-10	der	_	_	_	props:4head-verbheadedobjp	_	_	_	_
-11	Verfügung	_	_	_	props:4head-verbheadedobjp	2	obl	_	_
+7	den	_	_	_	props:4head-verbheadedobjp	_	_	_	_
+8	Wunsch	_	_	_	props:4head-verbheadedobjp	_	_	_	_
+9	mit	_	_	_	props:4head-verbheadedobjp	11	case	_	_
+10	dem	_	_	_	props:4head-verbheadedobjp	_	_	_	_
+11	Geschenk	_	_	_	props:4head-verbheadedobjp	2	obl	_	_
 12	.	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 
 1	Er	_	_	_	props:4head-verbheadedobjp	_	_	_	_
@@ -7334,16 +7338,16 @@
 12	.	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 
 1	Sie	_	_	_	props:4head-verbheadedobjp	_	_	_	_
-2	bringen	_	_	_	props:4head-verbheadedobjp	_	_	_	_
+2	stecken	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 3	dem	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 4	Gast	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 5	des	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 6	Kollegen	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 7	den	_	_	_	props:4head-verbheadedobjp	_	_	_	_
-8	Unmut	_	_	_	props:4head-verbheadedobjp	_	_	_	_
-9	zu	_	_	_	props:4head-verbheadedobjp	11	case	_	_
-10	dem	_	_	_	props:4head-verbheadedobjp	_	_	_	_
-11	Ausdruck	_	_	_	props:4head-verbheadedobjp	2	obl	_	_
+8	Brief	_	_	_	props:4head-verbheadedobjp	_	_	_	_
+9	in	_	_	_	props:4head-verbheadedobjp	11	case	_	_
+10	die	_	_	_	props:4head-verbheadedobjp	_	_	_	_
+11	Tasche	_	_	_	props:4head-verbheadedobjp	2	obl	_	_
 12	.	_	_	_	props:4head-verbheadedobjp	_	_	_	_
 
 1	Sie	_	_	_	props:5head-verbheadedobjp	_	_	_	_
@@ -7407,18 +7411,19 @@
 14	.	_	_	_	props:5head-verbheadedobjp	_	_	_	_
 
 1	Sie	_	_	_	props:5head-verbheadedobjp	_	_	_	_
-2	bringt	_	_	_	props:5head-verbheadedobjp	_	_	_	_
+2	stellt	_	_	_	props:5head-verbheadedobjp	_	_	_	_
 3	dem	_	_	_	props:5head-verbheadedobjp	_	_	_	_
 4	Herren	_	_	_	props:5head-verbheadedobjp	_	_	_	_
 5	des	_	_	_	props:5head-verbheadedobjp	_	_	_	_
 6	Hauses	_	_	_	props:5head-verbheadedobjp	_	_	_	_
 7	die	_	_	_	props:5head-verbheadedobjp	_	_	_	_
-8	Menschen	_	_	_	props:5head-verbheadedobjp	_	_	_	_
-9	des	_	_	_	props:5head-verbheadedobjp	_	_	_	_
-10	Werks	_	_	_	props:5head-verbheadedobjp	_	_	_	_
-11	zum	_	_	_	props:5head-verbheadedobjp	13	case	_	_
-12	Tanzen	_	_	_	props:5head-verbheadedobjp	_	_	_	_
-13	.	_	_	_	props:5head-verbheadedobjp	2	obl	_	_
+8	Pflanze	_	_	_	props:5head-verbheadedobjp	_	_	_	_
+9	der	_	_	_	props:5head-verbheadedobjp	_	_	_	_
+10	Frau	_	_	_	props:5head-verbheadedobjp	_	_	_	_
+11	auf	_	_	_	props:5head-verbheadedobjp	13	case	_	_
+12	die	_	_	_	props:5head-verbheadedobjp	_	_	_	_
+13	Terrasse	_	_	_	props:5head-verbheadedobjp	2	obl	_	_
+14	.	_	_	_	props:5head-verbheadedobjp	_	_	_	_
 
 1	Er	_	_	_	props:5head-verbheadedobjp	_	_	_	_
 2	setzt	_	_	_	props:5head-verbheadedobjp	_	_	_	_
@@ -7556,18 +7561,18 @@
 14	.	_	_	_	props:5head-verbheadedobjp	_	_	_	_
 
 1	Sie	_	_	_	props:5head-verbheadedobjp	_	_	_	_
-2	bringen	_	_	_	props:5head-verbheadedobjp	_	_	_	_
+2	stecken	_	_	_	props:5head-verbheadedobjp	_	_	_	_
 3	dem	_	_	_	props:5head-verbheadedobjp	_	_	_	_
 4	Gast	_	_	_	props:5head-verbheadedobjp	_	_	_	_
 5	des	_	_	_	props:5head-verbheadedobjp	_	_	_	_
 6	Kollegen	_	_	_	props:5head-verbheadedobjp	_	_	_	_
 7	den	_	_	_	props:5head-verbheadedobjp	_	_	_	_
-8	Unmut	_	_	_	props:5head-verbheadedobjp	_	_	_	_
-9	der	_	_	_	props:5head-verbheadedobjp	_	_	_	_
-10	Mutter	_	_	_	props:5head-verbheadedobjp	_	_	_	_
-11	zu	_	_	_	props:5head-verbheadedobjp	13	case	_	_
-12	dem	_	_	_	props:5head-verbheadedobjp	_	_	_	_
-13	Ausdruck	_	_	_	props:5head-verbheadedobjp	2	obl	_	_
+8	Brief	_	_	_	props:5head-verbheadedobjp	_	_	_	_
+9	des	_	_	_	props:5head-verbheadedobjp	_	_	_	_
+10	Freundes	_	_	_	props:5head-verbheadedobjp	_	_	_	_
+11	in	_	_	_	props:5head-verbheadedobjp	13	case	_	_
+12	die	_	_	_	props:5head-verbheadedobjp	_	_	_	_
+13	Tasche	_	_	_	props:5head-verbheadedobjp	2	obl	_	_
 14	.	_	_	_	props:5head-verbheadedobjp	_	_	_	_
 
 1	Sie	_	_	_	props:prepnoun-verbheadedobjp	_	_	_	_
@@ -8194,8 +8199,8 @@
 7	Hindernis	_	_	_	props:ppbeforehead-verbheadedobjp	_	_	_	_
 8	.	_	_	_	props:ppbeforehead-verbheadedobjp	_	_	_	_
 
-1	Zu	_	_	_	props:ppbeforehead-verbheadedobjp	3	case	_	_
-2	der	_	_	_	props:ppbeforehead-verbheadedobjp	_	_	_	_
+1	Auf	_	_	_	props:ppbeforehead-verbheadedobjp	3	case	_	_
+2	die	_	_	_	props:ppbeforehead-verbheadedobjp	_	_	_	_
 3	Welt	_	_	_	props:ppbeforehead-verbheadedobjp	4	obl	_	_
 4	bringt	_	_	_	props:ppbeforehead-verbheadedobjp	_	_	_	_
 5	sie	_	_	_	props:ppbeforehead-verbheadedobjp	_	_	_	_
@@ -8224,7 +8229,7 @@
 1	Um	_	_	_	props:ppbeforehead-verbheadedobjp	3	case	_	_
 2	die	_	_	_	props:ppbeforehead-verbheadedobjp	_	_	_	_
 3	Sache	_	_	_	props:ppbeforehead-verbheadedobjp	4	obl	_	_
-4	bitte	_	_	_	props:ppbeforehead-verbheadedobjp	_	_	_	_
+4	bittet	_	_	_	props:ppbeforehead-verbheadedobjp	_	_	_	_
 5	sie	_	_	_	props:ppbeforehead-verbheadedobjp	_	_	_	_
 6	den	_	_	_	props:ppbeforehead-verbheadedobjp	_	_	_	_
 7	Herren	_	_	_	props:ppbeforehead-verbheadedobjp	_	_	_	_
@@ -8364,9 +8369,9 @@
 
 1	Die	_	_	_	props:1head-nounheadedpp	_	_	_	_
 2	Stimme	_	_	_	props:1head-nounheadedpp	_	_	_	_
-3	in	_	_	_	props:1head-nounheadedpp	5	case	_	_
+3	aus	_	_	_	props:1head-nounheadedpp	5	case	_	_
 4	dem	_	_	_	props:1head-nounheadedpp	_	_	_	_
-5	Schrank	_	_	_	props:1head-nounheadedpp	2	nmod	_	_
+5	Off	_	_	_	props:1head-nounheadedpp	2	nmod	_	_
 6	.	_	_	_	props:1head-nounheadedpp	_	_	_	_
 
 1	Die	_	_	_	props:1head-nounheadedpp	_	_	_	_
@@ -8448,14 +8453,14 @@
 10	.	_	_	_	props:3head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-nounheadedpp	_	_	_	_
-2	schreibt	_	_	_	props:3head-nounheadedpp	_	_	_	_
+2	verschreibt	_	_	_	props:3head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:3head-nounheadedpp	_	_	_	_
-4	Gast	_	_	_	props:3head-nounheadedpp	_	_	_	_
-5	den	_	_	_	props:3head-nounheadedpp	_	_	_	_
-6	Kommentar	_	_	_	props:3head-nounheadedpp	_	_	_	_
-7	auf	_	_	_	props:3head-nounheadedpp	9	case	_	_
-8	der	_	_	_	props:3head-nounheadedpp	_	_	_	_
-9	Seite	_	_	_	props:3head-nounheadedpp	6	nmod	_	_
+4	Patienten	_	_	_	props:3head-nounheadedpp	_	_	_	_
+5	die	_	_	_	props:3head-nounheadedpp	_	_	_	_
+6	Pille	_	_	_	props:3head-nounheadedpp	_	_	_	_
+7	von	_	_	_	props:3head-nounheadedpp	9	case	_	_
+8	dem	_	_	_	props:3head-nounheadedpp	_	_	_	_
+9	Beruhigungsmittel	_	_	_	props:3head-nounheadedpp	6	nmod	_	_
 10	.	_	_	_	props:3head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-nounheadedpp	_	_	_	_
@@ -8470,7 +8475,7 @@
 10	.	_	_	_	props:3head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:3head-nounheadedpp	_	_	_	_
-2	bringt	_	_	_	props:3head-nounheadedpp	_	_	_	_
+2	berichtet	_	_	_	props:3head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:3head-nounheadedpp	_	_	_	_
 4	Staat	_	_	_	props:3head-nounheadedpp	_	_	_	_
 5	die	_	_	_	props:3head-nounheadedpp	_	_	_	_
@@ -8497,13 +8502,13 @@
 4	Kunden	_	_	_	props:3head-nounheadedpp	_	_	_	_
 5	die	_	_	_	props:3head-nounheadedpp	_	_	_	_
 6	Stimme	_	_	_	props:3head-nounheadedpp	_	_	_	_
-7	in	_	_	_	props:3head-nounheadedpp	9	case	_	_
+7	aus	_	_	_	props:3head-nounheadedpp	9	case	_	_
 8	dem	_	_	_	props:3head-nounheadedpp	_	_	_	_
-9	Schrank	_	_	_	props:3head-nounheadedpp	6	nmod	_	_
+9	Off	_	_	_	props:3head-nounheadedpp	6	nmod	_	_
 10	.	_	_	_	props:3head-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props:3head-nounheadedpp	_	_	_	_
-2	schickt	_	_	_	props:3head-nounheadedpp	_	_	_	_
+2	zeigt	_	_	_	props:3head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:3head-nounheadedpp	_	_	_	_
 4	Land	_	_	_	props:3head-nounheadedpp	_	_	_	_
 5	die	_	_	_	props:3head-nounheadedpp	_	_	_	_
@@ -8514,14 +8519,14 @@
 10	.	_	_	_	props:3head-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props:3head-nounheadedpp	_	_	_	_
-2	nennt	_	_	_	props:3head-nounheadedpp	_	_	_	_
+2	beweist	_	_	_	props:3head-nounheadedpp	_	_	_	_
 3	der	_	_	_	props:3head-nounheadedpp	_	_	_	_
 4	Welt	_	_	_	props:3head-nounheadedpp	_	_	_	_
 5	die	_	_	_	props:3head-nounheadedpp	_	_	_	_
-6	Truppe	_	_	_	props:3head-nounheadedpp	_	_	_	_
-7	unter	_	_	_	props:3head-nounheadedpp	9	case	_	_
-8	dem	_	_	_	props:3head-nounheadedpp	_	_	_	_
-9	General	_	_	_	props:3head-nounheadedpp	6	nmod	_	_
+6	Bevorzugung	_	_	_	props:3head-nounheadedpp	_	_	_	_
+7	von	_	_	_	props:3head-nounheadedpp	9	case	_	_
+8	der	_	_	_	props:3head-nounheadedpp	_	_	_	_
+9	Frau	_	_	_	props:3head-nounheadedpp	6	nmod	_	_
 10	.	_	_	_	props:3head-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props:3head-nounheadedpp	_	_	_	_
@@ -8594,10 +8599,10 @@
 2	gibt	_	_	_	props:4head-nounheadedpp	_	_	_	_
 3	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
 4	Frau	_	_	_	props:4head-nounheadedpp	_	_	_	_
-5	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
-6	Antwort	_	_	_	props:4head-nounheadedpp	_	_	_	_
-7	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
-8	Amts	_	_	_	props:4head-nounheadedpp	_	_	_	_
+5	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
+6	Mannes	_	_	_	props:4head-nounheadedpp	_	_	_	_
+7	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
+8	Antwort	_	_	_	props:4head-nounheadedpp	_	_	_	_
 9	auf	_	_	_	props:4head-nounheadedpp	11	case	_	_
 10	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
 11	Frage	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
@@ -8607,10 +8612,10 @@
 2	erklärt	_	_	_	props:4head-nounheadedpp	_	_	_	_
 3	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
 4	Leuten	_	_	_	props:4head-nounheadedpp	_	_	_	_
-5	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
-6	Schritt	_	_	_	props:4head-nounheadedpp	_	_	_	_
-7	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
-8	Frau	_	_	_	props:4head-nounheadedpp	_	_	_	_
+5	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
+6	Partei	_	_	_	props:4head-nounheadedpp	_	_	_	_
+7	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
+8	Schritt	_	_	_	props:4head-nounheadedpp	_	_	_	_
 9	in	_	_	_	props:4head-nounheadedpp	11	case	_	_
 10	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
 11	Richtung	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
@@ -8620,10 +8625,10 @@
 2	schreibt	_	_	_	props:4head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:4head-nounheadedpp	_	_	_	_
 4	Gast	_	_	_	props:4head-nounheadedpp	_	_	_	_
-5	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
-6	Kommentar	_	_	_	props:4head-nounheadedpp	_	_	_	_
-7	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
-8	Mannes	_	_	_	props:4head-nounheadedpp	_	_	_	_
+5	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
+6	Kollegen	_	_	_	props:4head-nounheadedpp	_	_	_	_
+7	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
+8	Kommentar	_	_	_	props:4head-nounheadedpp	_	_	_	_
 9	auf	_	_	_	props:4head-nounheadedpp	11	case	_	_
 10	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
 11	Seite	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
@@ -8633,23 +8638,23 @@
 2	beschreibt	_	_	_	props:4head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:4head-nounheadedpp	_	_	_	_
 4	Herren	_	_	_	props:4head-nounheadedpp	_	_	_	_
-5	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
-6	Einsatz	_	_	_	props:4head-nounheadedpp	_	_	_	_
-7	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
-8	Lebens	_	_	_	props:4head-nounheadedpp	_	_	_	_
+5	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
+6	Hauses	_	_	_	props:4head-nounheadedpp	_	_	_	_
+7	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
+8	Einsatz	_	_	_	props:4head-nounheadedpp	_	_	_	_
 9	von	_	_	_	props:4head-nounheadedpp	11	case	_	_
 10	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
 11	Bodentruppen	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
 12	.	_	_	_	props:4head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:4head-nounheadedpp	_	_	_	_
-2	bringt	_	_	_	props:4head-nounheadedpp	_	_	_	_
+2	berichtet	_	_	_	props:4head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:4head-nounheadedpp	_	_	_	_
 4	Staat	_	_	_	props:4head-nounheadedpp	_	_	_	_
-5	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
-6	Suche	_	_	_	props:4head-nounheadedpp	_	_	_	_
-7	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
-8	Präsidenten	_	_	_	props:4head-nounheadedpp	_	_	_	_
+5	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
+6	Vaters	_	_	_	props:4head-nounheadedpp	_	_	_	_
+7	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
+8	Suche	_	_	_	props:4head-nounheadedpp	_	_	_	_
 9	nach	_	_	_	props:4head-nounheadedpp	11	case	_	_
 10	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
 11	Identität	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
@@ -8659,10 +8664,10 @@
 2	bestätigt	_	_	_	props:4head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:4head-nounheadedpp	_	_	_	_
 4	Gegner	_	_	_	props:4head-nounheadedpp	_	_	_	_
-5	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
-6	Auseinandersetzung	_	_	_	props:4head-nounheadedpp	_	_	_	_
-7	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
-8	Sohnes	_	_	_	props:4head-nounheadedpp	_	_	_	_
+5	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
+6	Mutter	_	_	_	props:4head-nounheadedpp	_	_	_	_
+7	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
+8	Auseinandersetzung	_	_	_	props:4head-nounheadedpp	_	_	_	_
 9	mit	_	_	_	props:4head-nounheadedpp	11	case	_	_
 10	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
 11	Polizei	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
@@ -8672,23 +8677,23 @@
 2	vertreibt	_	_	_	props:4head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:4head-nounheadedpp	_	_	_	_
 4	Kunden	_	_	_	props:4head-nounheadedpp	_	_	_	_
-5	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
-6	Stimme	_	_	_	props:4head-nounheadedpp	_	_	_	_
-7	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
-8	Mutter	_	_	_	props:4head-nounheadedpp	_	_	_	_
-9	in	_	_	_	props:4head-nounheadedpp	11	case	_	_
+5	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
+6	Amts	_	_	_	props:4head-nounheadedpp	_	_	_	_
+7	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
+8	Stimme	_	_	_	props:4head-nounheadedpp	_	_	_	_
+9	aus	_	_	_	props:4head-nounheadedpp	11	case	_	_
 10	dem	_	_	_	props:4head-nounheadedpp	_	_	_	_
-11	Schrank	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
+11	Off	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
 12	.	_	_	_	props:4head-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props:4head-nounheadedpp	_	_	_	_
 2	schickt	_	_	_	props:4head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:4head-nounheadedpp	_	_	_	_
 4	Land	_	_	_	props:4head-nounheadedpp	_	_	_	_
-5	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
-6	Truppe	_	_	_	props:4head-nounheadedpp	_	_	_	_
-7	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
-8	Vaters	_	_	_	props:4head-nounheadedpp	_	_	_	_
+5	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
+6	Freundes	_	_	_	props:4head-nounheadedpp	_	_	_	_
+7	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
+8	Truppe	_	_	_	props:4head-nounheadedpp	_	_	_	_
 9	gegen	_	_	_	props:4head-nounheadedpp	11	case	_	_
 10	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
 11	Befreiungskrieg	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
@@ -8698,10 +8703,10 @@
 2	nennt	_	_	_	props:4head-nounheadedpp	_	_	_	_
 3	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
 4	Welt	_	_	_	props:4head-nounheadedpp	_	_	_	_
-5	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
-6	Truppe	_	_	_	props:4head-nounheadedpp	_	_	_	_
-7	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
-8	Landes	_	_	_	props:4head-nounheadedpp	_	_	_	_
+5	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
+6	Arbeit	_	_	_	props:4head-nounheadedpp	_	_	_	_
+7	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
+8	Truppe	_	_	_	props:4head-nounheadedpp	_	_	_	_
 9	unter	_	_	_	props:4head-nounheadedpp	11	case	_	_
 10	dem	_	_	_	props:4head-nounheadedpp	_	_	_	_
 11	General	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
@@ -8711,10 +8716,10 @@
 2	verliert	_	_	_	props:4head-nounheadedpp	_	_	_	_
 3	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
 4	Partei	_	_	_	props:4head-nounheadedpp	_	_	_	_
-5	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
-6	Mehrheit	_	_	_	props:4head-nounheadedpp	_	_	_	_
-7	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
-8	Anfangs	_	_	_	props:4head-nounheadedpp	_	_	_	_
+5	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
+6	Heimat	_	_	_	props:4head-nounheadedpp	_	_	_	_
+7	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
+8	Mehrheit	_	_	_	props:4head-nounheadedpp	_	_	_	_
 9	in	_	_	_	props:4head-nounheadedpp	11	case	_	_
 10	dem	_	_	_	props:4head-nounheadedpp	_	_	_	_
 11	Parlament	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
@@ -8724,10 +8729,10 @@
 2	glauben	_	_	_	props:4head-nounheadedpp	_	_	_	_
 3	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
 4	Bevölkerung	_	_	_	props:4head-nounheadedpp	_	_	_	_
-5	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
-6	Beschuss	_	_	_	props:4head-nounheadedpp	_	_	_	_
-7	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
-8	Partei	_	_	_	props:4head-nounheadedpp	_	_	_	_
+5	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
+6	Landes	_	_	_	props:4head-nounheadedpp	_	_	_	_
+7	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
+8	Beschuss	_	_	_	props:4head-nounheadedpp	_	_	_	_
 9	auf	_	_	_	props:4head-nounheadedpp	11	case	_	_
 10	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
 11	Vorort	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
@@ -8737,10 +8742,10 @@
 2	erklären	_	_	_	props:4head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:4head-nounheadedpp	_	_	_	_
 4	Flüchtling	_	_	_	props:4head-nounheadedpp	_	_	_	_
-5	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
-6	Träne	_	_	_	props:4head-nounheadedpp	_	_	_	_
-7	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
-8	Freundes	_	_	_	props:4head-nounheadedpp	_	_	_	_
+5	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
+6	Gesellschaft	_	_	_	props:4head-nounheadedpp	_	_	_	_
+7	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
+8	Träne	_	_	_	props:4head-nounheadedpp	_	_	_	_
 9	in	_	_	_	props:4head-nounheadedpp	11	case	_	_
 10	dem	_	_	_	props:4head-nounheadedpp	_	_	_	_
 11	Auge	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
@@ -8750,23 +8755,23 @@
 2	suchen	_	_	_	props:4head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:4head-nounheadedpp	_	_	_	_
 4	Mann	_	_	_	props:4head-nounheadedpp	_	_	_	_
-5	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
-6	Familie	_	_	_	props:4head-nounheadedpp	_	_	_	_
-7	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
-8	Heimat	_	_	_	props:4head-nounheadedpp	_	_	_	_
+5	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
+6	Lebens	_	_	_	props:4head-nounheadedpp	_	_	_	_
+7	die	_	_	_	props:4head-nounheadedpp	_	_	_	_
+8	Familie	_	_	_	props:4head-nounheadedpp	_	_	_	_
 9	mit	_	_	_	props:4head-nounheadedpp	11	case	_	_
 10	dem	_	_	_	props:4head-nounheadedpp	_	_	_	_
 11	Kind	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
 12	.	_	_	_	props:4head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:4head-nounheadedpp	_	_	_	_
-2	verkaufen	_	_	_	props:4head-nounheadedpp	_	_	_	_
+2	schildern	_	_	_	props:4head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:4head-nounheadedpp	_	_	_	_
 4	Präsidenten	_	_	_	props:4head-nounheadedpp	_	_	_	_
-5	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
-6	Konflikt	_	_	_	props:4head-nounheadedpp	_	_	_	_
-7	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
-8	Sohnes	_	_	_	props:4head-nounheadedpp	_	_	_	_
+5	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
+6	Films	_	_	_	props:4head-nounheadedpp	_	_	_	_
+7	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
+8	Konflikt	_	_	_	props:4head-nounheadedpp	_	_	_	_
 9	in	_	_	_	props:4head-nounheadedpp	11	case	_	_
 10	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
 11	Welt	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
@@ -8776,10 +8781,10 @@
 2	bauen	_	_	_	props:4head-nounheadedpp	_	_	_	_
 3	der	_	_	_	props:4head-nounheadedpp	_	_	_	_
 4	Regierung	_	_	_	props:4head-nounheadedpp	_	_	_	_
-5	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
-6	Zugang	_	_	_	props:4head-nounheadedpp	_	_	_	_
-7	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
-8	Kollegen	_	_	_	props:4head-nounheadedpp	_	_	_	_
+5	des	_	_	_	props:4head-nounheadedpp	_	_	_	_
+6	Staats	_	_	_	props:4head-nounheadedpp	_	_	_	_
+7	den	_	_	_	props:4head-nounheadedpp	_	_	_	_
+8	Zugang	_	_	_	props:4head-nounheadedpp	_	_	_	_
 9	zu	_	_	_	props:4head-nounheadedpp	11	case	_	_
 10	dem	_	_	_	props:4head-nounheadedpp	_	_	_	_
 11	Teil	_	_	_	props:4head-nounheadedpp	6	nmod	_	_
@@ -8816,18 +8821,18 @@
 14	.	_	_	_	props:5head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:5head-nounheadedpp	_	_	_	_
-2	schreibt	_	_	_	props:5head-nounheadedpp	_	_	_	_
+2	verschreibt	_	_	_	props:5head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:5head-nounheadedpp	_	_	_	_
 4	Gast	_	_	_	props:5head-nounheadedpp	_	_	_	_
 5	des	_	_	_	props:5head-nounheadedpp	_	_	_	_
 6	Kollegen	_	_	_	props:5head-nounheadedpp	_	_	_	_
-7	den	_	_	_	props:5head-nounheadedpp	_	_	_	_
-8	Kommentar	_	_	_	props:5head-nounheadedpp	_	_	_	_
+7	die	_	_	_	props:5head-nounheadedpp	_	_	_	_
+8	Pillen	_	_	_	props:5head-nounheadedpp	_	_	_	_
 9	des	_	_	_	props:5head-nounheadedpp	_	_	_	_
 10	Mannes	_	_	_	props:5head-nounheadedpp	_	_	_	_
-11	auf	_	_	_	props:5head-nounheadedpp	13	case	_	_
-12	der	_	_	_	props:5head-nounheadedpp	_	_	_	_
-13	Seite	_	_	_	props:5head-nounheadedpp	8	nmod	_	_
+11	von	_	_	_	props:5head-nounheadedpp	13	case	_	_
+12	dem	_	_	_	props:5head-nounheadedpp	_	_	_	_
+13	Beruhigungsmittel	_	_	_	props:5head-nounheadedpp	8	nmod	_	_
 14	.	_	_	_	props:5head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:5head-nounheadedpp	_	_	_	_
@@ -8846,7 +8851,7 @@
 14	.	_	_	_	props:5head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:5head-nounheadedpp	_	_	_	_
-2	bestätigt	_	_	_	props:5head-nounheadedpp	_	_	_	_
+2	berichtet	_	_	_	props:5head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:5head-nounheadedpp	_	_	_	_
 4	Staat	_	_	_	props:5head-nounheadedpp	_	_	_	_
 5	des	_	_	_	props:5head-nounheadedpp	_	_	_	_
@@ -8861,7 +8866,7 @@
 14	.	_	_	_	props:5head-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props:5head-nounheadedpp	_	_	_	_
-2	berichtet	_	_	_	props:5head-nounheadedpp	_	_	_	_
+2	bestätigt	_	_	_	props:5head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:5head-nounheadedpp	_	_	_	_
 4	Gegner	_	_	_	props:5head-nounheadedpp	_	_	_	_
 5	der	_	_	_	props:5head-nounheadedpp	_	_	_	_
@@ -8885,9 +8890,9 @@
 8	Stimme	_	_	_	props:5head-nounheadedpp	_	_	_	_
 9	der	_	_	_	props:5head-nounheadedpp	_	_	_	_
 10	Mutter	_	_	_	props:5head-nounheadedpp	_	_	_	_
-11	in	_	_	_	props:5head-nounheadedpp	13	case	_	_
+11	aus	_	_	_	props:5head-nounheadedpp	13	case	_	_
 12	dem	_	_	_	props:5head-nounheadedpp	_	_	_	_
-13	Schrank	_	_	_	props:5head-nounheadedpp	8	nmod	_	_
+13	Off	_	_	_	props:5head-nounheadedpp	8	nmod	_	_
 14	.	_	_	_	props:5head-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props:5head-nounheadedpp	_	_	_	_
@@ -8906,15 +8911,15 @@
 14	.	_	_	_	props:5head-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props:5head-nounheadedpp	_	_	_	_
-2	nennt	_	_	_	props:5head-nounheadedpp	_	_	_	_
+2	präsentiert	_	_	_	props:5head-nounheadedpp	_	_	_	_
 3	der	_	_	_	props:5head-nounheadedpp	_	_	_	_
 4	Welt	_	_	_	props:5head-nounheadedpp	_	_	_	_
 5	der	_	_	_	props:5head-nounheadedpp	_	_	_	_
 6	Arbeit	_	_	_	props:5head-nounheadedpp	_	_	_	_
 7	die	_	_	_	props:5head-nounheadedpp	_	_	_	_
 8	Truppe	_	_	_	props:5head-nounheadedpp	_	_	_	_
-9	des	_	_	_	props:5head-nounheadedpp	_	_	_	_
-10	Landes	_	_	_	props:5head-nounheadedpp	_	_	_	_
+9	der	_	_	_	props:5head-nounheadedpp	_	_	_	_
+10	Verteidigung	_	_	_	props:5head-nounheadedpp	_	_	_	_
 11	unter	_	_	_	props:5head-nounheadedpp	13	case	_	_
 12	dem	_	_	_	props:5head-nounheadedpp	_	_	_	_
 13	General	_	_	_	props:5head-nounheadedpp	8	nmod	_	_
@@ -8966,22 +8971,22 @@
 14	.	_	_	_	props:5head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:5head-nounheadedpp	_	_	_	_
-2	suchen	_	_	_	props:5head-nounheadedpp	_	_	_	_
+2	verkaufen	_	_	_	props:5head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:5head-nounheadedpp	_	_	_	_
 4	Mann	_	_	_	props:5head-nounheadedpp	_	_	_	_
 5	des	_	_	_	props:5head-nounheadedpp	_	_	_	_
 6	Lebens	_	_	_	props:5head-nounheadedpp	_	_	_	_
-7	die	_	_	_	props:5head-nounheadedpp	_	_	_	_
-8	Familie	_	_	_	props:5head-nounheadedpp	_	_	_	_
+7	das	_	_	_	props:5head-nounheadedpp	_	_	_	_
+8	Schiff	_	_	_	props:5head-nounheadedpp	_	_	_	_
 9	der	_	_	_	props:5head-nounheadedpp	_	_	_	_
-10	Heimat	_	_	_	props:5head-nounheadedpp	_	_	_	_
+10	Familie	_	_	_	props:5head-nounheadedpp	_	_	_	_
 11	mit	_	_	_	props:5head-nounheadedpp	13	case	_	_
-12	dem	_	_	_	props:5head-nounheadedpp	_	_	_	_
-13	Kind	_	_	_	props:5head-nounheadedpp	8	nmod	_	_
+12	der	_	_	_	props:5head-nounheadedpp	_	_	_	_
+13	Besatzung	_	_	_	props:5head-nounheadedpp	8	nmod	_	_
 14	.	_	_	_	props:5head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:5head-nounheadedpp	_	_	_	_
-2	verkaufen	_	_	_	props:5head-nounheadedpp	_	_	_	_
+2	schildern	_	_	_	props:5head-nounheadedpp	_	_	_	_
 3	dem	_	_	_	props:5head-nounheadedpp	_	_	_	_
 4	Präsidenten	_	_	_	props:5head-nounheadedpp	_	_	_	_
 5	des	_	_	_	props:5head-nounheadedpp	_	_	_	_
@@ -9051,7 +9056,7 @@
 9	.	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
-2	will	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
+2	berichtet	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
 3	die	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
 4	Suche	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
 5	nach	_	_	_	props:prepdetadjnoun-nounheadedpp	8	case	_	_
@@ -9074,20 +9079,20 @@
 2	mag	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
 3	die	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
 4	Stimme	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
-5	in	_	_	_	props:prepdetadjnoun-nounheadedpp	8	case	_	_
+5	aus	_	_	_	props:prepdetadjnoun-nounheadedpp	8	case	_	_
 6	dem	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
-7	alten	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
-8	Schrank	_	_	_	props:prepdetadjnoun-nounheadedpp	4	nmod	_	_
+7	leisen	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
+8	Off	_	_	_	props:prepdetadjnoun-nounheadedpp	4	nmod	_	_
 9	.	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
-2	führt	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
+2	vergisst	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
 3	die	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
 4	Truppe	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
-5	gegen	_	_	_	props:prepdetadjnoun-nounheadedpp	8	case	_	_
-6	den	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
-7	langen	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
-8	Befreiungskrieg	_	_	_	props:prepdetadjnoun-nounheadedpp	4	nmod	_	_
+5	unter	_	_	_	props:prepdetadjnoun-nounheadedpp	8	case	_	_
+6	dem	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
+7	alten	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
+8	General	_	_	_	props:prepdetadjnoun-nounheadedpp	4	nmod	_	_
 9	.	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
@@ -9146,7 +9151,7 @@
 4	Konflikt	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
 5	in	_	_	_	props:prepdetadjnoun-nounheadedpp	8	case	_	_
 6	der	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
-7	weiten	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
+7	arabischen	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
 8	Welt	_	_	_	props:prepdetadjnoun-nounheadedpp	4	nmod	_	_
 9	.	_	_	_	props:prepdetadjnoun-nounheadedpp	_	_	_	_
 
@@ -9205,7 +9210,7 @@
 10	.	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
-2	will	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
+2	berichtet	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
 3	die	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
 4	Suche	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
 5	nach	_	_	_	props:pppossnp-nounheadedpp	7	case	_	_
@@ -9230,9 +9235,9 @@
 2	mag	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
 3	die	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
 4	Stimme	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
-5	in	_	_	_	props:pppossnp-nounheadedpp	7	case	_	_
+5	aus	_	_	_	props:pppossnp-nounheadedpp	7	case	_	_
 6	dem	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
-7	Schrank	_	_	_	props:pppossnp-nounheadedpp	4	nmod	_	_
+7	Off	_	_	_	props:pppossnp-nounheadedpp	4	nmod	_	_
 8	der	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
 9	Wohnung	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
 10	.	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
@@ -9260,7 +9265,7 @@
 10	.	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
-2	verliert	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
+2	hält	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
 3	die	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
 4	Mehrheit	_	_	_	props:pppossnp-nounheadedpp	_	_	_	_
 5	in	_	_	_	props:pppossnp-nounheadedpp	7	case	_	_
@@ -9350,11 +9355,11 @@
 11	.	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:pppp-nounheadedpp	_	_	_	_
-2	schreibt	_	_	_	props:pppp-nounheadedpp	_	_	_	_
+2	vergisst	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 3	den	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 4	Kommentar	_	_	_	props:pppp-nounheadedpp	_	_	_	_
-5	in	_	_	_	props:pppp-nounheadedpp	7	case	_	_
-6	dem	_	_	_	props:pppp-nounheadedpp	_	_	_	_
+5	über	_	_	_	props:pppp-nounheadedpp	7	case	_	_
+6	den	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 7	Film	_	_	_	props:pppp-nounheadedpp	4	nmod	_	_
 8	über	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 9	den	_	_	_	props:pppp-nounheadedpp	_	_	_	_
@@ -9374,7 +9379,7 @@
 11	.	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:pppp-nounheadedpp	_	_	_	_
-2	will	_	_	_	props:pppp-nounheadedpp	_	_	_	_
+2	berichtet	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 3	die	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 4	Suche	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 5	nach	_	_	_	props:pppp-nounheadedpp	7	case	_	_
@@ -9401,12 +9406,12 @@
 2	mag	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 3	die	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 4	Stimme	_	_	_	props:pppp-nounheadedpp	_	_	_	_
-5	in	_	_	_	props:pppp-nounheadedpp	7	case	_	_
+5	aus	_	_	_	props:pppp-nounheadedpp	7	case	_	_
 6	dem	_	_	_	props:pppp-nounheadedpp	_	_	_	_
-7	Schrank	_	_	_	props:pppp-nounheadedpp	4	nmod	_	_
-8	mit	_	_	_	props:pppp-nounheadedpp	_	_	_	_
+7	Off	_	_	_	props:pppp-nounheadedpp	4	nmod	_	_
+8	in	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 9	der	_	_	_	props:pppp-nounheadedpp	_	_	_	_
-10	Puppe	_	_	_	props:pppp-nounheadedpp	_	_	_	_
+10	Höhe	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 11	.	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props:pppp-nounheadedpp	_	_	_	_
@@ -9416,9 +9421,9 @@
 5	gegen	_	_	_	props:pppp-nounheadedpp	7	case	_	_
 6	den	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 7	Befreiungskrieg	_	_	_	props:pppp-nounheadedpp	4	nmod	_	_
-8	gegen	_	_	_	props:pppp-nounheadedpp	_	_	_	_
-9	die	_	_	_	props:pppp-nounheadedpp	_	_	_	_
-10	Truppe	_	_	_	props:pppp-nounheadedpp	_	_	_	_
+8	auf	_	_	_	props:pppp-nounheadedpp	_	_	_	_
+9	dem	_	_	_	props:pppp-nounheadedpp	_	_	_	_
+10	Balkan	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 11	.	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props:pppp-nounheadedpp	_	_	_	_
@@ -9476,9 +9481,9 @@
 5	mit	_	_	_	props:pppp-nounheadedpp	7	case	_	_
 6	dem	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 7	Kind	_	_	_	props:pppp-nounheadedpp	4	nmod	_	_
-8	an	_	_	_	props:pppp-nounheadedpp	_	_	_	_
-9	der	_	_	_	props:pppp-nounheadedpp	_	_	_	_
-10	Hand	_	_	_	props:pppp-nounheadedpp	_	_	_	_
+8	aus	_	_	_	props:pppp-nounheadedpp	_	_	_	_
+9	den	_	_	_	props:pppp-nounheadedpp	_	_	_	_
+10	USA	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 11	.	_	_	_	props:pppp-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props:pppp-nounheadedpp	_	_	_	_
