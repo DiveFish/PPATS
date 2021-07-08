@@ -19,12 +19,12 @@ base-2head	5	4	6	1	obl	Sie sagt das Wort in dem Interview .
 base-2head	5	4	6	1	obl	Sie lässt den Mann auf der Straße .
 base-2head	5	4	6	1	obl	Sie sieht den Weg an dem Abend .
 base-2head	5	4	6	1	obl	Sie findet den Platz in der Welt .
-base-2head	5	4	6	1	obl	Er zeigt das Problem in dem Bereich .
-base-2head	5	4	6	1	obl	Er hält das Bild in der Hand .
-base-2head	5	4	6	1	obl	Er nimmt das Kind auf die Bühne .
+base-2head	5	4	6	1	obl	Er zeigt das Problem für das Publikum .
+base-2head	5	4	6	1	obl	Er hält das Bild mit der Hand .
 base-2head	5	4	6	1	obl	Er führt die Frau an das Ende .
+base-2head	5	4	6	1	obl	Er legt die Rolle auf den Tisch .
 base-2head	5	4	6	1	obl	Er bekommt die Chance in dem Jahr .
-base-2head	5	4	6	1	obl	Sie fordern das Recht in der Bundesrepublik .
+base-2head	5	4	6	1	obl	Sie fordern das Recht in der Woche .
 base-2head	5	4	6	1	obl	Sie schreiben die Geschichte in der Nacht .
 base-2head	5	4	6	1	obl	Sie beginnen die Arbeit in der Woche .
 base-2head	5	4	6	1	obl	Sie vergessen das Buch an dem Tag .
@@ -254,21 +254,21 @@ base-prepnoun	4	4	5	1	obl	Sie erzählen die Geschichte mit Sicherheit .
 5head-prepnoun	10	10	11	1	obl	Sie schicken dem Kollegen der Frau das Bild der Freundin in Zukunft .
 5head-prepnoun	10	10	11	1	obl	Sie suchen dem Flüchtling der Gesellschaft die Chance des Lebens auf Dauer .
 5head-prepnoun	10	10	11	1	obl	Sie erzählen dem Kunden der Freundin die Geschichte des Kindes mit Sicherheit .
-base-prepdetadjnoun	6	4	7	1	obl	Sie gewinnt das Geld in der späten Nacht .
+base-prepdetadjnoun	6	4	7	1	obl	Sie verliert das Geld in der späten Nacht .
 base-prepdetadjnoun	6	4	7	1	obl	Sie sagt das Wort in dem fingierten Interview .
-base-prepdetadjnoun	6	4	7	1	obl	Sie lässt den Mann an der internationalen Grenze .
-base-prepdetadjnoun	6	4	7	1	obl	Sie sieht den Weg an dem späten Abend .
-base-prepdetadjnoun	6	4	7	1	obl	Sie findet das Bild auf der langen Straße .
-base-prepdetadjnoun	6	4	7	1	obl	Er fordert das Recht für die junge Frau .
-base-prepdetadjnoun	6	4	7	1	obl	Er hält das Kind mit der freien Hand .
-base-prepdetadjnoun	6	4	7	1	obl	Er schreibt das Buch in dem politischen Bereich .
+base-prepdetadjnoun	6	4	7	1	obl	Sie lässt den Mann auf der langen Straße .
+base-prepdetadjnoun	6	4	7	1	obl	Sie sieht den Weg an dem großen Abend .
+base-prepdetadjnoun	6	4	7	1	obl	Sie findet den Platz in der internationalen Welt. (das Bild an der internationalen Grenze .)
+base-prepdetadjnoun	6	4	7	1	obl	Er zeigt das Problem für das politische Publikum .
+base-prepdetadjnoun	6	4	7	1	obl	Er hält das Bild mit der freien Hand .
+base-prepdetadjnoun	6	4	7	1	obl	Er führt die Frau an das letzte Ende.
 base-prepdetadjnoun	6	4	7	1	obl	Er legt die Rolle auf den kurzen Tisch .
-base-prepdetadjnoun	6	4	7	1	obl	Er baut den Platz an das letzte Ende .
-base-prepdetadjnoun	6	4	7	1	obl	Sie führen die Frau auf die öffentliche Bühne .
-base-prepdetadjnoun	6	4	7	1	obl	Sie zeigen das Haus an dem typischen Beispiel .
-base-prepdetadjnoun	6	4	7	1	obl	Sie verliert die Kontrolle in der neuen Woche .
-base-prepdetadjnoun	6	4	7	1	obl	Sie bringen das Kind in die kleine Stadt .
-base-prepdetadjnoun	6	4	7	1	obl	Sie erzählen die Geschichte in der ganzen Welt .
+base-prepdetadjnoun	6	4	7	1	obl	Er bekommt die Chance in dem nächsten Jahr .
+base-prepdetadjnoun	6	4	7	1	obl	Sie fordern das Recht in der guten Woche .
+base-prepdetadjnoun	6	4	7	1	obl	Sie schreiben die Geschichte in der dunklen Nacht .
+base-prepdetadjnoun	6	4	7	1	obl	Sie beginnen die Arbeit in der neuen Woche .
+base-prepdetadjnoun	6	4	7	1	obl	Sie vergessen das Buch an dem schweren Tag .
+base-prepdetadjnoun	6	4	7	1	obl	Sie brauchen die Zeit für die alte Frau .
 3head-prepdetadjnoun	8	6	9	1	obl	Sie gibt der Frau das Geld in der späten Nacht .
 3head-prepdetadjnoun	8	6	9	1	obl	Sie erklärt den Leuten den Grund auf der gestrigen Pressekonferenz .
 3head-prepdetadjnoun	8	6	9	1	obl	Sie bringt dem Herren die Million an die internationale Grenze .
@@ -466,19 +466,19 @@ pppossnp-pppp	4	4	5	1	obl	Sie verlieren das Geld auf Kosten der Bevölkerung in 
 pppossnp-pppp	4	4	5	1	obl	Sie erzählen die Geschichte in Zeiten der Spekulation über den Rücktritt .
 base-ppbeforehead	1	0	2	3	obl	In der Hand hat sie das Geld .
 base-ppbeforehead	1	0	2	3	obl	In dem Interview sagt sie das Wort .
-base-ppbeforehead	1	0	2	3	obl	An dem Tag lässt sie den Mann .
+base-ppbeforehead	1	0	2	3	obl	Auf der Straße lässt sie den Mann .
 base-ppbeforehead	1	0	2	3	obl	An dem Abend sieht sie den Weg .
-base-ppbeforehead	1	0	2	3	obl	In dem Monat findet sie den Platz .
+base-ppbeforehead	1	0	2	3	obl	In der Welt findet sie den Platz .
 base-ppbeforehead	1	0	2	3	obl	Für das Publikum zeigt er das Problem .
-base-ppbeforehead	1	0	2	3	obl	In der Hand hält er das Bild .
-base-ppbeforehead	1	0	2	3	obl	Auf die Bühne nimmt er das Kind .
+base-ppbeforehead	1	0	2	3	obl	Mit der Hand hält er das Bild .
 base-ppbeforehead	1	0	2	3	obl	An das Ende führt er die Frau .
+base-ppbeforehead	1	0	2	3	obl	Auf den Tisch legt er die Rolle .
 base-ppbeforehead	1	0	2	3	obl	In dem Jahr bekommt er die Chance .
 base-ppbeforehead	1	0	2	3	obl	In der Woche fordern sie das Recht .
 base-ppbeforehead	1	0	2	3	obl	In der Nacht schreiben sie die Geschichte .
-base-ppbeforehead	1	0	2	3	obl	Für die Mutter zeichnen sie den Sohn .
-base-ppbeforehead	1	0	2	3	obl	Für den Vater erklären sie das Leben .
-base-ppbeforehead	1	0	2	3	obl	Dank der Frau erhalten sie die Zeit .
+base-ppbeforehead	1	0	2	3	obl	In der Woche beginnen sie die Arbeit .
+base-ppbeforehead	1	0	2	3	obl	An dem Tag vergessen sie das Buch .
+base-ppbeforehead	1	0	2	3	obl	Für die Frau brauchen sie die Zeit .
 3head-ppbeforehead	1	0	2	3	obl	In die Hand gibt sie der Frau das Geld .
 3head-ppbeforehead	1	0	2	3	obl	An dem Beispiel zeigt sie dem Gast das Haus .
 3head-ppbeforehead	1	0	2	3	obl	Auf der Pressekonferenz erkärt sie den Leuten den Grund .
@@ -541,19 +541,19 @@ ppbeforehead-prepnoun	1	0	1	2	obl	In Frage stellen sie das Kind .
 ppbeforehead-prepnoun	1	0	1	2	obl	Mit Sicherheit erzählen sie die Geschichte .
 ppbeforehead-prepdetadjnoun	1	0	3	4	obl	In der späten Nacht verliert sie das Geld .
 ppbeforehead-prepdetadjnoun	1	0	3	4	obl	In dem fingierten Interview sagt sie das Wort .
-ppbeforehead-prepdetadjnoun	1	0	3	4	obl	An der internationalen Grenze lässt sie den Mann .
-ppbeforehead-prepdetadjnoun	1	0	3	4	obl	An dem späten Abend sieht sie den Weg .
-ppbeforehead-prepdetadjnoun	1	0	3	4	obl	Auf der langen Straße findet sie das Bild .
-ppbeforehead-prepdetadjnoun	1	0	3	4	obl	Für die junge Frau fordert er das Recht .
-ppbeforehead-prepdetadjnoun	1	0	3	4	obl	Mit der freien Hand hält er das Kind .
-ppbeforehead-prepdetadjnoun	1	0	3	4	obl	In dem politischen Bereich schreibt er das Buch .
-ppbeforehead-prepdetadjnoun	1	0	3	4	obl	In dem kurzen Monat erhält er die Rolle .
-ppbeforehead-prepdetadjnoun	1	0	3	4	obl	An das letzte Ende baut er den Platz .
-ppbeforehead-prepdetadjnoun	1	0	3	4	obl	Auf die öffentliche Bühne führen sie die Frau .
-ppbeforehead-prepdetadjnoun	1	0	3	4	obl	In dem schweren Jahr zeigen sie das Haus .
-ppbeforehead-prepdetadjnoun	1	0	3	4	obl	In der neuen Woche bekommen sie die Chance .
-ppbeforehead-prepdetadjnoun	1	0	3	4	obl	In die kleine Stadt bringen sie das Kind .
-ppbeforehead-prepdetadjnoun	1	0	3	4	obl	In der ganzen Welt erzählen sie die Geschichte .
+ppbeforehead-prepdetadjnoun	1	0	3	4	obl	Auf der langen Straße lässt sie den Mann .
+ppbeforehead-prepdetadjnoun	1	0	3	4	obl	An dem großen Abend sieht sie den Weg .
+ppbeforehead-prepdetadjnoun	1	0	3	4	obl	In der internationalen Welt findet sie das Bild .
+ppbeforehead-prepdetadjnoun	1	0	3	4	obl	Für das politische Publikum zeigt er das Problem .
+ppbeforehead-prepdetadjnoun	1	0	3	4	obl	Mit der freien Hand hält er das Bild .
+ppbeforehead-prepdetadjnoun	1	0	3	4	obl	An das letzte Ende führt er die Frau .
+ppbeforehead-prepdetadjnoun	1	0	3	4	obl	Auf den kurzen Tisch legt er die Rolle .
+ppbeforehead-prepdetadjnoun	1	0	3	4	obl	In dem nächsten Jahr bekommt er die Chance .
+ppbeforehead-prepdetadjnoun	1	0	3	4	obl	In der guten Woche fordern sie das Recht .
+ppbeforehead-prepdetadjnoun	1	0	3	4	obl	In der dunklen Nacht schreiben sie die Geschichte .
+ppbeforehead-prepdetadjnoun	1	0	3	4	obl	In der neuen Woche bekommen beginnen sie die Arbeit .
+ppbeforehead-prepdetadjnoun	1	0	3	4	obl	An dem schweren Tag vergessen sie das Buch .
+ppbeforehead-prepdetadjnoun	1	0	3	4	obl	Für die Frau brauchen sie die Zeit .
 ppbeforehead-pppossnp	3	0	1	4	obl	Auf Frage des Vaters sagt sie das Wort .
 ppbeforehead-pppossnp	3	0	1	4	obl	Auf Seiten der Bundesrepublik zeigt sie das Problem .
 ppbeforehead-pppossnp	3	0	1	4	obl	Nach Angabe der Regierung schreibt sie das Buch .
