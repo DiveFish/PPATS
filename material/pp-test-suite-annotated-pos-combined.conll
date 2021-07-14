@@ -49,9 +49,9 @@
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-1head|tf:VF
 2	spricht	sprechen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-1head|tf:LK
-3	zu	zu	_	ADP-APPR	Morph:d|NE:O|props:base-1head|tf:MF
+3	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-1head|tf:MF
 4	dem	das	_	DET-ART	Morph:dsn|NE:O|props:base-1head|tf:MF
-5	Thema	Thema	_	NOUN-NN	Morph:dsn|NE:O|props:base-1head|tf:MF
+5	Interview	Interview	_	NOUN-NN	Morph:dsn|NE:O|props:base-1head|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-1head|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-1head|tf:VF
@@ -104,21 +104,21 @@
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-1head|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-2head|tf:VF
-2	hat	haben	_	VERB-VAFIN	Morph:3sis|NE:O|props:base-2head|tf:LK
+2	verliert	verlieren	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-2head|tf:LK
 3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-2head|tf:MF
 4	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|props:base-2head|tf:MF
 5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-2head|tf:MF
 6	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-2head|tf:MF
-7	Hand	Hand	_	NOUN-NN	Morph:dsf|NE:O|props:base-2head|tf:MF
+7	Nacht	Nacht	_	NOUN-NN	Morph:dsf|NE:O|props:base-2head|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-2head|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-2head|tf:VF
 2	sagt	sagen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-2head|tf:LK
 3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-2head|tf:MF
 4	Wort	Wort	_	NOUN-NN	Morph:asn|NE:O|props:base-2head|tf:MF
-5	zu	zu	_	ADP-APPR	Morph:d|NE:O|props:base-2head|tf:MF
+5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-2head|tf:MF
 6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:base-2head|tf:MF
-7	Thema	Thema	_	NOUN-NN	Morph:dsn|NE:O|props:base-2head|tf:MF
+7	Interview	Interview	_	NOUN-NN	Morph:dsn|NE:O|props:base-2head|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-2head|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-2head|tf:VF
@@ -134,9 +134,9 @@
 2	sieht	sehen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-2head|tf:LK
 3	den	der	_	DET-ART	Morph:asm|NE:O|props:base-2head|tf:MF
 4	Weg	Weg	_	NOUN-NN	Morph:asm|NE:O|props:base-2head|tf:MF
-5	in	in	_	ADP-APPR	Morph:a|NE:O|props:base-2head|tf:MF
-6	das	das	_	DET-ART	Morph:asn|NE:O|props:base-2head|tf:MF
-7	Haus	Haus	_	NOUN-NN	Morph:asn|NE:O|props:base-2head|tf:MF
+5	an	an	_	ADP-APPR	Morph:d|NE:O|props:base-2head|tf:MF
+6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-2head|tf:MF
+7	Abend	Abend	_	NOUN-NN	Morph:dsm|NE:O|props:base-2head|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-2head|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-2head|tf:VF
@@ -152,27 +152,18 @@
 2	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-2head|tf:LK
 3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-2head|tf:MF
 4	Problem	Problem	_	NOUN-NN	Morph:asn|NE:O|props:base-2head|tf:MF
-5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-2head|tf:MF
-6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-2head|tf:MF
-7	Bereich	Bereich	_	NOUN-NN	Morph:dsm|NE:O|props:base-2head|tf:MF
+5	für	für	_	ADP-APPR	Morph:a|NE:O|props:base-2head|tf:MF
+6	das	das	_	DET-ART	Morph:asn|NE:O|props:base-2head|tf:MF
+7	Publikum	Publikum	_	NOUN-NN	Morph:asn|NE:O|props:base-2head|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-2head|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-2head|tf:VF
 2	hält	halten	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-2head|tf:LK
 3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-2head|tf:MF
 4	Bild	Bild	_	NOUN-NN	Morph:asn|NE:O|props:base-2head|tf:MF
-5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-2head|tf:MF
+5	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:base-2head|tf:MF
 6	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-2head|tf:MF
 7	Hand	Hand	_	NOUN-NN	Morph:dsf|NE:O|props:base-2head|tf:MF
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-2head|tf:UNK
-
-1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-2head|tf:VF
-2	nimmt	nehmen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-2head|tf:LK
-3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-2head|tf:MF
-4	Kind	Kind	_	NOUN-NN	Morph:asn|NE:O|props:base-2head|tf:MF
-5	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:base-2head|tf:MF
-6	die	die	_	DET-ART	Morph:asf|NE:O|props:base-2head|tf:MF
-7	Bühne	Bühne	_	NOUN-NN	Morph:asf|NE:O|props:base-2head|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-2head|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-2head|tf:VF
@@ -182,6 +173,15 @@
 5	an	an	_	ADP-APPR	Morph:a|NE:O|props:base-2head|tf:MF
 6	das	das	_	DET-ART	Morph:asn|NE:O|props:base-2head|tf:MF
 7	Ende	Ende	_	NOUN-NN	Morph:asn|NE:O|props:base-2head|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-2head|tf:UNK
+
+1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-2head|tf:VF
+2	legt	legen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-2head|tf:LK
+3	die	die	_	DET-ART	Morph:asf|NE:O|props:base-2head|tf:MF
+4	Rolle	Rolle	_	NOUN-NN	Morph:asf|NE:O|props:base-2head|tf:MF
+5	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:base-2head|tf:MF
+6	den	der	_	DET-ART	Morph:asm|NE:O|props:base-2head|tf:MF
+7	Tisch	Tisch	_	NOUN-NN	Morph:asm|NE:O|props:base-2head|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-2head|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-2head|tf:VF
@@ -199,7 +199,7 @@
 4	Recht	Recht	_	NOUN-NN	Morph:asn|NE:O|props:base-2head|tf:MF
 5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-2head|tf:MF
 6	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-2head|tf:MF
-7	Bundesrepublik	Bundesrepublik	_	NOUN-NN	Morph:dsf|NE:O|props:base-2head|tf:MF
+7	Woche	Woche	_	NOUN-NN	Morph:dsf|NE:O|props:base-2head|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-2head|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:base-2head|tf:VF
@@ -212,21 +212,21 @@
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-2head|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:base-2head|tf:VF
-2	wollen	wollen	_	VERB-VMFIN	Morph:3pis|NE:O|props:base-2head|tf:LK
+2	beginnen	beginnen	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-2head|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:base-2head|tf:MF
 4	Arbeit	Arbeit	_	NOUN-NN	Morph:asf|NE:O|props:base-2head|tf:MF
 5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-2head|tf:MF
 6	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-2head|tf:MF
-7	Stadt	Stadt	_	NOUN-NN	Morph:dsf|NE:O|props:base-2head|tf:MF
+7	Woche	Woche	_	NOUN-NN	Morph:dsf|NE:O|props:base-2head|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-2head|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:base-2head|tf:VF
-2	erhalten	erhalten	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-2head|tf:LK
-3	die	die	_	DET-ART	Morph:asf|NE:O|props:base-2head|tf:MF
-4	Rolle	Rolle	_	NOUN-NN	Morph:asf|NE:O|props:base-2head|tf:MF
-5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-2head|tf:MF
+2	vergessen	vergessen	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-2head|tf:LK
+3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-2head|tf:MF
+4	Buch	Buch	_	NOUN-NN	Morph:asn|NE:O|props:base-2head|tf:MF
+5	an	an	_	ADP-APPR	Morph:d|NE:O|props:base-2head|tf:MF
 6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-2head|tf:MF
-7	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:base-2head|tf:MF
+7	Tag	Tag	_	NOUN-NN	Morph:dsm|NE:O|props:base-2head|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-2head|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:base-2head|tf:VF
@@ -262,13 +262,13 @@
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-3head|tf:VF
 2	erklärt	erklären	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-3head|tf:LK
-3	den	der|die|das	_	DET-ART	Morph:dp*|NE:O|props:base-3head|tf:MF
+3	den	der	_	DET-ART	Morph:dp*|NE:O|props:base-3head|tf:MF
 4	Leuten	Leute	_	NOUN-NN	Morph:dp*|NE:O|props:base-3head|tf:MF
 5	den	der	_	DET-ART	Morph:asm|NE:O|props:base-3head|tf:MF
 6	Grund	Grund	_	NOUN-NN	Morph:asm|NE:O|props:base-3head|tf:MF
 7	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:base-3head|tf:MF
 8	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-3head|tf:MF
-9	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:base-3head|tf:MF
+9	Pressekonferenz	Pressekonferenz	_	NOUN-NN	Morph:dsf|NE:O|props:base-3head|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-3head|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-3head|tf:VF
@@ -288,9 +288,9 @@
 4	Kind	Kind	_	NOUN-NN	Morph:dsn|NE:O|props:base-3head|tf:MF
 5	die	die	_	DET-ART	Morph:asf|NE:O|props:base-3head|tf:MF
 6	Frage	Frage	_	NOUN-NN	Morph:asf|NE:O|props:base-3head|tf:MF
-7	zu	zu	_	ADP-APPR	Morph:d|NE:O|props:base-3head|tf:MF
+7	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-3head|tf:MF
 8	dem	das	_	DET-ART	Morph:dsn|NE:O|props:base-3head|tf:MF
-9	Thema	Thema	_	NOUN-NN	Morph:dsn|NE:O|props:base-3head|tf:MF
+9	Interview	Interview	_	NOUN-NN	Morph:dsn|NE:O|props:base-3head|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-3head|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-3head|tf:VF
@@ -311,8 +311,8 @@
 5	den	der	_	DET-ART	Morph:asm|NE:O|props:base-3head|tf:MF
 6	Namen	Name	_	NOUN-NN	Morph:asm|NE:O|props:base-3head|tf:MF
 7	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-3head|tf:MF
-8	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-3head|tf:MF
-9	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:base-3head|tf:MF
+8	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-3head|tf:MF
+9	Stadt	Stadt	_	NOUN-NN	Morph:dsf|NE:O|props:base-3head|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-3head|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-3head|tf:VF
@@ -332,9 +332,9 @@
 4	Präsidenten	Präsident	_	NOUN-NN	Morph:dsm|NE:O|props:base-3head|tf:MF
 5	die	die	_	DET-ART	Morph:asf|NE:O|props:base-3head|tf:MF
 6	Chance	Chance	_	NOUN-NN	Morph:asf|NE:O|props:base-3head|tf:MF
-7	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-3head|tf:MF
+7	an	an	_	ADP-APPR	Morph:d|NE:O|props:base-3head|tf:MF
 8	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-3head|tf:MF
-9	Bereich	Bereich	_	NOUN-NN	Morph:dsm|NE:O|props:base-3head|tf:MF
+9	Tag	Tag	_	NOUN-NN	Morph:dsm|NE:O|props:base-3head|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-3head|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-3head|tf:VF
@@ -376,9 +376,9 @@
 4	Partei	Partei	_	NOUN-NN	Morph:dsf|NE:O|props:base-3head|tf:MF
 5	das	das	_	DET-ART	Morph:asn|NE:O|props:base-3head|tf:MF
 6	Recht	Recht	_	NOUN-NN	Morph:asn|NE:O|props:base-3head|tf:MF
-7	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-3head|tf:MF
+7	zu	zu	_	ADP-APPR	Morph:d|NE:O|props:base-3head|tf:MF
 8	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-3head|tf:MF
-9	Bundesrepublik	Bundesrepublik	_	NOUN-NN	Morph:dsf|NE:O|props:base-3head|tf:MF
+9	Zeit	Zeit	_	NOUN-NN	Morph:dsf|NE:O|props:base-3head|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-3head|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:base-3head|tf:VF
@@ -424,9 +424,9 @@
 6	Haus	Haus	_	NOUN-NN	Morph:asn|NE:O|props:base-4head|tf:MF
 7	der	die	_	DET-ART	Morph:gsf|NE:O|props:base-4head|tf:MF
 8	Frau	Frau	_	NOUN-NN	Morph:gsf|NE:O|props:base-4head|tf:MF
-9	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:base-4head|tf:MF
-10	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-4head|tf:MF
-11	Hand	Hand	_	NOUN-NN	Morph:dsf|NE:O|props:base-4head|tf:MF
+9	an	an	_	ADP-APPR	Morph:d|NE:O|props:base-4head|tf:MF
+10	dem	das	_	DET-ART	Morph:dsn|NE:O|props:base-4head|tf:MF
+11	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:base-4head|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-4head|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-4head|tf:VF
@@ -439,7 +439,7 @@
 8	Endes	Ende	_	NOUN-NN	Morph:gsn|NE:O|props:base-4head|tf:MF
 9	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:base-4head|tf:MF
 10	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-4head|tf:MF
-11	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:base-4head|tf:MF
+11	Pressekonferenz	Pressekonferenz	_	NOUN-NN	Morph:dsf|NE:O|props:base-4head|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-4head|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-4head|tf:VF
@@ -463,9 +463,9 @@
 6	Frage	Frage	_	NOUN-NN	Morph:asf|NE:O|props:base-4head|tf:MF
 7	des	der	_	DET-ART	Morph:gsm|NE:O|props:base-4head|tf:MF
 8	Sohnes	Sohn	_	NOUN-NN	Morph:gsm|NE:O|props:base-4head|tf:MF
-9	zu	zu	_	ADP-APPR	Morph:d|NE:O|props:base-4head|tf:MF
+9	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-4head|tf:MF
 10	dem	das	_	DET-ART	Morph:dsn|NE:O|props:base-4head|tf:MF
-11	Thema	Thema	_	NOUN-NN	Morph:dsn|NE:O|props:base-4head|tf:MF
+11	Interview	Interview	_	NOUN-NN	Morph:dsn|NE:O|props:base-4head|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-4head|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-4head|tf:VF
@@ -490,14 +490,14 @@
 7	des	der	_	DET-ART	Morph:gsm|NE:O|props:base-4head|tf:MF
 8	Freundes	Freund	_	NOUN-NN	Morph:gsm|NE:O|props:base-4head|tf:MF
 9	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-4head|tf:MF
-10	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-4head|tf:MF
-11	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:base-4head|tf:MF
+10	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-4head|tf:MF
+11	Stadt	Stadt	_	NOUN-NN	Morph:dsf|NE:O|props:base-4head|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-4head|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-4head|tf:VF
 2	erzählt	erzählen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-4head|tf:LK
-3	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-4head|tf:MF
-4	Welt	Welt	_	NOUN-NN	Morph:dsf|NE:O|props:base-4head|tf:MF
+3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-4head|tf:MF
+4	Flüchtling	Flüchtling	_	NOUN-NN	Morph:dsm|NE:O|props:base-4head|tf:MF
 5	die	die	_	DET-ART	Morph:asf|NE:O|props:base-4head|tf:MF
 6	Geschichte	Geschichte	_	NOUN-NN	Morph:asf|NE:O|props:base-4head|tf:MF
 7	des	das	_	DET-ART	Morph:gsn|NE:O|props:base-4head|tf:MF
@@ -517,7 +517,7 @@
 8	Lebens	Leben	_	NOUN-NN	Morph:gsn|NE:O|props:base-4head|tf:MF
 9	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-4head|tf:MF
 10	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-4head|tf:MF
-11	Bereich	Bereich	_	NOUN-NN	Morph:dsm|NE:O|props:base-4head|tf:MF
+11	Monat	Monat	_	NOUN-NN	Morph:dsm|NE:O|props:base-4head|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-4head|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-4head|tf:VF
@@ -623,14 +623,14 @@
 8	Haus	Haus	_	NOUN-NN	Morph:asn|NE:O|props:base-5head|tf:MF
 9	der	die	_	DET-ART	Morph:gsf|NE:O|props:base-5head|tf:MF
 10	Frau	Frau	_	NOUN-NN	Morph:gsf|NE:O|props:base-5head|tf:MF
-11	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:base-5head|tf:MF
-12	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-5head|tf:MF
-13	Hand	Hand	_	NOUN-NN	Morph:dsf|NE:O|props:base-5head|tf:MF
+11	an	an	_	ADP-APPR	Morph:d|NE:O|props:base-5head|tf:MF
+12	dem	das	_	DET-ART	Morph:dsn|NE:O|props:base-5head|tf:MF
+13	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:base-5head|tf:MF
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-5head|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-5head|tf:VF
 2	erklärt	erklären	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-5head|tf:LK
-3	den	der|die|das	_	DET-ART	Morph:dp*|NE:O|props:base-5head|tf:MF
+3	den	der	_	DET-ART	Morph:dp*|NE:O|props:base-5head|tf:MF
 4	Leuten	Leute	_	NOUN-NN	Morph:dp*|NE:O|props:base-5head|tf:MF
 5	der	die	_	DET-ART	Morph:gsf|NE:O|props:base-5head|tf:MF
 6	Partei	Partei	_	NOUN-NN	Morph:gsf|NE:O|props:base-5head|tf:MF
@@ -640,7 +640,7 @@
 10	Endes	Ende	_	NOUN-NN	Morph:gsn|NE:O|props:base-5head|tf:MF
 11	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:base-5head|tf:MF
 12	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-5head|tf:MF
-13	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:base-5head|tf:MF
+13	Pressekonferenz	Pressekonferenz	_	NOUN-NN	Morph:dsf|NE:O|props:base-5head|tf:MF
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-5head|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-5head|tf:VF
@@ -668,9 +668,9 @@
 8	Frage	Frage	_	NOUN-NN	Morph:asf|NE:O|props:base-5head|tf:MF
 9	des	der	_	DET-ART	Morph:gsm|NE:O|props:base-5head|tf:MF
 10	Sohnes	Sohn	_	NOUN-NN	Morph:gsm|NE:O|props:base-5head|tf:MF
-11	zu	zu	_	ADP-APPR	Morph:d|NE:O|props:base-5head|tf:MF
+11	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-5head|tf:MF
 12	dem	das	_	DET-ART	Morph:dsn|NE:O|props:base-5head|tf:MF
-13	Thema	Thema	_	NOUN-NN	Morph:dsn|NE:O|props:base-5head|tf:MF
+13	Interview	Interview	_	NOUN-NN	Morph:dsn|NE:O|props:base-5head|tf:MF
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-5head|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-5head|tf:VF
@@ -699,8 +699,8 @@
 9	des	der	_	DET-ART	Morph:gsm|NE:O|props:base-5head|tf:MF
 10	Freundes	Freund	_	NOUN-NN	Morph:gsm|NE:O|props:base-5head|tf:MF
 11	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-5head|tf:MF
-12	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-5head|tf:MF
-13	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:base-5head|tf:MF
+12	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-5head|tf:MF
+13	Stadt	Stadt	_	NOUN-NN	Morph:dsf|NE:O|props:base-5head|tf:MF
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-5head|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-5head|tf:VF
@@ -730,7 +730,7 @@
 10	Lebens	Leben	_	NOUN-NN	Morph:gsn|NE:O|props:base-5head|tf:MF
 11	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-5head|tf:MF
 12	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-5head|tf:MF
-13	Bereich	Bereich	_	NOUN-NN	Morph:dsm|NE:O|props:base-5head|tf:MF
+13	Monat	Monat	_	NOUN-NN	Morph:dsm|NE:O|props:base-5head|tf:MF
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-5head|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-5head|tf:VF
@@ -965,7 +965,7 @@
 2	spielt	spielen	_	VERB-VVFIN	Morph:3sis|NE:O|props:1head-prepdetadjnoun|tf:LK
 3	in	in	_	ADP-APPR	Morph:d|NE:O|props:1head-prepdetadjnoun|tf:MF
 4	der	die	_	DET-ART	Morph:dsf|NE:O|props:1head-prepdetadjnoun|tf:MF
-5	anderen	andere	_	ADJ-ADJA	Morph:dsf|NE:O|props:1head-prepdetadjnoun|tf:MF
+5	anderen	ander	_	ADJ-ADJA	Morph:dsf|NE:O|props:1head-prepdetadjnoun|tf:MF
 6	Stadt	Stadt	_	NOUN-NN	Morph:dsf|NE:O|props:1head-prepdetadjnoun|tf:MF
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|props:1head-prepdetadjnoun|tf:UNK
 
@@ -1131,8 +1131,8 @@
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:1head-pppossnp|tf:VF
 2	zeichnen	zeichnen	_	VERB-VVFIN	Morph:3pis|NE:O|props:1head-pppossnp|tf:LK
-3	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:1head-pppossnp|tf:MF
-4	Sicht	Sicht	_	NOUN-NN	Morph:dsf|NE:O|props:1head-pppossnp|tf:MF
+3	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:1head-pppossnp|tf:MF
+4	Forderung	Forderung	_	NOUN-NN	Morph:asf|NE:O|props:1head-pppossnp|tf:MF
 5	der	die	_	DET-ART	Morph:gsf|NE:O|props:1head-pppossnp|tf:MF
 6	Mutter	Mutter	_	NOUN-NN	Morph:gsf|NE:O|props:1head-pppossnp|tf:MF
 7	.	.	_	PUNCT-$.	Morph:null|NE:O|props:1head-pppossnp|tf:UNK
@@ -1352,9 +1352,9 @@
 5	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:1head-ppbeforehead|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|props:1head-ppbeforehead|tf:UNK
 
-1	Zu	zu	_	ADP-APPR	Morph:d|NE:O|props:1head-ppbeforehead|tf:VF
+1	In	in	_	ADP-APPR	Morph:d|NE:O|props:1head-ppbeforehead|tf:VF
 2	dem	das	_	DET-ART	Morph:dsn|NE:O|props:1head-ppbeforehead|tf:VF
-3	Thema	Thema	_	NOUN-NN	Morph:dsn|NE:O|props:1head-ppbeforehead|tf:VF
+3	Interview	Interview	_	NOUN-NN	Morph:dsn|NE:O|props:1head-ppbeforehead|tf:VF
 4	spricht	sprechen	_	VERB-VVFIN	Morph:3sis|NE:O|props:1head-ppbeforehead|tf:LK
 5	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:1head-ppbeforehead|tf:MF
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|props:1head-ppbeforehead|tf:UNK
@@ -1655,7 +1655,7 @@
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-nounheadedpp|tf:VF
-2	will	wollen	_	VERB-VMFIN	Morph:3sis|NE:O|props:base-nounheadedpp|tf:LK
+2	beendet	beenden	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-nounheadedpp|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:base-nounheadedpp|tf:MF
 4	Suche	Suche	_	NOUN-NN	Morph:asf|NE:O|props:base-nounheadedpp|tf:MF
 5	nach	nach	_	ADP-APPR	Morph:d|NE:O|props:base-nounheadedpp|tf:MF
@@ -1673,12 +1673,12 @@
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-nounheadedpp|tf:VF
-2	mag	mögen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-nounheadedpp|tf:LK
+2	mag	mögen	_	VERB-VMFIN	Morph:3sis|NE:O|props:base-nounheadedpp|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:base-nounheadedpp|tf:MF
 4	Stimme	Stimme	_	NOUN-NN	Morph:asf|NE:O|props:base-nounheadedpp|tf:MF
-5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-nounheadedpp|tf:MF
-6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-nounheadedpp|tf:MF
-7	Schrank	Schrank	_	NOUN-NN	Morph:dsm|NE:O|props:base-nounheadedpp|tf:MF
+5	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:base-nounheadedpp|tf:MF
+6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:base-nounheadedpp|tf:MF
+7	Off	Off	_	NOUN-NN	Morph:dsn|NE:O|props:base-nounheadedpp|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-nounheadedpp|tf:VF
@@ -2065,8 +2065,8 @@
 4	Leuten	Leute	_	NOUN-NN	Morph:dp*|NE:O|props:4head-prepnoun|tf:MF
 5	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-prepnoun|tf:MF
 6	Grund	Grund	_	NOUN-NN	Morph:asm|NE:O|props:4head-prepnoun|tf:MF
-7	der	das	_	DET-ART	Morph:gpn|NE:O|props:4head-prepnoun|tf:MF
-8	Endes	Ende	_	NOUN-NN	Morph:gpn|NE:O|props:4head-prepnoun|tf:MF
+7	des	das	_	DET-ART	Morph:gsn|NE:O|props:4head-prepnoun|tf:MF
+8	Endes	Ende	_	NOUN-NN	Morph:gsn|NE:O|props:4head-prepnoun|tf:MF
 9	seit	seit	_	ADP-APPR	Morph:d|NE:O|props:4head-prepnoun|tf:MF
 10	Jahren	Jahr	_	NOUN-NN	Morph:dpn|NE:O|props:4head-prepnoun|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-prepnoun|tf:UNK
@@ -2155,10 +2155,10 @@
 10	Wochen	Woche	_	NOUN-NN	Morph:dpf|NE:O|props:4head-prepnoun|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-prepnoun|tf:UNK
 
-1	Sie	Sie	_	PRON-PPER	Morph:np*3|NE:O|props:4head-prepnoun|tf:VF
+1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:4head-prepnoun|tf:VF
 2	nennen	nennen	_	VERB-VVFIN	Morph:3pis|NE:O|props:4head-prepnoun|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-prepnoun|tf:MF
-4	Präsidenten	Präsident	_	NOUN-NN	Morph:dsm|NE:O|props:4head-prepnoun|tf:MF
+4	Flüchtling	Flüchtling	_	NOUN-NN	Morph:dsm|NE:O|props:4head-prepnoun|tf:MF
 5	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-prepnoun|tf:MF
 6	Forderung	Forderung	_	NOUN-NN	Morph:asf|NE:O|props:4head-prepnoun|tf:MF
 7	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-prepnoun|tf:MF
@@ -2182,7 +2182,7 @@
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:4head-prepnoun|tf:VF
 2	suchen	suchen	_	VERB-VVFIN	Morph:3pis|NE:O|props:4head-prepnoun|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-prepnoun|tf:MF
-4	Flüchtling	Flüchtling	_	NOUN-NN	Morph:dsm|NE:O|props:4head-prepnoun|tf:MF
+4	Präsidenten	Präsident	_	NOUN-NN	Morph:dsm|NE:O|props:4head-prepnoun|tf:MF
 5	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-prepnoun|tf:MF
 6	Chance	Chance	_	NOUN-NN	Morph:asf|NE:O|props:4head-prepnoun|tf:MF
 7	des	das	_	DET-ART	Morph:gsn|NE:O|props:4head-prepnoun|tf:MF
@@ -2427,56 +2427,55 @@
 2	sagt	sagen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
 3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
 4	Wort	Wort	_	NOUN-NN	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
-5	zu	zu	_	ADP-APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
+5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
 6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:base-prepdetadjnoun|tf:MF
-7	möglichen	möglich	_	ADJ-ADJA	Morph:dsn|NE:O|props:base-prepdetadjnoun|tf:MF
-8	Thema	Thema	_	NOUN-NN	Morph:dsn|NE:O|props:base-prepdetadjnoun|tf:MF
+7	fingierten	fingiert	_	ADJ-ADJA	Morph:dsn|NE:O|props:base-prepdetadjnoun|tf:MF
+8	Interview	Interview	_	NOUN-NN	Morph:dsn|NE:O|props:base-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-prepdetadjnoun|tf:VF
 2	lässt	lassen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
 3	den	der	_	DET-ART	Morph:asm|NE:O|props:base-prepdetadjnoun|tf:MF
 4	Mann	Mann	_	NOUN-NN	Morph:asm|NE:O|props:base-prepdetadjnoun|tf:MF
-5	an	an	_	ADP-APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
-6	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
-7	internationalen	international	_	ADJ-ADJA	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
-8	Grenze	Grenze	_	NOUN-NN	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
-
-1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-prepdetadjnoun|tf:VF
-2	sieht	sehen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
-3	den	der	_	DET-ART	Morph:asm|NE:O|props:base-prepdetadjnoun|tf:MF
-4	Weg	Weg	_	NOUN-NN	Morph:asm|NE:O|props:base-prepdetadjnoun|tf:MF
-5	in	in	_	ADP-APPR	Morph:a|NE:O|props:base-prepdetadjnoun|tf:MF
-6	das	das	_	DET-ART	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
-7	große	groß	_	ADJ-ADJA	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
-8	Haus	Haus	_	NOUN-NN	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
-
-1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-prepdetadjnoun|tf:VF
-2	findet	finden	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
-3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
-4	Bild	Bild	_	NOUN-NN	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
 5	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
 6	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
 7	langen	lang	_	ADJ-ADJA	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
 8	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
 
+1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-prepdetadjnoun|tf:VF
+2	sieht	sehen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
+3	den	der	_	DET-ART	Morph:asm|NE:O|props:base-prepdetadjnoun|tf:MF
+4	Weg	Weg	_	NOUN-NN	Morph:asm|NE:O|props:base-prepdetadjnoun|tf:MF
+5	an	an	_	ADP-APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
+6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-prepdetadjnoun|tf:MF
+7	großen	groß	_	ADJ-ADJA	Morph:dsm|NE:O|props:base-prepdetadjnoun|tf:MF
+8	Abend	Abend	_	NOUN-NN	Morph:dsm|NE:O|props:base-prepdetadjnoun|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
+
+1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-prepdetadjnoun|tf:VF
+2	findet	finden	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
+3	den	der	_	DET-ART	Morph:asm|NE:O|props:base-prepdetadjnoun|tf:MF
+4	Platz	Platz	_	NOUN-NN	Morph:asm|NE:O|props:base-prepdetadjnoun|tf:MF
+5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
+6	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
+7	internationalen	international	_	ADJ-ADJA	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
+8	Welt.	Welt.	_	NOUN-NN	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
+
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-prepdetadjnoun|tf:VF
-2	fordert	fordern	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
+2	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
 3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
-4	Recht	Recht	_	NOUN-NN	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
+4	Problem	Problem	_	NOUN-NN	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
 5	für	für	_	ADP-APPR	Morph:a|NE:O|props:base-prepdetadjnoun|tf:MF
-6	die	die	_	DET-ART	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
-7	junge	jung	_	ADJ-ADJA	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
-8	Frau	Frau	_	NOUN-NN	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
+6	das	das	_	DET-ART	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
+7	politische	politisch	_	ADJ-ADJA	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
+8	Publikum	Publikum	_	NOUN-NN	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-prepdetadjnoun|tf:VF
 2	hält	halten	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
 3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
-4	Kind	Kind	_	NOUN-NN	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
+4	Bild	Bild	_	NOUN-NN	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
 5	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
 6	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
 7	freien	frei	_	ADJ-ADJA	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
@@ -2484,59 +2483,58 @@
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-prepdetadjnoun|tf:VF
-2	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
-3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
-4	Buch	Buch	_	NOUN-NN	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
-5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
-6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-prepdetadjnoun|tf:MF
-7	politischen	politisch	_	ADJ-ADJA	Morph:dsm|NE:O|props:base-prepdetadjnoun|tf:MF
-8	Bereich	Bereich	_	NOUN-NN	Morph:dsm|NE:O|props:base-prepdetadjnoun|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
-
-1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-prepdetadjnoun|tf:VF
-2	erhält	erhalten	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
+2	führt	führen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
-4	Rolle	Rolle	_	NOUN-NN	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
-5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
-6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-prepdetadjnoun|tf:MF
-7	kurzen	kurz	_	ADJ-ADJA	Morph:dsm|NE:O|props:base-prepdetadjnoun|tf:MF
-8	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:base-prepdetadjnoun|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
-
-1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-prepdetadjnoun|tf:VF
-2	baut	bauen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
-3	den	der	_	DET-ART	Morph:asm|NE:O|props:base-prepdetadjnoun|tf:MF
-4	Platz	Platz	_	NOUN-NN	Morph:asm|NE:O|props:base-prepdetadjnoun|tf:MF
+4	Frau	Frau	_	NOUN-NN	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
 5	an	an	_	ADP-APPR	Morph:a|NE:O|props:base-prepdetadjnoun|tf:MF
 6	das	das	_	DET-ART	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
 7	letzte	letzt	_	ADJ-ADJA	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
-8	Ende	Ende	_	NOUN-NN	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
+8	Ende.	Ende.	_	NOUN-NN	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
 
-1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:base-prepdetadjnoun|tf:VF
-2	führen	führen	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-prepdetadjnoun|tf:LK
+1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-prepdetadjnoun|tf:VF
+2	legt	legen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
-4	Frau	Frau	_	NOUN-NN	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
+4	Rolle	Rolle	_	NOUN-NN	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
 5	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:base-prepdetadjnoun|tf:MF
-6	die	die	_	DET-ART	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
-7	öffentliche	öffentlich	_	ADJ-ADJA	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
-8	Bühne	Bühne	_	NOUN-NN	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
+6	den	der	_	DET-ART	Morph:asm|NE:O|props:base-prepdetadjnoun|tf:MF
+7	kurzen	kurz	_	ADJ-ADJA	Morph:asm|NE:O|props:base-prepdetadjnoun|tf:MF
+8	Tisch	Tisch	_	NOUN-NN	Morph:asm|NE:O|props:base-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
 
-1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:base-prepdetadjnoun|tf:VF
-2	zeigen	zeigen	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-prepdetadjnoun|tf:LK
-3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
-4	Problem	Problem	_	NOUN-NN	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
+1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-prepdetadjnoun|tf:VF
+2	bekommt	bekommen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-prepdetadjnoun|tf:LK
+3	die	die	_	DET-ART	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
+4	Chance	Chance	_	NOUN-NN	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
 5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
 6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:base-prepdetadjnoun|tf:MF
-7	schweren	schwer	_	ADJ-ADJA	Morph:dsn|NE:O|props:base-prepdetadjnoun|tf:MF
+7	nächsten	nächst	_	ADJ-ADJA	Morph:dsn|NE:O|props:base-prepdetadjnoun|tf:MF
 8	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|props:base-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:base-prepdetadjnoun|tf:VF
-2	bekommen	bekommen	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-prepdetadjnoun|tf:LK
+2	fordern	fordern	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-prepdetadjnoun|tf:LK
+3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
+4	Recht	Recht	_	NOUN-NN	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
+5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
+6	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
+7	guten	gut	_	ADJ-ADJA	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
+8	Woche	Woche	_	NOUN-NN	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
+
+1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:base-prepdetadjnoun|tf:VF
+2	schreiben	schreiben	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-prepdetadjnoun|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
-4	Chance	Chance	_	NOUN-NN	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
+4	Geschichte	Geschichte	_	NOUN-NN	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
+5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
+6	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
+7	dunklen	dunkel	_	ADJ-ADJA	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
+8	Nacht	Nacht	_	NOUN-NN	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
+
+1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:base-prepdetadjnoun|tf:VF
+2	beginnen	beginnen	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-prepdetadjnoun|tf:LK
+3	die	die	_	DET-ART	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
+4	Arbeit	Arbeit	_	NOUN-NN	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
 5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
 6	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
 7	neuen	neu	_	ADJ-ADJA	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
@@ -2544,23 +2542,23 @@
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:base-prepdetadjnoun|tf:VF
-2	bringen	bringen	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-prepdetadjnoun|tf:LK
+2	vergessen	vergessen	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-prepdetadjnoun|tf:LK
 3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
-4	Kind	Kind	_	NOUN-NN	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
-5	in	in	_	ADP-APPR	Morph:a|NE:O|props:base-prepdetadjnoun|tf:MF
-6	die	die	_	DET-ART	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
-7	kleine	klein	_	ADJ-ADJA	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
-8	Stadt	Stadt	_	NOUN-NN	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
+4	Buch	Buch	_	NOUN-NN	Morph:asn|NE:O|props:base-prepdetadjnoun|tf:MF
+5	an	an	_	ADP-APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
+6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-prepdetadjnoun|tf:MF
+7	schweren	schwer	_	ADJ-ADJA	Morph:dsm|NE:O|props:base-prepdetadjnoun|tf:MF
+8	Tag	Tag	_	NOUN-NN	Morph:dsm|NE:O|props:base-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:base-prepdetadjnoun|tf:VF
-2	erzählen	erzählen	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-prepdetadjnoun|tf:LK
+2	brauchen	brauchen	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-prepdetadjnoun|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
-4	Geschichte	Geschichte	_	NOUN-NN	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
-5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-prepdetadjnoun|tf:MF
-6	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
-7	ganzen	ganz	_	ADJ-ADJA	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
-8	Welt	Welt	_	NOUN-NN	Morph:dsf|NE:O|props:base-prepdetadjnoun|tf:MF
+4	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
+5	für	für	_	ADP-APPR	Morph:a|NE:O|props:base-prepdetadjnoun|tf:MF
+6	die	die	_	DET-ART	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
+7	alte	alt	_	ADJ-ADJA	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
+8	Frau	Frau	_	NOUN-NN	Morph:asf|NE:O|props:base-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-prepdetadjnoun|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-prepdetadjnoun|tf:VF
@@ -2581,10 +2579,10 @@
 4	Leuten	Leute	_	NOUN-NN	Morph:dp*|NE:O|props:3head-prepdetadjnoun|tf:MF
 5	den	der	_	DET-ART	Morph:asm|NE:O|props:3head-prepdetadjnoun|tf:MF
 6	Grund	Grund	_	NOUN-NN	Morph:asm|NE:O|props:3head-prepdetadjnoun|tf:MF
-7	zu	zu	_	ADP-APPR	Morph:d|NE:O|props:3head-prepdetadjnoun|tf:MF
-8	dem	das	_	DET-ART	Morph:dsn|NE:O|props:3head-prepdetadjnoun|tf:MF
-9	möglichen	möglich	_	ADJ-ADJA	Morph:dsn|NE:O|props:3head-prepdetadjnoun|tf:MF
-10	Thema	Thema	_	NOUN-NN	Morph:dsn|NE:O|props:3head-prepdetadjnoun|tf:MF
+7	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:3head-prepdetadjnoun|tf:MF
+8	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-prepdetadjnoun|tf:MF
+9	gestrigen	gestrig	_	ADJ-ADJA	Morph:dsf|NE:O|props:3head-prepdetadjnoun|tf:MF
+10	Pressekonferenz	Pressekonferenz	_	NOUN-NN	Morph:dsf|NE:O|props:3head-prepdetadjnoun|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-prepdetadjnoun|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-prepdetadjnoun|tf:VF
@@ -2641,10 +2639,10 @@
 4	Gast	Gast	_	NOUN-NN	Morph:dsm|NE:O|props:3head-prepdetadjnoun|tf:MF
 5	das	das	_	DET-ART	Morph:asn|NE:O|props:3head-prepdetadjnoun|tf:MF
 6	Haus	Haus	_	NOUN-NN	Morph:asn|NE:O|props:3head-prepdetadjnoun|tf:MF
-7	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:3head-prepdetadjnoun|tf:MF
-8	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-prepdetadjnoun|tf:MF
-9	freien	frei	_	ADJ-ADJA	Morph:dsf|NE:O|props:3head-prepdetadjnoun|tf:MF
-10	Hand	Hand	_	NOUN-NN	Morph:dsf|NE:O|props:3head-prepdetadjnoun|tf:MF
+7	an	an	_	ADP-APPR	Morph:d|NE:O|props:3head-prepdetadjnoun|tf:MF
+8	dem	das	_	DET-ART	Morph:dsn|NE:O|props:3head-prepdetadjnoun|tf:MF
+9	typischen	typisch	_	ADJ-ADJA	Morph:dsn|NE:O|props:3head-prepdetadjnoun|tf:MF
+10	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:3head-prepdetadjnoun|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-prepdetadjnoun|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:3head-prepdetadjnoun|tf:VF
@@ -2665,10 +2663,10 @@
 4	Flüchtling	Flüchtling	_	NOUN-NN	Morph:dsm|NE:O|props:3head-prepdetadjnoun|tf:MF
 5	die	die	_	DET-ART	Morph:asf|NE:O|props:3head-prepdetadjnoun|tf:MF
 6	Chance	Chance	_	NOUN-NN	Morph:asf|NE:O|props:3head-prepdetadjnoun|tf:MF
-7	in	in	_	ADP-APPR	Morph:d|NE:O|props:3head-prepdetadjnoun|tf:MF
+7	an	an	_	ADP-APPR	Morph:d|NE:O|props:3head-prepdetadjnoun|tf:MF
 8	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-prepdetadjnoun|tf:MF
 9	kurzen	kurz	_	ADJ-ADJA	Morph:dsm|NE:O|props:3head-prepdetadjnoun|tf:MF
-10	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:3head-prepdetadjnoun|tf:MF
+10	Tag	Tag	_	NOUN-NN	Morph:dsm|NE:O|props:3head-prepdetadjnoun|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-prepdetadjnoun|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:3head-prepdetadjnoun|tf:VF
@@ -2702,9 +2700,9 @@
 5	den	der	_	DET-ART	Morph:asm|NE:O|props:3head-prepdetadjnoun|tf:MF
 6	Namen	Name	_	NOUN-NN	Morph:asm|NE:O|props:3head-prepdetadjnoun|tf:MF
 7	in	in	_	ADP-APPR	Morph:d|NE:O|props:3head-prepdetadjnoun|tf:MF
-8	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-prepdetadjnoun|tf:MF
-9	politischen	politisch	_	ADJ-ADJA	Morph:dsm|NE:O|props:3head-prepdetadjnoun|tf:MF
-10	Bereich	Bereich	_	NOUN-NN	Morph:dsm|NE:O|props:3head-prepdetadjnoun|tf:MF
+8	dem	das	_	DET-ART	Morph:dsn|NE:O|props:3head-prepdetadjnoun|tf:MF
+9	nächsten	nächst	_	ADJ-ADJA	Morph:dsn|NE:O|props:3head-prepdetadjnoun|tf:MF
+10	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|props:3head-prepdetadjnoun|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-prepdetadjnoun|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:3head-prepdetadjnoun|tf:VF
@@ -2738,9 +2736,9 @@
 5	die	die	_	DET-ART	Morph:asf|NE:O|props:3head-prepdetadjnoun|tf:MF
 6	Geschichte	Geschichte	_	NOUN-NN	Morph:asf|NE:O|props:3head-prepdetadjnoun|tf:MF
 7	in	in	_	ADP-APPR	Morph:d|NE:O|props:3head-prepdetadjnoun|tf:MF
-8	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-prepdetadjnoun|tf:MF
-9	ganzen	ganz	_	ADJ-ADJA	Morph:dsf|NE:O|props:3head-prepdetadjnoun|tf:MF
-10	Welt	Welt	_	NOUN-NN	Morph:dsf|NE:O|props:3head-prepdetadjnoun|tf:MF
+8	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-prepdetadjnoun|tf:MF
+9	anderen	ander	_	ADJ-ADJA	Morph:dsm|NE:O|props:3head-prepdetadjnoun|tf:MF
+10	Raum	Raum	_	NOUN-NN	Morph:dsm|NE:O|props:3head-prepdetadjnoun|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-prepdetadjnoun|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:4head-prepdetadjnoun|tf:VF
@@ -2765,10 +2763,10 @@
 6	Haus	Haus	_	NOUN-NN	Morph:asn|NE:O|props:4head-prepdetadjnoun|tf:MF
 7	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-prepdetadjnoun|tf:MF
 8	Frau	Frau	_	NOUN-NN	Morph:gsf|NE:O|props:4head-prepdetadjnoun|tf:MF
-9	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:4head-prepdetadjnoun|tf:MF
-10	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
-11	anderen	andere	_	ADJ-ADJA	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
-12	Hand	Hand	_	NOUN-NN	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
+9	an	an	_	ADP-APPR	Morph:d|NE:O|props:4head-prepdetadjnoun|tf:MF
+10	dem	das	_	DET-ART	Morph:dsn|NE:O|props:4head-prepdetadjnoun|tf:MF
+11	typischen	typisch	_	ADJ-ADJA	Morph:dsn|NE:O|props:4head-prepdetadjnoun|tf:MF
+12	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:4head-prepdetadjnoun|tf:MF
 13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-prepdetadjnoun|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:4head-prepdetadjnoun|tf:VF
@@ -2781,8 +2779,8 @@
 8	Endes	Ende	_	NOUN-NN	Morph:gsn|NE:O|props:4head-prepdetadjnoun|tf:MF
 9	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:4head-prepdetadjnoun|tf:MF
 10	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
-11	öffentlichen	öffentlich	_	ADJ-ADJA	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
-12	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
+11	gestrigen	gestrig	_	ADJ-ADJA	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
+12	Pressekonferenz	Pressekonferenz	_	NOUN-NN	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
 13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-prepdetadjnoun|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:4head-prepdetadjnoun|tf:VF
@@ -2835,10 +2833,10 @@
 6	Namen	Name	_	NOUN-NN	Morph:asm|NE:O|props:4head-prepdetadjnoun|tf:MF
 7	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-prepdetadjnoun|tf:MF
 8	Mutter	Mutter	_	NOUN-NN	Morph:gsf|NE:O|props:4head-prepdetadjnoun|tf:MF
-9	in	in	_	ADP-APPR	Morph:d|NE:O|props:4head-prepdetadjnoun|tf:MF
+9	an	an	_	ADP-APPR	Morph:d|NE:O|props:4head-prepdetadjnoun|tf:MF
 10	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-prepdetadjnoun|tf:MF
-11	kurzen	kurz	_	ADJ-ADJA	Morph:dsm|NE:O|props:4head-prepdetadjnoun|tf:MF
-12	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:4head-prepdetadjnoun|tf:MF
+11	langen	lang	_	ADJ-ADJA	Morph:dsm|NE:O|props:4head-prepdetadjnoun|tf:MF
+12	Tag	Tag	_	NOUN-NN	Morph:dsm|NE:O|props:4head-prepdetadjnoun|tf:MF
 13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-prepdetadjnoun|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:4head-prepdetadjnoun|tf:VF
@@ -2865,8 +2863,8 @@
 8	Lebens	Leben	_	NOUN-NN	Morph:gsn|NE:O|props:4head-prepdetadjnoun|tf:MF
 9	in	in	_	ADP-APPR	Morph:d|NE:O|props:4head-prepdetadjnoun|tf:MF
 10	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-prepdetadjnoun|tf:MF
-11	jungen	jung	_	ADJ-ADJA	Morph:dsm|NE:O|props:4head-prepdetadjnoun|tf:MF
-12	Bereich	Bereich	_	NOUN-NN	Morph:dsm|NE:O|props:4head-prepdetadjnoun|tf:MF
+11	anderen	ander	_	ADJ-ADJA	Morph:dsm|NE:O|props:4head-prepdetadjnoun|tf:MF
+12	Monat	Monat	_	NOUN-NN	Morph:dsm|NE:O|props:4head-prepdetadjnoun|tf:MF
 13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-prepdetadjnoun|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:4head-prepdetadjnoun|tf:VF
@@ -2879,7 +2877,7 @@
 8	Familie	Familie	_	NOUN-NN	Morph:gsf|NE:O|props:4head-prepdetadjnoun|tf:MF
 9	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:4head-prepdetadjnoun|tf:MF
 10	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-prepdetadjnoun|tf:MF
-11	langen	lang	_	ADJ-ADJA	Morph:dsm|NE:O|props:4head-prepdetadjnoun|tf:MF
+11	alten	alt	_	ADJ-ADJA	Morph:dsm|NE:O|props:4head-prepdetadjnoun|tf:MF
 12	Weg	Weg	_	NOUN-NN	Morph:dsm|NE:O|props:4head-prepdetadjnoun|tf:MF
 13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-prepdetadjnoun|tf:UNK
 
@@ -2907,7 +2905,7 @@
 8	Freundin	Freundin	_	NOUN-NN	Morph:gsf|NE:O|props:4head-prepdetadjnoun|tf:MF
 9	in	in	_	ADP-APPR	Morph:d|NE:O|props:4head-prepdetadjnoun|tf:MF
 10	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
-11	vergangenen	vergangen	_	ADJ-ADJA	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
+11	nächsten	nächst	_	ADJ-ADJA	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
 12	Woche	Woche	_	NOUN-NN	Morph:dsf|NE:O|props:4head-prepdetadjnoun|tf:MF
 13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-prepdetadjnoun|tf:UNK
 
@@ -2935,7 +2933,7 @@
 8	Sohns	Sohn	_	NOUN-NN	Morph:gsm|NE:O|props:4head-prepdetadjnoun|tf:MF
 9	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:4head-prepdetadjnoun|tf:MF
 10	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-prepdetadjnoun|tf:MF
-11	alten	alt	_	ADJ-ADJA	Morph:asm|NE:O|props:4head-prepdetadjnoun|tf:MF
+11	kurzen	kurz	_	ADJ-ADJA	Morph:asm|NE:O|props:4head-prepdetadjnoun|tf:MF
 12	Tisch	Tisch	_	NOUN-NN	Morph:asm|NE:O|props:4head-prepdetadjnoun|tf:MF
 13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-prepdetadjnoun|tf:UNK
 
@@ -2979,10 +2977,10 @@
 8	Haus	Haus	_	NOUN-NN	Morph:asn|NE:O|props:5head-prepdetadjnoun|tf:MF
 9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-prepdetadjnoun|tf:MF
 10	Frau	Frau	_	NOUN-NN	Morph:gsf|NE:O|props:5head-prepdetadjnoun|tf:MF
-11	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:5head-prepdetadjnoun|tf:MF
-12	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
-13	anderen	andere	_	ADJ-ADJA	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
-14	Hand	Hand	_	NOUN-NN	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
+11	an	an	_	ADP-APPR	Morph:d|NE:O|props:5head-prepdetadjnoun|tf:MF
+12	dem	das	_	DET-ART	Morph:dsn|NE:O|props:5head-prepdetadjnoun|tf:MF
+13	typischen	typisch	_	ADJ-ADJA	Morph:dsn|NE:O|props:5head-prepdetadjnoun|tf:MF
+14	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:5head-prepdetadjnoun|tf:MF
 15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-prepdetadjnoun|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:5head-prepdetadjnoun|tf:VF
@@ -2997,8 +2995,8 @@
 10	Forderung	Forderung	_	NOUN-NN	Morph:gsf|NE:O|props:5head-prepdetadjnoun|tf:MF
 11	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:5head-prepdetadjnoun|tf:MF
 12	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
-13	öffentlichen	öffentlich	_	ADJ-ADJA	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
-14	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
+13	gestrigen	gestrig	_	ADJ-ADJA	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
+14	Pressekonferenz	Pressekonferenz	_	NOUN-NN	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
 15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-prepdetadjnoun|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:5head-prepdetadjnoun|tf:VF
@@ -3059,10 +3057,10 @@
 8	Namen	Name	_	NOUN-NN	Morph:asm|NE:O|props:5head-prepdetadjnoun|tf:MF
 9	des	der	_	DET-ART	Morph:gsm|NE:O|props:5head-prepdetadjnoun|tf:MF
 10	Gegners	Gegner	_	NOUN-NN	Morph:gsm|NE:O|props:5head-prepdetadjnoun|tf:MF
-11	in	in	_	ADP-APPR	Morph:d|NE:O|props:5head-prepdetadjnoun|tf:MF
+11	an	an	_	ADP-APPR	Morph:d|NE:O|props:5head-prepdetadjnoun|tf:MF
 12	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-prepdetadjnoun|tf:MF
-13	kurzen	kurz	_	ADJ-ADJA	Morph:dsm|NE:O|props:5head-prepdetadjnoun|tf:MF
-14	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:5head-prepdetadjnoun|tf:MF
+13	langen	lang	_	ADJ-ADJA	Morph:dsm|NE:O|props:5head-prepdetadjnoun|tf:MF
+14	Tag	Tag	_	NOUN-NN	Morph:dsm|NE:O|props:5head-prepdetadjnoun|tf:MF
 15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-prepdetadjnoun|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:5head-prepdetadjnoun|tf:VF
@@ -3093,8 +3091,8 @@
 10	Lebens	Leben	_	NOUN-NN	Morph:gsn|NE:O|props:5head-prepdetadjnoun|tf:MF
 11	in	in	_	ADP-APPR	Morph:d|NE:O|props:5head-prepdetadjnoun|tf:MF
 12	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-prepdetadjnoun|tf:MF
-13	jungen	jung	_	ADJ-ADJA	Morph:dsm|NE:O|props:5head-prepdetadjnoun|tf:MF
-14	Bereich	Bereich	_	NOUN-NN	Morph:dsm|NE:O|props:5head-prepdetadjnoun|tf:MF
+13	anderen	ander	_	ADJ-ADJA	Morph:dsm|NE:O|props:5head-prepdetadjnoun|tf:MF
+14	Monat	Monat	_	NOUN-NN	Morph:dsm|NE:O|props:5head-prepdetadjnoun|tf:MF
 15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-prepdetadjnoun|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:5head-prepdetadjnoun|tf:VF
@@ -3109,7 +3107,7 @@
 10	Kollegen	Kollege	_	NOUN-NN	Morph:gsm|NE:O|props:5head-prepdetadjnoun|tf:MF
 11	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:5head-prepdetadjnoun|tf:MF
 12	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-prepdetadjnoun|tf:MF
-13	langen	lang	_	ADJ-ADJA	Morph:dsm|NE:O|props:5head-prepdetadjnoun|tf:MF
+13	alten	alt	_	ADJ-ADJA	Morph:dsm|NE:O|props:5head-prepdetadjnoun|tf:MF
 14	Weg	Weg	_	NOUN-NN	Morph:dsm|NE:O|props:5head-prepdetadjnoun|tf:MF
 15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-prepdetadjnoun|tf:UNK
 
@@ -3155,10 +3153,10 @@
 8	Recht	Recht	_	NOUN-NN	Morph:asn|NE:O|props:5head-prepdetadjnoun|tf:MF
 9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-prepdetadjnoun|tf:MF
 10	Kontrolle	Kontrolle	_	NOUN-NN	Morph:gsf|NE:O|props:5head-prepdetadjnoun|tf:MF
-11	in	in	_	ADP-APPR	Morph:d|NE:O|props:5head-prepdetadjnoun|tf:MF
+11	zu	zu	_	ADP-APPR	Morph:d|NE:O|props:5head-prepdetadjnoun|tf:MF
 12	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
-13	deutschen	deutsch	_	ADJ-ADJA	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
-14	Bundesrepublik	Bundesrepublik	_	NOUN-NN	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
+13	richtigen	richtig	_	ADJ-ADJA	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
+14	Zeit	Zeit	_	NOUN-NN	Morph:dsf|NE:O|props:5head-prepdetadjnoun|tf:MF
 15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-prepdetadjnoun|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:5head-prepdetadjnoun|tf:VF
@@ -3173,7 +3171,7 @@
 10	Kindes	Kind	_	NOUN-NN	Morph:gsn|NE:O|props:5head-prepdetadjnoun|tf:MF
 11	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:5head-prepdetadjnoun|tf:MF
 12	den	der	_	DET-ART	Morph:asm|NE:O|props:5head-prepdetadjnoun|tf:MF
-13	alten	alt	_	ADJ-ADJA	Morph:asm|NE:O|props:5head-prepdetadjnoun|tf:MF
+13	kurzen	kurz	_	ADJ-ADJA	Morph:asm|NE:O|props:5head-prepdetadjnoun|tf:MF
 14	Tisch	Tisch	_	NOUN-NN	Morph:asm|NE:O|props:5head-prepdetadjnoun|tf:MF
 15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-prepdetadjnoun|tf:UNK
 
@@ -3206,12 +3204,13 @@
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-pppossnp|tf:VF
 2	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-pppossnp|tf:LK
 3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-pppossnp|tf:MF
-4	Problem	Problem	_	NOUN-NN	Morph:asn|NE:O|props:base-pppossnp|tf:MF
-5	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:base-pppossnp|tf:MF
-6	Seiten	Seite	_	NOUN-NN	Morph:dpf|NE:O|props:base-pppossnp|tf:MF
-7	der	die	_	DET-ART	Morph:gsf|NE:O|props:base-pppossnp|tf:MF
-8	Bundesrepublik	Bundesrepublik	_	NOUN-NN	Morph:gsf|NE:O|props:base-pppossnp|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-pppossnp|tf:UNK
+4	Haus	Haus	_	NOUN-NN	Morph:asn|NE:O|props:base-pppossnp|tf:MF
+5	an	an	_	ADP-APPR	Morph:d|NE:O|props:base-pppossnp|tf:MF
+6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:base-pppossnp|tf:MF
+7	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:base-pppossnp|tf:MF
+8	des	der	_	DET-ART	Morph:gsm|NE:O|props:base-pppossnp|tf:MF
+9	Ausschusses	Ausschuss	_	NOUN-NN	Morph:gsm|NE:O|props:base-pppossnp|tf:MF
+10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-pppossnp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-pppossnp|tf:VF
 2	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-pppossnp|tf:LK
@@ -3284,7 +3283,7 @@
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-pppossnp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-pppossnp|tf:VF
-2	mag	mögen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-pppossnp|tf:LK
+2	mag	mögen	_	VERB-VMFIN	Morph:3sis|NE:O|props:base-pppossnp|tf:LK
 3	den	der	_	DET-ART	Morph:asm|NE:O|props:base-pppossnp|tf:MF
 4	Mann	Mann	_	NOUN-NN	Morph:asm|NE:O|props:base-pppossnp|tf:MF
 5	seit	seit	_	ADP-APPR	Morph:d|NE:O|props:base-pppossnp|tf:MF
@@ -3361,10 +3360,10 @@
 4	Partei	Partei	_	NOUN-NN	Morph:dsf|NE:O|props:3head-pppossnp|tf:MF
 5	das	das	_	DET-ART	Morph:asn|NE:O|props:3head-pppossnp|tf:MF
 6	Recht	Recht	_	NOUN-NN	Morph:asn|NE:O|props:3head-pppossnp|tf:MF
-7	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:3head-pppossnp|tf:MF
-8	Seiten	Seite	_	NOUN-NN	Morph:dpf|NE:O|props:3head-pppossnp|tf:MF
-9	der	die	_	DET-ART	Morph:gsf|NE:O|props:3head-pppossnp|tf:MF
-10	Bundesrepublik	Bundesrepublik	_	NOUN-NN	Morph:gsf|NE:O|props:3head-pppossnp|tf:MF
+7	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:3head-pppossnp|tf:MF
+8	Anfrage	Anfrage	_	NOUN-NN	Morph:asf|NE:O|props:3head-pppossnp|tf:MF
+9	des	der	_	DET-ART	Morph:gsm|NE:O|props:3head-pppossnp|tf:MF
+10	Präsidenten	Präsident	_	NOUN-NN	Morph:gsm|NE:O|props:3head-pppossnp|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-pppossnp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-pppossnp|tf:VF
@@ -3380,13 +3379,13 @@
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-pppossnp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-pppossnp|tf:VF
-2	erzählt	erzählen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-pppossnp|tf:LK
+2	sendet	senden	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-pppossnp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-pppossnp|tf:MF
 4	Menschen	Mensch	_	NOUN-NN	Morph:dsm|NE:O|props:3head-pppossnp|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|props:3head-pppossnp|tf:MF
-6	Geschichte	Geschichte	_	NOUN-NN	Morph:asf|NE:O|props:3head-pppossnp|tf:MF
-7	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:3head-pppossnp|tf:MF
-8	Sicht	Sicht	_	NOUN-NN	Morph:dsf|NE:O|props:3head-pppossnp|tf:MF
+5	den	der	_	DET-ART	Morph:asm|NE:O|props:3head-pppossnp|tf:MF
+6	Brief	Brief	_	NOUN-NN	Morph:asm|NE:O|props:3head-pppossnp|tf:MF
+7	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:3head-pppossnp|tf:MF
+8	Forderung	Forderung	_	NOUN-NN	Morph:asf|NE:O|props:3head-pppossnp|tf:MF
 9	der	die	_	DET-ART	Morph:gsf|NE:O|props:3head-pppossnp|tf:MF
 10	Mutter	Mutter	_	NOUN-NN	Morph:gsf|NE:O|props:3head-pppossnp|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-pppossnp|tf:UNK
@@ -3430,17 +3429,18 @@
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:3head-pppossnp|tf:VF
 2	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-pppossnp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-pppossnp|tf:MF
-4	Staat	Staat	_	NOUN-NN	Morph:dsm|NE:O|props:3head-pppossnp|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|props:3head-pppossnp|tf:MF
-6	Sache	Sache	_	NOUN-NN	Morph:asf|NE:O|props:3head-pppossnp|tf:MF
-7	nach	nach	_	ADP-APPR	Morph:d|NE:O|props:3head-pppossnp|tf:MF
-8	Angabe	Angabe	_	NOUN-NN	Morph:dsf|NE:O|props:3head-pppossnp|tf:MF
-9	der	die	_	DET-ART	Morph:gsf|NE:O|props:3head-pppossnp|tf:MF
-10	Regierung	Regierung	_	NOUN-NN	Morph:gsf|NE:O|props:3head-pppossnp|tf:MF
-11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-pppossnp|tf:UNK
+4	Gast	Gast	_	NOUN-NN	Morph:dsm|NE:O|props:3head-pppossnp|tf:MF
+5	das	das	_	DET-ART	Morph:asn|NE:O|props:3head-pppossnp|tf:MF
+6	Haus	Haus	_	NOUN-NN	Morph:asn|NE:O|props:3head-pppossnp|tf:MF
+7	an	an	_	ADP-APPR	Morph:d|NE:O|props:3head-pppossnp|tf:MF
+8	dem	das	_	DET-ART	Morph:dsn|NE:O|props:3head-pppossnp|tf:MF
+9	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:3head-pppossnp|tf:MF
+10	des	der	_	DET-ART	Morph:gsm|NE:O|props:3head-pppossnp|tf:MF
+11	Ausschusses	Ausschuss	_	NOUN-NN	Morph:gsm|NE:O|props:3head-pppossnp|tf:MF
+12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-pppossnp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:3head-pppossnp|tf:VF
-2	suchen	suchen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-pppossnp|tf:LK
+2	sucht	suchen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-pppossnp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-pppossnp|tf:MF
 4	Flüchtling	Flüchtling	_	NOUN-NN	Morph:dsm|NE:O|props:3head-pppossnp|tf:MF
 5	die	die	_	DET-ART	Morph:asf|NE:O|props:3head-pppossnp|tf:MF
@@ -3484,7 +3484,7 @@
 7	von	von	_	ADP-APPR	Morph:d|NE:O|props:3head-pppossnp|tf:MF
 8	Seiten	Seite	_	NOUN-NN	Morph:dpf|NE:O|props:3head-pppossnp|tf:MF
 9	des	der	_	DET-ART	Morph:gsm|NE:O|props:3head-pppossnp|tf:MF
-10	Präsidenten	Präsident	_	NOUN-NN	Morph:gsm|NE:O|props:3head-pppossnp|tf:MF
+10	Gasts	Gast	_	NOUN-NN	Morph:gsm|NE:O|props:3head-pppossnp|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-pppossnp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:3head-pppossnp|tf:VF
@@ -3494,17 +3494,17 @@
 5	den	der	_	DET-ART	Morph:asm|NE:O|props:3head-pppossnp|tf:MF
 6	Film	Film	_	NOUN-NN	Morph:asm|NE:O|props:3head-pppossnp|tf:MF
 7	an	an	_	ADP-APPR	Morph:d|NE:O|props:3head-pppossnp|tf:MF
-8	Bord	Bord	_	NOUN-NN	Morph:dsn|NE:O|props:3head-pppossnp|tf:MF
-9	des	das	_	DET-ART	Morph:gsn|NE:O|props:3head-pppossnp|tf:MF
-10	Schiffs	Schiff	_	NOUN-NN	Morph:gsn|NE:O|props:3head-pppossnp|tf:MF
+8	Stelle	Stelle	_	NOUN-NN	Morph:dsf|NE:O|props:3head-pppossnp|tf:MF
+9	des	der	_	DET-ART	Morph:gsm|NE:O|props:3head-pppossnp|tf:MF
+10	Mannes	Mann	_	NOUN-NN	Morph:gsm|NE:O|props:3head-pppossnp|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-pppossnp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:3head-pppossnp|tf:VF
-2	nennen	nennen	_	VERB-VVFIN	Morph:3pis|NE:O|props:3head-pppossnp|tf:LK
+2	senden	senden	_	VERB-VVFIN	Morph:3pis|NE:O|props:3head-pppossnp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-pppossnp|tf:MF
 4	Präsidenten	Präsident	_	NOUN-NN	Morph:dsm|NE:O|props:3head-pppossnp|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|props:3head-pppossnp|tf:MF
-6	Forderung	Forderung	_	NOUN-NN	Morph:asf|NE:O|props:3head-pppossnp|tf:MF
+5	den	der	_	DET-ART	Morph:asm|NE:O|props:3head-pppossnp|tf:MF
+6	Brief	Brief	_	NOUN-NN	Morph:asm|NE:O|props:3head-pppossnp|tf:MF
 7	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:3head-pppossnp|tf:MF
 8	Kosten	Kosten	_	NOUN-NN	Morph:ap*|NE:O|props:3head-pppossnp|tf:MF
 9	der	die	_	DET-ART	Morph:gsf|NE:O|props:3head-pppossnp|tf:MF
@@ -3545,10 +3545,10 @@
 6	Recht	Recht	_	NOUN-NN	Morph:asn|NE:O|props:4head-pppossnp|tf:MF
 7	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-pppossnp|tf:MF
 8	Meinung	Meinung	_	NOUN-NN	Morph:gsf|NE:O|props:4head-pppossnp|tf:MF
-9	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:4head-pppossnp|tf:MF
-10	Seiten	Seite	_	NOUN-NN	Morph:dpf|NE:O|props:4head-pppossnp|tf:MF
-11	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-pppossnp|tf:MF
-12	Bundesrepublik	Bundesrepublik	_	NOUN-NN	Morph:gsf|NE:O|props:4head-pppossnp|tf:MF
+9	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:4head-pppossnp|tf:MF
+10	Anfrage	Anfrage	_	NOUN-NN	Morph:apm|NE:O|props:4head-pppossnp|tf:MF
+11	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-pppossnp|tf:MF
+12	Präsidenten	Präsident	_	NOUN-NN	Morph:gsm|NE:O|props:4head-pppossnp|tf:MF
 13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-pppossnp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:4head-pppossnp|tf:VF
@@ -3624,21 +3624,22 @@
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:4head-pppossnp|tf:VF
 2	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-pppossnp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-pppossnp|tf:MF
-4	Staat	Staat	_	NOUN-NN	Morph:dsm|NE:O|props:4head-pppossnp|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-pppossnp|tf:MF
-6	Sache	Sache	_	NOUN-NN	Morph:asf|NE:O|props:4head-pppossnp|tf:MF
-7	des	das	_	DET-ART	Morph:gsn|NE:O|props:4head-pppossnp|tf:MF
-8	Kindes	Kind	_	NOUN-NN	Morph:gsn|NE:O|props:4head-pppossnp|tf:MF
-9	nach	nach	_	ADP-APPR	Morph:d|NE:O|props:4head-pppossnp|tf:MF
-10	Angabe	Angabe	_	NOUN-NN	Morph:dsf|NE:O|props:4head-pppossnp|tf:MF
-11	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-pppossnp|tf:MF
-12	Regierung	Regierung	_	NOUN-NN	Morph:gsf|NE:O|props:4head-pppossnp|tf:MF
-13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-pppossnp|tf:UNK
+4	Gast	Gast	_	NOUN-NN	Morph:dsm|NE:O|props:4head-pppossnp|tf:MF
+5	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-pppossnp|tf:MF
+6	Fragerunde	Fragerunde	_	NOUN-NN	Morph:gsf|NE:O|props:4head-pppossnp|tf:MF
+7	das	das	_	DET-ART	Morph:asn|NE:O|props:4head-pppossnp|tf:MF
+8	Haus	Haus	_	NOUN-NN	Morph:asn|NE:O|props:4head-pppossnp|tf:MF
+9	an	an	_	ADP-APPR	Morph:d|NE:O|props:4head-pppossnp|tf:MF
+10	dem	das	_	DET-ART	Morph:dsn|NE:O|props:4head-pppossnp|tf:MF
+11	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:4head-pppossnp|tf:MF
+12	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-pppossnp|tf:MF
+13	Ausschusses	Ausschuss	_	NOUN-NN	Morph:gsm|NE:O|props:4head-pppossnp|tf:MF
+14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-pppossnp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:4head-pppossnp|tf:VF
 2	sucht	suchen	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-pppossnp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-pppossnp|tf:MF
-4	Flüchtling	Flüchtling	_	NOUN-NN	Morph:dsm|NE:O|props:4head-pppossnp|tf:MF
+4	Präsidenten	Präsident	_	NOUN-NN	Morph:dsm|NE:O|props:4head-pppossnp|tf:MF
 5	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-pppossnp|tf:MF
 6	Chance	Chance	_	NOUN-NN	Morph:asf|NE:O|props:4head-pppossnp|tf:MF
 7	des	das	_	DET-ART	Morph:gsn|NE:O|props:4head-pppossnp|tf:MF
@@ -3688,7 +3689,7 @@
 9	von	von	_	ADP-APPR	Morph:d|NE:O|props:4head-pppossnp|tf:MF
 10	Seiten	Seite	_	NOUN-NN	Morph:dpf|NE:O|props:4head-pppossnp|tf:MF
 11	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-pppossnp|tf:MF
-12	Präsidenten	Präsident	_	NOUN-NN	Morph:gsm|NE:O|props:4head-pppossnp|tf:MF
+12	Gasts	Gast	_	NOUN-NN	Morph:gsm|NE:O|props:4head-pppossnp|tf:MF
 13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-pppossnp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:4head-pppossnp|tf:VF
@@ -3700,15 +3701,15 @@
 7	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-pppossnp|tf:MF
 8	Frau	Frau	_	NOUN-NN	Morph:gsf|NE:O|props:4head-pppossnp|tf:MF
 9	an	an	_	ADP-APPR	Morph:d|NE:O|props:4head-pppossnp|tf:MF
-10	Bord	Bord	_	NOUN-NN	Morph:dsn|NE:O|props:4head-pppossnp|tf:MF
-11	des	das	_	DET-ART	Morph:gsn|NE:O|props:4head-pppossnp|tf:MF
-12	Schiffs	Schiff	_	NOUN-NN	Morph:gsn|NE:O|props:4head-pppossnp|tf:MF
+10	Stelle	Stelle	_	NOUN-NN	Morph:dsf|NE:O|props:4head-pppossnp|tf:MF
+11	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-pppossnp|tf:MF
+12	Mannes	Mann	_	NOUN-NN	Morph:gsm|NE:O|props:4head-pppossnp|tf:MF
 13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-pppossnp|tf:UNK
 
-1	Sie	Sie	_	PRON-PPER	Morph:np*3|NE:O|props:4head-pppossnp|tf:VF
+1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:4head-pppossnp|tf:VF
 2	nennen	nennen	_	VERB-VVFIN	Morph:3pis|NE:O|props:4head-pppossnp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-pppossnp|tf:MF
-4	Präsidenten	Präsident	_	NOUN-NN	Morph:dsm|NE:O|props:4head-pppossnp|tf:MF
+4	Flüchtling	Flüchtling	_	NOUN-NN	Morph:dsm|NE:O|props:4head-pppossnp|tf:MF
 5	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-pppossnp|tf:MF
 6	Forderung	Forderung	_	NOUN-NN	Morph:asf|NE:O|props:4head-pppossnp|tf:MF
 7	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-pppossnp|tf:MF
@@ -3759,10 +3760,10 @@
 8	Recht	Recht	_	NOUN-NN	Morph:asn|NE:O|props:5head-pppossnp|tf:MF
 9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
 10	Meinung	Meinung	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
-11	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:5head-pppossnp|tf:MF
-12	Seiten	Seite	_	NOUN-NN	Morph:dpf|NE:O|props:5head-pppossnp|tf:MF
-13	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
-14	Bundesrepublik	Bundesrepublik	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
+11	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:5head-pppossnp|tf:MF
+12	Anfrage	Anfrage	_	NOUN-NN	Morph:apm|NE:O|props:5head-pppossnp|tf:MF
+13	des	der	_	DET-ART	Morph:gsm|NE:O|props:5head-pppossnp|tf:MF
+14	Präsidenten	Präsident	_	NOUN-NN	Morph:gsm|NE:O|props:5head-pppossnp|tf:MF
 15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-pppossnp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:5head-pppossnp|tf:VF
@@ -3791,8 +3792,8 @@
 8	Geschichte	Geschichte	_	NOUN-NN	Morph:asf|NE:O|props:5head-pppossnp|tf:MF
 9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
 10	Rückkehr	Rückkehr	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
-11	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:5head-pppossnp|tf:MF
-12	Sicht	Sicht	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppossnp|tf:MF
+11	nach	nach	_	ADP-APPR	Morph:d|NE:O|props:5head-pppossnp|tf:MF
+12	Angabe	Angabe	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppossnp|tf:MF
 13	des	das	_	DET-ART	Morph:gsn|NE:O|props:5head-pppossnp|tf:MF
 14	Landes	Land	_	NOUN-NN	Morph:gsn|NE:O|props:5head-pppossnp|tf:MF
 15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-pppossnp|tf:UNK
@@ -3848,23 +3849,24 @@
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:5head-pppossnp|tf:VF
 2	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-pppossnp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-pppossnp|tf:MF
-4	Staat	Staat	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppossnp|tf:MF
-5	des	das	_	DET-ART	Morph:gsn|NE:O|props:5head-pppossnp|tf:MF
-6	Kindes	Kind	_	NOUN-NN	Morph:gsn|NE:O|props:5head-pppossnp|tf:MF
-7	die	die	_	DET-ART	Morph:asf|NE:O|props:5head-pppossnp|tf:MF
-8	Sache	Sache	_	NOUN-NN	Morph:asf|NE:O|props:5head-pppossnp|tf:MF
-9	des	das	_	DET-ART	Morph:gsn|NE:O|props:5head-pppossnp|tf:MF
-10	Kindes	Kind	_	NOUN-NN	Morph:gsn|NE:O|props:5head-pppossnp|tf:MF
-11	nach	nach	_	ADP-APPR	Morph:d|NE:O|props:5head-pppossnp|tf:MF
-12	Angabe	Angabe	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppossnp|tf:MF
-13	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
-14	Regierung	Regierung	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
-15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-pppossnp|tf:UNK
+4	Gast	Gast	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppossnp|tf:MF
+5	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
+6	Fragerunde	Fragerunde	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
+7	das	das	_	DET-ART	Morph:asn|NE:O|props:5head-pppossnp|tf:MF
+8	Haus	Haus	_	NOUN-NN	Morph:asn|NE:B-ORG|props:5head-pppossnp|tf:MF
+9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
+10	Kunst	Kunst	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
+11	an	an	_	ADP-APPR	Morph:d|NE:O|props:5head-pppossnp|tf:MF
+12	dem	das	_	DET-ART	Morph:dsn|NE:O|props:5head-pppossnp|tf:MF
+13	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:5head-pppossnp|tf:MF
+14	des	der	_	DET-ART	Morph:gsm|NE:O|props:5head-pppossnp|tf:MF
+15	Ausschusses	Ausschuss	_	NOUN-NN	Morph:gsm|NE:O|props:5head-pppossnp|tf:MF
+16	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-pppossnp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:5head-pppossnp|tf:VF
 2	sucht	suchen	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-pppossnp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-pppossnp|tf:MF
-4	Flüchtling	Flüchtling	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppossnp|tf:MF
+4	Präsidenten	Präsident	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppossnp|tf:MF
 5	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
 6	Gesellschaft	Gesellschaft	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
 7	die	die	_	DET-ART	Morph:asf|NE:O|props:5head-pppossnp|tf:MF
@@ -3911,7 +3913,7 @@
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:5head-pppossnp|tf:VF
 2	erklären	erklären	_	VERB-VVFIN	Morph:3pis|NE:O|props:5head-pppossnp|tf:LK
-3	den	der|die|das	_	DET-ART	Morph:dp*|NE:O|props:5head-pppossnp|tf:MF
+3	den	der	_	DET-ART	Morph:dp*|NE:O|props:5head-pppossnp|tf:MF
 4	Leuten	Leute	_	NOUN-NN	Morph:dp*|NE:O|props:5head-pppossnp|tf:MF
 5	des	das	_	DET-ART	Morph:gsn|NE:O|props:5head-pppossnp|tf:MF
 6	Amts	Amt	_	NOUN-NN	Morph:gsn|NE:O|props:5head-pppossnp|tf:MF
@@ -3922,29 +3924,29 @@
 11	von	von	_	ADP-APPR	Morph:d|NE:O|props:5head-pppossnp|tf:MF
 12	Seiten	Seite	_	NOUN-NN	Morph:dpf|NE:O|props:5head-pppossnp|tf:MF
 13	des	der	_	DET-ART	Morph:gsm|NE:O|props:5head-pppossnp|tf:MF
-14	Präsidenten	Präsident	_	NOUN-NN	Morph:gsm|NE:O|props:5head-pppossnp|tf:MF
+14	Gasts	Gast	_	NOUN-NN	Morph:gsm|NE:O|props:5head-pppossnp|tf:MF
 15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-pppossnp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:5head-pppossnp|tf:VF
 2	verkaufen	verkaufen	_	VERB-VVFIN	Morph:3pis|NE:O|props:5head-pppossnp|tf:LK
-3	dem	das	_	DET-ART	Morph:dsn|NE:O|props:5head-pppossnp|tf:MF
-4	Land	Land	_	NOUN-NN	Morph:dsn|NE:O|props:5head-pppossnp|tf:MF
-5	des	der	_	DET-ART	Morph:gsm|NE:O|props:5head-pppossnp|tf:MF
-6	Sohnes	Sohn	_	NOUN-NN	Morph:gsm|NE:O|props:5head-pppossnp|tf:MF
+3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-pppossnp|tf:MF
+4	Kapitän	Kapitän	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppossnp|tf:MF
+5	des	das	_	DET-ART	Morph:gsn|NE:O|props:5head-pppossnp|tf:MF
+6	Schiffs	Schiff	_	NOUN-NN	Morph:gsn|NE:O|props:5head-pppossnp|tf:MF
 7	den	der	_	DET-ART	Morph:asm|NE:O|props:5head-pppossnp|tf:MF
 8	Film	Film	_	NOUN-NN	Morph:asm|NE:O|props:5head-pppossnp|tf:MF
 9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
 10	Frau	Frau	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
 11	an	an	_	ADP-APPR	Morph:d|NE:O|props:5head-pppossnp|tf:MF
-12	Bord	Bord	_	NOUN-NN	Morph:dsn|NE:O|props:5head-pppossnp|tf:MF
-13	des	das	_	DET-ART	Morph:gsn|NE:O|props:5head-pppossnp|tf:MF
-14	Schiffs	Schiff	_	NOUN-NN	Morph:gsn|NE:O|props:5head-pppossnp|tf:MF
+12	Stelle	Stelle	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppossnp|tf:MF
+13	des	der	_	DET-ART	Morph:gsm|NE:O|props:5head-pppossnp|tf:MF
+14	Mannes	Mann	_	NOUN-NN	Morph:gsm|NE:O|props:5head-pppossnp|tf:MF
 15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-pppossnp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:5head-pppossnp|tf:VF
 2	nennen	nennen	_	VERB-VVFIN	Morph:3pis|NE:O|props:5head-pppossnp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-pppossnp|tf:MF
-4	Präsidenten	Präsident	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppossnp|tf:MF
+4	Flüchtling	Flüchtling	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppossnp|tf:MF
 5	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
 6	Heimat	Heimat	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppossnp|tf:MF
 7	die	die	_	DET-ART	Morph:asf|NE:O|props:5head-pppossnp|tf:MF
@@ -3989,24 +3991,24 @@
 2	sagt	sagen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-pppp|tf:LK
 3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-pppp|tf:MF
 4	Wort	Wort	_	NOUN-NN	Morph:asn|NE:O|props:base-pppp|tf:MF
-5	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:base-pppp|tf:MF
-6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-pppp|tf:MF
-7	Weg	Weg	_	NOUN-NN	Morph:dsm|NE:O|props:base-pppp|tf:MF
-8	in	in	_	ADP-APPR	Morph:a|NE:O|props:base-pppp|tf:MF
-9	die	die	_	DET-ART	Morph:asf|NE:O|props:base-pppp|tf:MF
-10	Zukunft	Zukunft	_	NOUN-NN	Morph:asf|NE:O|props:base-pppp|tf:MF
+5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-pppp|tf:MF
+6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:base-pppp|tf:MF
+7	Interview	Interview	_	NOUN-NN	Morph:dsn|NE:O|props:base-pppp|tf:MF
+8	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:base-pppp|tf:MF
+9	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-pppp|tf:MF
+10	Zeitung	Zeitung	_	NOUN-NN	Morph:dsf|NE:O|props:base-pppp|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-pppp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-pppp|tf:VF
 2	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-pppp|tf:LK
 3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-pppp|tf:MF
-4	Problem	Problem	_	NOUN-NN	Morph:asn|NE:O|props:base-pppp|tf:MF
-5	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:base-pppp|tf:MF
-6	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-pppp|tf:MF
-7	Bühne	Bühne	_	NOUN-NN	Morph:dsf|NE:O|props:base-pppp|tf:MF
-8	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-pppp|tf:MF
-9	dem	das	_	DET-ART	Morph:dsn|NE:O|props:base-pppp|tf:MF
-10	Schauspielhaus	Schauspielhaus	_	NOUN-NN	Morph:dsn|NE:O|props:base-pppp|tf:MF
+4	Haus	Haus	_	NOUN-NN	Morph:asn|NE:O|props:base-pppp|tf:MF
+5	an	an	_	ADP-APPR	Morph:d|NE:O|props:base-pppp|tf:MF
+6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:base-pppp|tf:MF
+7	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:base-pppp|tf:MF
+8	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:base-pppp|tf:MF
+9	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-pppp|tf:MF
+10	Vergangenheit	Vergangenheit	_	NOUN-NN	Morph:dsf|NE:O|props:base-pppp|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-pppp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-pppp|tf:VF
@@ -4025,12 +4027,12 @@
 2	verliert	verlieren	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-pppp|tf:LK
 3	das	das	_	DET-ART	Morph:asn|NE:O|props:base-pppp|tf:MF
 4	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|props:base-pppp|tf:MF
-5	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:base-pppp|tf:MF
-6	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-pppp|tf:MF
-7	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:base-pppp|tf:MF
-8	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-pppp|tf:MF
-9	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-pppp|tf:MF
-10	Berg	Berg	_	NOUN-NN	Morph:dsm|NE:O|props:base-pppp|tf:MF
+5	an	an	_	ADP-APPR	Morph:d|NE:O|props:base-pppp|tf:MF
+6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-pppp|tf:MF
+7	Tag	Tag	_	NOUN-NN	Morph:dsm|NE:O|props:base-pppp|tf:MF
+8	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:base-pppp|tf:MF
+9	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-pppp|tf:MF
+10	Sonne	Sonne	_	NOUN-NN	Morph:dsf|NE:O|props:base-pppp|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-pppp|tf:VF
@@ -4058,15 +4060,15 @@
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-pppp|tf:VF
-2	erhält	erhalten	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-pppp|tf:LK
+2	stellt	stellen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-pppp|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:base-pppp|tf:MF
 4	Rolle	Rolle	_	NOUN-NN	Morph:asf|NE:O|props:base-pppp|tf:MF
-5	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-pppp|tf:MF
-6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-pppp|tf:MF
-7	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:base-pppp|tf:MF
-8	über	über	_	ADP-APPR	Morph:a|NE:O|props:base-pppp|tf:MF
-9	den	der	_	DET-ART	Morph:asm|NE:O|props:base-pppp|tf:MF
-10	Krieg	Krieg	_	NOUN-NN	Morph:asm|NE:O|props:base-pppp|tf:MF
+5	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:base-pppp|tf:MF
+6	den	der	_	DET-ART	Morph:asm|NE:O|props:base-pppp|tf:MF
+7	Tisch	Tisch	_	NOUN-NN	Morph:asm|NE:O|props:base-pppp|tf:MF
+8	in	in	_	ADP-APPR	Morph:d|NE:O|props:base-pppp|tf:MF
+9	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-pppp|tf:MF
+10	Küche	Küche	_	NOUN-NN	Morph:dsf|NE:O|props:base-pppp|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-pppp|tf:VF
@@ -4184,19 +4186,19 @@
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-pppp|tf:VF
 2	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-pppp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-pppp|tf:MF
-4	Staat	Staat	_	NOUN-NN	Morph:dsm|NE:O|props:3head-pppp|tf:MF
+4	Gast	Gast	_	NOUN-NN	Morph:dsm|NE:O|props:3head-pppp|tf:MF
 5	das	das	_	DET-ART	Morph:asn|NE:O|props:3head-pppp|tf:MF
-6	Problem	Problem	_	NOUN-NN	Morph:asn|NE:O|props:3head-pppp|tf:MF
-7	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:3head-pppp|tf:MF
-8	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-pppp|tf:MF
-9	Bühne	Bühne	_	NOUN-NN	Morph:dsf|NE:O|props:3head-pppp|tf:MF
-10	in	in	_	ADP-APPR	Morph:d|NE:O|props:3head-pppp|tf:MF
-11	dem	das	_	DET-ART	Morph:dsn|NE:O|props:3head-pppp|tf:MF
-12	Schauspielhaus	Schauspielhaus	_	NOUN-NN	Morph:dsn|NE:O|props:3head-pppp|tf:MF
+6	Haus	Haus	_	NOUN-NN	Morph:asn|NE:O|props:3head-pppp|tf:MF
+7	an	an	_	ADP-APPR	Morph:d|NE:O|props:3head-pppp|tf:MF
+8	dem	das	_	DET-ART	Morph:dsn|NE:O|props:3head-pppp|tf:MF
+9	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:3head-pppp|tf:MF
+10	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:3head-pppp|tf:MF
+11	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-pppp|tf:MF
+12	Vergangenheit	Vergangenheit	_	NOUN-NN	Morph:dsf|NE:O|props:3head-pppp|tf:MF
 13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-pppp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-pppp|tf:VF
-2	beschreibt	beschreiben	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-pppp|tf:LK
+2	verkauft	verkaufen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-pppp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-pppp|tf:MF
 4	Kunden	Kunde	_	NOUN-NN	Morph:dsm|NE:O|props:3head-pppp|tf:MF
 5	das	das	_	DET-ART	Morph:asn|NE:O|props:3head-pppp|tf:MF
@@ -4215,12 +4217,12 @@
 4	Frau	Frau	_	NOUN-NN	Morph:dsf|NE:O|props:3head-pppp|tf:MF
 5	das	das	_	DET-ART	Morph:asn|NE:O|props:3head-pppp|tf:MF
 6	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|props:3head-pppp|tf:MF
-7	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:3head-pppp|tf:MF
-8	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-pppp|tf:MF
-9	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:3head-pppp|tf:MF
-10	in	in	_	ADP-APPR	Morph:d|NE:O|props:3head-pppp|tf:MF
-11	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-pppp|tf:MF
-12	Berg	Berg	_	NOUN-NN	Morph:dsm|NE:O|props:3head-pppp|tf:MF
+7	an	an	_	ADP-APPR	Morph:d|NE:O|props:3head-pppp|tf:MF
+8	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-pppp|tf:MF
+9	Tag	Tag	_	NOUN-NN	Morph:dsm|NE:O|props:3head-pppp|tf:MF
+10	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:3head-pppp|tf:MF
+11	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-pppp|tf:MF
+12	Sonne	Sonne	_	NOUN-NN	Morph:dsf|NE:O|props:3head-pppp|tf:MF
 13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:3head-pppp|tf:VF
@@ -4239,16 +4241,16 @@
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:3head-pppp|tf:VF
 2	erklärt	erklären	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-pppp|tf:LK
-3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-pppp|tf:MF
-4	Gegner	Gegner	_	NOUN-NN	Morph:dsm|NE:O|props:3head-pppp|tf:MF
+3	den	der|die|das	_	DET-ART	Morph:dp*|NE:O|props:3head-pppp|tf:MF
+4	Leuten	Leute	_	NOUN-NN	Morph:dp*|NE:O|props:3head-pppp|tf:MF
 5	den	der	_	DET-ART	Morph:asm|NE:O|props:3head-pppp|tf:MF
 6	Grund	Grund	_	NOUN-NN	Morph:asm|NE:O|props:3head-pppp|tf:MF
-7	in	in	_	ADP-APPR	Morph:d|NE:O|props:3head-pppp|tf:MF
+7	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:3head-pppp|tf:MF
 8	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-pppp|tf:MF
-9	Stadt	Stadt	_	NOUN-NN	Morph:dsf|NE:O|props:3head-pppp|tf:MF
+9	Pressekonferenz	Pressekonferenz	_	NOUN-NN	Morph:dsf|NE:O|props:3head-pppp|tf:MF
 10	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:3head-pppp|tf:MF
 11	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-pppp|tf:MF
-12	Fluss	Fluss	_	NOUN-NN	Morph:dsm|NE:O|props:3head-pppp|tf:MF
+12	Premierminister	Premierminister	_	NOUN-NN	Morph:dsm|NE:O|props:3head-pppp|tf:MF
 13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:3head-pppp|tf:VF
@@ -4287,10 +4289,10 @@
 6	Platz	Platz	_	NOUN-NN	Morph:asm|NE:O|props:3head-pppp|tf:MF
 7	in	in	_	ADP-APPR	Morph:d|NE:O|props:3head-pppp|tf:MF
 8	dem	das	_	DET-ART	Morph:dsn|NE:O|props:3head-pppp|tf:MF
-9	Land	Land	_	NOUN-NN	Morph:dsn|NE:O|props:3head-pppp|tf:MF
+9	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|props:3head-pppp|tf:MF
 10	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:3head-pppp|tf:MF
 11	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-pppp|tf:MF
-12	Insel	Insel	_	NOUN-NN	Morph:dsf|NE:O|props:3head-pppp|tf:MF
+12	Pandemie	Pandemie	_	NOUN-NN	Morph:dsf|NE:O|props:3head-pppp|tf:MF
 13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-pppp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:3head-pppp|tf:VF
@@ -4322,14 +4324,14 @@
 13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-pppp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:3head-pppp|tf:VF
-2	verkaufen	verkaufen	_	VERB-VVFIN	Morph:3pis|NE:O|props:3head-pppp|tf:LK
+2	beschreiben	beschreiben	_	VERB-VVFIN	Morph:3pis|NE:O|props:3head-pppp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-pppp|tf:MF
 4	Herren	Herr	_	NOUN-NN	Morph:dsm|NE:O|props:3head-pppp|tf:MF
 5	den	der	_	DET-ART	Morph:asm|NE:O|props:3head-pppp|tf:MF
 6	Film	Film	_	NOUN-NN	Morph:asm|NE:O|props:3head-pppp|tf:MF
-7	in	in	_	ADP-APPR	Morph:d|NE:O|props:3head-pppp|tf:MF
-8	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-pppp|tf:MF
-9	Staat	Staat	_	NOUN-NN	Morph:dsm|NE:O|props:3head-pppp|tf:MF
+7	für	für	_	ADP-APPR	Morph:a|NE:O|props:3head-pppp|tf:MF
+8	den	der	_	DET-ART	Morph:asm|NE:O|props:3head-pppp|tf:MF
+9	Staat	Staat	_	NOUN-NN	Morph:asm|NE:O|props:3head-pppp|tf:MF
 10	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:3head-pppp|tf:MF
 11	dem	das	_	DET-ART	Morph:dsn|NE:O|props:3head-pppp|tf:MF
 12	Einparteisystem	Einparteisystem	_	NOUN-NN	Morph:dsn|NE:O|props:3head-pppp|tf:MF
@@ -4398,17 +4400,17 @@
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:4head-pppp|tf:VF
 2	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-pppp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-pppp|tf:MF
-4	Staat	Staat	_	NOUN-NN	Morph:dsm|NE:O|props:4head-pppp|tf:MF
-5	des	das	_	DET-ART	Morph:gsn|NE:O|props:4head-pppp|tf:MF
-6	Kindes	Kind	_	NOUN-NN	Morph:gsn|NE:O|props:4head-pppp|tf:MF
+4	Gast	Gast	_	NOUN-NN	Morph:dsm|NE:O|props:4head-pppp|tf:MF
+5	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-pppp|tf:MF
+6	Fragerunde	Fragerunde	_	NOUN-NN	Morph:gsf|NE:O|props:4head-pppp|tf:MF
 7	das	das	_	DET-ART	Morph:asn|NE:O|props:4head-pppp|tf:MF
-8	Problem	Problem	_	NOUN-NN	Morph:asn|NE:O|props:4head-pppp|tf:MF
-9	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:4head-pppp|tf:MF
-10	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-pppp|tf:MF
-11	Bühne	Bühne	_	NOUN-NN	Morph:dsf|NE:O|props:4head-pppp|tf:MF
-12	in	in	_	ADP-APPR	Morph:d|NE:O|props:4head-pppp|tf:MF
-13	dem	das	_	DET-ART	Morph:dsn|NE:O|props:4head-pppp|tf:MF
-14	Schauspielhaus	Schauspielhaus	_	NOUN-NN	Morph:dsn|NE:O|props:4head-pppp|tf:MF
+8	Haus	Haus	_	NOUN-NN	Morph:asn|NE:O|props:4head-pppp|tf:MF
+9	an	an	_	ADP-APPR	Morph:d|NE:O|props:4head-pppp|tf:MF
+10	dem	das	_	DET-ART	Morph:dsn|NE:O|props:4head-pppp|tf:MF
+11	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:4head-pppp|tf:MF
+12	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:4head-pppp|tf:MF
+13	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-pppp|tf:MF
+14	Vergangenheit	Vergangenheit	_	NOUN-NN	Morph:dsf|NE:O|props:4head-pppp|tf:MF
 15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-pppp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:4head-pppp|tf:VF
@@ -4435,12 +4437,12 @@
 6	Kollegen	Kollege	_	NOUN-NN	Morph:gsm|NE:O|props:4head-pppp|tf:MF
 7	das	das	_	DET-ART	Morph:asn|NE:O|props:4head-pppp|tf:MF
 8	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|props:4head-pppp|tf:MF
-9	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:4head-pppp|tf:MF
-10	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-pppp|tf:MF
-11	Straße	Straße	_	NOUN-NN	Morph:asf|NE:O|props:4head-pppp|tf:MF
-12	in	in	_	ADP-APPR	Morph:d|NE:O|props:4head-pppp|tf:MF
-13	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-pppp|tf:MF
-14	Berg	Berg	_	NOUN-NN	Morph:dsm|NE:O|props:4head-pppp|tf:MF
+9	an	an	_	ADP-APPR	Morph:d|NE:O|props:4head-pppp|tf:MF
+10	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-pppp|tf:MF
+11	Tag	Tag	_	NOUN-NN	Morph:dsm|NE:O|props:4head-pppp|tf:MF
+12	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:4head-pppp|tf:MF
+13	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-pppp|tf:MF
+14	Sonne	Sonne	_	NOUN-NN	Morph:dsf|NE:O|props:4head-pppp|tf:MF
 15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:4head-pppp|tf:VF
@@ -4461,18 +4463,18 @@
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:4head-pppp|tf:VF
 2	erklärt	erklären	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-pppp|tf:LK
-3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-pppp|tf:MF
-4	Gegner	Gegner	_	NOUN-NN	Morph:dsm|NE:O|props:4head-pppp|tf:MF
+3	den	der	_	DET-ART	Morph:dp*|NE:O|props:4head-pppp|tf:MF
+4	Leuten	Leute	_	NOUN-NN	Morph:dp*|NE:O|props:4head-pppp|tf:MF
 5	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-pppp|tf:MF
-6	Forderung	Forderung	_	NOUN-NN	Morph:gsf|NE:O|props:4head-pppp|tf:MF
+6	Partei	Partei	_	NOUN-NN	Morph:gsf|NE:O|props:4head-pppp|tf:MF
 7	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-pppp|tf:MF
 8	Grund	Grund	_	NOUN-NN	Morph:asm|NE:O|props:4head-pppp|tf:MF
-9	in	in	_	ADP-APPR	Morph:d|NE:O|props:4head-pppp|tf:MF
+9	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:4head-pppp|tf:MF
 10	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-pppp|tf:MF
-11	Stadt	Stadt	_	NOUN-NN	Morph:dsf|NE:O|props:4head-pppp|tf:MF
+11	Pressekonferenz	Pressekonferenz	_	NOUN-NN	Morph:dsf|NE:O|props:4head-pppp|tf:MF
 12	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:4head-pppp|tf:MF
 13	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-pppp|tf:MF
-14	Fluss	Fluss	_	NOUN-NN	Morph:dsm|NE:O|props:4head-pppp|tf:MF
+14	Premierminister	Premierminister	_	NOUN-NN	Morph:dsm|NE:O|props:4head-pppp|tf:MF
 15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:4head-pppp|tf:VF
@@ -4515,12 +4517,12 @@
 6	Films	Film	_	NOUN-NN	Morph:gsm|NE:O|props:4head-pppp|tf:MF
 7	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-pppp|tf:MF
 8	Platz	Platz	_	NOUN-NN	Morph:asm|NE:O|props:4head-pppp|tf:MF
-9	in	in	_	ADP-APPR	Morph:a|NE:O|props:4head-pppp|tf:MF
-10	das	das	_	DET-ART	Morph:asn|NE:O|props:4head-pppp|tf:MF
-11	Land	Land	_	NOUN-NN	Morph:asn|NE:O|props:4head-pppp|tf:MF
+9	in	in	_	ADP-APPR	Morph:d|NE:O|props:4head-pppp|tf:MF
+10	dem	das	_	DET-ART	Morph:dsn|NE:O|props:4head-pppp|tf:MF
+11	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|props:4head-pppp|tf:MF
 12	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:4head-pppp|tf:MF
 13	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-pppp|tf:MF
-14	Insel	Insel	_	NOUN-NN	Morph:dsf|NE:O|props:4head-pppp|tf:MF
+14	Pandemie	Pandemie	_	NOUN-NN	Morph:dsf|NE:O|props:4head-pppp|tf:MF
 15	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-pppp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:4head-pppp|tf:VF
@@ -4642,19 +4644,19 @@
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:5head-pppp|tf:VF
 2	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-pppp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-pppp|tf:MF
-4	Staat	Staat	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
-5	des	das	_	DET-ART	Morph:gsn|NE:O|props:5head-pppp|tf:MF
-6	Kindes	Kind	_	NOUN-NN	Morph:gsn|NE:O|props:5head-pppp|tf:MF
+4	Gast	Gast	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
+5	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppp|tf:MF
+6	Fragerunde	Fragerunde	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppp|tf:MF
 7	das	das	_	DET-ART	Morph:asn|NE:O|props:5head-pppp|tf:MF
-8	Problem	Problem	_	NOUN-NN	Morph:asn|NE:O|props:5head-pppp|tf:MF
+8	Haus	Haus	_	NOUN-NN	Morph:asn|NE:B-ORG|props:5head-pppp|tf:MF
 9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppp|tf:MF
-10	Mutter	Mutter	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppp|tf:MF
-11	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
-12	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-pppp|tf:MF
-13	Bühne	Bühne	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppp|tf:MF
-14	in	in	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
-15	dem	das	_	DET-ART	Morph:dsn|NE:O|props:5head-pppp|tf:MF
-16	Schauspielhaus	Schauspielhaus	_	NOUN-NN	Morph:dsn|NE:O|props:5head-pppp|tf:MF
+10	Kunst	Kunst	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppp|tf:MF
+11	an	an	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
+12	dem	das	_	DET-ART	Morph:dsn|NE:O|props:5head-pppp|tf:MF
+13	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:5head-pppp|tf:MF
+14	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
+15	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-pppp|tf:MF
+16	Vergangenheit	Vergangenheit	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppp|tf:MF
 17	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-pppp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:5head-pppp|tf:VF
@@ -4685,12 +4687,12 @@
 8	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|props:5head-pppp|tf:MF
 9	des	der	_	DET-ART	Morph:gsm|NE:O|props:5head-pppp|tf:MF
 10	Kollegen	Kollege	_	NOUN-NN	Morph:gsm|NE:O|props:5head-pppp|tf:MF
-11	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
-12	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-pppp|tf:MF
-13	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppp|tf:MF
-14	in	in	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
-15	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-pppp|tf:MF
-16	Berg	Berg	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
+11	an	an	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
+12	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-pppp|tf:MF
+13	Tag	Tag	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
+14	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
+15	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-pppp|tf:MF
+16	Sonne	Sonne	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppp|tf:MF
 17	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:5head-pppp|tf:VF
@@ -4713,38 +4715,38 @@
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:5head-pppp|tf:VF
 2	erklärt	erklären	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-pppp|tf:LK
-3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-pppp|tf:MF
-4	Gegner	Gegner	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
+3	den	der	_	DET-ART	Morph:dp*|NE:O|props:5head-pppp|tf:MF
+4	Leuten	Leute	_	NOUN-NN	Morph:dp*|NE:O|props:5head-pppp|tf:MF
 5	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppp|tf:MF
-6	Forderung	Forderung	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppp|tf:MF
+6	Partei	Partei	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppp|tf:MF
 7	den	der	_	DET-ART	Morph:asm|NE:O|props:5head-pppp|tf:MF
 8	Grund	Grund	_	NOUN-NN	Morph:asm|NE:O|props:5head-pppp|tf:MF
 9	des	das	_	DET-ART	Morph:gsn|NE:O|props:5head-pppp|tf:MF
 10	Endes	Ende	_	NOUN-NN	Morph:gsn|NE:O|props:5head-pppp|tf:MF
-11	in	in	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
+11	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
 12	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-pppp|tf:MF
-13	Stadt	Stadt	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppp|tf:MF
+13	Pressekonferenz	Pressekonferenz	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppp|tf:MF
 14	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
 15	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-pppp|tf:MF
-16	Fluss	Fluss	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
+16	Premierminister	Premierminister	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
 17	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:5head-pppp|tf:VF
 2	nennt	nennen	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-pppp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-pppp|tf:MF
-4	Präsidenten	Präsident	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
+4	Flüchtling	Flüchtling	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
 5	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppp|tf:MF
 6	Heimat	Heimat	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppp|tf:MF
 7	die	die	_	DET-ART	Morph:asf|NE:O|props:5head-pppp|tf:MF
 8	Forderung	Forderung	_	NOUN-NN	Morph:asf|NE:O|props:5head-pppp|tf:MF
 9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppp|tf:MF
 10	Gesellschaft	Gesellschaft	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppp|tf:MF
-11	in	in	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
+11	an	an	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
 12	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-pppp|tf:MF
-13	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
-14	über	über	_	ADP-APPR	Morph:a|NE:O|props:5head-pppp|tf:MF
-15	den	der	_	DET-ART	Morph:asm|NE:O|props:5head-pppp|tf:MF
-16	Krieg	Krieg	_	NOUN-NN	Morph:asm|NE:O|props:5head-pppp|tf:MF
+13	Tag	Tag	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
+14	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
+15	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-pppp|tf:MF
+16	Sonne	Sonne	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppp|tf:MF
 17	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:5head-pppp|tf:VF
@@ -4757,12 +4759,12 @@
 8	Geschichte	Geschichte	_	NOUN-NN	Morph:asf|NE:O|props:5head-pppp|tf:MF
 9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppp|tf:MF
 10	Rückkehr	Rückkehr	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppp|tf:MF
-11	in	in	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
+11	vor	vor	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
 12	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-pppp|tf:MF
-13	Nacht	Nacht	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppp|tf:MF
-14	vor	vor	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
+13	Gruppe	Gruppe	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppp|tf:MF
+14	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
 15	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-pppp|tf:MF
-16	Tod	Tod	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
+16	Chef	Chef	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
 17	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:5head-pppp|tf:VF
@@ -4777,16 +4779,16 @@
 10	Heimat	Heimat	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppp|tf:MF
 11	in	in	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
 12	dem	das	_	DET-ART	Morph:dsn|NE:O|props:5head-pppp|tf:MF
-13	Land	Land	_	NOUN-NN	Morph:dsn|NE:O|props:5head-pppp|tf:MF
+13	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|props:5head-pppp|tf:MF
 14	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
 15	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-pppp|tf:MF
-16	Insel	Insel	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppp|tf:MF
+16	Pandemie	Pandemie	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppp|tf:MF
 17	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-pppp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:5head-pppp|tf:VF
 2	suchen	suchen	_	VERB-VVFIN	Morph:3pis|NE:O|props:5head-pppp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-pppp|tf:MF
-4	Flüchtling	Flüchtling	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
+4	Präsidenten	Präsident	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
 5	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppp|tf:MF
 6	Gesellschaft	Gesellschaft	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppp|tf:MF
 7	die	die	_	DET-ART	Morph:asf|NE:O|props:5head-pppp|tf:MF
@@ -4838,15 +4840,15 @@
 17	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-pppp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:5head-pppp|tf:VF
-2	stellen	stellen	_	VERB-VVFIN	Morph:3pis|NE:O|props:5head-pppp|tf:LK
+2	beweisen	beweisen	_	VERB-VVFIN	Morph:3pis|NE:O|props:5head-pppp|tf:LK
 3	dem	das	_	DET-ART	Morph:dsn|NE:O|props:5head-pppp|tf:MF
 4	Kind	Kind	_	NOUN-NN	Morph:dsn|NE:O|props:5head-pppp|tf:MF
 5	des	der	_	DET-ART	Morph:gsm|NE:O|props:5head-pppp|tf:MF
 6	Vaters	Vater	_	NOUN-NN	Morph:gsm|NE:O|props:5head-pppp|tf:MF
-7	die	die	_	DET-ART	Morph:asf|NE:O|props:5head-pppp|tf:MF
-8	Frage	Frage	_	NOUN-NN	Morph:asf|NE:O|props:5head-pppp|tf:MF
-9	des	der	_	DET-ART	Morph:gsm|NE:O|props:5head-pppp|tf:MF
-10	Sohnes	Sohn	_	NOUN-NN	Morph:gsm|NE:O|props:5head-pppp|tf:MF
+7	den	der	_	DET-ART	Morph:asm|NE:O|props:5head-pppp|tf:MF
+8	Sinn	Sinn	_	NOUN-NN	Morph:asm|NE:O|props:5head-pppp|tf:MF
+9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppp|tf:MF
+10	Forderung	Forderung	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppp|tf:MF
 11	in	in	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
 12	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-pppp|tf:MF
 13	Bar	Bar	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppp|tf:MF
@@ -4866,11 +4868,11 @@
 9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-pppp|tf:MF
 10	Meinung	Meinung	_	NOUN-NN	Morph:gsf|NE:O|props:5head-pppp|tf:MF
 11	in	in	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
-12	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-pppp|tf:MF
-13	Bereich	Bereich	_	NOUN-NN	Morph:dsm|NE:O|props:5head-pppp|tf:MF
-14	in	in	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
+12	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-pppp|tf:MF
+13	Nacht	Nacht	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppp|tf:MF
+14	vor	vor	_	ADP-APPR	Morph:d|NE:O|props:5head-pppp|tf:MF
 15	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-pppp|tf:MF
-16	Musikindustrie	Musikindustrie	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppp|tf:MF
+16	Wahl	Wahl	_	NOUN-NN	Morph:dsf|NE:O|props:5head-pppp|tf:MF
 17	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-pppp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:prepdetadjnoun-pppp|tf:VF
@@ -4890,26 +4892,26 @@
 2	sagt	sagen	_	VERB-VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-pppp|tf:LK
 3	das	das	_	DET-ART	Morph:asn|NE:O|props:prepdetadjnoun-pppp|tf:MF
 4	Wort	Wort	_	NOUN-NN	Morph:asn|NE:O|props:prepdetadjnoun-pppp|tf:MF
-5	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
-6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:prepdetadjnoun-pppp|tf:MF
-7	langen	lang	_	ADJ-ADJA	Morph:dsm|NE:O|props:prepdetadjnoun-pppp|tf:MF
-8	Weg	Weg	_	NOUN-NN	Morph:dsm|NE:O|props:prepdetadjnoun-pppp|tf:MF
-9	in	in	_	ADP-APPR	Morph:a|NE:O|props:prepdetadjnoun-pppp|tf:MF
-10	die	die	_	DET-ART	Morph:asf|NE:O|props:prepdetadjnoun-pppp|tf:MF
-11	Zukunft	Zukunft	_	NOUN-NN	Morph:asf|NE:O|props:prepdetadjnoun-pppp|tf:MF
+5	in	in	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
+6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:prepdetadjnoun-pppp|tf:MF
+7	fingierten	fingiert	_	ADJ-ADJA	Morph:dsn|NE:O|props:prepdetadjnoun-pppp|tf:MF
+8	Interview	Interview	_	NOUN-NN	Morph:dsn|NE:O|props:prepdetadjnoun-pppp|tf:MF
+9	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
+10	der	die	_	DET-ART	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
+11	Zeitung	Zeitung	_	NOUN-NN	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:prepdetadjnoun-pppp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:prepdetadjnoun-pppp|tf:VF
 2	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-pppp|tf:LK
 3	das	das	_	DET-ART	Morph:asn|NE:O|props:prepdetadjnoun-pppp|tf:MF
 4	Problem	Problem	_	NOUN-NN	Morph:asn|NE:O|props:prepdetadjnoun-pppp|tf:MF
-5	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
+5	in	in	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
 6	der	die	_	DET-ART	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
-7	öffentlichen	öffentlich	_	ADJ-ADJA	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
-8	Bühne	Bühne	_	NOUN-NN	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
-9	in	in	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
-10	dem	das	_	DET-ART	Morph:dsn|NE:O|props:prepdetadjnoun-pppp|tf:MF
-11	Schauspielhaus	Schauspielhaus	_	NOUN-NN	Morph:dsn|NE:O|props:prepdetadjnoun-pppp|tf:MF
+7	letzten	letzt	_	ADJ-ADJA	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
+8	Woche	Woche	_	NOUN-NN	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
+9	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
+10	der	die	_	DET-ART	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
+11	Wahl	Wahl	_	NOUN-NN	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:prepdetadjnoun-pppp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:prepdetadjnoun-pppp|tf:VF
@@ -4939,16 +4941,16 @@
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:prepdetadjnoun-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:prepdetadjnoun-pppp|tf:VF
-2	hält	halten	_	VERB-VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-pppp|tf:LK
+2	fragt	fragen	_	VERB-VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-pppp|tf:LK
 3	den	der	_	DET-ART	Morph:asm|NE:O|props:prepdetadjnoun-pppp|tf:MF
 4	Gast	Gast	_	NOUN-NN	Morph:asm|NE:O|props:prepdetadjnoun-pppp|tf:MF
-5	in	in	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
-6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:prepdetadjnoun-pppp|tf:MF
-7	letzten	letzt	_	ADJ-ADJA	Morph:dsn|NE:O|props:prepdetadjnoun-pppp|tf:MF
-8	Haus	Haus	_	NOUN-NN	Morph:dsn|NE:O|props:prepdetadjnoun-pppp|tf:MF
+5	nach	nach	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
+6	der	die	_	DET-ART	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
+7	verlorenen	verloren	_	ADJ-ADJA	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
+8	Identität	Identität	_	NOUN-NN	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
 9	in	in	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
-10	der	die	_	DET-ART	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
-11	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
+10	dem	das	_	DET-ART	Morph:dsn|NE:O|props:prepdetadjnoun-pppp|tf:MF
+11	Viertel	Viertel	_	NOUN-NN	Morph:dsn|NE:O|props:prepdetadjnoun-pppp|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:prepdetadjnoun-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:prepdetadjnoun-pppp|tf:VF
@@ -4965,16 +4967,16 @@
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:prepdetadjnoun-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:prepdetadjnoun-pppp|tf:VF
-2	erhält	erhalten	_	VERB-VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-pppp|tf:LK
+2	legt	legen	_	VERB-VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-pppp|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:prepdetadjnoun-pppp|tf:MF
 4	Rolle	Rolle	_	NOUN-NN	Morph:asf|NE:O|props:prepdetadjnoun-pppp|tf:MF
-5	in	in	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
-6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:prepdetadjnoun-pppp|tf:MF
-7	neuen	neu	_	ADJ-ADJA	Morph:dsm|NE:O|props:prepdetadjnoun-pppp|tf:MF
-8	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:prepdetadjnoun-pppp|tf:MF
-9	über	über	_	ADP-APPR	Morph:a|NE:O|props:prepdetadjnoun-pppp|tf:MF
-10	den	der	_	DET-ART	Morph:asm|NE:O|props:prepdetadjnoun-pppp|tf:MF
-11	Krieg	Krieg	_	NOUN-NN	Morph:asm|NE:O|props:prepdetadjnoun-pppp|tf:MF
+5	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:prepdetadjnoun-pppp|tf:MF
+6	den	der	_	DET-ART	Morph:asm|NE:O|props:prepdetadjnoun-pppp|tf:MF
+7	kurzen	kurz	_	ADJ-ADJA	Morph:asm|NE:O|props:prepdetadjnoun-pppp|tf:MF
+8	Tisch	Tisch	_	NOUN-NN	Morph:asm|NE:O|props:prepdetadjnoun-pppp|tf:MF
+9	in	in	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
+10	der	die	_	DET-ART	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
+11	Küche	Küche	_	NOUN-NN	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:prepdetadjnoun-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:prepdetadjnoun-pppp|tf:VF
@@ -5046,10 +5048,10 @@
 2	führt	führen	_	VERB-VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-pppp|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:prepdetadjnoun-pppp|tf:MF
 4	Frau	Frau	_	NOUN-NN	Morph:asf|NE:O|props:prepdetadjnoun-pppp|tf:MF
-5	in	in	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
-6	der	die	_	DET-ART	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
-7	kleinen	klein	_	ADJ-ADJA	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
-8	Bar	Bar	_	NOUN-NN	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
+5	in	in	_	ADP-APPR	Morph:a|NE:O|props:prepdetadjnoun-pppp|tf:MF
+6	die	die	_	DET-ART	Morph:asf|NE:O|props:prepdetadjnoun-pppp|tf:MF
+7	kleine	klein	_	ADJ-ADJA	Morph:asf|NE:O|props:prepdetadjnoun-pppp|tf:MF
+8	Bar	Bar	_	NOUN-NN	Morph:asf|NE:O|props:prepdetadjnoun-pppp|tf:MF
 9	an	an	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
 10	der	die	_	DET-ART	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
 11	Ecke	Ecke	_	NOUN-NN	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
@@ -5061,7 +5063,7 @@
 4	Mann	Mann	_	NOUN-NN	Morph:asm|NE:O|props:prepdetadjnoun-pppp|tf:MF
 5	in	in	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
 6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:prepdetadjnoun-pppp|tf:MF
-7	anderen	anderer	_	ADJ-ADJA	Morph:dsm|NE:O|props:prepdetadjnoun-pppp|tf:MF
+7	anderen	ander	_	ADJ-ADJA	Morph:dsm|NE:O|props:prepdetadjnoun-pppp|tf:MF
 8	Bereich	Bereich	_	NOUN-NN	Morph:dsm|NE:O|props:prepdetadjnoun-pppp|tf:MF
 9	in	in	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-pppp|tf:MF
 10	der	die	_	DET-ART	Morph:dsf|NE:O|props:prepdetadjnoun-pppp|tf:MF
@@ -5085,8 +5087,8 @@
 2	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:pppossnp-pppp|tf:LK
 3	das	das	_	DET-ART	Morph:asn|NE:O|props:pppossnp-pppp|tf:MF
 4	Problem	Problem	_	NOUN-NN	Morph:asn|NE:O|props:pppossnp-pppp|tf:MF
-5	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:pppossnp-pppp|tf:MF
-6	Seiten	Seite	_	NOUN-NN	Morph:dpf|NE:O|props:pppossnp-pppp|tf:MF
+5	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:pppossnp-pppp|tf:MF
+6	Sicht	Sicht	_	NOUN-NN	Morph:dsf|NE:O|props:pppossnp-pppp|tf:MF
 7	der	die	_	DET-ART	Morph:gsf|NE:O|props:pppossnp-pppp|tf:MF
 8	Bundesrepublik	Bundesrepublik	_	NOUN-NN	Morph:gsf|NE:O|props:pppossnp-pppp|tf:MF
 9	an	an	_	ADP-APPR	Morph:d|NE:O|props:pppossnp-pppp|tf:MF
@@ -5186,7 +5188,7 @@
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:pppossnp-pppp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:pppossnp-pppp|tf:VF
-2	mag	mögen	_	VERB-VVFIN	Morph:3sis|NE:O|props:pppossnp-pppp|tf:LK
+2	mag	mögen	_	VERB-VMFIN	Morph:3sis|NE:O|props:pppossnp-pppp|tf:LK
 3	den	der	_	DET-ART	Morph:asm|NE:O|props:pppossnp-pppp|tf:MF
 4	Mann	Mann	_	NOUN-NN	Morph:asm|NE:O|props:pppossnp-pppp|tf:MF
 5	seit	seit	_	ADP-APPR	Morph:d|NE:O|props:pppossnp-pppp|tf:MF
@@ -5265,16 +5267,16 @@
 
 1	In	in	_	ADP-APPR	Morph:d|NE:O|props:base-ppbeforehead|tf:VF
 2	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-ppbeforehead|tf:VF
-3	Hand	Hand	_	NOUN-NN	Morph:dsf|NE:O|props:base-ppbeforehead|tf:VF
-4	hat	haben	_	VERB-VAFIN	Morph:3sis|NE:O|props:base-ppbeforehead|tf:LK
+3	Nacht	Nacht	_	NOUN-NN	Morph:dsf|NE:O|props:base-ppbeforehead|tf:VF
+4	verliert	verlieren	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-ppbeforehead|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-ppbeforehead|tf:MF
 6	das	das	_	DET-ART	Morph:asn|NE:O|props:base-ppbeforehead|tf:MF
 7	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|props:base-ppbeforehead|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-ppbeforehead|tf:UNK
 
-1	Zu	zu	_	ADP-APPR	Morph:d|NE:O|props:base-ppbeforehead|tf:VF
+1	In	in	_	ADP-APPR	Morph:d|NE:O|props:base-ppbeforehead|tf:VF
 2	dem	das	_	DET-ART	Morph:dsn|NE:O|props:base-ppbeforehead|tf:VF
-3	Thema	Thema	_	NOUN-NN	Morph:dsn|NE:O|props:base-ppbeforehead|tf:VF
+3	Interview	Interview	_	NOUN-NN	Morph:dsn|NE:O|props:base-ppbeforehead|tf:VF
 4	sagt	sagen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-ppbeforehead|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-ppbeforehead|tf:MF
 6	das	das	_	DET-ART	Morph:asn|NE:O|props:base-ppbeforehead|tf:MF
@@ -5290,9 +5292,9 @@
 7	Mann	Mann	_	NOUN-NN	Morph:asm|NE:O|props:base-ppbeforehead|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-ppbeforehead|tf:UNK
 
-1	In	in	_	ADP-APPR	Morph:a|NE:O|props:base-ppbeforehead|tf:VF
-2	das	das	_	DET-ART	Morph:asn|NE:O|props:base-ppbeforehead|tf:VF
-3	Haus	Haus	_	NOUN-NN	Morph:asn|NE:O|props:base-ppbeforehead|tf:VF
+1	An	an	_	ADP-APPR	Morph:d|NE:O|props:base-ppbeforehead|tf:VF
+2	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-ppbeforehead|tf:VF
+3	Abend	Abend	_	NOUN-NN	Morph:dsm|NE:O|props:base-ppbeforehead|tf:VF
 4	sieht	sehen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-ppbeforehead|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:base-ppbeforehead|tf:MF
 6	den	der	_	DET-ART	Morph:asm|NE:O|props:base-ppbeforehead|tf:MF
@@ -5308,31 +5310,22 @@
 7	Platz	Platz	_	NOUN-NN	Morph:asm|NE:O|props:base-ppbeforehead|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-ppbeforehead|tf:UNK
 
-1	In	in	_	ADP-APPR	Morph:d|NE:O|props:base-ppbeforehead|tf:VF
-2	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-ppbeforehead|tf:VF
-3	Bereich	Bereich	_	NOUN-NN	Morph:dsm|NE:O|props:base-ppbeforehead|tf:VF
+1	Für	für	_	ADP-APPR	Morph:a|NE:O|props:base-ppbeforehead|tf:VF
+2	das	das	_	DET-ART	Morph:asn|NE:O|props:base-ppbeforehead|tf:VF
+3	Publikum	Publikum	_	NOUN-NN	Morph:asn|NE:O|props:base-ppbeforehead|tf:VF
 4	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-ppbeforehead|tf:LK
 5	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-ppbeforehead|tf:MF
 6	das	das	_	DET-ART	Morph:asn|NE:O|props:base-ppbeforehead|tf:MF
 7	Problem	Problem	_	NOUN-NN	Morph:asn|NE:O|props:base-ppbeforehead|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-ppbeforehead|tf:UNK
 
-1	In	in	_	ADP-APPR	Morph:d|NE:O|props:base-ppbeforehead|tf:VF
+1	Mit	mit	_	ADP-APPR	Morph:d|NE:O|props:base-ppbeforehead|tf:VF
 2	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-ppbeforehead|tf:VF
 3	Hand	Hand	_	NOUN-NN	Morph:dsf|NE:O|props:base-ppbeforehead|tf:VF
 4	hält	halten	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-ppbeforehead|tf:LK
 5	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-ppbeforehead|tf:MF
 6	das	das	_	DET-ART	Morph:asn|NE:O|props:base-ppbeforehead|tf:MF
 7	Bild	Bild	_	NOUN-NN	Morph:asn|NE:O|props:base-ppbeforehead|tf:MF
-8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-ppbeforehead|tf:UNK
-
-1	Auf	auf	_	ADP-APPR	Morph:a|NE:O|props:base-ppbeforehead|tf:VF
-2	die	die	_	DET-ART	Morph:asf|NE:O|props:base-ppbeforehead|tf:VF
-3	Bühne	Bühne	_	NOUN-NN	Morph:asf|NE:O|props:base-ppbeforehead|tf:VF
-4	nimmt	nehmen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-ppbeforehead|tf:LK
-5	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-ppbeforehead|tf:MF
-6	das	das	_	DET-ART	Morph:asn|NE:O|props:base-ppbeforehead|tf:MF
-7	Kind	Kind	_	NOUN-NN	Morph:asn|NE:O|props:base-ppbeforehead|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-ppbeforehead|tf:UNK
 
 1	An	an	_	ADP-APPR	Morph:a|NE:O|props:base-ppbeforehead|tf:VF
@@ -5342,6 +5335,15 @@
 5	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-ppbeforehead|tf:MF
 6	die	die	_	DET-ART	Morph:asf|NE:O|props:base-ppbeforehead|tf:MF
 7	Frau	Frau	_	NOUN-NN	Morph:asf|NE:O|props:base-ppbeforehead|tf:MF
+8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-ppbeforehead|tf:UNK
+
+1	Auf	auf	_	ADP-APPR	Morph:a|NE:O|props:base-ppbeforehead|tf:VF
+2	den	der	_	DET-ART	Morph:asm|NE:O|props:base-ppbeforehead|tf:VF
+3	Tisch	Tisch	_	NOUN-NN	Morph:asm|NE:O|props:base-ppbeforehead|tf:VF
+4	legt	legen	_	VERB-VVFIN	Morph:3sis|NE:O|props:base-ppbeforehead|tf:LK
+5	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:base-ppbeforehead|tf:MF
+6	die	die	_	DET-ART	Morph:asf|NE:O|props:base-ppbeforehead|tf:MF
+7	Rolle	Rolle	_	NOUN-NN	Morph:asf|NE:O|props:base-ppbeforehead|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-ppbeforehead|tf:UNK
 
 1	In	in	_	ADP-APPR	Morph:d|NE:O|props:base-ppbeforehead|tf:VF
@@ -5355,7 +5357,7 @@
 
 1	In	in	_	ADP-APPR	Morph:d|NE:O|props:base-ppbeforehead|tf:VF
 2	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-ppbeforehead|tf:VF
-3	Bundesrepublik	Bundesrepublik	_	NOUN-NN	Morph:dsf|NE:O|props:base-ppbeforehead|tf:VF
+3	Woche	Woche	_	NOUN-NN	Morph:dsf|NE:O|props:base-ppbeforehead|tf:VF
 4	fordern	fordern	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-ppbeforehead|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:base-ppbeforehead|tf:MF
 6	das	das	_	DET-ART	Morph:asn|NE:O|props:base-ppbeforehead|tf:MF
@@ -5373,20 +5375,20 @@
 
 1	In	in	_	ADP-APPR	Morph:d|NE:O|props:base-ppbeforehead|tf:VF
 2	der	die	_	DET-ART	Morph:dsf|NE:O|props:base-ppbeforehead|tf:VF
-3	Stadt	Stadt	_	NOUN-NN	Morph:dsf|NE:O|props:base-ppbeforehead|tf:VF
-4	wollen	wollen	_	VERB-VMFIN	Morph:3pis|NE:O|props:base-ppbeforehead|tf:LK
+3	Woche	Woche	_	NOUN-NN	Morph:dsf|NE:O|props:base-ppbeforehead|tf:VF
+4	beginnen	beginnen	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-ppbeforehead|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:base-ppbeforehead|tf:MF
 6	die	die	_	DET-ART	Morph:asf|NE:O|props:base-ppbeforehead|tf:MF
 7	Arbeit	Arbeit	_	NOUN-NN	Morph:asf|NE:O|props:base-ppbeforehead|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-ppbeforehead|tf:UNK
 
-1	In	in	_	ADP-APPR	Morph:d|NE:O|props:base-ppbeforehead|tf:VF
+1	An	an	_	ADP-APPR	Morph:d|NE:O|props:base-ppbeforehead|tf:VF
 2	dem	der	_	DET-ART	Morph:dsm|NE:O|props:base-ppbeforehead|tf:VF
-3	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:base-ppbeforehead|tf:VF
-4	erhalten	erhalten	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-ppbeforehead|tf:LK
+3	Tag	Tag	_	NOUN-NN	Morph:dsm|NE:O|props:base-ppbeforehead|tf:VF
+4	vergessen	vergessen	_	VERB-VVFIN	Morph:3pis|NE:O|props:base-ppbeforehead|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:base-ppbeforehead|tf:MF
-6	die	die	_	DET-ART	Morph:asf|NE:O|props:base-ppbeforehead|tf:MF
-7	Rolle	Rolle	_	NOUN-NN	Morph:asf|NE:O|props:base-ppbeforehead|tf:MF
+6	das	das	_	DET-ART	Morph:asn|NE:O|props:base-ppbeforehead|tf:MF
+7	Buch	Buch	_	NOUN-NN	Morph:asn|NE:O|props:base-ppbeforehead|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-ppbeforehead|tf:UNK
 
 1	Für	für	_	ADP-APPR	Morph:a|NE:O|props:base-ppbeforehead|tf:VF
@@ -5409,9 +5411,9 @@
 9	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|props:3head-ppbeforehead|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-ppbeforehead|tf:UNK
 
-1	Mit	mit	_	ADP-APPR	Morph:d|NE:O|props:3head-ppbeforehead|tf:VF
-2	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-ppbeforehead|tf:VF
-3	Hand	Hand	_	NOUN-NN	Morph:dsf|NE:O|props:3head-ppbeforehead|tf:VF
+1	An	an	_	ADP-APPR	Morph:d|NE:O|props:3head-ppbeforehead|tf:VF
+2	dem	das	_	DET-ART	Morph:dsn|NE:O|props:3head-ppbeforehead|tf:VF
+3	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:3head-ppbeforehead|tf:VF
 4	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-ppbeforehead|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-ppbeforehead|tf:MF
 6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-ppbeforehead|tf:MF
@@ -5422,7 +5424,7 @@
 
 1	Auf	auf	_	ADP-APPR	Morph:d|NE:O|props:3head-ppbeforehead|tf:VF
 2	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-ppbeforehead|tf:VF
-3	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:3head-ppbeforehead|tf:VF
+3	Pressekonferenz	Pressekonferenz	_	NOUN-NN	Morph:dsf|NE:O|props:3head-ppbeforehead|tf:VF
 4	erkärt	erkären	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-ppbeforehead|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-ppbeforehead|tf:MF
 6	den	der|die|das	_	DET-ART	Morph:dp*|NE:O|props:3head-ppbeforehead|tf:MF
@@ -5442,9 +5444,9 @@
 9	Million	Million	_	NOUN-NN	Morph:asf|NE:O|props:3head-ppbeforehead|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-ppbeforehead|tf:UNK
 
-1	Zu	zu	_	ADP-APPR	Morph:d|NE:O|props:3head-ppbeforehead|tf:VF
+1	In	in	_	ADP-APPR	Morph:d|NE:O|props:3head-ppbeforehead|tf:VF
 2	dem	das	_	DET-ART	Morph:dsn|NE:O|props:3head-ppbeforehead|tf:VF
-3	Thema	Thema	_	NOUN-NN	Morph:dsn|NE:O|props:3head-ppbeforehead|tf:VF
+3	Interview	Interview	_	NOUN-NN	Morph:dsn|NE:O|props:3head-ppbeforehead|tf:VF
 4	stellt	stellen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-ppbeforehead|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-ppbeforehead|tf:MF
 6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:3head-ppbeforehead|tf:MF
@@ -5466,7 +5468,7 @@
 
 1	In	in	_	ADP-APPR	Morph:d|NE:O|props:3head-ppbeforehead|tf:VF
 2	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-ppbeforehead|tf:VF
-3	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:3head-ppbeforehead|tf:VF
+3	Monat	Monat	_	NOUN-NN	Morph:dsm|NE:O|props:3head-ppbeforehead|tf:VF
 4	nennt	nennen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-ppbeforehead|tf:LK
 5	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:3head-ppbeforehead|tf:MF
 6	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-ppbeforehead|tf:MF
@@ -5486,9 +5488,9 @@
 9	Geschichte	Geschichte	_	NOUN-NN	Morph:asf|NE:O|props:3head-ppbeforehead|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-ppbeforehead|tf:UNK
 
-1	In	in	_	ADP-APPR	Morph:d|NE:O|props:3head-ppbeforehead|tf:VF
-2	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-ppbeforehead|tf:VF
-3	Bereich	Bereich	_	NOUN-NN	Morph:dsm|NE:O|props:3head-ppbeforehead|tf:VF
+1	Mit	mit	_	ADP-APPR	Morph:d|NE:O|props:3head-ppbeforehead|tf:VF
+2	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-ppbeforehead|tf:VF
+3	Frau	Frau	_	NOUN-NN	Morph:dsf|NE:O|props:3head-ppbeforehead|tf:VF
 4	sucht	suchen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-ppbeforehead|tf:LK
 5	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:3head-ppbeforehead|tf:MF
 6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-ppbeforehead|tf:MF
@@ -5576,9 +5578,9 @@
 11	Kollegen	Kollege	_	NOUN-NN	Morph:gsm|NE:O|props:4head-ppbeforehead|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-ppbeforehead|tf:UNK
 
-1	Mit	mit	_	ADP-APPR	Morph:d|NE:O|props:4head-ppbeforehead|tf:VF
-2	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-ppbeforehead|tf:VF
-3	Hand	Hand	_	NOUN-NN	Morph:dsf|NE:O|props:4head-ppbeforehead|tf:VF
+1	An	an	_	ADP-APPR	Morph:d|NE:O|props:4head-ppbeforehead|tf:VF
+2	dem	das	_	DET-ART	Morph:dsn|NE:O|props:4head-ppbeforehead|tf:VF
+3	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:4head-ppbeforehead|tf:VF
 4	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-ppbeforehead|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:4head-ppbeforehead|tf:MF
 6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-ppbeforehead|tf:MF
@@ -5591,8 +5593,8 @@
 
 1	Auf	auf	_	ADP-APPR	Morph:d|NE:O|props:4head-ppbeforehead|tf:VF
 2	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-ppbeforehead|tf:VF
-3	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:4head-ppbeforehead|tf:VF
-4	erkärt	erkären	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-ppbeforehead|tf:LK
+3	Pressekonferenz	Pressekonferenz	_	NOUN-NN	Morph:dsf|NE:O|props:4head-ppbeforehead|tf:VF
+4	erkärt	erklären	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-ppbeforehead|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:4head-ppbeforehead|tf:MF
 6	den	der|die|das	_	DET-ART	Morph:dp*|NE:O|props:4head-ppbeforehead|tf:MF
 7	Leuten	Leute	_	NOUN-NN	Morph:dp*|NE:O|props:4head-ppbeforehead|tf:MF
@@ -5615,9 +5617,9 @@
 11	Mannes	Mann	_	NOUN-NN	Morph:gsm|NE:O|props:4head-ppbeforehead|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-ppbeforehead|tf:UNK
 
-1	Zu	zu	_	ADP-APPR	Morph:d|NE:O|props:4head-ppbeforehead|tf:VF
+1	In	in	_	ADP-APPR	Morph:d|NE:O|props:4head-ppbeforehead|tf:VF
 2	dem	das	_	DET-ART	Morph:dsn|NE:O|props:4head-ppbeforehead|tf:VF
-3	Thema	Thema	_	NOUN-NN	Morph:dsn|NE:O|props:4head-ppbeforehead|tf:VF
+3	Interview	Interview	_	NOUN-NN	Morph:dsn|NE:O|props:4head-ppbeforehead|tf:VF
 4	stellt	stellen	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-ppbeforehead|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:4head-ppbeforehead|tf:MF
 6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:4head-ppbeforehead|tf:MF
@@ -5669,7 +5671,7 @@
 
 1	In	in	_	ADP-APPR	Morph:d|NE:O|props:4head-ppbeforehead|tf:VF
 2	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-ppbeforehead|tf:VF
-3	Bereich	Bereich	_	NOUN-NN	Morph:dsm|NE:O|props:4head-ppbeforehead|tf:VF
+3	Monat	Monat	_	NOUN-NN	Morph:dsm|NE:O|props:4head-ppbeforehead|tf:VF
 4	sucht	suchen	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-ppbeforehead|tf:LK
 5	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:4head-ppbeforehead|tf:MF
 6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-ppbeforehead|tf:MF
@@ -5773,9 +5775,9 @@
 13	Kollegen	Kollege	_	NOUN-NN	Morph:gsm|NE:O|props:5head-ppbeforehead|tf:MF
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-ppbeforehead|tf:UNK
 
-1	Mit	mit	_	ADP-APPR	Morph:d|NE:O|props:5head-ppbeforehead|tf:VF
-2	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-ppbeforehead|tf:VF
-3	Hand	Hand	_	NOUN-NN	Morph:dsf|NE:O|props:5head-ppbeforehead|tf:VF
+1	An	an	_	ADP-APPR	Morph:d|NE:O|props:5head-ppbeforehead|tf:VF
+2	dem	das	_	DET-ART	Morph:dsn|NE:O|props:5head-ppbeforehead|tf:VF
+3	Beispiel	Beispiel	_	NOUN-NN	Morph:dsn|NE:O|props:5head-ppbeforehead|tf:VF
 4	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-ppbeforehead|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:5head-ppbeforehead|tf:MF
 6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-ppbeforehead|tf:MF
@@ -5790,8 +5792,8 @@
 
 1	Auf	auf	_	ADP-APPR	Morph:d|NE:O|props:5head-ppbeforehead|tf:VF
 2	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-ppbeforehead|tf:VF
-3	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:5head-ppbeforehead|tf:VF
-4	erkärt	erkären	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-ppbeforehead|tf:LK
+3	Pressekonferenz	Pressekonferenz	_	NOUN-NN	Morph:dsf|NE:O|props:5head-ppbeforehead|tf:VF
+4	erkärt	erklären	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-ppbeforehead|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:5head-ppbeforehead|tf:MF
 6	den	der|die|das	_	DET-ART	Morph:dp*|NE:O|props:5head-ppbeforehead|tf:MF
 7	Leuten	Leute	_	NOUN-NN	Morph:dp*|NE:O|props:5head-ppbeforehead|tf:MF
@@ -5818,9 +5820,9 @@
 13	Mannes	Mann	_	NOUN-NN	Morph:gsm|NE:O|props:5head-ppbeforehead|tf:MF
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-ppbeforehead|tf:UNK
 
-1	Zu	zu	_	ADP-APPR	Morph:d|NE:O|props:5head-ppbeforehead|tf:VF
+1	In	in	_	ADP-APPR	Morph:d|NE:O|props:5head-ppbeforehead|tf:VF
 2	dem	das	_	DET-ART	Morph:dsn|NE:O|props:5head-ppbeforehead|tf:VF
-3	Thema	Thema	_	NOUN-NN	Morph:dsn|NE:O|props:5head-ppbeforehead|tf:VF
+3	Interview	Interview	_	NOUN-NN	Morph:dsn|NE:O|props:5head-ppbeforehead|tf:VF
 4	stellt	stellen	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-ppbeforehead|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:5head-ppbeforehead|tf:MF
 6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:5head-ppbeforehead|tf:MF
@@ -5880,7 +5882,7 @@
 
 1	In	in	_	ADP-APPR	Morph:d|NE:O|props:5head-ppbeforehead|tf:VF
 2	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-ppbeforehead|tf:VF
-3	Bereich	Bereich	_	NOUN-NN	Morph:dsm|NE:O|props:5head-ppbeforehead|tf:VF
+3	Monat	Monat	_	NOUN-NN	Morph:dsm|NE:O|props:5head-ppbeforehead|tf:VF
 4	sucht	suchen	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-ppbeforehead|tf:LK
 5	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:5head-ppbeforehead|tf:MF
 6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-ppbeforehead|tf:MF
@@ -6113,54 +6115,54 @@
 8	Geld	Geld	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
 
-1	Zu	zu	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+1	In	in	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 2	dem	das	_	DET-ART	Morph:dsn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-3	möglichen	möglich	_	ADJ-ADJA	Morph:dsn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-4	Thema	Thema	_	NOUN-NN	Morph:dsn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+3	fingierten	fingiert	_	ADJ-ADJA	Morph:dsn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+4	Interview	Interview	_	NOUN-NN	Morph:dsn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 5	sagt	sagen	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
 6	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 7	das	das	_	DET-ART	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 8	Wort	Wort	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
 
-1	An	an	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+1	Auf	auf	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 2	der	die	_	DET-ART	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-3	internationalen	international	_	ADJ-ADJA	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-4	Grenze	Grenze	_	NOUN-NN	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+3	langen	lang	_	ADJ-ADJA	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+4	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 5	lässt	lassen	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
 6	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 7	den	der	_	DET-ART	Morph:asm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 8	Mann	Mann	_	NOUN-NN	Morph:asm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
 
-1	In	in	_	ADP-APPR	Morph:a|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-2	das	das	_	DET-ART	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-3	große	groß	_	ADJ-ADJA	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-4	Haus	Haus	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+1	An	an	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+2	dem	der	_	DET-ART	Morph:dsm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+3	großen	groß	_	ADJ-ADJA	Morph:dsm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+4	Abend	Abend	_	NOUN-NN	Morph:dsm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 5	sieht	sehen	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
 6	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 7	den	der	_	DET-ART	Morph:asm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 8	Weg	Weg	_	NOUN-NN	Morph:asm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
 
-1	Auf	auf	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+1	In	in	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 2	der	die	_	DET-ART	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-3	langen	lang	_	ADJ-ADJA	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-4	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+3	internationalen	international	_	ADJ-ADJA	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+4	Welt	Welt	_	NOUN-NN	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 5	findet	finden	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
 6	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-7	das	das	_	DET-ART	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-8	Bild	Bild	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+7	den	der	_	DET-ART	Morph:asm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+8	Platz	Platz	_	NOUN-NN	Morph:asm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
 
 1	Für	für	_	ADP-APPR	Morph:a|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-2	die	die	_	DET-ART	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-3	junge	jung	_	ADJ-ADJA	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-4	Frau	Frau	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-5	fordert	fordern	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
+2	das	das	_	DET-ART	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+3	politische	politisch	_	ADJ-ADJA	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+4	Publikum	Publikum	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+5	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
 6	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 7	das	das	_	DET-ART	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-8	Recht	Recht	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+8	Problem	Problem	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
 
 1	Mit	mit	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
@@ -6170,93 +6172,93 @@
 5	hält	halten	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
 6	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 7	das	das	_	DET-ART	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-8	Kind	Kind	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
-
-1	In	in	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-2	dem	der	_	DET-ART	Morph:dsm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-3	politischen	politisch	_	ADJ-ADJA	Morph:dsm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-4	Bereich	Bereich	_	NOUN-NN	Morph:dsm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-5	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
-6	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-7	das	das	_	DET-ART	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-8	Buch	Buch	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
-
-1	In	in	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-2	dem	der	_	DET-ART	Morph:dsm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-3	kurzen	kurz	_	ADJ-ADJA	Morph:dsm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-4	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-5	erhält	erhalten	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
-6	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-7	die	die	_	DET-ART	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-8	Rolle	Rolle	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+8	Bild	Bild	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
 
 1	An	an	_	ADP-APPR	Morph:a|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 2	das	das	_	DET-ART	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 3	letzte	letzt	_	ADJ-ADJA	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 4	Ende	Ende	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-5	baut	bauen	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
+5	führt	führen	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
 6	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-7	den	der	_	DET-ART	Morph:asm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-8	Platz	Platz	_	NOUN-NN	Morph:asm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
-
-1	Auf	auf	_	ADP-APPR	Morph:a|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-2	die	die	_	DET-ART	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-3	öffentliche	öffentlich	_	ADJ-ADJA	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-4	Bühne	Bühne	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-5	führen	führen	_	VERB-VVFIN	Morph:3pis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
-6	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 7	die	die	_	DET-ART	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 8	Frau	Frau	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
 
+1	Auf	auf	_	ADP-APPR	Morph:a|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+2	den	der	_	DET-ART	Morph:asm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+3	kurzen	kurz	_	ADJ-ADJA	Morph:asm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+4	Tisch	Tisch	_	NOUN-NN	Morph:asm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+5	legt	legen	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
+6	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+7	die	die	_	DET-ART	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+8	Rolle	Rolle	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
+
 1	In	in	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 2	dem	das	_	DET-ART	Morph:dsn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-3	schweren	schwer	_	ADJ-ADJA	Morph:dsn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+3	nächsten	nächst	_	ADJ-ADJA	Morph:dsn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 4	Jahr	Jahr	_	NOUN-NN	Morph:dsn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-5	zeigen	zeigen	_	VERB-VVFIN	Morph:3pis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
+5	bekommt	bekommen	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
+6	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+7	die	die	_	DET-ART	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+8	Chance	Chance	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
+
+1	In	in	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+2	der	die	_	DET-ART	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+3	guten	gut	_	ADJ-ADJA	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+4	Woche	Woche	_	NOUN-NN	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+5	fordern	fordern	_	VERB-VVFIN	Morph:3pis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
 6	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 7	das	das	_	DET-ART	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-8	Problem	Problem	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+8	Recht	Recht	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
+
+1	In	in	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+2	der	die	_	DET-ART	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+3	dunklen	dunkel	_	ADJ-ADJA	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+4	Nacht	Nacht	_	NOUN-NN	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+5	schreiben	schreiben	_	VERB-VVFIN	Morph:3pis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
+6	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+7	die	die	_	DET-ART	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+8	Geschichte	Geschichte	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
 
 1	In	in	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 2	der	die	_	DET-ART	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 3	neuen	neu	_	ADJ-ADJA	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 4	Woche	Woche	_	NOUN-NN	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-5	bekommen	bekommen	_	VERB-VVFIN	Morph:3pis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
+5	beginnen	beginnen	_	VERB-VVFIN	Morph:3pis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
 6	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 7	die	die	_	DET-ART	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-8	Chance	Chance	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+8	Arbeit	Arbeit	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
 
-1	In	in	_	ADP-APPR	Morph:a|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-2	die	die	_	DET-ART	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-3	kleine	klein	_	ADJ-ADJA	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-4	Stadt	Stadt	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-5	bringen	bringen	_	VERB-VVFIN	Morph:3pis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
+1	An	an	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+2	dem	der	_	DET-ART	Morph:dsm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+3	schweren	schwer	_	ADJ-ADJA	Morph:dsm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+4	Tag	Tag	_	NOUN-NN	Morph:dsm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+5	vergessen	vergessen	_	VERB-VVFIN	Morph:3pis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
 6	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 7	das	das	_	DET-ART	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-8	Kind	Kind	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+8	Buch	Buch	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
 
-1	In	in	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-2	der	die	_	DET-ART	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-3	ganzen	ganz	_	ADJ-ADJA	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-4	Welt	Welt	_	NOUN-NN	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-5	erzählen	erzählen	_	VERB-VVFIN	Morph:3pis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
+1	Für	für	_	ADP-APPR	Morph:a|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+2	die	die	_	DET-ART	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+3	alte	alt	_	ADJ-ADJA	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+4	Frau	Frau	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
+5	brauchen	brauchen	_	VERB-VVFIN	Morph:3pis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
 6	sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 7	die	die	_	DET-ART	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
-8	Geschichte	Geschichte	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
+8	Zeit	Zeit	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-prepdetadjnoun|tf:UNK
 
-1	Im	in	_	ADP-APPRART	Morph:dsm|NE:O|props:ppbeforehead-pppossnp|tf:VF
-2	Rahmen	Rahmen	_	NOUN-NN	Morph:dsm|NE:O|props:ppbeforehead-pppossnp|tf:VF
+1	Auf	auf	_	ADP-APPR	Morph:a|NE:O|props:ppbeforehead-pppossnp|tf:VF
+2	Frage	Frage	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-pppossnp|tf:VF
 3	des	der	_	DET-ART	Morph:gsm|NE:O|props:ppbeforehead-pppossnp|tf:VF
-4	Films	Film	_	NOUN-NN	Morph:gsm|NE:O|props:ppbeforehead-pppossnp|tf:VF
+4	Vaters	Vater	_	NOUN-NN	Morph:gsm|NE:O|props:ppbeforehead-pppossnp|tf:VF
 5	sagt	sagen	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-pppossnp|tf:LK
 6	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:ppbeforehead-pppossnp|tf:MF
 7	das	das	_	DET-ART	Morph:asn|NE:O|props:ppbeforehead-pppossnp|tf:MF
@@ -6347,7 +6349,7 @@
 2	Anfang	Anfang	_	NOUN-NN	Morph:dsm|NE:O|props:ppbeforehead-pppossnp|tf:VF
 3	des	das	_	DET-ART	Morph:gsn|NE:O|props:ppbeforehead-pppossnp|tf:VF
 4	Lebens	Leben	_	NOUN-NN	Morph:gsn|NE:O|props:ppbeforehead-pppossnp|tf:VF
-5	mag	mögen	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-pppossnp|tf:LK
+5	mag	mögen	_	VERB-VMFIN	Morph:3sis|NE:O|props:ppbeforehead-pppossnp|tf:LK
 6	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:ppbeforehead-pppossnp|tf:MF
 7	den	der	_	DET-ART	Morph:asm|NE:O|props:ppbeforehead-pppossnp|tf:MF
 8	Mann	Mann	_	NOUN-NN	Morph:asm|NE:O|props:ppbeforehead-pppossnp|tf:MF
@@ -6415,12 +6417,12 @@
 10	Kind	Kind	_	NOUN-NN	Morph:nsn|NE:O|props:ppbeforehead-pppp|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-pppp|tf:UNK
 
-1	Auf	auf	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-pppp|tf:VF
-2	dem	der	_	DET-ART	Morph:dsm|NE:O|props:ppbeforehead-pppp|tf:VF
-3	Weg	Weg	_	NOUN-NN	Morph:dsm|NE:O|props:ppbeforehead-pppp|tf:VF
-4	in	in	_	ADP-APPR	Morph:a|NE:O|props:ppbeforehead-pppp|tf:VF
-5	die	die	_	DET-ART	Morph:asf|NE:O|props:ppbeforehead-pppp|tf:VF
-6	Zukunft	Zukunft	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-pppp|tf:VF
+1	In	in	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-pppp|tf:VF
+2	dem	das	_	DET-ART	Morph:dsn|NE:O|props:ppbeforehead-pppp|tf:VF
+3	Interview	Interview	_	NOUN-NN	Morph:dsn|NE:O|props:ppbeforehead-pppp|tf:VF
+4	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-pppp|tf:VF
+5	der	die	_	DET-ART	Morph:dsf|NE:O|props:ppbeforehead-pppp|tf:VF
+6	Zeitung	Zeitung	_	NOUN-NN	Morph:dsf|NE:O|props:ppbeforehead-pppp|tf:VF
 7	sagt	sagen	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-pppp|tf:LK
 8	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:ppbeforehead-pppp|tf:MF
 9	das	das	_	DET-ART	Morph:asn|NE:O|props:ppbeforehead-pppp|tf:MF
@@ -6451,12 +6453,12 @@
 10	Buch	Buch	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-pppp|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-pppp|tf:UNK
 
-1	Auf	auf	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-pppp|tf:VF
-2	der	die	_	DET-ART	Morph:dsf|NE:O|props:ppbeforehead-pppp|tf:VF
-3	Straße	Straße	_	NOUN-NN	Morph:dsf|NE:O|props:ppbeforehead-pppp|tf:VF
-4	in	in	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-pppp|tf:VF
-5	dem	der	_	DET-ART	Morph:dsm|NE:O|props:ppbeforehead-pppp|tf:VF
-6	Berg	Berg	_	NOUN-NN	Morph:dsm|NE:O|props:ppbeforehead-pppp|tf:VF
+1	An	an	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-pppp|tf:VF
+2	dem	der	_	DET-ART	Morph:dsm|NE:O|props:ppbeforehead-pppp|tf:VF
+3	Tag	Tag	_	NOUN-NN	Morph:dsm|NE:O|props:ppbeforehead-pppp|tf:VF
+4	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-pppp|tf:VF
+5	der	die	_	DET-ART	Morph:dsf|NE:O|props:ppbeforehead-pppp|tf:VF
+6	Sonne	Sonne	_	NOUN-NN	Morph:dsf|NE:O|props:ppbeforehead-pppp|tf:VF
 7	verliert	verlieren	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-pppp|tf:LK
 8	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:ppbeforehead-pppp|tf:MF
 9	das	das	_	DET-ART	Morph:asn|NE:O|props:ppbeforehead-pppp|tf:MF
@@ -6487,12 +6489,12 @@
 10	Film	Film	_	NOUN-NN	Morph:asm|NE:O|props:ppbeforehead-pppp|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-pppp|tf:UNK
 
-1	In	in	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-pppp|tf:VF
-2	dem	der	_	DET-ART	Morph:dsm|NE:O|props:ppbeforehead-pppp|tf:VF
-3	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:ppbeforehead-pppp|tf:VF
-4	über	über	_	ADP-APPR	Morph:a|NE:O|props:ppbeforehead-pppp|tf:VF
-5	den	der	_	DET-ART	Morph:asm|NE:O|props:ppbeforehead-pppp|tf:VF
-6	Krieg	Krieg	_	NOUN-NN	Morph:asm|NE:O|props:ppbeforehead-pppp|tf:VF
+1	Dank	dank	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-pppp|tf:VF
+2	der	die	_	DET-ART	Morph:dsf|NE:O|props:ppbeforehead-pppp|tf:VF
+3	Frau	Frau	_	NOUN-NN	Morph:dsf|NE:O|props:ppbeforehead-pppp|tf:VF
+4	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-pppp|tf:VF
+5	dem	das	_	DET-ART	Morph:dsn|NE:O|props:ppbeforehead-pppp|tf:VF
+6	Kind	Kind	_	NOUN-NN	Morph:dsn|NE:O|props:ppbeforehead-pppp|tf:VF
 7	erhält	erhalten	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-pppp|tf:LK
 8	er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:ppbeforehead-pppp|tf:MF
 9	die	die	_	DET-ART	Morph:asf|NE:O|props:ppbeforehead-pppp|tf:MF
@@ -6988,8 +6990,8 @@
 7	Staat	Staat	_	NOUN-NN	Morph:dsm|NE:O|props:base-verbheadedobjp|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:base-verbheadedobjp|tf:UNK
 
-1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:3head-verbheadedobjp|tf:VF
-2	räumen	räumen	_	VERB-VVFIN	Morph:3pis|NE:O|props:3head-verbheadedobjp|tf:LK
+1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-verbheadedobjp|tf:VF
+2	räumt	räumen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-verbheadedobjp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-verbheadedobjp|tf:MF
 4	Kollegen	Kollege	_	NOUN-NN	Morph:dsm|NE:O|props:3head-verbheadedobjp|tf:MF
 5	das	das	_	DET-ART	Morph:asn|NE:O|props:3head-verbheadedobjp|tf:MF
@@ -6999,8 +7001,8 @@
 9	Weg	Weg	_	NOUN-NN	Morph:dsm|NE:O|props:3head-verbheadedobjp|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-verbheadedobjp|tf:UNK
 
-1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:3head-verbheadedobjp|tf:VF
-2	legen	legen	_	VERB-VVFIN	Morph:3pis|NE:O|props:3head-verbheadedobjp|tf:LK
+1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-verbheadedobjp|tf:VF
+2	legt	legen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-verbheadedobjp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-verbheadedobjp|tf:MF
 4	Flüchtling	Flüchtling	_	NOUN-NN	Morph:dsm|NE:O|props:3head-verbheadedobjp|tf:MF
 5	das	das	_	DET-ART	Morph:asn|NE:O|props:3head-verbheadedobjp|tf:MF
@@ -7010,8 +7012,8 @@
 9	Tisch	Tisch	_	NOUN-NN	Morph:asm|NE:O|props:3head-verbheadedobjp|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-verbheadedobjp|tf:UNK
 
-1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:3head-verbheadedobjp|tf:VF
-2	schaffen	schaffen	_	VERB-VVFIN	Morph:3pis|NE:O|props:3head-verbheadedobjp|tf:LK
+1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-verbheadedobjp|tf:VF
+2	schafft	schaffen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-verbheadedobjp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-verbheadedobjp|tf:MF
 4	Kunden	Kunde	_	NOUN-NN	Morph:dsm|NE:O|props:3head-verbheadedobjp|tf:MF
 5	das	das	_	DET-ART	Morph:asn|NE:O|props:3head-verbheadedobjp|tf:MF
@@ -7033,14 +7035,15 @@
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-verbheadedobjp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-verbheadedobjp|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-verbheadedobjp|tf:LK
+2	stellt	stellen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-verbheadedobjp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-verbheadedobjp|tf:MF
 4	Herren	Herr	_	NOUN-NN	Morph:dsm|NE:O|props:3head-verbheadedobjp|tf:MF
-5	die	der	_	DET-ART	Morph:apm|NE:O|props:3head-verbheadedobjp|tf:MF
-6	Menschen	Mensch	_	NOUN-NN	Morph:apm|NE:O|props:3head-verbheadedobjp|tf:MF
-7	zum	zu	_	ADP-APPRART	Morph:dsn|NE:O|props:3head-verbheadedobjp|tf:MF
-8	Tanzen	Tanzen	_	NOUN-NN	Morph:dsn|NE:O|props:3head-verbheadedobjp|tf:MF
-9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-verbheadedobjp|tf:UNK
+5	die	die	_	DET-ART	Morph:asf|NE:O|props:3head-verbheadedobjp|tf:MF
+6	Pflanze	Pflanze	_	NOUN-NN	Morph:asf|NE:O|props:3head-verbheadedobjp|tf:MF
+7	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:3head-verbheadedobjp|tf:MF
+8	die	die	_	DET-ART	Morph:asf|NE:O|props:3head-verbheadedobjp|tf:MF
+9	Terrasse	Terrasse	_	NOUN-NN	Morph:asf|NE:O|props:3head-verbheadedobjp|tf:MF
+10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-verbheadedobjp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:3head-verbheadedobjp|tf:VF
 2	setzt	setzen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-verbheadedobjp|tf:LK
@@ -7054,14 +7057,14 @@
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-verbheadedobjp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:3head-verbheadedobjp|tf:VF
-2	stellt	stellen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-verbheadedobjp|tf:LK
+2	erfüllt	erfüllen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-verbheadedobjp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-verbheadedobjp|tf:MF
 4	Kollegen	Kollege	_	NOUN-NN	Morph:dsm|NE:O|props:3head-verbheadedobjp|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|props:3head-verbheadedobjp|tf:MF
-6	Frage	Frage	_	NOUN-NN	Morph:asf|NE:O|props:3head-verbheadedobjp|tf:MF
-7	zu	zu	_	ADP-APPR	Morph:d|NE:O|props:3head-verbheadedobjp|tf:MF
-8	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-verbheadedobjp|tf:MF
-9	Verfügung	Verfügung	_	NOUN-NN	Morph:dsf|NE:O|props:3head-verbheadedobjp|tf:MF
+5	den	der	_	DET-ART	Morph:asm|NE:O|props:3head-verbheadedobjp|tf:MF
+6	Wunsch	Wunsch	_	NOUN-NN	Morph:asm|NE:O|props:3head-verbheadedobjp|tf:MF
+7	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:3head-verbheadedobjp|tf:MF
+8	dem	das	_	DET-ART	Morph:dsn|NE:O|props:3head-verbheadedobjp|tf:MF
+9	Geschenk	Geschenk	_	NOUN-NN	Morph:dsn|NE:O|props:3head-verbheadedobjp|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-verbheadedobjp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:3head-verbheadedobjp|tf:VF
@@ -7142,14 +7145,14 @@
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-verbheadedobjp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:3head-verbheadedobjp|tf:VF
-2	bringen	bringen	_	VERB-VVFIN	Morph:3pis|NE:O|props:3head-verbheadedobjp|tf:LK
+2	stecken	stecken	_	VERB-VVFIN	Morph:3pis|NE:O|props:3head-verbheadedobjp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-verbheadedobjp|tf:MF
 4	Gast	Gast	_	NOUN-NN	Morph:dsm|NE:O|props:3head-verbheadedobjp|tf:MF
 5	den	der	_	DET-ART	Morph:asm|NE:O|props:3head-verbheadedobjp|tf:MF
-6	Unmut	Unmut	_	NOUN-NN	Morph:asm|NE:O|props:3head-verbheadedobjp|tf:MF
-7	zu	zu	_	ADP-APPR	Morph:d|NE:O|props:3head-verbheadedobjp|tf:MF
-8	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-verbheadedobjp|tf:MF
-9	Ausdruck	Ausdruck	_	NOUN-NN	Morph:dsm|NE:O|props:3head-verbheadedobjp|tf:MF
+6	Brief	Brief	_	NOUN-NN	Morph:asm|NE:O|props:3head-verbheadedobjp|tf:MF
+7	in	in	_	ADP-APPR	Morph:a|NE:O|props:3head-verbheadedobjp|tf:MF
+8	die	die	_	DET-ART	Morph:asf|NE:O|props:3head-verbheadedobjp|tf:MF
+9	Tasche	Tasche	_	NOUN-NN	Morph:asf|NE:O|props:3head-verbheadedobjp|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-verbheadedobjp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:4head-verbheadedobjp|tf:VF
@@ -7205,16 +7208,17 @@
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-verbheadedobjp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:4head-verbheadedobjp|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-verbheadedobjp|tf:LK
+2	stellt	stellen	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-verbheadedobjp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-verbheadedobjp|tf:MF
 4	Herren	Herr	_	NOUN-NN	Morph:dsm|NE:O|props:4head-verbheadedobjp|tf:MF
 5	des	das	_	DET-ART	Morph:gsn|NE:O|props:4head-verbheadedobjp|tf:MF
 6	Hauses	Haus	_	NOUN-NN	Morph:gsn|NE:O|props:4head-verbheadedobjp|tf:MF
-7	die	der	_	DET-ART	Morph:apm|NE:O|props:4head-verbheadedobjp|tf:MF
-8	Menschen	Mensch	_	NOUN-NN	Morph:apm|NE:O|props:4head-verbheadedobjp|tf:MF
-9	zum	zu	_	ADP-APPRART	Morph:dsn|NE:O|props:4head-verbheadedobjp|tf:MF
-10	Tanzen	Tanzen	_	NOUN-NN	Morph:dsn|NE:O|props:4head-verbheadedobjp|tf:MF
-11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-verbheadedobjp|tf:UNK
+7	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-verbheadedobjp|tf:MF
+8	Pflanze	Pflanze	_	NOUN-NN	Morph:asf|NE:O|props:4head-verbheadedobjp|tf:MF
+9	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:4head-verbheadedobjp|tf:MF
+10	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-verbheadedobjp|tf:MF
+11	Terrasse	Terrasse	_	NOUN-NN	Morph:asf|NE:O|props:4head-verbheadedobjp|tf:MF
+12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-verbheadedobjp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:4head-verbheadedobjp|tf:VF
 2	setzt	setzen	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-verbheadedobjp|tf:LK
@@ -7230,16 +7234,16 @@
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-verbheadedobjp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:4head-verbheadedobjp|tf:VF
-2	stellt	stellen	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-verbheadedobjp|tf:LK
-3	den	der|die|das	_	DET-ART	Morph:dp*|NE:O|props:4head-verbheadedobjp|tf:MF
+2	erfüllt	erfüllen	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-verbheadedobjp|tf:LK
+3	den	der	_	DET-ART	Morph:dp*|NE:O|props:4head-verbheadedobjp|tf:MF
 4	Leuten	Leute	_	NOUN-NN	Morph:dp*|NE:O|props:4head-verbheadedobjp|tf:MF
 5	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-verbheadedobjp|tf:MF
 6	Partei	Partei	_	NOUN-NN	Morph:gsf|NE:O|props:4head-verbheadedobjp|tf:MF
-7	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-verbheadedobjp|tf:MF
-8	Frage	Frage	_	NOUN-NN	Morph:asf|NE:O|props:4head-verbheadedobjp|tf:MF
-9	zu	zu	_	ADP-APPR	Morph:d|NE:O|props:4head-verbheadedobjp|tf:MF
-10	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-verbheadedobjp|tf:MF
-11	Verfügung	Verfügung	_	NOUN-NN	Morph:dsf|NE:O|props:4head-verbheadedobjp|tf:MF
+7	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-verbheadedobjp|tf:MF
+8	Wunsch	Wunsch	_	NOUN-NN	Morph:asm|NE:O|props:4head-verbheadedobjp|tf:MF
+9	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:4head-verbheadedobjp|tf:MF
+10	dem	das	_	DET-ART	Morph:dsn|NE:O|props:4head-verbheadedobjp|tf:MF
+11	Geschenk	Geschenk	_	NOUN-NN	Morph:dsn|NE:O|props:4head-verbheadedobjp|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-verbheadedobjp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:4head-verbheadedobjp|tf:VF
@@ -7334,16 +7338,16 @@
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-verbheadedobjp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:4head-verbheadedobjp|tf:VF
-2	bringen	bringen	_	VERB-VVFIN	Morph:3pis|NE:O|props:4head-verbheadedobjp|tf:LK
+2	stecken	stecken	_	VERB-VVFIN	Morph:3pis|NE:O|props:4head-verbheadedobjp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-verbheadedobjp|tf:MF
 4	Gast	Gast	_	NOUN-NN	Morph:dsm|NE:O|props:4head-verbheadedobjp|tf:MF
 5	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-verbheadedobjp|tf:MF
 6	Kollegen	Kollege	_	NOUN-NN	Morph:gsm|NE:O|props:4head-verbheadedobjp|tf:MF
 7	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-verbheadedobjp|tf:MF
-8	Unmut	Unmut	_	NOUN-NN	Morph:asm|NE:O|props:4head-verbheadedobjp|tf:MF
-9	zu	zu	_	ADP-APPR	Morph:d|NE:O|props:4head-verbheadedobjp|tf:MF
-10	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-verbheadedobjp|tf:MF
-11	Ausdruck	Ausdruck	_	NOUN-NN	Morph:dsm|NE:O|props:4head-verbheadedobjp|tf:MF
+8	Brief	Brief	_	NOUN-NN	Morph:asm|NE:O|props:4head-verbheadedobjp|tf:MF
+9	in	in	_	ADP-APPR	Morph:a|NE:O|props:4head-verbheadedobjp|tf:MF
+10	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-verbheadedobjp|tf:MF
+11	Tasche	Tasche	_	NOUN-NN	Morph:asf|NE:O|props:4head-verbheadedobjp|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-verbheadedobjp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:5head-verbheadedobjp|tf:VF
@@ -7407,18 +7411,19 @@
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-verbheadedobjp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:5head-verbheadedobjp|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-verbheadedobjp|tf:LK
+2	stellt	stellen	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-verbheadedobjp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-verbheadedobjp|tf:MF
 4	Herren	Herr	_	NOUN-NN	Morph:dsm|NE:O|props:5head-verbheadedobjp|tf:MF
 5	des	das	_	DET-ART	Morph:gsn|NE:O|props:5head-verbheadedobjp|tf:MF
 6	Hauses	Haus	_	NOUN-NN	Morph:gsn|NE:O|props:5head-verbheadedobjp|tf:MF
-7	die	der	_	DET-ART	Morph:apm|NE:O|props:5head-verbheadedobjp|tf:MF
-8	Menschen	Mensch	_	NOUN-NN	Morph:apm|NE:O|props:5head-verbheadedobjp|tf:MF
-9	des	das	_	DET-ART	Morph:gsn|NE:O|props:5head-verbheadedobjp|tf:MF
-10	Werks	Werk	_	NOUN-NN	Morph:gsn|NE:O|props:5head-verbheadedobjp|tf:MF
-11	zum	zu	_	ADP-APPRART	Morph:dsn|NE:O|props:5head-verbheadedobjp|tf:MF
-12	Tanzen	Tanzen	_	NOUN-NN	Morph:dsn|NE:O|props:5head-verbheadedobjp|tf:MF
-13	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-verbheadedobjp|tf:UNK
+7	die	die	_	DET-ART	Morph:asf|NE:O|props:5head-verbheadedobjp|tf:MF
+8	Pflanze	Pflanze	_	NOUN-NN	Morph:asf|NE:O|props:5head-verbheadedobjp|tf:MF
+9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-verbheadedobjp|tf:MF
+10	Frau	Frau	_	NOUN-NN	Morph:gsf|NE:O|props:5head-verbheadedobjp|tf:MF
+11	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:5head-verbheadedobjp|tf:MF
+12	die	die	_	DET-ART	Morph:asf|NE:O|props:5head-verbheadedobjp|tf:MF
+13	Terrasse	Terrasse	_	NOUN-NN	Morph:asf|NE:O|props:5head-verbheadedobjp|tf:MF
+14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-verbheadedobjp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:5head-verbheadedobjp|tf:VF
 2	setzt	setzen	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-verbheadedobjp|tf:LK
@@ -7556,18 +7561,18 @@
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-verbheadedobjp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:5head-verbheadedobjp|tf:VF
-2	bringen	bringen	_	VERB-VVFIN	Morph:3pis|NE:O|props:5head-verbheadedobjp|tf:LK
+2	stecken	stecken	_	VERB-VVFIN	Morph:3pis|NE:O|props:5head-verbheadedobjp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-verbheadedobjp|tf:MF
 4	Gast	Gast	_	NOUN-NN	Morph:dsm|NE:O|props:5head-verbheadedobjp|tf:MF
 5	des	der	_	DET-ART	Morph:gsm|NE:O|props:5head-verbheadedobjp|tf:MF
 6	Kollegen	Kollege	_	NOUN-NN	Morph:gsm|NE:O|props:5head-verbheadedobjp|tf:MF
 7	den	der	_	DET-ART	Morph:asm|NE:O|props:5head-verbheadedobjp|tf:MF
-8	Unmut	Unmut	_	NOUN-NN	Morph:asm|NE:O|props:5head-verbheadedobjp|tf:MF
-9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-verbheadedobjp|tf:MF
-10	Mutter	Mutter	_	NOUN-NN	Morph:gsf|NE:O|props:5head-verbheadedobjp|tf:MF
-11	zu	zu	_	ADP-APPR	Morph:d|NE:O|props:5head-verbheadedobjp|tf:MF
-12	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-verbheadedobjp|tf:MF
-13	Ausdruck	Ausdruck	_	NOUN-NN	Morph:dsm|NE:O|props:5head-verbheadedobjp|tf:MF
+8	Brief	Brief	_	NOUN-NN	Morph:asm|NE:O|props:5head-verbheadedobjp|tf:MF
+9	des	der	_	DET-ART	Morph:gsm|NE:O|props:5head-verbheadedobjp|tf:MF
+10	Freundes	Freund	_	NOUN-NN	Morph:gsm|NE:O|props:5head-verbheadedobjp|tf:MF
+11	in	in	_	ADP-APPR	Morph:a|NE:O|props:5head-verbheadedobjp|tf:MF
+12	die	die	_	DET-ART	Morph:asf|NE:O|props:5head-verbheadedobjp|tf:MF
+13	Tasche	Tasche	_	NOUN-NN	Morph:asf|NE:O|props:5head-verbheadedobjp|tf:MF
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-verbheadedobjp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:prepnoun-verbheadedobjp|tf:VF
@@ -8194,11 +8199,11 @@
 7	Hindernis	Hindernis	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-verbheadedobjp|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-verbheadedobjp|tf:UNK
 
-1	Zu	zu	_	ADP-APPR	Morph:d|NE:O|props:ppbeforehead-verbheadedobjp|tf:VF
-2	der	die	_	DET-ART	Morph:dsf|NE:O|props:ppbeforehead-verbheadedobjp|tf:VF
-3	Welt	Welt	_	NOUN-NN	Morph:dsf|NE:O|props:ppbeforehead-verbheadedobjp|tf:VF
+1	Auf	auf	_	ADP-APPR	Morph:a|NE:O|props:ppbeforehead-verbheadedobjp|tf:VF
+2	die	die	_	DET-ART	Morph:asf|NE:O|props:ppbeforehead-verbheadedobjp|tf:VF
+3	Welt	Welt	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-verbheadedobjp|tf:VF
 4	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-verbheadedobjp|tf:LK
-5	sie	sie	_	PRON-PPER	Morph:asf3|NE:O|props:ppbeforehead-verbheadedobjp|tf:MF
+5	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:ppbeforehead-verbheadedobjp|tf:MF
 6	das	das	_	DET-ART	Morph:asn|NE:O|props:ppbeforehead-verbheadedobjp|tf:MF
 7	Kind	Kind	_	NOUN-NN	Morph:asn|NE:O|props:ppbeforehead-verbheadedobjp|tf:MF
 8	.	.	_	PUNCT-$.	Morph:null|NE:O|props:ppbeforehead-verbheadedobjp|tf:UNK
@@ -8224,7 +8229,7 @@
 1	Um	um	_	ADP-APPR	Morph:a|NE:O|props:ppbeforehead-verbheadedobjp|tf:VF
 2	die	die	_	DET-ART	Morph:asf|NE:O|props:ppbeforehead-verbheadedobjp|tf:VF
 3	Sache	Sache	_	NOUN-NN	Morph:asf|NE:O|props:ppbeforehead-verbheadedobjp|tf:VF
-4	bitte	bitten	_	VERB-VVFIN	Morph:3sks|NE:O|props:ppbeforehead-verbheadedobjp|tf:LK
+4	bittet	bitten	_	VERB-VVFIN	Morph:3sis|NE:O|props:ppbeforehead-verbheadedobjp|tf:LK
 5	sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:ppbeforehead-verbheadedobjp|tf:MF
 6	den	der	_	DET-ART	Morph:asm|NE:O|props:ppbeforehead-verbheadedobjp|tf:MF
 7	Herren	Herr	_	NOUN-NN	Morph:asm|NE:O|props:ppbeforehead-verbheadedobjp|tf:MF
@@ -8364,9 +8369,9 @@
 
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|props:1head-nounheadedpp|tf:UNK
 2	Stimme	Stimme	_	NOUN-NN	Morph:nsf|NE:O|props:1head-nounheadedpp|tf:UNK
-3	in	in	_	ADP-APPR	Morph:d|NE:O|props:1head-nounheadedpp|tf:UNK
-4	dem	der	_	DET-ART	Morph:dsm|NE:O|props:1head-nounheadedpp|tf:UNK
-5	Schrank	Schrank	_	NOUN-NN	Morph:dsm|NE:O|props:1head-nounheadedpp|tf:UNK
+3	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:1head-nounheadedpp|tf:UNK
+4	dem	das	_	DET-ART	Morph:dsn|NE:O|props:1head-nounheadedpp|tf:UNK
+5	Off	Off	_	NOUN-NN	Morph:dsn|NE:O|props:1head-nounheadedpp|tf:UNK
 6	.	.	_	PUNCT-$.	Morph:null|NE:O|props:1head-nounheadedpp|tf:UNK
 
 1	Die	die	_	DET-ART	Morph:nsf|NE:O|props:1head-nounheadedpp|tf:UNK
@@ -8448,14 +8453,14 @@
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-nounheadedpp|tf:VF
-2	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-nounheadedpp|tf:LK
+2	verschreibt	verschreiben	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-nounheadedpp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-nounheadedpp|tf:MF
-4	Gast	Gast	_	NOUN-NN	Morph:dsm|NE:O|props:3head-nounheadedpp|tf:MF
-5	den	der	_	DET-ART	Morph:asm|NE:O|props:3head-nounheadedpp|tf:MF
-6	Kommentar	Kommentar	_	NOUN-NN	Morph:asm|NE:O|props:3head-nounheadedpp|tf:MF
-7	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:3head-nounheadedpp|tf:MF
-8	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-nounheadedpp|tf:MF
-9	Seite	Seite	_	NOUN-NN	Morph:dsf|NE:O|props:3head-nounheadedpp|tf:MF
+4	Patienten	Patient	_	NOUN-NN	Morph:dsm|NE:O|props:3head-nounheadedpp|tf:MF
+5	die	die	_	DET-ART	Morph:asf|NE:O|props:3head-nounheadedpp|tf:MF
+6	Pille	Pille	_	NOUN-NN	Morph:asf|NE:O|props:3head-nounheadedpp|tf:MF
+7	von	von	_	ADP-APPR	Morph:d|NE:O|props:3head-nounheadedpp|tf:MF
+8	dem	das	_	DET-ART	Morph:dsn|NE:O|props:3head-nounheadedpp|tf:MF
+9	Beruhigungsmittel	Beruhigungsmittel	_	NOUN-NN	Morph:dsn|NE:O|props:3head-nounheadedpp|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-nounheadedpp|tf:VF
@@ -8470,7 +8475,7 @@
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:3head-nounheadedpp|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-nounheadedpp|tf:LK
+2	berichtet	berichten	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-nounheadedpp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-nounheadedpp|tf:MF
 4	Staat	Staat	_	NOUN-NN	Morph:dsm|NE:O|props:3head-nounheadedpp|tf:MF
 5	die	die	_	DET-ART	Morph:asf|NE:O|props:3head-nounheadedpp|tf:MF
@@ -8497,13 +8502,13 @@
 4	Kunden	Kunde	_	NOUN-NN	Morph:dsm|NE:O|props:3head-nounheadedpp|tf:MF
 5	die	die	_	DET-ART	Morph:asf|NE:O|props:3head-nounheadedpp|tf:MF
 6	Stimme	Stimme	_	NOUN-NN	Morph:asf|NE:O|props:3head-nounheadedpp|tf:MF
-7	in	in	_	ADP-APPR	Morph:d|NE:O|props:3head-nounheadedpp|tf:MF
-8	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-nounheadedpp|tf:MF
-9	Schrank	Schrank	_	NOUN-NN	Morph:dsm|NE:O|props:3head-nounheadedpp|tf:MF
+7	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:3head-nounheadedpp|tf:MF
+8	dem	das	_	DET-ART	Morph:dsn|NE:O|props:3head-nounheadedpp|tf:MF
+9	Off	Off	_	NOUN-NN	Morph:dsn|NE:O|props:3head-nounheadedpp|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:3head-nounheadedpp|tf:VF
-2	schickt	schicken	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-nounheadedpp|tf:LK
+2	zeigt	zeigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-nounheadedpp|tf:LK
 3	dem	das	_	DET-ART	Morph:dsn|NE:O|props:3head-nounheadedpp|tf:MF
 4	Land	Land	_	NOUN-NN	Morph:dsn|NE:O|props:3head-nounheadedpp|tf:MF
 5	die	die	_	DET-ART	Morph:asf|NE:O|props:3head-nounheadedpp|tf:MF
@@ -8514,14 +8519,14 @@
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:3head-nounheadedpp|tf:VF
-2	nennt	nennen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-nounheadedpp|tf:LK
+2	beweist	beweisen	_	VERB-VVFIN	Morph:3sis|NE:O|props:3head-nounheadedpp|tf:LK
 3	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-nounheadedpp|tf:MF
 4	Welt	Welt	_	NOUN-NN	Morph:dsf|NE:O|props:3head-nounheadedpp|tf:MF
 5	die	die	_	DET-ART	Morph:asf|NE:O|props:3head-nounheadedpp|tf:MF
-6	Truppe	Truppe	_	NOUN-NN	Morph:asf|NE:O|props:3head-nounheadedpp|tf:MF
-7	unter	unter	_	ADP-APPR	Morph:d|NE:O|props:3head-nounheadedpp|tf:MF
-8	dem	der	_	DET-ART	Morph:dsm|NE:O|props:3head-nounheadedpp|tf:MF
-9	General	General	_	NOUN-NN	Morph:dsm|NE:O|props:3head-nounheadedpp|tf:MF
+6	Bevorzugung	Bevorzugung	_	NOUN-NN	Morph:asf|NE:O|props:3head-nounheadedpp|tf:MF
+7	von	von	_	ADP-APPR	Morph:d|NE:O|props:3head-nounheadedpp|tf:MF
+8	der	die	_	DET-ART	Morph:dsf|NE:O|props:3head-nounheadedpp|tf:MF
+9	Frau	Frau	_	NOUN-NN	Morph:dsf|NE:O|props:3head-nounheadedpp|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:3head-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:3head-nounheadedpp|tf:VF
@@ -8594,10 +8599,10 @@
 2	gibt	geben	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-nounheadedpp|tf:LK
 3	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
 4	Frau	Frau	_	NOUN-NN	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-6	Antwort	Antwort	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-7	des	das	_	DET-ART	Morph:gsn|NE:O|props:4head-nounheadedpp|tf:MF
-8	Amts	Amt	_	NOUN-NN	Morph:gsn|NE:O|props:4head-nounheadedpp|tf:MF
+5	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+6	Mannes	Mann	_	NOUN-NN	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+7	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
+8	Antwort	Antwort	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
 9	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:4head-nounheadedpp|tf:MF
 10	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
 11	Frage	Frage	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
@@ -8607,10 +8612,10 @@
 2	erklärt	erklären	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-nounheadedpp|tf:LK
 3	den	der|die|das	_	DET-ART	Morph:dp*|NE:O|props:4head-nounheadedpp|tf:MF
 4	Leuten	Leute	_	NOUN-NN	Morph:dp*|NE:O|props:4head-nounheadedpp|tf:MF
-5	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
-6	Schritt	Schritt	_	NOUN-NN	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
-7	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
-8	Frau	Frau	_	NOUN-NN	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
+5	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
+6	Partei	Partei	_	NOUN-NN	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
+7	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
+8	Schritt	Schritt	_	NOUN-NN	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
 9	in	in	_	ADP-APPR	Morph:a|NE:O|props:4head-nounheadedpp|tf:MF
 10	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
 11	Richtung	Richtung	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
@@ -8620,10 +8625,10 @@
 2	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-nounheadedpp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
 4	Gast	Gast	_	NOUN-NN	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
-5	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
-6	Kommentar	Kommentar	_	NOUN-NN	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
-7	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
-8	Mannes	Mann	_	NOUN-NN	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+5	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+6	Kollegen	Kollege	_	NOUN-NN	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+7	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
+8	Kommentar	Kommentar	_	NOUN-NN	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
 9	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:4head-nounheadedpp|tf:MF
 10	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
 11	Seite	Seite	_	NOUN-NN	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
@@ -8633,23 +8638,23 @@
 2	beschreibt	beschreiben	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-nounheadedpp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
 4	Herren	Herr	_	NOUN-NN	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
-5	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
-6	Einsatz	Einsatz	_	NOUN-NN	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
-7	des	das	_	DET-ART	Morph:gsn|NE:O|props:4head-nounheadedpp|tf:MF
-8	Lebens	Leben	_	NOUN-NN	Morph:gsn|NE:O|props:4head-nounheadedpp|tf:MF
+5	des	das	_	DET-ART	Morph:gsn|NE:O|props:4head-nounheadedpp|tf:MF
+6	Hauses	Haus	_	NOUN-NN	Morph:gsn|NE:O|props:4head-nounheadedpp|tf:MF
+7	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
+8	Einsatz	Einsatz	_	NOUN-NN	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
 9	von	von	_	ADP-APPR	Morph:d|NE:O|props:4head-nounheadedpp|tf:MF
 10	den	die	_	DET-ART	Morph:dpf|NE:O|props:4head-nounheadedpp|tf:MF
 11	Bodentruppen	Bodentruppe	_	NOUN-NN	Morph:dpf|NE:O|props:4head-nounheadedpp|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:4head-nounheadedpp|tf:VF
-2	bringt	bringen	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-nounheadedpp|tf:LK
+2	berichtet	berichten	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-nounheadedpp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
 4	Staat	Staat	_	NOUN-NN	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-6	Suche	Suche	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-7	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
-8	Präsidenten	Präsident	_	NOUN-NN	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+5	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+6	Vaters	Vater	_	NOUN-NN	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+7	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
+8	Suche	Suche	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
 9	nach	nach	_	ADP-APPR	Morph:d|NE:O|props:4head-nounheadedpp|tf:MF
 10	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
 11	Identität	Identität	_	NOUN-NN	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
@@ -8659,10 +8664,10 @@
 2	bestätigt	bestätigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-nounheadedpp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
 4	Gegner	Gegner	_	NOUN-NN	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-6	Auseinandersetzung	Auseinandersetzung	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-7	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
-8	Sohnes	Sohn	_	NOUN-NN	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+5	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
+6	Mutter	Mutter	_	NOUN-NN	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
+7	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
+8	Auseinandersetzung	Auseinandersetzung	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
 9	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:4head-nounheadedpp|tf:MF
 10	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
 11	Polizei	Polizei	_	NOUN-NN	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
@@ -8672,23 +8677,23 @@
 2	vertreibt	vertreiben	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-nounheadedpp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
 4	Kunden	Kunde	_	NOUN-NN	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-6	Stimme	Stimme	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-7	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
-8	Mutter	Mutter	_	NOUN-NN	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
-9	in	in	_	ADP-APPR	Morph:d|NE:O|props:4head-nounheadedpp|tf:MF
-10	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
-11	Schrank	Schrank	_	NOUN-NN	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
+5	des	das	_	DET-ART	Morph:gsn|NE:O|props:4head-nounheadedpp|tf:MF
+6	Amts	Amt	_	NOUN-NN	Morph:gsn|NE:O|props:4head-nounheadedpp|tf:MF
+7	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
+8	Stimme	Stimme	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
+9	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:4head-nounheadedpp|tf:MF
+10	dem	das	_	DET-ART	Morph:dsn|NE:O|props:4head-nounheadedpp|tf:MF
+11	Off	Off	_	NOUN-NN	Morph:dsn|NE:O|props:4head-nounheadedpp|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:4head-nounheadedpp|tf:VF
 2	schickt	schicken	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-nounheadedpp|tf:LK
 3	dem	das	_	DET-ART	Morph:dsn|NE:O|props:4head-nounheadedpp|tf:MF
 4	Land	Land	_	NOUN-NN	Morph:dsn|NE:O|props:4head-nounheadedpp|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-6	Truppe	Truppe	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-7	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
-8	Vaters	Vater	_	NOUN-NN	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+5	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+6	Freundes	Freund	_	NOUN-NN	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+7	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
+8	Truppe	Truppe	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
 9	gegen	gegen	_	ADP-APPR	Morph:a|NE:O|props:4head-nounheadedpp|tf:MF
 10	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
 11	Befreiungskrieg	Befreiungskrieg	_	NOUN-NN	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
@@ -8698,10 +8703,10 @@
 2	nennt	nennen	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-nounheadedpp|tf:LK
 3	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
 4	Welt	Welt	_	NOUN-NN	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-6	Truppe	Truppe	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-7	des	das	_	DET-ART	Morph:gsn|NE:O|props:4head-nounheadedpp|tf:MF
-8	Landes	Land	_	NOUN-NN	Morph:gsn|NE:O|props:4head-nounheadedpp|tf:MF
+5	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
+6	Arbeit	Arbeit	_	NOUN-NN	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
+7	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
+8	Truppe	Truppe	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
 9	unter	unter	_	ADP-APPR	Morph:d|NE:O|props:4head-nounheadedpp|tf:MF
 10	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
 11	General	General	_	NOUN-NN	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
@@ -8711,10 +8716,10 @@
 2	verliert	verlieren	_	VERB-VVFIN	Morph:3sis|NE:O|props:4head-nounheadedpp|tf:LK
 3	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
 4	Partei	Partei	_	NOUN-NN	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-6	Mehrheit	Mehrheit	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-7	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
-8	Anfangs	Anfang	_	NOUN-NN	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+5	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
+6	Heimat	Heimat	_	NOUN-NN	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
+7	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
+8	Mehrheit	Mehrheit	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
 9	in	in	_	ADP-APPR	Morph:d|NE:O|props:4head-nounheadedpp|tf:MF
 10	dem	das	_	DET-ART	Morph:dsn|NE:O|props:4head-nounheadedpp|tf:MF
 11	Parlament	Parlament	_	NOUN-NN	Morph:dsn|NE:O|props:4head-nounheadedpp|tf:MF
@@ -8724,10 +8729,10 @@
 2	glauben	glauben	_	VERB-VVFIN	Morph:3pis|NE:O|props:4head-nounheadedpp|tf:LK
 3	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
 4	Bevölkerung	Bevölkerung	_	NOUN-NN	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
-5	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
-6	Beschuss	Beschuss	_	NOUN-NN	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
-7	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
-8	Partei	Partei	_	NOUN-NN	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
+5	des	das	_	DET-ART	Morph:gsn|NE:O|props:4head-nounheadedpp|tf:MF
+6	Landes	Land	_	NOUN-NN	Morph:gsn|NE:O|props:4head-nounheadedpp|tf:MF
+7	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
+8	Beschuss	Beschuss	_	NOUN-NN	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
 9	auf	auf	_	ADP-APPR	Morph:a|NE:O|props:4head-nounheadedpp|tf:MF
 10	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
 11	Vorort	Vorort	_	NOUN-NN	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
@@ -8737,10 +8742,10 @@
 2	erklären	erklären	_	VERB-VVFIN	Morph:3pis|NE:O|props:4head-nounheadedpp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
 4	Flüchtling	Flüchtling	_	NOUN-NN	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-6	Träne	Träne	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-7	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
-8	Freundes	Freund	_	NOUN-NN	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+5	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
+6	Gesellschaft	Gesellschaft	_	NOUN-NN	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
+7	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
+8	Träne	Träne	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
 9	in	in	_	ADP-APPR	Morph:d|NE:O|props:4head-nounheadedpp|tf:MF
 10	dem	das	_	DET-ART	Morph:dsn|NE:O|props:4head-nounheadedpp|tf:MF
 11	Auge	Auge	_	NOUN-NN	Morph:dsn|NE:O|props:4head-nounheadedpp|tf:MF
@@ -8750,23 +8755,23 @@
 2	suchen	suchen	_	VERB-VVFIN	Morph:3pis|NE:O|props:4head-nounheadedpp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
 4	Mann	Mann	_	NOUN-NN	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
-5	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-6	Familie	Familie	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
-7	der	die	_	DET-ART	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
-8	Heimat	Heimat	_	NOUN-NN	Morph:gsf|NE:O|props:4head-nounheadedpp|tf:MF
+5	des	das	_	DET-ART	Morph:gsn|NE:O|props:4head-nounheadedpp|tf:MF
+6	Lebens	Leben	_	NOUN-NN	Morph:gsn|NE:O|props:4head-nounheadedpp|tf:MF
+7	die	die	_	DET-ART	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
+8	Familie	Familie	_	NOUN-NN	Morph:asf|NE:O|props:4head-nounheadedpp|tf:MF
 9	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:4head-nounheadedpp|tf:MF
 10	dem	das	_	DET-ART	Morph:dsn|NE:O|props:4head-nounheadedpp|tf:MF
 11	Kind	Kind	_	NOUN-NN	Morph:dsn|NE:O|props:4head-nounheadedpp|tf:MF
 12	.	.	_	PUNCT-$.	Morph:null|NE:O|props:4head-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:4head-nounheadedpp|tf:VF
-2	verkaufen	verkaufen	_	VERB-VVFIN	Morph:3pis|NE:O|props:4head-nounheadedpp|tf:LK
+2	schildern	schildern	_	VERB-VVFIN	Morph:3pis|NE:O|props:4head-nounheadedpp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
 4	Präsidenten	Präsident	_	NOUN-NN	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
-5	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
-6	Konflikt	Konflikt	_	NOUN-NN	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
-7	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
-8	Sohnes	Sohn	_	NOUN-NN	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+5	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+6	Films	Film	_	NOUN-NN	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+7	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
+8	Konflikt	Konflikt	_	NOUN-NN	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
 9	in	in	_	ADP-APPR	Morph:d|NE:O|props:4head-nounheadedpp|tf:MF
 10	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
 11	Welt	Welt	_	NOUN-NN	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
@@ -8776,10 +8781,10 @@
 2	bauen	bauen	_	VERB-VVFIN	Morph:3pis|NE:O|props:4head-nounheadedpp|tf:LK
 3	der	die	_	DET-ART	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
 4	Regierung	Regierung	_	NOUN-NN	Morph:dsf|NE:O|props:4head-nounheadedpp|tf:MF
-5	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
-6	Zugang	Zugang	_	NOUN-NN	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
-7	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
-8	Kollegen	Kollege	_	NOUN-NN	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+5	des	der	_	DET-ART	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+6	Staats	Staat	_	NOUN-NN	Morph:gsm|NE:O|props:4head-nounheadedpp|tf:MF
+7	den	der	_	DET-ART	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
+8	Zugang	Zugang	_	NOUN-NN	Morph:asm|NE:O|props:4head-nounheadedpp|tf:MF
 9	zu	zu	_	ADP-APPR	Morph:d|NE:O|props:4head-nounheadedpp|tf:MF
 10	dem	der	_	DET-ART	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
 11	Teil	Teil	_	NOUN-NN	Morph:dsm|NE:O|props:4head-nounheadedpp|tf:MF
@@ -8816,18 +8821,18 @@
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:5head-nounheadedpp|tf:VF
-2	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-nounheadedpp|tf:LK
+2	verschreibt	verschreiben	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-nounheadedpp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-nounheadedpp|tf:MF
 4	Gast	Gast	_	NOUN-NN	Morph:dsm|NE:O|props:5head-nounheadedpp|tf:MF
 5	des	der	_	DET-ART	Morph:gsm|NE:O|props:5head-nounheadedpp|tf:MF
 6	Kollegen	Kollege	_	NOUN-NN	Morph:gsm|NE:O|props:5head-nounheadedpp|tf:MF
-7	den	der	_	DET-ART	Morph:asm|NE:O|props:5head-nounheadedpp|tf:MF
-8	Kommentar	Kommentar	_	NOUN-NN	Morph:asm|NE:O|props:5head-nounheadedpp|tf:MF
+7	die	die	_	DET-ART	Morph:apf|NE:O|props:5head-nounheadedpp|tf:MF
+8	Pillen	Pille	_	NOUN-NN	Morph:apf|NE:O|props:5head-nounheadedpp|tf:MF
 9	des	der	_	DET-ART	Morph:gsm|NE:O|props:5head-nounheadedpp|tf:MF
 10	Mannes	Mann	_	NOUN-NN	Morph:gsm|NE:O|props:5head-nounheadedpp|tf:MF
-11	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:5head-nounheadedpp|tf:MF
-12	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-nounheadedpp|tf:MF
-13	Seite	Seite	_	NOUN-NN	Morph:dsf|NE:O|props:5head-nounheadedpp|tf:MF
+11	von	von	_	ADP-APPR	Morph:d|NE:O|props:5head-nounheadedpp|tf:MF
+12	dem	das	_	DET-ART	Morph:dsn|NE:O|props:5head-nounheadedpp|tf:MF
+13	Beruhigungsmittel	Beruhigungsmittel	_	NOUN-NN	Morph:dsn|NE:O|props:5head-nounheadedpp|tf:MF
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:5head-nounheadedpp|tf:VF
@@ -8846,7 +8851,7 @@
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:5head-nounheadedpp|tf:VF
-2	bestätigt	bestätigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-nounheadedpp|tf:LK
+2	berichtet	berichten	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-nounheadedpp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-nounheadedpp|tf:MF
 4	Staat	Staat	_	NOUN-NN	Morph:dsm|NE:O|props:5head-nounheadedpp|tf:MF
 5	des	der	_	DET-ART	Morph:gsm|NE:O|props:5head-nounheadedpp|tf:MF
@@ -8861,7 +8866,7 @@
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:5head-nounheadedpp|tf:VF
-2	berichtet	berichten	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-nounheadedpp|tf:LK
+2	bestätigt	bestätigen	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-nounheadedpp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-nounheadedpp|tf:MF
 4	Gegner	Gegner	_	NOUN-NN	Morph:dsm|NE:O|props:5head-nounheadedpp|tf:MF
 5	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-nounheadedpp|tf:MF
@@ -8885,9 +8890,9 @@
 8	Stimme	Stimme	_	NOUN-NN	Morph:asf|NE:O|props:5head-nounheadedpp|tf:MF
 9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-nounheadedpp|tf:MF
 10	Mutter	Mutter	_	NOUN-NN	Morph:gsf|NE:O|props:5head-nounheadedpp|tf:MF
-11	in	in	_	ADP-APPR	Morph:d|NE:O|props:5head-nounheadedpp|tf:MF
-12	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-nounheadedpp|tf:MF
-13	Schrank	Schrank	_	NOUN-NN	Morph:dsm|NE:O|props:5head-nounheadedpp|tf:MF
+11	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:5head-nounheadedpp|tf:MF
+12	dem	das	_	DET-ART	Morph:dsn|NE:O|props:5head-nounheadedpp|tf:MF
+13	Off	Off	_	NOUN-NN	Morph:dsn|NE:O|props:5head-nounheadedpp|tf:MF
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:5head-nounheadedpp|tf:VF
@@ -8906,15 +8911,15 @@
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:5head-nounheadedpp|tf:VF
-2	nennt	nennen	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-nounheadedpp|tf:LK
+2	präsentiert	präsentieren	_	VERB-VVFIN	Morph:3sis|NE:O|props:5head-nounheadedpp|tf:LK
 3	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-nounheadedpp|tf:MF
 4	Welt	Welt	_	NOUN-NN	Morph:dsf|NE:O|props:5head-nounheadedpp|tf:MF
 5	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-nounheadedpp|tf:MF
 6	Arbeit	Arbeit	_	NOUN-NN	Morph:gsf|NE:O|props:5head-nounheadedpp|tf:MF
 7	die	die	_	DET-ART	Morph:asf|NE:O|props:5head-nounheadedpp|tf:MF
 8	Truppe	Truppe	_	NOUN-NN	Morph:asf|NE:O|props:5head-nounheadedpp|tf:MF
-9	des	das	_	DET-ART	Morph:gsn|NE:O|props:5head-nounheadedpp|tf:MF
-10	Landes	Land	_	NOUN-NN	Morph:gsn|NE:O|props:5head-nounheadedpp|tf:MF
+9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-nounheadedpp|tf:MF
+10	Verteidigung	Verteidigung	_	NOUN-NN	Morph:gsf|NE:O|props:5head-nounheadedpp|tf:MF
 11	unter	unter	_	ADP-APPR	Morph:d|NE:O|props:5head-nounheadedpp|tf:MF
 12	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-nounheadedpp|tf:MF
 13	General	General	_	NOUN-NN	Morph:dsm|NE:O|props:5head-nounheadedpp|tf:MF
@@ -8966,22 +8971,22 @@
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:5head-nounheadedpp|tf:VF
-2	suchen	suchen	_	VERB-VVFIN	Morph:3pis|NE:O|props:5head-nounheadedpp|tf:LK
+2	verkaufen	verkaufen	_	VERB-VVFIN	Morph:3pis|NE:O|props:5head-nounheadedpp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-nounheadedpp|tf:MF
 4	Mann	Mann	_	NOUN-NN	Morph:dsm|NE:O|props:5head-nounheadedpp|tf:MF
 5	des	das	_	DET-ART	Morph:gsn|NE:O|props:5head-nounheadedpp|tf:MF
 6	Lebens	Leben	_	NOUN-NN	Morph:gsn|NE:O|props:5head-nounheadedpp|tf:MF
-7	die	die	_	DET-ART	Morph:asf|NE:O|props:5head-nounheadedpp|tf:MF
-8	Familie	Familie	_	NOUN-NN	Morph:asf|NE:O|props:5head-nounheadedpp|tf:MF
+7	das	das	_	DET-ART	Morph:asn|NE:O|props:5head-nounheadedpp|tf:MF
+8	Schiff	Schiff	_	NOUN-NN	Morph:asn|NE:O|props:5head-nounheadedpp|tf:MF
 9	der	die	_	DET-ART	Morph:gsf|NE:O|props:5head-nounheadedpp|tf:MF
-10	Heimat	Heimat	_	NOUN-NN	Morph:gsf|NE:O|props:5head-nounheadedpp|tf:MF
+10	Familie	Familie	_	NOUN-NN	Morph:gsf|NE:O|props:5head-nounheadedpp|tf:MF
 11	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:5head-nounheadedpp|tf:MF
-12	dem	das	_	DET-ART	Morph:dsn|NE:O|props:5head-nounheadedpp|tf:MF
-13	Kind	Kind	_	NOUN-NN	Morph:dsn|NE:O|props:5head-nounheadedpp|tf:MF
+12	der	die	_	DET-ART	Morph:dsf|NE:O|props:5head-nounheadedpp|tf:MF
+13	Besatzung	Besatzung	_	NOUN-NN	Morph:dsf|NE:O|props:5head-nounheadedpp|tf:MF
 14	.	.	_	PUNCT-$.	Morph:null|NE:O|props:5head-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:5head-nounheadedpp|tf:VF
-2	verkaufen	verkaufen	_	VERB-VVFIN	Morph:3pis|NE:O|props:5head-nounheadedpp|tf:LK
+2	schildern	schildern	_	VERB-VVFIN	Morph:3pis|NE:O|props:5head-nounheadedpp|tf:LK
 3	dem	der	_	DET-ART	Morph:dsm|NE:O|props:5head-nounheadedpp|tf:MF
 4	Präsidenten	Präsident	_	NOUN-NN	Morph:dsm|NE:O|props:5head-nounheadedpp|tf:MF
 5	des	der	_	DET-ART	Morph:gsm|NE:O|props:5head-nounheadedpp|tf:MF
@@ -9026,7 +9031,7 @@
 4	Schritt	Schritt	_	NOUN-NN	Morph:asm|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 5	in	in	_	ADP-APPR	Morph:a|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 6	die	die	_	DET-ART	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
-7	andere	andere	_	ADJ-ADJA	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
+7	andere	ander	_	ADJ-ADJA	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 8	Richtung	Richtung	_	NOUN-NN	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:prepdetadjnoun-nounheadedpp|tf:UNK
 
@@ -9051,7 +9056,7 @@
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:prepdetadjnoun-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:prepdetadjnoun-nounheadedpp|tf:VF
-2	will	wollen	_	VERB-VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-nounheadedpp|tf:LK
+2	berichtet	berichten	_	VERB-VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-nounheadedpp|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 4	Suche	Suche	_	NOUN-NN	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 5	nach	nach	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
@@ -9071,23 +9076,23 @@
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:prepdetadjnoun-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:prepdetadjnoun-nounheadedpp|tf:VF
-2	mag	mögen	_	VERB-VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-nounheadedpp|tf:LK
+2	mag	mögen	_	VERB-VMFIN	Morph:3sis|NE:O|props:prepdetadjnoun-nounheadedpp|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 4	Stimme	Stimme	_	NOUN-NN	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
-5	in	in	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
-6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
-7	alten	alt	_	ADJ-ADJA	Morph:dsm|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
-8	Schrank	Schrank	_	NOUN-NN	Morph:dsm|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
+5	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
+6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
+7	leisen	leise	_	ADJ-ADJA	Morph:dsn|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
+8	Off	Off	_	NOUN-NN	Morph:dsn|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:prepdetadjnoun-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:prepdetadjnoun-nounheadedpp|tf:VF
-2	führt	führen	_	VERB-VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-nounheadedpp|tf:LK
+2	vergisst	vergessen	_	VERB-VVFIN	Morph:3sis|NE:O|props:prepdetadjnoun-nounheadedpp|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 4	Truppe	Truppe	_	NOUN-NN	Morph:asf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
-5	gegen	gegen	_	ADP-APPR	Morph:a|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
-6	den	der	_	DET-ART	Morph:asm|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
-7	langen	lang	_	ADJ-ADJA	Morph:asm|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
-8	Befreiungskrieg	Befreiungskrieg	_	NOUN-NN	Morph:asm|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
+5	unter	unter	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
+6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
+7	alten	alt	_	ADJ-ADJA	Morph:dsm|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
+8	General	General	_	NOUN-NN	Morph:dsm|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:prepdetadjnoun-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:prepdetadjnoun-nounheadedpp|tf:VF
@@ -9146,7 +9151,7 @@
 4	Konflikt	Konflikt	_	NOUN-NN	Morph:asm|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 5	in	in	_	ADP-APPR	Morph:d|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 6	der	die	_	DET-ART	Morph:dsf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
-7	weiten	weit	_	ADJ-ADJA	Morph:dsf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
+7	arabischen	arabisch	_	ADJ-ADJA	Morph:dsf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 8	Welt	Welt	_	NOUN-NN	Morph:dsf|NE:O|props:prepdetadjnoun-nounheadedpp|tf:MF
 9	.	.	_	PUNCT-$.	Morph:null|NE:O|props:prepdetadjnoun-nounheadedpp|tf:UNK
 
@@ -9205,7 +9210,7 @@
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:pppossnp-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:pppossnp-nounheadedpp|tf:VF
-2	will	wollen	_	VERB-VVFIN	Morph:3sis|NE:O|props:pppossnp-nounheadedpp|tf:LK
+2	berichtet	berichten	_	VERB-VVFIN	Morph:3sis|NE:O|props:pppossnp-nounheadedpp|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:pppossnp-nounheadedpp|tf:MF
 4	Suche	Suche	_	NOUN-NN	Morph:asf|NE:O|props:pppossnp-nounheadedpp|tf:MF
 5	nach	nach	_	ADP-APPR	Morph:d|NE:O|props:pppossnp-nounheadedpp|tf:MF
@@ -9227,12 +9232,12 @@
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:pppossnp-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:pppossnp-nounheadedpp|tf:VF
-2	mag	mögen	_	VERB-VVFIN	Morph:3sis|NE:O|props:pppossnp-nounheadedpp|tf:LK
+2	mag	mögen	_	VERB-VMFIN	Morph:3sis|NE:O|props:pppossnp-nounheadedpp|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:pppossnp-nounheadedpp|tf:MF
 4	Stimme	Stimme	_	NOUN-NN	Morph:asf|NE:O|props:pppossnp-nounheadedpp|tf:MF
-5	in	in	_	ADP-APPR	Morph:d|NE:O|props:pppossnp-nounheadedpp|tf:MF
-6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:pppossnp-nounheadedpp|tf:MF
-7	Schrank	Schrank	_	NOUN-NN	Morph:dsm|NE:O|props:pppossnp-nounheadedpp|tf:MF
+5	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:pppossnp-nounheadedpp|tf:MF
+6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:pppossnp-nounheadedpp|tf:MF
+7	Off	Off	_	NOUN-NN	Morph:dsn|NE:O|props:pppossnp-nounheadedpp|tf:MF
 8	der	die	_	DET-ART	Morph:gsf|NE:O|props:pppossnp-nounheadedpp|tf:MF
 9	Wohnung	Wohnung	_	NOUN-NN	Morph:gsf|NE:O|props:pppossnp-nounheadedpp|tf:MF
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:pppossnp-nounheadedpp|tf:UNK
@@ -9260,7 +9265,7 @@
 10	.	.	_	PUNCT-$.	Morph:null|NE:O|props:pppossnp-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:pppossnp-nounheadedpp|tf:VF
-2	verliert	verlieren	_	VERB-VVFIN	Morph:3sis|NE:O|props:pppossnp-nounheadedpp|tf:LK
+2	hält	halten	_	VERB-VVFIN	Morph:3sis|NE:O|props:pppossnp-nounheadedpp|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:pppossnp-nounheadedpp|tf:MF
 4	Mehrheit	Mehrheit	_	NOUN-NN	Morph:asf|NE:O|props:pppossnp-nounheadedpp|tf:MF
 5	in	in	_	ADP-APPR	Morph:d|NE:O|props:pppossnp-nounheadedpp|tf:MF
@@ -9350,12 +9355,12 @@
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:pppp-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:pppp-nounheadedpp|tf:VF
-2	schreibt	schreiben	_	VERB-VVFIN	Morph:3sis|NE:O|props:pppp-nounheadedpp|tf:LK
+2	vergisst	vergessen	_	VERB-VVFIN	Morph:3sis|NE:O|props:pppp-nounheadedpp|tf:LK
 3	den	der	_	DET-ART	Morph:asm|NE:O|props:pppp-nounheadedpp|tf:MF
 4	Kommentar	Kommentar	_	NOUN-NN	Morph:asm|NE:O|props:pppp-nounheadedpp|tf:MF
-5	in	in	_	ADP-APPR	Morph:d|NE:O|props:pppp-nounheadedpp|tf:MF
-6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:pppp-nounheadedpp|tf:MF
-7	Film	Film	_	NOUN-NN	Morph:dsm|NE:O|props:pppp-nounheadedpp|tf:MF
+5	über	über	_	ADP-APPR	Morph:a|NE:O|props:pppp-nounheadedpp|tf:MF
+6	den	der	_	DET-ART	Morph:asm|NE:O|props:pppp-nounheadedpp|tf:MF
+7	Film	Film	_	NOUN-NN	Morph:asm|NE:O|props:pppp-nounheadedpp|tf:MF
 8	über	über	_	ADP-APPR	Morph:a|NE:O|props:pppp-nounheadedpp|tf:MF
 9	den	der	_	DET-ART	Morph:asm|NE:O|props:pppp-nounheadedpp|tf:MF
 10	Krieg	Krieg	_	NOUN-NN	Morph:asm|NE:O|props:pppp-nounheadedpp|tf:MF
@@ -9374,7 +9379,7 @@
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:pppp-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:nsf3|NE:O|props:pppp-nounheadedpp|tf:VF
-2	will	wollen	_	VERB-VMFIN	Morph:3sis|NE:O|props:pppp-nounheadedpp|tf:LK
+2	berichtet	berichten	_	VERB-VVFIN	Morph:3sis|NE:O|props:pppp-nounheadedpp|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:pppp-nounheadedpp|tf:MF
 4	Suche	Suche	_	NOUN-NN	Morph:asf|NE:O|props:pppp-nounheadedpp|tf:MF
 5	nach	nach	_	ADP-APPR	Morph:d|NE:O|props:pppp-nounheadedpp|tf:MF
@@ -9401,12 +9406,12 @@
 2	mag	mögen	_	VERB-VMFIN	Morph:3sis|NE:O|props:pppp-nounheadedpp|tf:LK
 3	die	die	_	DET-ART	Morph:asf|NE:O|props:pppp-nounheadedpp|tf:MF
 4	Stimme	Stimme	_	NOUN-NN	Morph:asf|NE:O|props:pppp-nounheadedpp|tf:MF
-5	in	in	_	ADP-APPR	Morph:d|NE:O|props:pppp-nounheadedpp|tf:MF
-6	dem	der	_	DET-ART	Morph:dsm|NE:O|props:pppp-nounheadedpp|tf:MF
-7	Schrank	Schrank	_	NOUN-NN	Morph:dsm|NE:O|props:pppp-nounheadedpp|tf:MF
-8	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:pppp-nounheadedpp|tf:MF
+5	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:pppp-nounheadedpp|tf:MF
+6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:pppp-nounheadedpp|tf:MF
+7	Off	Off	_	NOUN-NN	Morph:dsn|NE:O|props:pppp-nounheadedpp|tf:MF
+8	in	in	_	ADP-APPR	Morph:d|NE:O|props:pppp-nounheadedpp|tf:MF
 9	der	die	_	DET-ART	Morph:dsf|NE:O|props:pppp-nounheadedpp|tf:MF
-10	Puppe	Puppe	_	NOUN-NN	Morph:dsf|NE:O|props:pppp-nounheadedpp|tf:MF
+10	Höhe	Höhe	_	NOUN-NN	Morph:dsf|NE:O|props:pppp-nounheadedpp|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:pppp-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:pppp-nounheadedpp|tf:VF
@@ -9416,9 +9421,9 @@
 5	gegen	gegen	_	ADP-APPR	Morph:a|NE:O|props:pppp-nounheadedpp|tf:MF
 6	den	der	_	DET-ART	Morph:asm|NE:O|props:pppp-nounheadedpp|tf:MF
 7	Befreiungskrieg	Befreiungskrieg	_	NOUN-NN	Morph:asm|NE:O|props:pppp-nounheadedpp|tf:MF
-8	gegen	gegen	_	ADP-APPR	Morph:a|NE:O|props:pppp-nounheadedpp|tf:MF
-9	die	die	_	DET-ART	Morph:asf|NE:O|props:pppp-nounheadedpp|tf:MF
-10	Truppe	Truppe	_	NOUN-NN	Morph:asf|NE:O|props:pppp-nounheadedpp|tf:MF
+8	auf	auf	_	ADP-APPR	Morph:d|NE:O|props:pppp-nounheadedpp|tf:MF
+9	dem	der	_	DET-ART	Morph:dsm|NE:O|props:pppp-nounheadedpp|tf:MF
+10	Balkan	Balkan	_	PROPN-NE	Morph:dsm|NE:B-LOC|props:pppp-nounheadedpp|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:pppp-nounheadedpp|tf:UNK
 
 1	Er	er	_	PRON-PPER	Morph:nsm3|NE:O|props:pppp-nounheadedpp|tf:VF
@@ -9476,9 +9481,9 @@
 5	mit	mit	_	ADP-APPR	Morph:d|NE:O|props:pppp-nounheadedpp|tf:MF
 6	dem	das	_	DET-ART	Morph:dsn|NE:O|props:pppp-nounheadedpp|tf:MF
 7	Kind	Kind	_	NOUN-NN	Morph:dsn|NE:O|props:pppp-nounheadedpp|tf:MF
-8	an	an	_	ADP-APPR	Morph:d|NE:O|props:pppp-nounheadedpp|tf:MF
-9	der	die	_	DET-ART	Morph:dsf|NE:O|props:pppp-nounheadedpp|tf:MF
-10	Hand	Hand	_	NOUN-NN	Morph:dsf|NE:O|props:pppp-nounheadedpp|tf:MF
+8	aus	aus	_	ADP-APPR	Morph:d|NE:O|props:pppp-nounheadedpp|tf:MF
+9	den	der	_	DET-ART	Morph:dpm|NE:O|props:pppp-nounheadedpp|tf:MF
+10	USA	USA	_	PROPN-NE	Morph:dpm|NE:B-GPE|props:pppp-nounheadedpp|tf:MF
 11	.	.	_	PUNCT-$.	Morph:null|NE:O|props:pppp-nounheadedpp|tf:UNK
 
 1	Sie	sie	_	PRON-PPER	Morph:np*3|NE:O|props:pppp-nounheadedpp|tf:VF
