@@ -6129,7 +6129,7 @@
 2	der	die	DET	ART	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 3	langen	lang	ADJ	ADJA	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
 4	Straße	Straße	NOUN	NN	Morph:dsf|NE:O|props:ppbeforehead-prepdetadjnoun|tf:VF
-5	lässt	lässen	VERB	VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
+5	lässt	lassen	VERB	VVFIN	Morph:3sis|NE:O|props:ppbeforehead-prepdetadjnoun|tf:LK
 6	sie	sie	PRON	PPER	Morph:nsf3|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 7	den	der	DET	ART	Morph:asm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
 8	Mann	Mann	NOUN	NN	Morph:asm|NE:O|props:ppbeforehead-prepdetadjnoun|tf:MF
@@ -9403,7 +9403,7 @@
 11	.	.	PUNCT	$.	Morph:null|NE:O|props:pppp-nounheadedpp|tf:UNK
 
 1	Er	er	PRON	PPER	Morph:nsm3|NE:O|props:pppp-nounheadedpp|tf:VF
-2	mag	mögen	VERB	VMFIN	Morph:3sis|NE:O|props:pppp-nounheadedpp|tf:LK
+2	mag	mögen	VERB	VVFIN	Morph:3sis|NE:O|props:pppp-nounheadedpp|tf:LK
 3	die	die	DET	ART	Morph:asf|NE:O|props:pppp-nounheadedpp|tf:MF
 4	Stimme	Stimme	NOUN	NN	Morph:asf|NE:O|props:pppp-nounheadedpp|tf:MF
 5	aus	aus	ADP	APPR	Morph:d|NE:O|props:pppp-nounheadedpp|tf:MF
