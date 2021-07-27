@@ -8605,7 +8605,7 @@
 8	Antwort	_	_	_	props=4head-nounheadedpp	_	_	_	_
 9	auf	_	_	_	props=4head-nounheadedpp	11	case	_	_
 10	die	_	_	_	props=4head-nounheadedpp	_	_	_	_
-11	Frage	_	_	_	props=4head-nounheadedpp	6	nmod	_	_
+11	Frage	_	_	_	props=4head-nounheadedpp	8	nmod	_	_
 12	.	_	_	_	props=4head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props=4head-nounheadedpp	_	_	_	_
@@ -8618,7 +8618,7 @@
 8	Schritt	_	_	_	props=4head-nounheadedpp	_	_	_	_
 9	in	_	_	_	props=4head-nounheadedpp	11	case	_	_
 10	die	_	_	_	props=4head-nounheadedpp	_	_	_	_
-11	Richtung	_	_	_	props=4head-nounheadedpp	6	nmod	_	_
+11	Richtung	_	_	_	props=4head-nounheadedpp	8	nmod	_	_
 12	.	_	_	_	props=4head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props=4head-nounheadedpp	_	_	_	_
@@ -8631,7 +8631,7 @@
 8	Kommentar	_	_	_	props=4head-nounheadedpp	_	_	_	_
 9	auf	_	_	_	props=4head-nounheadedpp	11	case	_	_
 10	der	_	_	_	props=4head-nounheadedpp	_	_	_	_
-11	Seite	_	_	_	props=4head-nounheadedpp	6	nmod	_	_
+11	Seite	_	_	_	props=4head-nounheadedpp	8	nmod	_	_
 12	.	_	_	_	props=4head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props=4head-nounheadedpp	_	_	_	_
@@ -8644,7 +8644,7 @@
 8	Einsatz	_	_	_	props=4head-nounheadedpp	_	_	_	_
 9	von	_	_	_	props=4head-nounheadedpp	11	case	_	_
 10	den	_	_	_	props=4head-nounheadedpp	_	_	_	_
-11	Bodentruppen	_	_	_	props=4head-nounheadedpp	6	nmod	_	_
+11	Bodentruppen	_	_	_	props=4head-nounheadedpp	8	nmod	_	_
 12	.	_	_	_	props=4head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props=4head-nounheadedpp	_	_	_	_
@@ -8657,7 +8657,7 @@
 8	Suche	_	_	_	props=4head-nounheadedpp	_	_	_	_
 9	nach	_	_	_	props=4head-nounheadedpp	11	case	_	_
 10	der	_	_	_	props=4head-nounheadedpp	_	_	_	_
-11	Identität	_	_	_	props=4head-nounheadedpp	6	nmod	_	_
+11	Identität	_	_	_	props=4head-nounheadedpp	8	nmod	_	_
 12	.	_	_	_	props=4head-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props=4head-nounheadedpp	_	_	_	_
@@ -8670,7 +8670,7 @@
 8	Auseinandersetzung	_	_	_	props=4head-nounheadedpp	_	_	_	_
 9	mit	_	_	_	props=4head-nounheadedpp	11	case	_	_
 10	der	_	_	_	props=4head-nounheadedpp	_	_	_	_
-11	Polizei	_	_	_	props=4head-nounheadedpp	6	nmod	_	_
+11	Polizei	_	_	_	props=4head-nounheadedpp	8	nmod	_	_
 12	.	_	_	_	props=4head-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props=4head-nounheadedpp	_	_	_	_
@@ -8683,7 +8683,7 @@
 8	Stimme	_	_	_	props=4head-nounheadedpp	_	_	_	_
 9	aus	_	_	_	props=4head-nounheadedpp	11	case	_	_
 10	dem	_	_	_	props=4head-nounheadedpp	_	_	_	_
-11	Off	_	_	_	props=4head-nounheadedpp	6	nmod	_	_
+11	Off	_	_	_	props=4head-nounheadedpp	8	nmod	_	_
 12	.	_	_	_	props=4head-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props=4head-nounheadedpp	_	_	_	_
@@ -8696,7 +8696,7 @@
 8	Truppe	_	_	_	props=4head-nounheadedpp	_	_	_	_
 9	gegen	_	_	_	props=4head-nounheadedpp	11	case	_	_
 10	den	_	_	_	props=4head-nounheadedpp	_	_	_	_
-11	Befreiungskrieg	_	_	_	props=4head-nounheadedpp	6	nmod	_	_
+11	Befreiungskrieg	_	_	_	props=4head-nounheadedpp	8	nmod	_	_
 12	.	_	_	_	props=4head-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props=4head-nounheadedpp	_	_	_	_
@@ -8709,7 +8709,7 @@
 8	Truppe	_	_	_	props=4head-nounheadedpp	_	_	_	_
 9	unter	_	_	_	props=4head-nounheadedpp	11	case	_	_
 10	dem	_	_	_	props=4head-nounheadedpp	_	_	_	_
-11	General	_	_	_	props=4head-nounheadedpp	6	nmod	_	_
+11	General	_	_	_	props=4head-nounheadedpp	8	nmod	_	_
 12	.	_	_	_	props=4head-nounheadedpp	_	_	_	_
 
 1	Er	_	_	_	props=4head-nounheadedpp	_	_	_	_
@@ -8722,7 +8722,7 @@
 8	Mehrheit	_	_	_	props=4head-nounheadedpp	_	_	_	_
 9	in	_	_	_	props=4head-nounheadedpp	11	case	_	_
 10	dem	_	_	_	props=4head-nounheadedpp	_	_	_	_
-11	Parlament	_	_	_	props=4head-nounheadedpp	6	nmod	_	_
+11	Parlament	_	_	_	props=4head-nounheadedpp	8	nmod	_	_
 12	.	_	_	_	props=4head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props=4head-nounheadedpp	_	_	_	_
@@ -8735,7 +8735,7 @@
 8	Beschuss	_	_	_	props=4head-nounheadedpp	_	_	_	_
 9	auf	_	_	_	props=4head-nounheadedpp	11	case	_	_
 10	den	_	_	_	props=4head-nounheadedpp	_	_	_	_
-11	Vorort	_	_	_	props=4head-nounheadedpp	6	nmod	_	_
+11	Vorort	_	_	_	props=4head-nounheadedpp	8	nmod	_	_
 12	.	_	_	_	props=4head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props=4head-nounheadedpp	_	_	_	_
@@ -8748,7 +8748,7 @@
 8	Träne	_	_	_	props=4head-nounheadedpp	_	_	_	_
 9	in	_	_	_	props=4head-nounheadedpp	11	case	_	_
 10	dem	_	_	_	props=4head-nounheadedpp	_	_	_	_
-11	Auge	_	_	_	props=4head-nounheadedpp	6	nmod	_	_
+11	Auge	_	_	_	props=4head-nounheadedpp	8	nmod	_	_
 12	.	_	_	_	props=4head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props=4head-nounheadedpp	_	_	_	_
@@ -8761,7 +8761,7 @@
 8	Familie	_	_	_	props=4head-nounheadedpp	_	_	_	_
 9	mit	_	_	_	props=4head-nounheadedpp	11	case	_	_
 10	dem	_	_	_	props=4head-nounheadedpp	_	_	_	_
-11	Kind	_	_	_	props=4head-nounheadedpp	6	nmod	_	_
+11	Kind	_	_	_	props=4head-nounheadedpp	8	nmod	_	_
 12	.	_	_	_	props=4head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props=4head-nounheadedpp	_	_	_	_
@@ -8774,7 +8774,7 @@
 8	Konflikt	_	_	_	props=4head-nounheadedpp	_	_	_	_
 9	in	_	_	_	props=4head-nounheadedpp	11	case	_	_
 10	der	_	_	_	props=4head-nounheadedpp	_	_	_	_
-11	Welt	_	_	_	props=4head-nounheadedpp	6	nmod	_	_
+11	Welt	_	_	_	props=4head-nounheadedpp	8	nmod	_	_
 12	.	_	_	_	props=4head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props=4head-nounheadedpp	_	_	_	_
@@ -8787,7 +8787,7 @@
 8	Zugang	_	_	_	props=4head-nounheadedpp	_	_	_	_
 9	zu	_	_	_	props=4head-nounheadedpp	11	case	_	_
 10	dem	_	_	_	props=4head-nounheadedpp	_	_	_	_
-11	Teil	_	_	_	props=4head-nounheadedpp	6	nmod	_	_
+11	Teil	_	_	_	props=4head-nounheadedpp	8	nmod	_	_
 12	.	_	_	_	props=4head-nounheadedpp	_	_	_	_
 
 1	Sie	_	_	_	props=5head-nounheadedpp	_	_	_	_

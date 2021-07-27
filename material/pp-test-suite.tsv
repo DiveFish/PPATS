@@ -779,21 +779,21 @@ ppbeforehead-verbheadedobjp	1	0	2	3	obl	Aus dem Staat ziehen sie die Million .
 3head-nounheadedpp	3	6	8	5	nmod	Sie suchen dem Mann die Familie mit dem Kind .
 3head-nounheadedpp	3	6	8	5	nmod	Sie verkaufen dem Präsidenten den Konflikt in der Welt .
 3head-nounheadedpp	3	6	8	5	nmod	Sie bauen der Regierung den Zugang zu dem Teil .
-4head-nounheadedpp	5	8	10	5	nmod	Sie gibt der Frau des Mannes die Antwort auf die Frage .
-4head-nounheadedpp	5	8	10	5	nmod	Sie erklärt den Leuten der Partei den Schritt in die Richtung .
-4head-nounheadedpp	5	8	10	5	nmod	Sie schreibt dem Gast des Kollegen den Kommentar auf der Seite .
-4head-nounheadedpp	5	8	10	5	nmod	Sie beschreibt dem Herren des Hauses den Einsatz von den Bodentruppen .
-4head-nounheadedpp	5	8	10	5	nmod	Sie berichtet dem Staat des Vaters die Suche nach der Identität .
-4head-nounheadedpp	5	8	10	5	nmod	Er bestätigt dem Gegner der Mutter die Auseinandersetzung mit der Polizei .
-4head-nounheadedpp	5	8	10	5	nmod	Er vertreibt dem Kunden des Amts die Stimme aus dem Off .
-4head-nounheadedpp	5	8	10	5	nmod	Er schickt dem Land des Freundes die Truppe gegen den Befreiungskrieg .
-4head-nounheadedpp	5	8	10	5	nmod	Er nennt der Welt der Arbeit die Truppe unter dem General .
-4head-nounheadedpp	5	8	10	5	nmod	Er verliert der Partei der Heimat die Mehrheit in dem Parlament .
-4head-nounheadedpp	5	8	10	5	nmod	Sie glauben der Bevölkerung des Landes den Beschuss auf den Vorort .
-4head-nounheadedpp	5	8	10	5	nmod	Sie erklären dem Flüchtling der Gesellschaft die Träne in dem Auge .
-4head-nounheadedpp	5	8	10	5	nmod	Sie suchen dem Mann des Lebens die Familie mit dem Kind .
-4head-nounheadedpp	5	8	10	5	nmod	Sie schildern dem Präsidenten des Films den Konflikt in der Welt .
-4head-nounheadedpp	5	8	10	5	nmod	Sie bauen der Regierung des Staats den Zugang zu dem Teil .
+4head-nounheadedpp	5	8	10	7	nmod	Sie gibt der Frau des Mannes die Antwort auf die Frage .
+4head-nounheadedpp	5	8	10	7	nmod	Sie erklärt den Leuten der Partei den Schritt in die Richtung .
+4head-nounheadedpp	5	8	10	7	nmod	Sie schreibt dem Gast des Kollegen den Kommentar auf der Seite .
+4head-nounheadedpp	5	8	10	7	nmod	Sie beschreibt dem Herren des Hauses den Einsatz von den Bodentruppen .
+4head-nounheadedpp	5	8	10	7	nmod	Sie berichtet dem Staat des Vaters die Suche nach der Identität .
+4head-nounheadedpp	5	8	10	7	nmod	Er bestätigt dem Gegner der Mutter die Auseinandersetzung mit der Polizei .
+4head-nounheadedpp	5	8	10	7	nmod	Er vertreibt dem Kunden des Amts die Stimme aus dem Off .
+4head-nounheadedpp	5	8	10	7	nmod	Er schickt dem Land des Freundes die Truppe gegen den Befreiungskrieg .
+4head-nounheadedpp	5	8	10	7	nmod	Er nennt der Welt der Arbeit die Truppe unter dem General .
+4head-nounheadedpp	5	8	10	7	nmod	Er verliert der Partei der Heimat die Mehrheit in dem Parlament .
+4head-nounheadedpp	5	8	10	7	nmod	Sie glauben der Bevölkerung des Landes den Beschuss auf den Vorort .
+4head-nounheadedpp	5	8	10	7	nmod	Sie erklären dem Flüchtling der Gesellschaft die Träne in dem Auge .
+4head-nounheadedpp	5	8	10	7	nmod	Sie suchen dem Mann des Lebens die Familie mit dem Kind .
+4head-nounheadedpp	5	8	10	7	nmod	Sie schildern dem Präsidenten des Films den Konflikt in der Welt .
+4head-nounheadedpp	5	8	10	7	nmod	Sie bauen der Regierung des Staats den Zugang zu dem Teil .
 5head-nounheadedpp	5	10	12	7	nmod	Sie gibt der Frau des Mannes die Antwort des Amts auf die Frage .
 5head-nounheadedpp	5	10	12	7	nmod	Sie erklärt den Leuten der Partei den Schritt der Frau in die Richtung .
 5head-nounheadedpp	5	10	12	7	nmod	Sie verschreibt dem Gast des Kollegen die Pillen des Mannes von dem Beruhigungsmittel .
