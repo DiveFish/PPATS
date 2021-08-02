@@ -779,21 +779,21 @@ ppbeforehead-verbheadedobjp	1	0	2	3	obl	Aus dem Staat ziehen sie die Million .
 3head-nounheadedpp	3	6	8	5	nmod	Sie suchen dem Mann die Familie mit dem Kind .
 3head-nounheadedpp	3	6	8	5	nmod	Sie verkaufen dem Präsidenten den Konflikt in der Welt .
 3head-nounheadedpp	3	6	8	5	nmod	Sie bauen der Regierung den Zugang zu dem Teil .
-4head-nounheadedpp	5	8	10	7	nmod	Sie gibt der Frau die Antwort des Amts auf die Frage .
-4head-nounheadedpp	5	8	10	7	nmod	Sie erklärt den Leuten den Schritt der Frau in die Richtung .
-4head-nounheadedpp	5	8	10	7	nmod	Sie verschreibt dem Patienten die Pillen des Mannes von dem Beruhigungsmittel .
-4head-nounheadedpp	5	8	10	7	nmod	Sie beschreibt dem Herren den Einsatz des Lebens von den Bodentruppen .
-4head-nounheadedpp	5	8	10	7	nmod	Sie berichtet dem Staat die Suche des Präsidenten nach der Identität .
-4head-nounheadedpp	5	8	10	7	nmod	Er bestätigt dem Gegner die Auseinandersetzung des Sohnes mit der Polizei .
-4head-nounheadedpp	5	8	10	7	nmod	Er zeigt dem Kunden die Stimme der Mutter aus dem Off .
-4head-nounheadedpp	5	8	10	7	nmod	Er schickt dem Land die Truppe des Vaters gegen den Befreiungskrieg .
-4head-nounheadedpp	5	8	10	7	nmod	Er präsentiert der Welt die Truppe der Verteidigung unter dem General .
-4head-nounheadedpp	5	8	10	7	nmod	Er verliert der Partei die Mehrheit des Anfangs in dem Parlament .
-4head-nounheadedpp	5	8	10	7	nmod	Sie glauben der Bevölkerung den Beschuss der Partei auf den Vorort .
-4head-nounheadedpp	5	8	10	7	nmod	Sie erklären dem Flüchtling die Träne des Freundes in dem Auge .
-4head-nounheadedpp	5	8	10	7	nmod	Sie verkaufen dem Mann das Schiff der Familie mit der Besatzung .
-4head-nounheadedpp	5	8	10	7	nmod	Sie schildern dem Präsidenten den Konflikt des Sohnes in der Welt .
-4head-nounheadedpp	5	8	10	7	nmod	Sie bauen der Regierung den Zugang des Kollegen zu dem Teil .
+4head-nounheadedpp	5	8	10	5	nmod	Sie gibt der Frau die Antwort des Amts auf die Frage .
+4head-nounheadedpp	5	8	10	5	nmod	Sie erklärt den Leuten den Schritt der Frau in die Richtung .
+4head-nounheadedpp	5	8	10	5	nmod	Sie verschreibt dem Patienten die Pillen des Mannes von dem Beruhigungsmittel .
+4head-nounheadedpp	5	8	10	5	nmod	Sie beschreibt dem Herren den Einsatz des Lebens von den Bodentruppen .
+4head-nounheadedpp	5	8	10	5	nmod	Sie berichtet dem Staat die Suche des Präsidenten nach der Identität .
+4head-nounheadedpp	5	8	10	5	nmod	Er bestätigt dem Gegner die Auseinandersetzung des Sohnes mit der Polizei .
+4head-nounheadedpp	5	8	10	5	nmod	Er zeigt dem Kunden die Stimme der Mutter aus dem Off .
+4head-nounheadedpp	5	8	10	5	nmod	Er schickt dem Land die Truppe des Vaters gegen den Befreiungskrieg .
+4head-nounheadedpp	5	8	10	5	nmod	Er präsentiert der Welt die Truppe der Verteidigung unter dem General .
+4head-nounheadedpp	5	8	10	5	nmod	Er verliert der Partei die Mehrheit des Anfangs in dem Parlament .
+4head-nounheadedpp	5	8	10	5	nmod	Sie glauben der Bevölkerung den Beschuss der Partei auf den Vorort .
+4head-nounheadedpp	5	8	10	5	nmod	Sie erklären dem Flüchtling die Träne des Freundes in dem Auge .
+4head-nounheadedpp	5	8	10	5	nmod	Sie verkaufen dem Mann das Schiff der Familie mit der Besatzung .
+4head-nounheadedpp	5	8	10	5	nmod	Sie schildern dem Präsidenten den Konflikt des Sohnes in der Welt .
+4head-nounheadedpp	5	8	10	5	nmod	Sie bauen der Regierung den Zugang des Kollegen zu dem Teil .
 5head-nounheadedpp	5	10	12	7	nmod	Sie gibt der Frau des Mannes die Antwort des Amts auf die Frage .
 5head-nounheadedpp	5	10	12	7	nmod	Sie erklärt den Leuten der Partei den Schritt der Frau in die Richtung .
 5head-nounheadedpp	5	10	12	7	nmod	Sie verschreibt dem Patienten des Krankenhauses die Pillen des Mannes von dem Beruhigungsmittel .
