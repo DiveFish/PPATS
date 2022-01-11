@@ -3,26 +3,26 @@ A **PP** **a**ttachment **t**est **s**uite for German
 
 PP attachment is the largest source of errors in syntactic parsing. But what is it exactly that makes it difficult? And which kinds of parsers struggle less with these structues?
 
-This test suite provides sample sentences with prepositional phrases that exhibit specific properties of different degrees of difficulty. The properties are accessible through the annotations. Parser can be evaluated against the full test suite or particular properties to test their abilities to solve PP attachment of various difficulty levels.
+This test suite provides sample sentences with prepositional phrases that exhibit specific properties of different degrees of difficulty. The properties are accessible through the annotations. Parsers can be evaluated against the full test suite or particular properties to test their abilities to solve PP attachment of various difficulty levels.
 
 |Property | Annotation |
 |:------------- |:-------------|
 |Base case|`base`|
 |1 head candidate|`1head`|
-|2 head candidates|`2head`|
+|2 head candidates|All sentences that are not 1head, 3head, 4head, 5head|
 |3 head candidates|`3head`|
 |4 head candidates|`4head`|
 |5 head candidates|`5head`|
-|PP = P + N |`prepnoun`|
-|PP = P + D + A + N|`prepdetadjnoun`|
+|PP = P + N |`pn`|
+|PP = P + D + A + N|`pdan`|
 |Pp = P + D + N + genitive NP|`pppossnp`|
 |PP = p + D + N + PP|`pppp`|
-|PP before head|`ppbeforehead`|
-|Prepositional object|`verbheadedobjp`|
+|PP before head|`ppfronted`|
+|Prepositional object|`objp`|
 |Noun-headed PP|`nounheadedpp`|
-|PP in idiom|`idiom`|
+|PP in idiom|`idm`|
 
-The base case consists of a verb-headed PP that has only one attachment head candidate. The PP consists of a preposition, a determiner and a noun. This configuration has been selected based on frequenties in the TüBa-D/Z v11 UD corpus.
+The base case consists of a verb-headed PP that has two attachment head candidates which is the most frequent kind of PP attachment ambiguities. The PP consists of a preposition, a determiner and a noun. This configuration has been selected based on frequenties in the TüBa-D/Z v11 UD corpus.
 
 ## Searching prepositions and meanings
 
