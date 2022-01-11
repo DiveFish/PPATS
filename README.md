@@ -11,11 +11,12 @@ The PPATS test suite provides manually created sentences with prepositional phra
 |:------------- |:-------------|
 |Base case|`base`|
 |1 head candidate|`1head`|
-|2 head candidates|All sentences that are not 1head, 3head, 4head, 5head|
+|2 head candidates|All sentences that are not `1head`, `3head`, `4head` or `5head`|
 |3 head candidates|`3head`|
 |4 head candidates|`4head`|
 |5 head candidates|`5head`|
-|PP = P + N |`pn`|
+|PP = P + N|`pn`|
+|PP = P + D + N|All sentences that are not `pn`, `pdan`, `pppossnp` or `pppp`|
 |PP = P + D + A + N|`pdan`|
 |Pp = P + D + N + genitive NP|`pppossnp`|
 |PP = p + D + N + PP|`pppp`|
