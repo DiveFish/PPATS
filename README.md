@@ -1,9 +1,11 @@
 # PPATS
 A **PP** **a**ttachment **t**est **s**uite for German
 
-PP attachment is the largest source of errors in syntactic parsing. But what is it exactly that makes it difficult? And which kinds of parsers struggle less with these structues?
+(by (DiveFish)[https://github.com/DiveFish/] and (janniss91)[https://github.com/janniss91/])
 
-This test suite provides sample sentences with prepositional phrases that exhibit specific properties of different degrees of difficulty. The properties are accessible through the annotations. Parsers can be evaluated against the full test suite or particular properties to test their abilities to solve PP attachment of various difficulty levels.
+PP attachment is the largest source of errors in syntactic parsing. But what is it exactly that makes it difficult? And which kinds of parsers struggle less with these structures?
+
+The PPATS test suite provides manually created sentences with prepositional phrases that exhibit specific linguistic properties:
 
 |Property | Annotation |
 |:------------- |:-------------|
@@ -22,7 +24,9 @@ This test suite provides sample sentences with prepositional phrases that exhibi
 |Noun-headed PP|`nounheadedpp`|
 |PP in idiom|`idm`|
 
-The base case consists of a verb-headed PP that has two attachment head candidates which is the most frequent kind of PP attachment ambiguities. The PP consists of a preposition, a determiner and a noun. This configuration has been selected based on frequenties in the TüBa-D/Z v11 UD corpus.
+The properties are accessible through the annotations. Parsers can be evaluated against the full test suite or particular properties in order to test their abilities of solving various kinds of PP attachment ambiguities.
+
+The base case consists of a verb-headed PP that has two attachment head candidates which is the most frequent kind of PP attachment ambiguity. The base PP consists of a preposition, a determiner and a noun. This configuration has been selected based on frequencies in the TüBa-D/Z UD corpus (version 11).
 
 ## Searching prepositions and meanings
 
