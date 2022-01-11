@@ -1,7 +1,7 @@
 # PPATS
 A **PP** **a**ttachment **t**est **s**uite for German
 
-(by (DiveFish)[https://github.com/DiveFish/] and (janniss91)[https://github.com/janniss91/])
+(by [DiveFish](https://github.com/DiveFish/) and [janniss91](https://github.com/janniss91/))
 
 PP attachment is the largest source of errors in syntactic parsing. But what is it exactly that makes it difficult? And which kinds of parsers struggle less with these structures?
 
