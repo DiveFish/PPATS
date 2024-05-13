@@ -29,6 +29,29 @@ The properties are accessible through the annotations. Parsers can be evaluated 
 
 The base case consists of a verb-headed PP that has two attachment head candidates which is the most frequent kind of PP attachment ambiguity. The base PP consists of a preposition, a determiner and a noun. This configuration has been selected based on frequencies in the TüBa-D/Z UD corpus (version 11).
 
+## Convert Test Suite to Conll
+
+To convert the test suite to a Conll-X file, use the following command (exchange filenames):
+
+    python3 tools/convert_testsuite_to_conll.py material/pp-test-suite.tsv pp-test-suite.conll
+
+
+To convert the test suite to a Conll-U file, use the following command (exchange filenames):
+
+    python3 tools/convert_testsuite_to_conll.py material/pp-test-suite.tsv pp-test-suite_u.conll -t u
+  
+**Note:** The basename of the file must end in "_u" (`filename_u.conll`).
+
+## Convert Conll Formats Between Each Other
+
+To convert a conll-X file to a conll-U file, use the following command:
+
+    python3 tools/change-conll-format.py material/test.conll -u
+
+To convert a conll-U file to a conll-X file, use the following command:
+
+    python3 tools/change-conll-format.py material/test.conll -x
+
 ## Searching prepositions and meanings
 
 You can make use of the `search_examples.py` script to search for specific prepositions and meanings. If you specify the filename (optional) it must be in the same JSON format as `meaning_examples.json`.
@@ -68,29 +91,6 @@ Here is a list of what the 4 arguments to the script must contain:
 2. The TSV file that contains a table mapping all prepositions to meanings and stating their combined frequencies.
 3. The table that lists the top meanings per preposition (and the overall frequency of the prepositions).
 4. The table that lists the top prepositions per meaning (and the overall frequency of the meanings).
-
-## Convert Test Suite to Conll
-
-To convert the test suite to a Conll-X file, use the following command (exchange filenames):
-
-    python3 tools/convert_testsuite_to_conll.py material/pp-test-suite.tsv pp-test-suite.conll
-
-
-To convert the test suite to a Conll-U file, use the following command (exchange filenames):
-
-    python3 tools/convert_testsuite_to_conll.py material/pp-test-suite.tsv pp-test-suite_u.conll -t u
-  
-**Note:** The basename of the file must end in "_u" (`filename_u.conll`).
-
-## Convert Conll Formats Between Each Other
-
-To convert a conll-X file to a conll-U file, use the following command:
-
-    python3 tools/change-conll-format.py material/test.conll -u
-
-To convert a conll-U file to a conll-X file, use the following command:
-
-    python3 tools/change-conll-format.py material/test.conll -x
 
 ## Sources
 
