@@ -321,7 +321,7 @@ base-pppossnp	4	4	5	1	obl	Sie sendet den Brief auf Forderung der Mutter .
 base-pppossnp	4	4	5	1	obl	Sie beschreibt den Grund mit Hilfe des Kollegen .
 base-pppossnp	4	4	5	1	obl	Er gibt das Geld in Sache der Partei .
 base-pppossnp	4	4	5	1	obl	Er sagt den Namen nach Ansicht des Staats .
-base-pppossnp	4	4	5	1	obl	Er zeigt das Haus an dem Beispiel des Ausschusses .
+base-pppossnp	5	4	6	1	obl	Er zeigt das Haus an dem Beispiel des Ausschusses .
 base-pppossnp	4	4	5	1	obl	Er sucht die Chance seit Beginn der Kontrolle .
 base-pppossnp	4	4	5	1	obl	Er trägt das Kind seit Anfang des Lebens .
 base-pppossnp	4	4	5	1	obl	Sie bauen den Platz bis Ende des Jahres .
@@ -336,7 +336,7 @@ base-pppossnp	4	4	5	1	obl	Sie stellen die Frage in Zeiten der Spekulation .
 3head-pppossnp	6	6	7	1	obl	Sie beschreibt dem Gegner den Grund mit Hilfe des Kollegen .
 3head-pppossnp	6	6	7	1	obl	Er gibt der Frau das Geld in Sache der Partei .
 3head-pppossnp	6	6	7	1	obl	Er sagt der Bevölkerung den Namen nach Ansicht des Staats .
-3head-pppossnp	6	6	7	1	obl	Er zeigt dem Gast das Haus an dem Beispiel des Ausschusses .
+3head-pppossnp	7	6	8	1	obl	Er zeigt dem Gast das Haus an dem Beispiel des Ausschusses .
 3head-pppossnp	6	6	7	1	obl	Er sucht dem Präsidenten die Chance seit Beginn der Kontrolle .
 3head-pppossnp	6	6	7	1	obl	Er trägt dem Mann das Kind seit Anfang des Lebens .
 3head-pppossnp	6	6	7	1	obl	Sie bauen dem Publikum den Platz bis Ende des Jahres .
@@ -351,7 +351,7 @@ base-pppossnp	4	4	5	1	obl	Sie stellen die Frage in Zeiten der Spekulation .
 4head-pppossnp	8	8	9	1	obl	Sie beschreibt dem Gegner den Grund des Endes mit Hilfe des Kollegen .
 4head-pppossnp	8	8	9	1	obl	Er gibt der Frau das Geld des Kollegen in Sache der Partei .
 4head-pppossnp	8	8	9	1	obl	Er sagt der Bevölkerung den Namen des Freundes nach Ansicht des Staats .
-4head-pppossnp	8	8	9	1	obl	Er zeigt dem Gast der Fragerunde das Haus an dem Beispiel des Ausschusses .
+4head-pppossnp	9	8	10	1	obl	Er zeigt dem Gast der Fragerunde das Haus an dem Beispiel des Ausschusses .
 4head-pppossnp	8	8	9	1	obl	Er sucht dem Präsidenten die Chance des Lebens seit Beginn der Kontrolle .
 4head-pppossnp	8	8	9	1	obl	Er trägt dem Mann das Kind der Familie seit Anfang des Lebens .
 4head-pppossnp	8	8	9	1	obl	Sie bauen dem Publikum den Platz der Heimat bis Ende des Jahres .
@@ -366,7 +366,7 @@ base-pppossnp	4	4	5	1	obl	Sie stellen die Frage in Zeiten der Spekulation .
 5head-pppossnp	10	10	11	1	obl	Sie beschreibt dem Gegner der Forderung den Grund des Endes mit Hilfe des Kollegen .
 5head-pppossnp	10	10	11	1	obl	Er gibt der Frau des Kollegen das Geld des Kollegen in Sache der Partei .
 5head-pppossnp	10	10	11	1	obl	Er sagt der Bevölkerung des Landes den Namen des Freundes nach Ansicht des Staats .
-5head-pppossnp	10	10	11	1	obl	Er zeigt dem Gast der Fragerunde das Haus der Kunst an dem Beispiel des Ausschusses .
+5head-pppossnp	11	10	12	1	obl	Er zeigt dem Gast der Fragerunde das Haus der Kunst an dem Beispiel des Ausschusses .
 5head-pppossnp	10	10	11	1	obl	Er sucht dem Präsidenten der Gesellschaft die Chance des Lebens seit Beginn der Kontrolle .
 5head-pppossnp	10	10	11	1	obl	Er trägt dem Mann des Lebens das Kind der Familie seit Anfang des Lebens .
 5head-pppossnp	10	10	11	1	obl	Sie bauen dem Publikum des Films den Platz der Heimat bis Ende des Jahres .
@@ -449,21 +449,21 @@ pdan-pppp	6	4	7	1	obl	Sie schicken das Bild in der neuen Woche mit der Wahl .
 pdan-pppp	6	4	7	1	obl	Sie bestätigen das Recht zu der richtigen Zeit nach dem Krieg .
 pdan-pppp	6	4	7	1	obl	Sie legen das Buch auf den kurzen Tisch mit dem Computer .
 pdan-pppp	6	4	7	1	obl	Sie verkaufen den Film an der gemeinsamen Grenze mit dem Zaun .
-pppp-pppossnp	4	4	5	1	obl	Sie gibt das Geld in die Hand auf dem Rücken der Athletin .
-pppp-pppossnp	4	4	5	1	obl	Sie zeigt das Haus an dem Beispiel aus der Vergangenheit des Mannes .
-pppp-pppossnp	4	4	5	1	obl	Sie erklärt den Grund auf der Pressekonferenz mit dem Premierminister der Bundesrepublik .
-pppp-pppossnp	4	4	5	1	obl	Sie bringt die Million in das Haus in der Straße der Hauptstadt .
-pppp-pppossnp	4	4	5	1	obl	Sie stellt die Frage in dem Interview mit der Zeitung des Verlegers .
-pppp-pppossnp	4	4	5	1	obl	Er setzt die Frau auf die Bühne in dem Schauspielhaus des Westens .
-pppp-pppossnp	4	4	5	1	obl	Er nennt den Namen in der Stadt mit dem Fluss des Schicksals .
-pppp-pppossnp	4	4	5	1	obl	Er erzählt die Geschichte in der Nacht vor dem Tod des Lamas .
-pppp-pppossnp	4	4	5	1	obl	Er sucht die Chance an dem Tag mit der Sonne der Zuversicht .
-pppp-pppossnp	4	4	5	1	obl	Er trägt das Kind auf dem Weg in die Zukunft der Gegenwart .
-pppp-pppossnp	4	4	5	1	obl	Sie bauen den Platz in dem Jahr nach dem Mauerfall der Berliner .
-pppp-pppossnp	4	4	5	1	obl	Sie schicken das Bild in der Woche mit der Wahl des Parteivorsitzenden .
-pppp-pppossnp	4	4	5	1	obl	Sie bestätigen das Recht zu der Zeit nach dem Krieg der Rebellenbewegung .
-pppp-pppossnp	4	4	5	1	obl	Sie legen das Buch auf den Tisch mit dem Computer der Firma .
-pppp-pppossnp	4	4	5	1	obl	Sie verkaufen den Film an der Grenze mit dem Zaun der Kunst .
+pppp-pppossnp	5	4	6	1	obl	Sie gibt das Geld in die Hand auf dem Rücken der Athletin .
+pppp-pppossnp	5	4	6	1	obl	Sie zeigt das Haus an dem Beispiel aus der Vergangenheit des Mannes .
+pppp-pppossnp	5	4	6	1	obl	Sie erklärt den Grund auf der Pressekonferenz mit dem Premierminister der Bundesrepublik .
+pppp-pppossnp	5	4	6	1	obl	Sie bringt die Million in das Haus in der Straße der Hauptstadt .
+pppp-pppossnp	5	4	6	1	obl	Sie stellt die Frage in dem Interview mit der Zeitung des Verlegers .
+pppp-pppossnp	5	4	6	1	obl	Er setzt die Frau auf die Bühne in dem Schauspielhaus des Westens .
+pppp-pppossnp	5	4	6	1	obl	Er nennt den Namen in der Stadt mit dem Fluss des Schicksals .
+pppp-pppossnp	5	4	6	1	obl	Er erzählt die Geschichte in der Nacht vor dem Tod des Lamas .
+pppp-pppossnp	5	4	6	1	obl	Er sucht die Chance an dem Tag mit der Sonne der Zuversicht .
+pppp-pppossnp	5	4	6	1	obl	Er trägt das Kind auf dem Weg in die Zukunft der Gegenwart .
+pppp-pppossnp	5	4	6	1	obl	Sie bauen den Platz in dem Jahr nach dem Mauerfall der Berliner .
+pppp-pppossnp	5	4	6	1	obl	Sie schicken das Bild in der Woche mit der Wahl des Parteivorsitzenden .
+pppp-pppossnp	5	4	6	1	obl	Sie bestätigen das Recht zu der Zeit nach dem Krieg der Rebellenbewegung .
+pppp-pppossnp	5	4	6	1	obl	Sie legen das Buch auf den Tisch mit dem Computer der Firma .
+pppp-pppossnp	5	4	6	1	obl	Sie verkaufen den Film an der Grenze mit dem Zaun der Kunst .
 base-ppfronted	1	0	2	3	obl	In die Hand gibt sie das Geld .
 base-ppfronted	1	0	2	3	obl	An dem Beispiel zeigt sie das Haus .
 base-ppfronted	1	0	2	3	obl	Auf der Pressekonferenz erkärt sie den Grund .
@@ -561,7 +561,7 @@ ppfronted-pppossnp	3	0	1	4	obl	Auf Forderung der Mutter sendet sie den Brief .
 ppfronted-pppossnp	3	0	1	4	obl	Mit Hilfe des Kollegen beschreibt sie den Grund .
 ppfronted-pppossnp	3	0	1	4	obl	In Sache der Partei gibt er das Geld .
 ppfronted-pppossnp	3	0	1	4	obl	Nach Ansicht des Staats sagt er den Namen .
-ppfronted-pppossnp	3	0	1	4	obl	An dem Beispiel des Ausschusses zeigt er das Haus .
+ppfronted-pppossnp	3	0	2	5	obl	An dem Beispiel des Ausschusses zeigt er das Haus .
 ppfronted-pppossnp	3	0	1	4	obl	Seit Beginn der Kontrolle sucht er die Chance .
 ppfronted-pppossnp	3	0	1	4	obl	Seit Anfang des Lebens trägt er das Kind .
 ppfronted-pppossnp	3	0	1	4	obl	Bis Ende des Jahres bauen sie den Platz .

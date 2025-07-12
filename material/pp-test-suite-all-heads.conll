@@ -1180,7 +1180,7 @@
 5	Bühne	_	_	_	props:1head-pppp	2	obl	_	_
 6	in	_	_	_	props:1head-pppp	8	case	_	_
 7	dem	_	_	_	props:1head-pppp	8	det	_	_
-8	Schauspielhaus	_	_	_	props:1head-pppp	2	obl	_	_
+8	Schauspielhaus	_	_	_	props:1head-pppp	5	nmod	_	_
 9	.	_	_	_	props:1head-pppp	2	punct	_	_
 
 1	Sie	_	_	_	props:1head-pppp	2	nsubj	_	_
@@ -1190,7 +1190,7 @@
 5	Bundesrepublik	_	_	_	props:1head-pppp	2	obl	_	_
 6	mit	_	_	_	props:1head-pppp	8	case	_	_
 7	der	_	_	_	props:1head-pppp	8	det	_	_
-8	Wachstumsrate	_	_	_	props:1head-pppp	2	obl	_	_
+8	Wachstumsrate	_	_	_	props:1head-pppp	5	nmod	_	_
 9	.	_	_	_	props:1head-pppp	2	punct	_	_
 
 1	Sie	_	_	_	props:1head-pppp	2	nsubj	_	_
@@ -1220,7 +1220,7 @@
 5	Stadt	_	_	_	props:1head-pppp	2	obl	_	_
 6	mit	_	_	_	props:1head-pppp	8	case	_	_
 7	dem	_	_	_	props:1head-pppp	8	det	_	_
-8	Fluss	_	_	_	props:1head-pppp	2	obl	_	_
+8	Fluss	_	_	_	props:1head-pppp	5	nmod	_	_
 9	.	_	_	_	props:1head-pppp	2	punct	_	_
 
 1	Er	_	_	_	props:1head-pppp	2	nsubj	_	_
@@ -1280,7 +1280,7 @@
 5	Welt	_	_	_	props:1head-pppp	2	obl	_	_
 6	in	_	_	_	props:1head-pppp	8	case	_	_
 7	dem	_	_	_	props:1head-pppp	8	det	_	_
-8	Ghetto	_	_	_	props:1head-pppp	2	obl	_	_
+8	Ghetto	_	_	_	props:1head-pppp	5	nmod	_	_
 9	.	_	_	_	props:1head-pppp	2	punct	_	_
 
 1	Sie	_	_	_	props:1head-pppp	2	nsubj	_	_
@@ -1300,7 +1300,7 @@
 5	Bereich	_	_	_	props:1head-pppp	2	obl	_	_
 6	in	_	_	_	props:1head-pppp	8	case	_	_
 7	der	_	_	_	props:1head-pppp	8	det	_	_
-8	Musikindustrie	_	_	_	props:1head-pppp	2	obl	_	_
+8	Musikindustrie	_	_	_	props:1head-pppp	5	nmod	_	_
 9	.	_	_	_	props:1head-pppp	2	punct	_	_
 
 1	An	_	_	_	props:1head-ppfronted	3	case	_	_
@@ -3267,8 +3267,8 @@
 2	zeigt	_	_	_	props:base-pppossnp	0	root	_	_
 3	das	_	_	_	props:base-pppossnp	4	det	_	_
 4	Haus	_	_	_	props:base-pppossnp	2	obj	_	_
-5	an	_	_	_	props:base-pppossnp	6	case	_	_
-6	dem	_	_	_	props:base-pppossnp	2	obl	_	_
+5	an	_	_	_	props:base-pppossnp	7	case	_	_
+6	dem	_	_	_	props:base-pppossnp	7	det	_	_
 7	Beispiel	_	_	_	props:base-pppossnp	2	obl	_	_
 8	des	_	_	_	props:base-pppossnp	9	det	_	_
 9	Ausschusses	_	_	_	props:base-pppossnp	7	nmod:poss	_	_
@@ -3434,9 +3434,9 @@
 4	Gast	_	_	_	props:3head-pppossnp	2	iobj	_	_
 5	das	_	_	_	props:3head-pppossnp	6	det	_	_
 6	Haus	_	_	_	props:3head-pppossnp	2	obj	_	_
-7	an	_	_	_	props:3head-pppossnp	8	case	_	_
-8	dem	_	_	_	props:3head-pppossnp	2	obl	_	_
-9	Beispiel	_	_	_	props:3head-pppossnp	6	nmod	_	_
+7	an	_	_	_	props:3head-pppossnp	9	case	_	_
+8	dem	_	_	_	props:3head-pppossnp	9	det	_	_
+9	Beispiel	_	_	_	props:3head-pppossnp	2	obl	_	_
 10	des	_	_	_	props:3head-pppossnp	11	det	_	_
 11	Ausschusses	_	_	_	props:3head-pppossnp	9	nmod:poss	_	_
 12	.	_	_	_	props:3head-pppossnp	2	punct	_	_
@@ -3631,9 +3631,9 @@
 6	Fragerunde	_	_	_	props:4head-pppossnp	4	nmod:poss	_	_
 7	das	_	_	_	props:4head-pppossnp	8	det	_	_
 8	Haus	_	_	_	props:4head-pppossnp	2	obj	_	_
-9	an	_	_	_	props:4head-pppossnp	10	case	_	_
-10	dem	_	_	_	props:4head-pppossnp	2	obl	_	_
-11	Beispiel	_	_	_	props:4head-pppossnp	8	nmod	_	_
+9	an	_	_	_	props:4head-pppossnp	11	case	_	_
+10	dem	_	_	_	props:4head-pppossnp	11	det	_	_
+11	Beispiel	_	_	_	props:4head-pppossnp	2	obl	_	_
 12	des	_	_	_	props:4head-pppossnp	13	det	_	_
 13	Ausschusses	_	_	_	props:4head-pppossnp	11	nmod:poss	_	_
 14	.	_	_	_	props:4head-pppossnp	2	punct	_	_
@@ -3858,8 +3858,8 @@
 8	Haus	_	_	_	props:5head-pppossnp	2	obj	_	_
 9	der	_	_	_	props:5head-pppossnp	10	det	_	_
 10	Kunst	_	_	_	props:5head-pppossnp	8	nmod:poss	_	_
-11	an	_	_	_	props:5head-pppossnp	12	case	_	_
-12	dem	_	_	_	props:5head-pppossnp	2	obl	_	_
+11	an	_	_	_	props:5head-pppossnp	13	case	_	_
+12	dem	_	_	_	props:5head-pppossnp	13	det	_	_
 13	Beispiel	_	_	_	props:5head-pppossnp	2	obl	_	_
 14	des	_	_	_	props:5head-pppossnp	15	det	_	_
 15	Ausschusses	_	_	_	props:5head-pppossnp	13	nmod:poss	_	_
@@ -4058,7 +4058,7 @@
 7	Stadt	_	_	_	props:base-pppp	2	obl	_	_
 8	mit	_	_	_	props:base-pppp	10	case	_	_
 9	dem	_	_	_	props:base-pppp	10	det	_	_
-10	Fluss	_	_	_	props:base-pppp	2	obl	_	_
+10	Fluss	_	_	_	props:base-pppp	7	nmod	_	_
 11	.	_	_	_	props:base-pppp	2	punct	_	_
 
 1	Er	_	_	_	props:base-pppp	2	nsubj	_	_
@@ -4118,7 +4118,7 @@
 7	Woche	_	_	_	props:base-pppp	2	obl	_	_
 8	mit	_	_	_	props:base-pppp	10	case	_	_
 9	der	_	_	_	props:base-pppp	10	det	_	_
-10	Wahl	_	_	_	props:base-pppp	2	obl	_	_
+10	Wahl	_	_	_	props:base-pppp	7	nmod	_	_
 11	.	_	_	_	props:base-pppp	2	punct	_	_
 
 1	Sie	_	_	_	props:base-pppp	2	nsubj	_	_
@@ -4252,7 +4252,7 @@
 9	Stadt	_	_	_	props:3head-pppp	2	obl	_	_
 10	mit	_	_	_	props:3head-pppp	12	case	_	_
 11	dem	_	_	_	props:3head-pppp	12	det	_	_
-12	Fluss	_	_	_	props:3head-pppp	2	obl	_	_
+12	Fluss	_	_	_	props:3head-pppp	9	nmod	_	_
 13	.	_	_	_	props:3head-pppp	2	punct	_	_
 
 1	Er	_	_	_	props:3head-pppp	2	nsubj	_	_
@@ -4322,7 +4322,7 @@
 9	Woche	_	_	_	props:3head-pppp	2	obl	_	_
 10	mit	_	_	_	props:3head-pppp	12	case	_	_
 11	der	_	_	_	props:3head-pppp	12	det	_	_
-12	Wahl	_	_	_	props:3head-pppp	6	nmod	_	_
+12	Wahl	_	_	_	props:3head-pppp	9	nmod	_	_
 13	.	_	_	_	props:3head-pppp	2	punct	_	_
 
 1	Sie	_	_	_	props:3head-pppp	2	nsubj	_	_
@@ -4476,7 +4476,7 @@
 11	Stadt	_	_	_	props:4head-pppp	2	obl	_	_
 12	mit	_	_	_	props:4head-pppp	14	case	_	_
 13	dem	_	_	_	props:4head-pppp	14	det	_	_
-14	Fluss	_	_	_	props:4head-pppp	2	obl	_	_
+14	Fluss	_	_	_	props:4head-pppp	11	nmod	_	_
 15	.	_	_	_	props:4head-pppp	2	punct	_	_
 
 1	Er	_	_	_	props:4head-pppp	2	nsubj	_	_
@@ -4556,7 +4556,7 @@
 11	Woche	_	_	_	props:4head-pppp	2	obl	_	_
 12	mit	_	_	_	props:4head-pppp	14	case	_	_
 13	der	_	_	_	props:4head-pppp	14	det	_	_
-14	Wahl	_	_	_	props:4head-pppp	8	nmod	_	_
+14	Wahl	_	_	_	props:4head-pppp	11	nmod	_	_
 15	.	_	_	_	props:4head-pppp	2	punct	_	_
 
 1	Sie	_	_	_	props:4head-pppp	2	nsubj	_	_
@@ -4730,7 +4730,7 @@
 13	Stadt	_	_	_	props:5head-pppp	2	obl	_	_
 14	mit	_	_	_	props:5head-pppp	16	case	_	_
 15	dem	_	_	_	props:5head-pppp	16	det	_	_
-16	Fluss	_	_	_	props:5head-pppp	10	nmod	_	_
+16	Fluss	_	_	_	props:5head-pppp	13	nmod	_	_
 17	.	_	_	_	props:5head-pppp	2	punct	_	_
 
 1	Er	_	_	_	props:5head-pppp	2	nsubj	_	_
@@ -4820,7 +4820,7 @@
 13	Woche	_	_	_	props:5head-pppp	2	obl	_	_
 14	mit	_	_	_	props:5head-pppp	16	case	_	_
 15	der	_	_	_	props:5head-pppp	16	det	_	_
-16	Wahl	_	_	_	props:5head-pppp	10	nmod	_	_
+16	Wahl	_	_	_	props:5head-pppp	13	nmod	_	_
 17	.	_	_	_	props:5head-pppp	2	punct	_	_
 
 1	Sie	_	_	_	props:5head-pppp	2	nsubj	_	_
@@ -4874,7 +4874,7 @@
 13	Grenze	_	_	_	props:5head-pppp	2	obl	_	_
 14	mit	_	_	_	props:5head-pppp	16	case	_	_
 15	dem	_	_	_	props:5head-pppp	16	det	_	_
-16	Zaun	_	_	_	props:5head-pppp	10	nmod	_	_
+16	Zaun	_	_	_	props:5head-pppp	13	nmod	_	_
 17	.	_	_	_	props:5head-pppp	2	punct	_	_
 
 1	Sie	_	_	_	props:pdan-pppp	2	nsubj	_	_
@@ -5030,7 +5030,7 @@
 8	Woche	_	_	_	props:pdan-pppp	2	obl	_	_
 9	mit	_	_	_	props:pdan-pppp	11	case	_	_
 10	der	_	_	_	props:pdan-pppp	11	det	_	_
-11	Wahl	_	_	_	props:pdan-pppp	2	obl	_	_
+11	Wahl	_	_	_	props:pdan-pppp	8	nmod	_	_
 12	.	_	_	_	props:pdan-pppp	2	punct	_	_
 
 1	Sie	_	_	_	props:pdan-pppp	2	nsubj	_	_
@@ -5076,8 +5076,8 @@
 2	gibt	_	_	_	props:pppp-pppossnp	0	root	_	_
 3	das	_	_	_	props:pppp-pppossnp	4	det	_	_
 4	Geld	_	_	_	props:pppp-pppossnp	2	obj	_	_
-5	in	_	_	_	props:pppp-pppossnp	6	case	_	_
-6	die	_	_	_	props:pppp-pppossnp	2	obl	_	_
+5	in	_	_	_	props:pppp-pppossnp	7	case	_	_
+6	die	_	_	_	props:pppp-pppossnp	7	det	_	_
 7	Hand	_	_	_	props:pppp-pppossnp	2	obl	_	_
 8	auf	_	_	_	props:pppp-pppossnp	10	case	_	_
 9	dem	_	_	_	props:pppp-pppossnp	10	det	_	_
@@ -5090,9 +5090,9 @@
 2	zeigt	_	_	_	props:pppp-pppossnp	0	root	_	_
 3	das	_	_	_	props:pppp-pppossnp	4	det	_	_
 4	Haus	_	_	_	props:pppp-pppossnp	2	obj	_	_
-5	an	_	_	_	props:pppp-pppossnp	6	case	_	_
-6	dem	_	_	_	props:pppp-pppossnp	2	obl	_	_
-7	Beispiel	_	_	_	props:pppp-pppossnp	4	nmod	_	_
+5	an	_	_	_	props:pppp-pppossnp	7	case	_	_
+6	dem	_	_	_	props:pppp-pppossnp	7	det	_	_
+7	Beispiel	_	_	_	props:pppp-pppossnp	2	obl	_	_
 8	aus	_	_	_	props:pppp-pppossnp	10	case	_	_
 9	der	_	_	_	props:pppp-pppossnp	10	det	_	_
 10	Vergangenheit	_	_	_	props:pppp-pppossnp	7	nmod	_	_
@@ -5104,8 +5104,8 @@
 2	erklärt	_	_	_	props:pppp-pppossnp	0	root	_	_
 3	den	_	_	_	props:pppp-pppossnp	4	det	_	_
 4	Grund	_	_	_	props:pppp-pppossnp	2	obj	_	_
-5	auf	_	_	_	props:pppp-pppossnp	6	case	_	_
-6	der	_	_	_	props:pppp-pppossnp	2	obl	_	_
+5	auf	_	_	_	props:pppp-pppossnp	7	case	_	_
+6	der	_	_	_	props:pppp-pppossnp	7	det	_	_
 7	Pressekonferenz	_	_	_	props:pppp-pppossnp	2	obl	_	_
 8	mit	_	_	_	props:pppp-pppossnp	10	case	_	_
 9	dem	_	_	_	props:pppp-pppossnp	10	det	_	_
@@ -5118,8 +5118,8 @@
 2	bringt	_	_	_	props:pppp-pppossnp	0	root	_	_
 3	die	_	_	_	props:pppp-pppossnp	4	det	_	_
 4	Million	_	_	_	props:pppp-pppossnp	2	obj	_	_
-5	in	_	_	_	props:pppp-pppossnp	6	case	_	_
-6	das	_	_	_	props:pppp-pppossnp	2	obl	_	_
+5	in	_	_	_	props:pppp-pppossnp	7	case	_	_
+6	das	_	_	_	props:pppp-pppossnp	7	det	_	_
 7	Haus	_	_	_	props:pppp-pppossnp	2	obl	_	_
 8	in	_	_	_	props:pppp-pppossnp	10	case	_	_
 9	der	_	_	_	props:pppp-pppossnp	10	det	_	_
@@ -5132,8 +5132,8 @@
 2	stellt	_	_	_	props:pppp-pppossnp	0	root	_	_
 3	die	_	_	_	props:pppp-pppossnp	4	det	_	_
 4	Frage	_	_	_	props:pppp-pppossnp	2	obj	_	_
-5	in	_	_	_	props:pppp-pppossnp	6	case	_	_
-6	dem	_	_	_	props:pppp-pppossnp	2	obl	_	_
+5	in	_	_	_	props:pppp-pppossnp	7	case	_	_
+6	dem	_	_	_	props:pppp-pppossnp	7	det	_	_
 7	Interview	_	_	_	props:pppp-pppossnp	2	obl	_	_
 8	mit	_	_	_	props:pppp-pppossnp	10	case	_	_
 9	der	_	_	_	props:pppp-pppossnp	10	det	_	_
@@ -5146,8 +5146,8 @@
 2	setzt	_	_	_	props:pppp-pppossnp	0	root	_	_
 3	die	_	_	_	props:pppp-pppossnp	4	det	_	_
 4	Frau	_	_	_	props:pppp-pppossnp	2	obj	_	_
-5	auf	_	_	_	props:pppp-pppossnp	6	case	_	_
-6	die	_	_	_	props:pppp-pppossnp	2	obl	_	_
+5	auf	_	_	_	props:pppp-pppossnp	7	case	_	_
+6	die	_	_	_	props:pppp-pppossnp	7	det	_	_
 7	Bühne	_	_	_	props:pppp-pppossnp	2	obl	_	_
 8	in	_	_	_	props:pppp-pppossnp	10	case	_	_
 9	dem	_	_	_	props:pppp-pppossnp	10	det	_	_
@@ -5160,12 +5160,12 @@
 2	nennt	_	_	_	props:pppp-pppossnp	0	root	_	_
 3	den	_	_	_	props:pppp-pppossnp	4	det	_	_
 4	Namen	_	_	_	props:pppp-pppossnp	2	obj	_	_
-5	in	_	_	_	props:pppp-pppossnp	6	case	_	_
-6	der	_	_	_	props:pppp-pppossnp	2	obl	_	_
-7	Stadt	_	_	_	props:pppp-pppossnp	4	nmod	_	_
+5	in	_	_	_	props:pppp-pppossnp	7	case	_	_
+6	der	_	_	_	props:pppp-pppossnp	7	det	_	_
+7	Stadt	_	_	_	props:pppp-pppossnp	2	obl	_	_
 8	mit	_	_	_	props:pppp-pppossnp	10	case	_	_
 9	dem	_	_	_	props:pppp-pppossnp	10	det	_	_
-10	Fluss	_	_	_	props:pppp-pppossnp	2	obl	_	_
+10	Fluss	_	_	_	props:pppp-pppossnp	7	nmod	_	_
 11	des	_	_	_	props:pppp-pppossnp	12	det	_	_
 12	Schicksals	_	_	_	props:pppp-pppossnp	10	nmod:poss	_	_
 13	.	_	_	_	props:pppp-pppossnp	2	punct	_	_
@@ -5174,8 +5174,8 @@
 2	erzählt	_	_	_	props:pppp-pppossnp	0	root	_	_
 3	die	_	_	_	props:pppp-pppossnp	4	det	_	_
 4	Geschichte	_	_	_	props:pppp-pppossnp	2	obj	_	_
-5	in	_	_	_	props:pppp-pppossnp	6	case	_	_
-6	der	_	_	_	props:pppp-pppossnp	2	obl	_	_
+5	in	_	_	_	props:pppp-pppossnp	7	case	_	_
+6	der	_	_	_	props:pppp-pppossnp	7	det	_	_
 7	Nacht	_	_	_	props:pppp-pppossnp	2	obl	_	_
 8	vor	_	_	_	props:pppp-pppossnp	10	case	_	_
 9	dem	_	_	_	props:pppp-pppossnp	10	det	_	_
@@ -5188,12 +5188,12 @@
 2	sucht	_	_	_	props:pppp-pppossnp	0	root	_	_
 3	die	_	_	_	props:pppp-pppossnp	4	det	_	_
 4	Chance	_	_	_	props:pppp-pppossnp	2	obj	_	_
-5	an	_	_	_	props:pppp-pppossnp	6	case	_	_
-6	dem	_	_	_	props:pppp-pppossnp	2	obl	_	_
+5	an	_	_	_	props:pppp-pppossnp	7	case	_	_
+6	dem	_	_	_	props:pppp-pppossnp	7	det	_	_
 7	Tag	_	_	_	props:pppp-pppossnp	2	obl	_	_
 8	mit	_	_	_	props:pppp-pppossnp	10	case	_	_
 9	der	_	_	_	props:pppp-pppossnp	10	det	_	_
-10	Sonne	_	_	_	props:pppp-pppossnp	2	obl	_	_
+10	Sonne	_	_	_	props:pppp-pppossnp	7	nmod	_	_
 11	der	_	_	_	props:pppp-pppossnp	12	det	_	_
 12	Zuversicht	_	_	_	props:pppp-pppossnp	10	nmod:poss	_	_
 13	.	_	_	_	props:pppp-pppossnp	2	punct	_	_
@@ -5202,8 +5202,8 @@
 2	trägt	_	_	_	props:pppp-pppossnp	0	root	_	_
 3	das	_	_	_	props:pppp-pppossnp	4	det	_	_
 4	Kind	_	_	_	props:pppp-pppossnp	2	obj	_	_
-5	auf	_	_	_	props:pppp-pppossnp	6	case	_	_
-6	dem	_	_	_	props:pppp-pppossnp	2	obl	_	_
+5	auf	_	_	_	props:pppp-pppossnp	7	case	_	_
+6	dem	_	_	_	props:pppp-pppossnp	7	det	_	_
 7	Weg	_	_	_	props:pppp-pppossnp	2	obl	_	_
 8	in	_	_	_	props:pppp-pppossnp	10	case	_	_
 9	die	_	_	_	props:pppp-pppossnp	10	det	_	_
@@ -5216,8 +5216,8 @@
 2	bauen	_	_	_	props:pppp-pppossnp	0	root	_	_
 3	den	_	_	_	props:pppp-pppossnp	4	det	_	_
 4	Platz	_	_	_	props:pppp-pppossnp	2	obj	_	_
-5	in	_	_	_	props:pppp-pppossnp	6	case	_	_
-6	dem	_	_	_	props:pppp-pppossnp	2	obl	_	_
+5	in	_	_	_	props:pppp-pppossnp	7	case	_	_
+6	dem	_	_	_	props:pppp-pppossnp	7	det	_	_
 7	Jahr	_	_	_	props:pppp-pppossnp	2	obl	_	_
 8	nach	_	_	_	props:pppp-pppossnp	10	case	_	_
 9	dem	_	_	_	props:pppp-pppossnp	10	det	_	_
@@ -5230,12 +5230,12 @@
 2	schicken	_	_	_	props:pppp-pppossnp	0	root	_	_
 3	das	_	_	_	props:pppp-pppossnp	4	det	_	_
 4	Bild	_	_	_	props:pppp-pppossnp	2	obj	_	_
-5	in	_	_	_	props:pppp-pppossnp	6	case	_	_
-6	der	_	_	_	props:pppp-pppossnp	2	obl	_	_
-7	Woche	_	_	_	props:pppp-pppossnp	4	nmod	_	_
+5	in	_	_	_	props:pppp-pppossnp	7	case	_	_
+6	der	_	_	_	props:pppp-pppossnp	7	det	_	_
+7	Woche	_	_	_	props:pppp-pppossnp	2	obl	_	_
 8	mit	_	_	_	props:pppp-pppossnp	10	case	_	_
 9	der	_	_	_	props:pppp-pppossnp	10	det	_	_
-10	Wahl	_	_	_	props:pppp-pppossnp	2	obl	_	_
+10	Wahl	_	_	_	props:pppp-pppossnp	7	nmod	_	_
 11	des	_	_	_	props:pppp-pppossnp	12	det	_	_
 12	Parteivorsitzenden	_	_	_	props:pppp-pppossnp	10	nmod:poss	_	_
 13	.	_	_	_	props:pppp-pppossnp	2	punct	_	_
@@ -5244,9 +5244,9 @@
 2	bestätigen	_	_	_	props:pppp-pppossnp	0	root	_	_
 3	das	_	_	_	props:pppp-pppossnp	4	det	_	_
 4	Recht	_	_	_	props:pppp-pppossnp	2	obj	_	_
-5	zu	_	_	_	props:pppp-pppossnp	6	case	_	_
-6	der	_	_	_	props:pppp-pppossnp	2	obl	_	_
-7	Zeit	_	_	_	props:pppp-pppossnp	4	nmod	_	_
+5	zu	_	_	_	props:pppp-pppossnp	7	case	_	_
+6	der	_	_	_	props:pppp-pppossnp	7	det	_	_
+7	Zeit	_	_	_	props:pppp-pppossnp	2	obl	_	_
 8	nach	_	_	_	props:pppp-pppossnp	10	case	_	_
 9	dem	_	_	_	props:pppp-pppossnp	10	det	_	_
 10	Krieg	_	_	_	props:pppp-pppossnp	7	nmod	_	_
@@ -5258,8 +5258,8 @@
 2	legen	_	_	_	props:pppp-pppossnp	0	root	_	_
 3	das	_	_	_	props:pppp-pppossnp	4	det	_	_
 4	Buch	_	_	_	props:pppp-pppossnp	2	obj	_	_
-5	auf	_	_	_	props:pppp-pppossnp	6	case	_	_
-6	den	_	_	_	props:pppp-pppossnp	2	obl	_	_
+5	auf	_	_	_	props:pppp-pppossnp	7	case	_	_
+6	den	_	_	_	props:pppp-pppossnp	7	det	_	_
 7	Tisch	_	_	_	props:pppp-pppossnp	2	obl	_	_
 8	mit	_	_	_	props:pppp-pppossnp	10	case	_	_
 9	dem	_	_	_	props:pppp-pppossnp	10	det	_	_
@@ -5272,8 +5272,8 @@
 2	verkaufen	_	_	_	props:pppp-pppossnp	0	root	_	_
 3	den	_	_	_	props:pppp-pppossnp	4	det	_	_
 4	Film	_	_	_	props:pppp-pppossnp	2	obj	_	_
-5	an	_	_	_	props:pppp-pppossnp	6	case	_	_
-6	der	_	_	_	props:pppp-pppossnp	2	obl	_	_
+5	an	_	_	_	props:pppp-pppossnp	7	case	_	_
+6	der	_	_	_	props:pppp-pppossnp	7	det	_	_
 7	Grenze	_	_	_	props:pppp-pppossnp	2	obl	_	_
 8	mit	_	_	_	props:pppp-pppossnp	10	case	_	_
 9	dem	_	_	_	props:pppp-pppossnp	10	det	_	_
@@ -6342,8 +6342,8 @@
 8	Namen	_	_	_	props:ppfronted-pppossnp	5	obj	_	_
 9	.	_	_	_	props:ppfronted-pppossnp	5	punct	_	_
 
-1	An	_	_	_	props:ppfronted-pppossnp	2	case	_	_
-2	dem	_	_	_	props:ppfronted-pppossnp	5	obl	_	_
+1	An	_	_	_	props:ppfronted-pppossnp	3	case	_	_
+2	dem	_	_	_	props:ppfronted-pppossnp	3	det	_	_
 3	Beispiel	_	_	_	props:ppfronted-pppossnp	6	obl	_	_
 4	des	_	_	_	props:ppfronted-pppossnp	5	det	_	_
 5	Ausschusses	_	_	_	props:ppfronted-pppossnp	3	nmod:poss	_	_
@@ -8073,7 +8073,7 @@
 7	Bühne	_	_	_	props:pppp-objp	2	obl	_	_
 8	in	_	_	_	props:pppp-objp	10	case	_	_
 9	dem	_	_	_	props:pppp-objp	10	det	_	_
-10	Schauspielhaus	_	_	_	props:pppp-objp	2	obl	_	_
+10	Schauspielhaus	_	_	_	props:pppp-objp	7	nmod	_	_
 11	.	_	_	_	props:pppp-objp	2	punct	_	_
 
 1	Sie	_	_	_	props:pppp-objp	2	nsubj	_	_
@@ -8205,7 +8205,7 @@
 7	Staat	_	_	_	props:pppp-objp	2	obl	_	_
 8	mit	_	_	_	props:pppp-objp	10	case	_	_
 9	der	_	_	_	props:pppp-objp	10	det	_	_
-10	Gesellschaftsordnung	_	_	_	props:pppp-objp	2	obl	_	_
+10	Gesellschaftsordnung	_	_	_	props:pppp-objp	7	nmod	_	_
 11	.	_	_	_	props:pppp-objp	2	punct	_	_
 
 1	Aus	_	_	_	props:ppfronted-objp	3	case	_	_
@@ -9429,7 +9429,7 @@
 7	Off	_	_	_	props:pppp-nounheadedpp	4	nmod	_	_
 8	in	_	_	_	props:pppp-nounheadedpp	10	case	_	_
 9	der	_	_	_	props:pppp-nounheadedpp	10	det	_	_
-10	Höhe	_	_	_	props:pppp-nounheadedpp	2	obl	_	_
+10	Höhe	_	_	_	props:pppp-nounheadedpp	7	nmod	_	_
 11	.	_	_	_	props:pppp-nounheadedpp	2	punct	_	_
 
 1	Er	_	_	_	props:pppp-nounheadedpp	2	nsubj	_	_
@@ -9453,7 +9453,7 @@
 7	Frauen	_	_	_	props:pppp-nounheadedpp	4	nmod	_	_
 8	mit	_	_	_	props:pppp-nounheadedpp	10	case	_	_
 9	dem	_	_	_	props:pppp-nounheadedpp	10	det	_	_
-10	Kind	_	_	_	props:pppp-nounheadedpp	4	nmod	_	_
+10	Kind	_	_	_	props:pppp-nounheadedpp	7	nmod	_	_
 11	.	_	_	_	props:pppp-nounheadedpp	2	punct	_	_
 
 1	Er	_	_	_	props:pppp-nounheadedpp	2	nsubj	_	_
@@ -9465,7 +9465,7 @@
 7	Parlament	_	_	_	props:pppp-nounheadedpp	4	nmod	_	_
 8	an	_	_	_	props:pppp-nounheadedpp	10	case	_	_
 9	der	_	_	_	props:pppp-nounheadedpp	10	det	_	_
-10	Ecke	_	_	_	props:pppp-nounheadedpp	2	obl	_	_
+10	Ecke	_	_	_	props:pppp-nounheadedpp	7	nmod	_	_
 11	.	_	_	_	props:pppp-nounheadedpp	2	punct	_	_
 
 1	Sie	_	_	_	props:pppp-nounheadedpp	2	nsubj	_	_
@@ -9489,7 +9489,7 @@
 7	Auge	_	_	_	props:pppp-nounheadedpp	4	nmod	_	_
 8	von	_	_	_	props:pppp-nounheadedpp	10	case	_	_
 9	dem	_	_	_	props:pppp-nounheadedpp	10	det	_	_
-10	Verhungernden	_	_	_	props:pppp-nounheadedpp	2	obl	_	_
+10	Verhungernden	_	_	_	props:pppp-nounheadedpp	7	nmod	_	_
 11	.	_	_	_	props:pppp-nounheadedpp	2	punct	_	_
 
 1	Sie	_	_	_	props:pppp-nounheadedpp	2	nsubj	_	_
