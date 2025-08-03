@@ -4965,7 +4965,7 @@
 8	Stadt	_	_	_	props:pdan-pppp	2	obl	_	_
 9	mit	_	_	_	props:pdan-pppp	11	case	_	_
 10	dem	_	_	_	props:pdan-pppp	11	det	_	_
-11	Fluss	_	_	_	props:pdan-pppp	2	obl	_	_
+11	Fluss	_	_	_	props:pdan-pppp	8	nmod	_	_
 12	.	_	_	_	props:pdan-pppp	2	punct	_	_
 
 1	Er	_	_	_	props:pdan-pppp	2	nsubj	_	_
